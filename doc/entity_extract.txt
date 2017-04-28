@@ -1,0 +1,48 @@
+Read all non NLP processed article
+
+for every article
+  get all entity candidate with capital letter excluding stopword inside it
+  If entity candidate letters > 2
+    // count the word frequency in the body using regex
+  Exclude all entity which letters <= 2
+
+ Loop entity candidate
+    If entity words > 2
+      Add into “multiple words entity candidate”
+
+ For every multiple words entity, create multiple possible phrases combination
+    For every combination
+      Check existence on “tbl_entity_tagged”, if exists then put into smaller phrases map, entity as key & entity type as value
+      If not exists, then put into smaller phrases map, entity as key, 0 as value
+    For every smaller phrases
+      If exists on “entity candidate”, then add frequency on it
+      Else add new entry on entity candidate
+    If smaller phrases version exists, then remove multiple word entity on entity candidate
+
+ For every entity candidate
+    Find synonym from “tbl_synonym_keyword”, if found then increase frequency of the entity
+
+ Get matches of entity candidate on “dbpedia_resource_category”, we call it “dbpedia matches”
+  
+ Get matches of entity candidate on “tbl_entity_tagged”, we call it “tagged entity matches”
+
+ For every entity candidate
+    If entity exists on “dbpedia matches”, then set entity type to dbpedia entity’s category type
+
+ For every entity candidate
+    If entity exists on “tagged entity matches”, then set entity type to tagged entity’s entity type
+
+ For every entity candidate
+    Compare it with other entity candidate’s which alias is subset of this entity’s alias, then update frequency. If the entity type is not 0 (means it exists on DB either Dbpedia or Tagged Entity)
+
+ For every entity candidate
+    If the frequency is > 1, is considered matched entities
+    Else is considered unmatched entities
+
+ For every matched entities
+    If entity name doesn’t exists on “tbl_entity_geoname”
+      Then, Insert it to “tbl_article_entity” (art id, entity name, frequency, entity type)
+    
+ For every unmatched entities
+    If entity name doesn’t exists on “tbl_entity_geoname”
+      Then, Insert it to “tbl_article_entity_fail”

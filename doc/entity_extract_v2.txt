@@ -1,0 +1,33 @@
+
+1. Extract the Entity-Candidate
+
+1.1 Generate all candidate
+
+- Parse sentence -> Parse word in each sentence : using OpenNLP 
+	-> to lower-case first word of each sentence if it appears in dictionary
+	-> remove punctuation each sentence
+- Build capitalized phrase: 
+	connect consecutive Capitalized-Numeric-word in each sentence into Phrase
+- Filter Phrase: filter Date, Web, Money
+- Generate all consecutive-phrase-combination
+
+1.2 Filter candidate
+- Load Tagged-Entity
+	Using trie to search similar Tagged-entity
+- Filter combination: 
+	Keep combination iff appear exact in Tagged-Entity or have a number of similar word in Dictionary 
+- Remove short-combination
+	Check each filtered-combination: remove if is contained by a longer filtered-combination
+
+2. Calculate Entity-Candidate score
+- Calculate score for all Combination (non-filtered combination)
+	Using decay-count: the word in first of document is more important
+		Run through appeared_index: 
+		decay_count += Math.exp((text.length() - appeared_index) * 0.5 / text.length());
+		
+- Calculate score for each Filtered-Combination
+	score = 0.8 * decay_count(filtered-combination) * combination_length + 0.2 * sum[ decay_count(sub-combination * sub-combination_length) ]
+	
+- Rank Filtered-combination by score 
+	--> Return as list of article-entity
+						
