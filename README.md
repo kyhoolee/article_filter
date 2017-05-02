@@ -18,13 +18,13 @@ Two main API from id.co.babe.analysis.CneAPI class
 	 */
 	public static void initDict(String id_word, String stop_word, String tag_word, String redirect_word, String sent_parser, String token_parser) {
 
-
+	
 	/**
 	 * 
 	 * @param text
 	 * @return
 	 */
-	public Map<String, Double> extractEntity(String text) 
+	public List<Entity> extractEntity(String text) 
 
 ## Motivation
 

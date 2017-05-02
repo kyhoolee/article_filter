@@ -7,8 +7,28 @@ import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Utils {
+	
+	public static void main(String[] args) {
+		System.out.println(checkRomanNumeral("VII"));
+	}
+	
+	public static boolean checkRomanNumeral(String input) {
+		//M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})
+		Pattern pattern = Pattern.compile("M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})");
+		Matcher matcher = pattern.matcher(input);
+		while (matcher.find()) {
+			String str = matcher.group();
+			System.out.println(str);
+			if(str.equals(input)) {
+				return true;
+			}
+		}
+		return false;
+	}
 	
 	public static class MapUtil
 	{

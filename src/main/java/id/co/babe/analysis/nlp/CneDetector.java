@@ -1,5 +1,6 @@
 package id.co.babe.analysis.nlp;
 
+import id.co.babe.analysis.model.Entity;
 import id.co.babe.analysis.util.Utils;
 
 import java.util.ArrayList;
@@ -9,6 +10,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import com.flakks.spelling.service.SpellApp;
 
@@ -19,18 +22,18 @@ public class CneDetector {
 	public static String[] web_suffix = { ".com", ".co", ".id", ".net",
 			".co.id" };
 
-	public static String[] month = { "januari", "februari", "pebruari",
+	public static String[] month = { "januari", "februari", "pebruari","february",
 			"maret", "april", "mei", "juni", "juli", "agustus", "september",
 			"oktober", "november", "desember" };
 
 	public static final Set<String> set_month = new HashSet<String>(
 			Arrays.asList(month));
 
-	public static String[] week_day = { "senin", "sabtu", "jumat", "selasa",
+	public static String[] week_day_time = { "wib","senin", "sabtu", "jumat", "selasa",
 			"rabu", "kamis", "minggu" };
 
 	public static final Set<String> set_day = new HashSet<String>(
-			Arrays.asList(week_day));
+			Arrays.asList(week_day_time));
 
 	public static String[] currency = { "rp", "usd" };
 
@@ -38,7 +41,7 @@ public class CneDetector {
 		// SpellApp.initIndo("nlp_data/indo_dict/id_full.txt");
 		SpellApp.initDict("nlp_data/indo_dict/id_full.txt");
 		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
-		SpellApp.initTag("nlp_data/indo_dict/filtered_full.txt");
+		SpellApp.initTag("nlp_data/indo_dict/wiki_tag.txt");
 		SpellApp.initRedirect("nlp_data/indo_dict/redirect_entity_map.txt");
 		TextParser.init();
 	}
@@ -228,9 +231,12 @@ public class CneDetector {
 
 	public static boolean candidateFilter(String w) {
 		String phrase = w.toLowerCase();
-		boolean result = phrase.length() > 1 && !SpellApp.checkStop(phrase)
-				&& !checkDatePhrase(phrase) && !checkMoneyPhrase(phrase)
-				&& !checkWebPhrase(phrase);
+		boolean result = 
+				phrase.length() > 1 && !SpellApp.checkStop(phrase)
+				&& !checkDatePhrase(phrase) 
+				&& !checkMoneyPhrase(phrase)
+				&& !checkWebPhrase(phrase)
+				&& !checkRomanNumeral(w);
 
 		return result;
 	}
@@ -315,6 +321,7 @@ public class CneDetector {
 
 				if (candidateFilter(c)) {
 					result.add(c);
+					System.out.println(c);
 				}
 			}
 		}
@@ -478,6 +485,72 @@ public class CneDetector {
 		
 		return r;
 	}
+	
+	public static Map<String, Double> redirectCandidate(Map<String, Double> input) {
+		Map<String, Double> r = new HashMap<String, Double>();
+		
+		Map<String, Set<String>> redirect = new HashMap<String, Set<String>>();
+		for(String key : input.keySet()) {
+			String root = SpellApp.getRedirect(key);
+			
+			if(r.containsKey(root)) {
+				Set<String> val = redirect.get(root);
+				val.add(key);
+				redirect.put(root, val);
+			} else {
+				Set<String> val = new HashSet<String>();
+				val.add(key);
+				redirect.put(root, val);
+			}
+			
+		}
+		
+		Map<String, Double> reScore = new HashMap<String, Double>();
+		for(String key : redirect.keySet()) {
+			double score = 0;
+			for(String can : redirect.get(key)) {
+				score += input.get(can);
+			}
+			
+			reScore.put(key, score);
+		}
+		
+		Map<String, String> rootCan = new HashMap<String, String>();
+		for(String key: redirect.keySet()) {
+			int len = 0;
+			String can = "";
+			for(String c : redirect.get(key)) {
+				if(c.length() > len) {
+					len = c.length();
+					can = c;
+				}
+			}
+			rootCan.put(key, can);
+		}
+		
+		
+		for(String key: redirect.keySet()) {
+			r.put(rootCan.get(key), reScore.get(key));
+		}
+
+		
+		return r;
+	}
+	
+	
+	public static List<Entity> getEntity(String text) {
+		List<Entity> result = new ArrayList<Entity>();
+		
+		Map<String, Double> cans = genCandidate(text);
+		
+		for(String c : cans.keySet()) {
+			Entity e = new Entity(c, cans.get(c), Entity.type_unknow);
+			result.add(e);
+		}
+		
+		return result;
+	}
+	
 
 	public static Map<String, Double> genCandidate(String text) {
 		Map<String, Double> result = new HashMap<String, Double>();
@@ -488,7 +561,10 @@ public class CneDetector {
 		// Map<String, Integer> tagCan = countTaggedEntity(combCan.keySet());
 
 		Set<String> longCan = filterShort(combCan.keySet());
-
+		
+		System.out.println("---------");
+		Utils.printCollection(combCan.keySet());
+		System.out.println("---------");
 		System.out.println("---------");
 		Utils.printCollection(longCan);
 		System.out.println("---------");
@@ -496,7 +572,7 @@ public class CneDetector {
 		Map<String, Double> r = countCan(combCan.keySet(), text);
 		
 		Map<String, Double> res = groupCan(longCan, r);
-		result = redirectCan(res);
+		result = redirectCandidate(res);
 
 		result = Utils.MapUtil.sortByValue(result);
 		int count = 0;
@@ -543,6 +619,20 @@ public class CneDetector {
 		}
 
 		return result;
+	}
+	
+	
+	public static boolean checkRomanNumeral(String input) {
+		Pattern pattern = Pattern.compile("(M|m){0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?(I|i){0,3})");
+		Matcher matcher = pattern.matcher(input);
+		while (matcher.find()) {
+			String str = matcher.group();
+			System.out.println(str);
+			if(str.equals(input)) {
+				return true;
+			}
+		}
+		return false;
 	}
 
 	public static boolean checkSpecialWord(String w) {
@@ -659,12 +749,15 @@ public class CneDetector {
 	}
 
 	public static boolean checkCapital(String word) {
-		boolean result = false;
+		//boolean result = false;
 
 		if (word != null && word.length() > 0) {
-			return Character.isUpperCase(word.charAt(0));
+			for(int i = 0 ; i < word.length() ; i ++) {
+				if(Character.isUpperCase(word.charAt(i)))
+					return true;
+			}
 		}
-		return result;
+		return false;
 	}
 
 	public static boolean checkNumeric(String word) {
@@ -716,7 +809,8 @@ public class CneDetector {
 	}
 
 	public static void main(String[] args) {
-		testGenComb();
+		//testGenComb();
+		System.out.println(checkRomanNumeral("Viiii"));
 	}
 
 	public static void testGenComb() {

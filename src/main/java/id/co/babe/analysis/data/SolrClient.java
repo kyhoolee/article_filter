@@ -335,7 +335,9 @@ public class SolrClient {
 		List<String> result = new ArrayList<String>();
 		
 		List<Article> as = 
-				//getBabeArticleById(11880499);
+				//getBabeArticleById(
+						//11588577);
+						//11880499);
 				//11588577);
 				//11880499);
 				//11880971);
@@ -368,7 +370,7 @@ public class SolrClient {
 			
 		}
 		
-		TextfileIO.writeFile("sample_result/root_score.28.4.txt", result);
+		TextfileIO.writeFile("sample_result/root_score_can.2.5.txt", result);
 		
 	}
 	
