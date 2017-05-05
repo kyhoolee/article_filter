@@ -83,7 +83,7 @@ public class CneDetector {
 		String result = text.replace("/", " , ").replace(",", " , ")
 				.replace("\"", "  ").replace("(", " , ").replace(")", " , ")
 				.replace("\"", " , ").replace("“", " , ").replace("”", " , ")
-				.replace("”", " , ");
+				.replace("”", " , ").replace("‘", " , ").replace("’", " , ");
 
 		result = removePunctuation(result);
 
@@ -538,6 +538,33 @@ public class CneDetector {
 	}
 	
 	
+	public static Map<String, Double> unmatchCandidate(String text) {
+		Map<String, Double> r = new HashMap<String, Double>();
+		
+		Set<String> capCan = processCapitalized(text);
+		Map<String, Integer> combCan = processCombination(capCan);
+		
+		for(String key: combCan.keySet()) {
+			if(combCan.get(key) > 0) {
+				r.put(key, combCan.get(key) * 1.0);
+			}
+		}
+		
+		return r;
+	}
+	
+	public static List<String> genUnmatchCan(String text) {
+		Map<String, Double> canScore = unmatchCandidate(text);
+		
+		List<String> r = new ArrayList<String>();
+		
+		for(String key: canScore.keySet()) {
+			r.add(key + " -- " + canScore.get(key));
+		}
+		
+		return r;
+	}
+	
 	public static List<Entity> getEntity(String text) {
 		List<Entity> result = new ArrayList<Entity>();
 		
@@ -676,7 +703,7 @@ public class CneDetector {
 
 	public static boolean checkMoneyPhrase(String w) {
 		String word = w.toLowerCase();
-		String[] ws = word.split(" ");
+		String[] ws = word.split("\\s+");
 		for (int i = 0; i < ws.length; i++) {
 			if (!checkMoney(ws[i]))
 				return false;
@@ -702,7 +729,7 @@ public class CneDetector {
 
 	public static boolean checkWebPhrase(String w) {
 		String word = w.toLowerCase();
-		String[] ws = word.split(" ");
+		String[] ws = word.split("\\s+");
 		for (int i = 0; i < ws.length; i++) {
 			if (!checkWeb(ws[i]))
 				return false;

@@ -56,7 +56,8 @@ public class SpellApp {
 		List<String[]> redirect = TextfileIO.readCsv(path);
 		System.out.println("redirect size " + redirect.size());
 		for(String[] r : redirect) {
-			redirectDict.put(r[0].toLowerCase(), r[1]);
+			if(r.length == 2)
+				redirectDict.put(r[0].toLowerCase(), r[1]);
 		}
 	}
 	
@@ -112,7 +113,7 @@ public class SpellApp {
 		List<String> lines = TextfileIO.readFile(indoStopPath);
 		for(String line : lines) {
 			try {
-				indoStopDict.add(line);
+				indoStopDict.add(line.toLowerCase());
 			} catch (Exception e) {
 				
 			}
@@ -158,11 +159,15 @@ public class SpellApp {
 	public static void initRootIndo(String root_indo_dict) {
 		indoRootDict = new HashMap<String, String>();
 		
-		List<String> lines = TextfileIO.readFile(root_indo_dict);
-		for(String line : lines) {
-			List<String> tokens = TextfileIO.parseLine(line);
-			indoRootDict.put(tokens.get(0), tokens.get(1));
+		List<String[]> lines = TextfileIO.readCsv(root_indo_dict);
+		for(String[] line : lines) {
+			if(line.length == 2) {
+				if(line[0] != null && line[1] != null)
+					indoRootDict.put(line[0], line[1]);
+			}
 		}
+		
+		
 	}
 
 	public static Map<String, Dictionary> createIndoDictionary(

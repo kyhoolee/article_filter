@@ -368,9 +368,16 @@ public class SolrClient {
 			result.addAll(candidate);
 			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 			
+			start = System.currentTimeMillis();
+			candidate = CneDetector.genUnmatchCan(content);
+			value = System.currentTimeMillis() - start;
+			//CneDetector.genCandidate(content);
+			System.out.println("Time: " + (value * 0.001));
+			result.addAll(candidate);
+			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 		}
 		
-		TextfileIO.writeFile("sample_result/root_score_can.2.5.txt", result);
+		TextfileIO.writeFile("sample_result/root_score_can.update.4.5.txt", result);
 		
 	}
 	

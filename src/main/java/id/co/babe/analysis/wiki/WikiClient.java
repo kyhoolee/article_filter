@@ -21,13 +21,13 @@ public class WikiClient {
 	
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		//sample();
-		//readWikiEntity("nlp_data/wiki_dict/article_categories_en_uris_id.nt", "nlp_data/wiki_dict/wiki_entity.txt");
+		//readWikiEntity("/home/mainspring/tutorial/resources/data/DbPedia/id/page_ids_id.nt", "nlp_data/wiki_dict/page_wiki_entity.txt", wiki_redirect);
 		//parseRootWiki("nlp_data/wiki_dict/page_links_unredirected_id.nt", "nlp_data/wiki_dict/unredirect_entity.txt");
 //		mergeEntity("nlp_data/wiki_dict/wiki_tag.txt", 
 //				"nlp_data/wiki_dict/wiki_entity.txt",
 //				"nlp_data/indo_dict/tag_dict.txt");
-		parseRootWiki("nlp_data/wiki_dict/redirects_id.nt", "nlp_data/wiki_dict/redirect_entity_map.txt");
-		//filterEntity("nlp_data/wiki_dict/full_entity.txt", "nlp_data/wiki_dict/filtered_full.txt");
+		//parseRootWiki("nlp_data/wiki_dict/redirects_id.nt", "nlp_data/wiki_dict/redirect_entity_map.txt");
+		filterEntity("nlp_data/wiki_dict/page_wiki_entity.txt", "nlp_data/wiki_dict/filtered_page_wiki_entity.txt");
 	}
 	
 	public static Set<String> filterEntity(String inPath, String outPath) {
@@ -35,7 +35,7 @@ public class WikiClient {
 		
 		List<String> in = TextfileIO.readFile(inPath);
 		for(String e : in) {
-			if(e.length() > 1) {
+			if(filterEntity(e)) {
 				r.add(e);
 			}
 		}
@@ -44,6 +44,16 @@ public class WikiClient {
 		
 		return r;
 	}
+	
+	public static boolean filterEntity(String entity) {
+		boolean result = (entity.length() > 1)
+				&& (!entity.contains("Kategori:"))
+				&& (!entity.contains("Templat:"))
+				&& (!entity.contains("Berkas:"));
+		
+		return result;
+	}
+	
 	
 	public static Set<String> mergeEntity(String out, String... paths) {
 		Set<String> r = new HashSet<String>();
@@ -82,6 +92,22 @@ public class WikiClient {
 		
 	}
 	
+	public static Set<String> readWikiEntity(String path, String outPath, String sign) {
+		Set<String> result = new HashSet<String>();
+		List<String> wikiData = TextfileIO.readFile(path);
+		
+		for(String line : wikiData) {
+			String entity = parseWiki(line, sign);
+			if(entity != null)
+				result.add(entity);
+		}
+		
+		TextfileIO.writeFile(outPath, result);
+		
+		return result;
+		
+	}
+	
 	
 	public static String urlDecode(String input) {
 		try {
@@ -107,6 +133,19 @@ public class WikiClient {
 		if(line.contains(wiki_entity)) {
 			int endIndex = line.indexOf(">");
 			String entity = line.substring(wiki_entity.length(), endIndex);
+			entity = entity.replace("_", " ");
+			entity = urlDecode(entity);
+			entity = unicode(entity);
+			return entity;
+		} else {
+			return null;
+		}
+	}
+	
+	public static String parseWiki(String line, String sign) {
+		if(line.contains(sign)) {
+			int endIndex = line.indexOf(">");
+			String entity = line.substring(sign.length(), endIndex);
 			entity = entity.replace("_", " ");
 			entity = urlDecode(entity);
 			entity = unicode(entity);

@@ -23,8 +23,14 @@ Lara Dutta -- 2.2274105381765077
 Filipina -- 1.1909478223691725
 Manado -- 1.1670627943284404
 Instagram -- 0.8019472607030385
- -- time: 0.014
-Puteri_Indonesia
+ -- time: 0.015
+
+--------------------
+
+
+Indonesia -- 2.0
+ -- time: 0.007
+
 --------------------
 
 
@@ -57,7 +63,27 @@ Kartu -- 1.1311107341813524
 Keluarga -- 1.1295894018833674
 Humas -- 1.1132388797148736
 Bandung -- 0.8709873295889573
- -- time: 0.015
+ -- time: 0.012
+
+--------------------
+
+
+OPD -- 2.0
+Cianjur Ngawangun -- 3.0
+Bayu -- 2.0
+Nugraha -- 2.0
+Saba -- 2.0
+Ngawangun Lembur -- 3.0
+Cianjur -- 8.0
+Takokak -- 2.0
+Ngawangun -- 3.0
+Desa -- 2.0
+Pemkab -- 2.0
+Cianjur Ngawangun Lembur -- 3.0
+Pemkab Cianjur -- 2.0
+Lembur -- 3.0
+Bupati -- 3.0
+ -- time: 0.008
 
 --------------------
 
@@ -73,6 +99,14 @@ Isi -- 2.2286766316238364
 Kulit -- 1.3154266095101044
 Mendut -- 1.0655266745298448
  -- time: 0.003
+
+--------------------
+
+
+Kuah -- 2.0
+Bahan -- 3.0
+Isi -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -98,6 +132,11 @@ Mendut -- 1.0655266745298448
 
 10669671
 http://www.harpersbazaar.co.id/articles/read/2/2017/3404/Bagaimana-Mengatasi-Emotional-Eating-
+ -- time: 0.003
+
+--------------------
+
+
  -- time: 0.004
 
 --------------------
@@ -125,7 +164,17 @@ Jakarta Utara -- 2.829319756091575
 Sunter -- 2.5482085235090497
 Kidney -- 1.151496343949544
 Autocar -- 0.8034076845793324
- -- time: 0.006
+ -- time: 0.005
+
+--------------------
+
+
+iDrive -- 2.0
+Sunter -- 2.0
+BMW 730Li -- 2.0
+BMW -- 7.0
+Indonesia -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -145,6 +194,14 @@ Amerika Serikat -- 2.2128993161452817
 Motor -- 1.267371588473404
 Ohio -- 0.9870299855455373
  -- time: 0.002
+
+--------------------
+
+
+S2000 -- 3.0
+Honda S2000 -- 2.0
+Honda -- 5.0
+ -- time: 0.001
 
 --------------------
 
@@ -243,7 +300,17 @@ Pasar Senen -- 11.43788067261071
 Ledakan -- 2.9054676785527502
 Hindia Belanda -- 2.8540547451759646
 Pesawat Terbang -- 2.141977844627957
- -- time: 0.013000000000000001
+ -- time: 0.01
+
+--------------------
+
+
+Asuransi -- 7.0
+Asuransi Kebakaran -- 6.0
+Risiko -- 2.0
+Kebakaran -- 7.0
+Indonesia -- 2.0
+ -- time: 0.01
 
 --------------------
 
@@ -276,6 +343,28 @@ Wisma -- 1.1468508922687426
 --------------------
 
 
+Tubagus -- 2.0
+MPC -- 4.0
+Kabupaten -- 4.0
+MPC Pemuda Pancasila -- 2.0
+Muscab I Srikandi -- 2.0
+Cianjur -- 5.0
+MPC Pemuda -- 2.0
+I Srikandi -- 2.0
+Pemuda Pancasila -- 5.0
+Muscab -- 2.0
+Pemkab -- 2.0
+Muscab I -- 2.0
+Srikandi -- 4.0
+Ketua -- 2.0
+Pancasila -- 6.0
+Pemuda -- 5.0
+Kabupaten Cianjur -- 4.0
+ -- time: 0.01
+
+--------------------
+
+
 <p>Oleh: <strong>Heri Febriyanto</strong> - Rabu 01 Pebruari 2017 | 15:00 WIB</p> 
 <img src="[BASEURL]/1fa7da8774968296e696104bf08be32d.jpeg" alt="Awasi Miras, Trantibum Cipanas Patroli Warung Jamu " width="520" data:w="520" data:h="280"> 
 <p>Satpol PP Kecamatan Cipanas aktif melakukan patroli ke sejumlah warung jamu yang di sinyalir menjual minuman keras (miras). (Foto : BC/Heri Febriyanto)</p>  
@@ -296,6 +385,17 @@ Febriyanto -- 2.5452931031546635
 Foto -- 1.2377742189937964
 Seksi -- 1.157544432823717
  -- time: 0.003
+
+--------------------
+
+
+PP -- 2.0
+Kecamatan -- 3.0
+Kecamatan Cipanas -- 3.0
+PP Kecamatan -- 2.0
+PP Kecamatan Cipanas -- 2.0
+Cipanas -- 4.0
+ -- time: 0.002
 
 --------------------
 
@@ -325,7 +425,16 @@ OLED -- 1.0540121283131494
 Vivo -- 0.8557738328649219
 Huawei -- 0.8509137958014963
 Xiaomi -- 0.8442762795929379
- -- time: 0.004
+ -- time: 0.003
+
+--------------------
+
+
+Counterpoint -- 2.0
+OPPO -- 4.0
+Research -- 2.0
+Counterpoint Research -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -363,7 +472,14 @@ Xiaomi -- 0.8442762795929379
 https://loop.co.id/articles/cara-membentuk-perut-six-pack-dalam-waktu-satu-bulan
 Captain America -- 2.9053851710165755
 Perut -- 1.3079683103989859
- -- time: 0.007
+ -- time: 0.006
+
+--------------------
+
+
+Lakukan -- 3.0
+HIIT -- 2.0
+ -- time: 0.005
 
 --------------------
 
@@ -402,7 +518,21 @@ Kementan -- 1.262222371416221
 Calon -- 1.2195957707363618
 Marunda -- 1.1142120540686573
 Cilincing -- 1.112019922633793
- -- time: 0.009000000000000001
+ -- time: 0.013000000000000001
+
+--------------------
+
+
+Tempo -- 2.0
+Sylviana -- 2.0
+Ketua -- 3.0
+Jakarta -- 3.0
+Yudhoyono -- 3.0
+Agus -- 2.0
+PBNU -- 2.0
+Ketua Umum -- 3.0
+Ma'ruf -- 2.0
+ -- time: 0.007
 
 --------------------
 
@@ -440,6 +570,19 @@ Depok -- 0.8450289625525023
 --------------------
 
 
+Firza Husein -- 2.0
+Husein -- 2.0
+Shihab -- 2.0
+Rizieq Shihab -- 2.0
+Rizieq -- 2.0
+Azis -- 2.0
+Firza -- 3.0
+Wahyu -- 2.0
+ -- time: 0.006
+
+--------------------
+
+
 <img src="[BASEURL]/1608560804534399167bee12807c2fea.jpeg" width="700" height="393" alt="BPJS Kesehatan Luncurkan Fitur Mobile Screening untuk Deteksi Penyakit Kronis" data:w="700" data:h="393">       
 <p><strong>WARTA KOTA, PALMERAH --</strong> Kurangnya tingkat kesadaran masyarakat terhadap risiko <a href="http://wartakota.tribunnews.com/tag/penyakit" rel="nofollow">penyakit</a> kronis, membuat BPJS kesehatan meluncurkan layanan <a href="http://wartakota.tribunnews.com/tag/mobile" rel="nofollow">mobile</a> skrining.</p> 
 <p>Hal tersebut dikatakan oleh Kepala <a href="http://wartakota.tribunnews.com/tag/bpjs-kesehatan" rel="nofollow">BPJS Kesehatan</a> Cabang Utama Jakarta Barat, Eddy Sulistijanto Hadie dalam rangka pelucuran layanan <a href="http://wartakota.tribunnews.com/tag/mobile" rel="nofollow">mobile</a> skrining di Gedung Kompas Gramedia pada Rabu (1/2/2017).</p> 
@@ -467,7 +610,24 @@ PALMERAH -- 1.3164891637619722
 Sehat -- 1.1821722272655886
 Aplikasi -- 0.8492874948553224
 Android -- 0.8146062502815241
- -- time: 0.008
+ -- time: 0.006
+
+--------------------
+
+
+Gramedia -- 2.0
+Kompas Gramedia -- 2.0
+Kompas -- 2.0
+BPJS Kesehatan Mobile -- 2.0
+Eddy -- 2.0
+Kesehatan Mobile -- 2.0
+BPJS -- 6.0
+Kesehatan -- 7.0
+BPJS Kesehatan -- 5.0
+Mobile -- 3.0
+Cabang -- 2.0
+Indonesia -- 2.0
+ -- time: 0.005
 
 --------------------
 
@@ -507,7 +667,21 @@ Ayah -- 1.0631682339523827
 Relawan -- 1.000205787452107
 Nusantara -- 0.9987311017077194
 KPU -- 0.9604343325091993
- -- time: 0.006
+ -- time: 0.004
+
+--------------------
+
+
+Kyai Ma'ruf Amin -- 2.0
+Kyai -- 3.0
+Jakarta -- 3.0
+Ma'ruf Amin -- 4.0
+Majelis -- 2.0
+PBNU -- 2.0
+Kyai Ma'ruf -- 2.0
+Amin -- 4.0
+Ma'ruf -- 4.0
+ -- time: 0.004
 
 --------------------
 
@@ -544,7 +718,26 @@ Bambu -- 2.3160021883179893
 Warta Kota -- 2.100775869186934
 Palmerah -- 1.1497465100971227
 Penulis -- 0.8148372910985299
- -- time: 0.007
+ -- time: 0.006
+
+--------------------
+
+
+Pemprov -- 2.0
+DKI -- 6.0
+DKI Jakarta -- 5.0
+Gubernur -- 2.0
+Gubernur DKI Jakarta -- 2.0
+Bambu Utara -- 2.0
+Kota Bambu -- 2.0
+Bambu -- 2.0
+Kota Bambu Utara -- 2.0
+Kota -- 3.0
+Gubernur DKI -- 2.0
+Pemprov DKI -- 2.0
+Utara -- 2.0
+Jakarta -- 6.0
+ -- time: 0.004
 
 --------------------
 
@@ -575,7 +768,22 @@ KETAPANG -- 1.2853808314627855
 Kapolres -- 1.1868529649409612
 Kapolsek -- 1.0362955499315933
 Sandai -- 1.0326558815042366
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Pontianak -- 2.0
+Kasat Reskrim -- 2.0
+Tribun Pontianak -- 2.0
+Reskrim -- 2.0
+AKP -- 2.0
+Ruly -- 2.0
+Ketapang -- 3.0
+Subandi -- 2.0
+Tribun -- 3.0
+Kasat -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -609,7 +817,25 @@ Telekomunikasi -- 1.2231045808066683
 BTS -- 0.9753100221712083
 Kades -- 0.8831382741099326
 Pemerintah -- 0.8390168379087438
- -- time: 0.004
+ -- time: 0.002
+
+--------------------
+
+
+Kelibang -- 3.0
+Pontianak -- 2.0
+Tribun Pontianak -- 2.0
+Sahirul Hakim -- 2.0
+Kementerian -- 2.0
+Sahirul -- 2.0
+Desa -- 2.0
+Desa Kelibang -- 2.0
+Hakim -- 2.0
+Basuki -- 2.0
+Hulu -- 2.0
+Kominfo -- 3.0
+Tribun -- 3.0
+ -- time: 0.003
 
 --------------------
 
@@ -640,7 +866,18 @@ Atlet -- 1.140482444813389
 Pekan -- 0.8411694332954188
 Olahraga -- 0.8396451158030054
 Tabalong -- 0.8320648625341289
- -- time: 0.005
+ -- time: 0.008
+
+--------------------
+
+
+Dodi -- 2.0
+Karate -- 2.0
+Kotabaru -- 4.0
+Banjarmasin -- 3.0
+Provinsi -- 2.0
+Kejurprov -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -676,7 +913,18 @@ Negara -- 1.2201066559176539
 Provinsi -- 1.1447195789341948
 Tanda -- 0.9958782037660756
 Penulis -- 0.8207210869375166
- -- time: 0.006
+ -- time: 0.012
+
+--------------------
+
+
+Berau -- 2.0
+Ijazah -- 2.0
+Dinas -- 2.0
+Pendidikan -- 3.0
+Kaltim -- 3.0
+Dinas Pendidikan -- 2.0
+ -- time: 0.015
 
 --------------------
 
@@ -711,7 +959,19 @@ Wartawan -- 1.3157263046732215
 Pedagang -- 1.2923970144208834
 Basel -- 1.1001944354687119
 Penulis -- 0.8182179081468637
- -- time: 0.003
+ -- time: 0.008
+
+--------------------
+
+
+Riki Pratama -- 2.0
+Jalan -- 3.0
+Riki -- 2.0
+Sudirman -- 2.0
+Pos -- 2.0
+Pratama -- 2.0
+Toboali -- 2.0
+ -- time: 0.006
 
 --------------------
 
@@ -734,7 +994,20 @@ Tambang Inkonvensional -- 2.587793979292845
 BANGKA -- 2.568919159118284
 Wartawan -- 1.3124067835220858
 Ilegal -- 1.1220793649201874
- -- time: 0.003
+ -- time: 0.01
+
+--------------------
+
+
+Perimping -- 3.0
+DAS Perimping -- 3.0
+Kianak DAS -- 2.0
+Rambang -- 2.0
+Kianak -- 4.0
+DAS -- 3.0
+Berbura -- 2.0
+Kianak DAS Perimping -- 2.0
+ -- time: 0.008
 
 --------------------
 
@@ -761,7 +1034,17 @@ Wartawan -- 1.3144170314242434
 BELITUNG -- 1.285715436253919
 Kapolsek -- 1.0535665514318926
 Penulis -- 0.8256850944712091
- -- time: 0.003
+ -- time: 0.014
+
+--------------------
+
+
+Disa -- 2.0
+Belitung -- 3.0
+Tanjungpandan -- 3.0
+Aryandi -- 2.0
+Disa Aryandi -- 2.0
+ -- time: 0.006
 
 --------------------
 
@@ -789,6 +1072,14 @@ Wartawan -- 1.3158234567573919
 Basel -- 1.2509386013957873
 City -- 0.929662096552279
 APBD -- 0.8987537617070074
+ -- time: 0.005
+
+--------------------
+
+
+Riki Pratama -- 2.0
+Riki -- 2.0
+Pratama -- 2.0
  -- time: 0.002
 
 --------------------
@@ -836,7 +1127,17 @@ Marketing -- 0.8298566284328045
 Sales -- 0.8279583678163287
 Fatimah -- 0.812772646082855
 Kartini -- 0.8115327185644244
- -- time: 0.006
+ -- time: 0.013000000000000001
+
+--------------------
+
+
+Telkom Group -- 2.0
+Group -- 2.0
+Denny -- 2.0
+Telkom -- 5.0
+Kakek-nenek -- 2.0
+ -- time: 0.012
 
 --------------------
 
@@ -861,7 +1162,20 @@ BANGKA -- 2.5858138588296513
 Riki -- 2.124620160860702
 Wartawan -- 1.3146841740854276
 Basel -- 1.2276930108212003
- -- time: 0.002
+ -- time: 0.006
+
+--------------------
+
+
+Riki Pratama -- 2.0
+Muhammad -- 3.0
+Riki -- 2.0
+Kabupaten -- 2.0
+Bangka -- 3.0
+Selatan -- 2.0
+Pratama -- 2.0
+Bangka Selatan -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -883,6 +1197,11 @@ Basel -- 1.2276930108212003
 http://www.herworld.co.id/article/2017/2/6009-Cara-Merayu-Pria-Dengan-Bahasa-Tubuh
 Pria -- 2.1038706321525615
 Baca -- 1.100965998995845
+ -- time: 0.001
+
+--------------------
+
+
  -- time: 0.001
 
 --------------------
@@ -917,6 +1236,13 @@ Truffle -- 0.8161377867309819
 --------------------
 
 
+Oreo -- 2.0
+Hancurkan -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img src="[BASEURL]/85bb08937b01e01114c17721d44ee4d7.jpeg" alt="Jalan yang Longsor di Malang bukan Akses Utama Antarkabupaten" data:w="650" data:h="431">  Longsor memutus jalan di Malang, MTVN - Aditya    
 <p><strong>Metrotvnews.com, Malang:</strong> Longsor memutus akses jalan di Kecamatan Kasembon, Kabupaten Malang, Jawa Timur. Namun jalur tersebut bukan akses utama yang menghubungkan Kediri dengan Jombang.</p> 
 <p>Longsor terjadi di Desa Pait setelah hujan deras mengguyur Malang pada Rabu pagi 1 Februari 2017. Badan jalan yang menghubungkan Dusun Slatri dan Dusun Barakan tergerus air hujan.&nbsp;</p> Kendaraan bermotor roda dua maupun empat tak bisa melintas. Akses jalan putus. 
@@ -943,6 +1269,15 @@ Aditya -- 1.2993058400563586
 Supriyanto -- 1.0857444874652527
 BPBD -- 0.9032045658483823
  -- time: 0.003
+
+--------------------
+
+
+Kasembon -- 2.0
+Malang -- 2.0
+Atsalis -- 2.0
+Dusun -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -976,6 +1311,20 @@ Adrian -- 1.3123248630587359
 Solo -- 1.2709667063280738
 Bernama -- 0.8079039586037015
 Tribunnews -- 0.8022503501356758
+ -- time: 0.004
+
+--------------------
+
+
+Arief -- 3.0
+Kayu -- 2.0
+Baca -- 2.0
+Sulami -- 3.0
+Moewardi -- 2.0
+Sragen -- 2.0
+Manusia -- 3.0
+Suharno -- 2.0
+Manusia Kayu -- 2.0
  -- time: 0.003
 
 --------------------
@@ -1006,6 +1355,18 @@ Ukraina -- 2.1273179478618873
 Minsk -- 1.7384767025417915
 Pemilu -- 0.9733972606850616
 Reuters -- 0.8038983563840149
+ -- time: 0.003
+
+--------------------
+
+
+Rusia -- 2.0
+Presiden -- 2.0
+Jerman -- 2.0
+Putin -- 2.0
+Schulz -- 2.0
+Amerika -- 2.0
+Trump -- 2.0
  -- time: 0.002
 
 --------------------
@@ -1048,7 +1409,20 @@ Ukraina -- 0.9287145559694665
 Perancis -- 0.9211098630561635
 Libya -- 0.8808557702852208
 London -- 0.836559077323552
- -- time: 0.006
+ -- time: 0.015
+
+--------------------
+
+
+Inggris -- 2.0
+Eropa -- 3.0
+May -- 2.0
+Perang -- 2.0
+Tusk -- 2.0
+Trump -- 3.0
+Donald -- 2.0
+Amerika -- 2.0
+ -- time: 0.009000000000000001
 
 --------------------
 
@@ -1073,7 +1447,16 @@ Jatim -- 2.5365270907870787
 Dusun -- 1.2502962370253847
 Humas -- 1.127615371017513
 KUHP -- 0.8178431345811061
- -- time: 0.004
+ -- time: 0.017
+
+--------------------
+
+
+Polres -- 2.0
+Polres Mojokerto -- 2.0
+Penunggulan -- 2.0
+Mojokerto -- 5.0
+ -- time: 0.011
 
 --------------------
 
@@ -1112,6 +1495,16 @@ Teknologi -- 0.8515955671342875
 BPPT -- 0.8493380552062441
 Internasional -- 0.8438222291978253
 JICA -- 0.8393543481974108
+ -- time: 0.006
+
+--------------------
+
+
+Presiden -- 2.0
+Budi -- 2.0
+Badan -- 2.0
+Perhubungan -- 2.0
+Jepang -- 2.0
  -- time: 0.003
 
 --------------------
@@ -1142,6 +1535,17 @@ Halte -- 0.8710960879788925
 --------------------
 
 
+Polda -- 2.0
+Metro Jaya -- 3.0
+Metro -- 3.0
+Polda Metro -- 2.0
+Jaya -- 3.0
+Polda Metro Jaya -- 2.0
+ -- time: 0.006
+
+--------------------
+
+
 <img src="[BASEURL]/b8b011bf072fd5208a2b61417ab3c49d.jpeg" data:w="700" data:h="400">  
 <p>JAKARTA (Pos Kota) – Polres Jakarta Utara menggelar rekontruksi kasus penganiayaan hingga menewaskan, Amirulloh Adityas Putra, alias Amir, 19, taruna tingkat I, di Sekolah Tinggi Ilmu Pelayaran (STIP), Marunda, Cilincing, Jakarta Utara, Rabu (1/2/2017).</p> 
 <p>Rencananya olah TKP penganiayaan dilakukan 5 tersangka taruna tingkat II, sebanyak 69 adegan. Adegan dimulai di Gedung dormitory ring 4, kamar M,205 lantai 2, STIP.</p> 
@@ -1156,6 +1560,14 @@ Sekolah -- 1.191538756007768
 Pelayaran -- 1.1768648200067429
 Marunda -- 1.1638128493234052
 Cilincing -- 1.1573412468651583
+ -- time: 0.003
+
+--------------------
+
+
+Jakarta Utara -- 2.0
+Utara -- 2.0
+Jakarta -- 2.0
  -- time: 0.001
 
 --------------------
@@ -1191,6 +1603,18 @@ FPI -- 1.1444212884994804
 --------------------
 
 
+Polda -- 4.0
+Jakarta -- 2.0
+Shihab -- 2.0
+Rizieq Shihab -- 2.0
+Polda Jabar -- 2.0
+Rizieq -- 3.0
+Jabar -- 2.0
+ -- time: 0.006
+
+--------------------
+
+
 <img width="620" src="[BASEURL]/aa0f8de67ac72e1e36c8c5190797b835.jpeg" alt="Bank Mandiri Target Transaksi Rp120 Miliar di Fashion Week 2017" data:w="620" data:h="413"> Bank Mandiri menargetkan melayani transaksi hingga mencapai Rp120 miliar dalam ajang Indonesia Fashion Week (IFW) 2017 selama 1-5 Februari 2017. Foto/Ilustrasi  
 <strong>JAKARTA</strong> - Bank Mandiri menargetkan melayani transaksi hingga mencapai Rp120 miliar dalam ajang Indonesia Fashion Week (IFW) 2017. Pada pagelaran kali ini yang berlangsung selama 1-5 Februari 2017, Mandiri bersinergi bersama Asosiasi Perancang Pengusaha Mode Indonesia (APPMI) yang menyelenggarakan acara tahunan tersebut. 
 <p>Sekitar 200 perancang busana dan 400 peserta pameran akan unjuk kemampuan dalam menampilkan koleksi busana dan produk-produk kreatif bernuansa etnik kontemporer di ajang ini. Menurut Direktur Distributions Bank Mandiri Hery Gunardi, keterlibatan perseroan yang dilakukan melalui unit Mandiri Art pada event ini menjadi bukti komitmen kuat perseroan dalam mendorong penciptaan ekosistem industri kreatif berbasis fesyen untuk dapat menopang perekonomian nasional.</p> 
@@ -1221,7 +1645,18 @@ Batik -- 0.9559924762359779
 Republic -- 0.9424590051574917
 UKM -- 0.924408894738895
 EDC -- 0.837290062670252
- -- time: 0.018000000000000002
+ -- time: 0.009000000000000001
+
+--------------------
+
+
+Bank -- 3.0
+Kartu -- 3.0
+Bank Mandiri -- 3.0
+Mandiri -- 7.0
+Hery -- 2.0
+Indonesia -- 3.0
+ -- time: 0.005
 
 --------------------
 
@@ -1266,7 +1701,23 @@ Male -- 1.0799374386059326
 Female -- 1.0666653320827555
 Militer -- 0.814882419429573
 Israel -- 0.8107103519484711
- -- time: 0.007
+ -- time: 0.008
+
+--------------------
+
+
+Tom -- 6.0
+King -- 3.0
+Tom Gay -- 2.0
+Queen -- 3.0
+Gay King -- 2.0
+Queen Seorang -- 2.0
+King Seorang -- 2.0
+Seorang Tom -- 3.0
+Ladyboy -- 3.0
+Gay -- 8.0
+Gay Queen -- 2.0
+ -- time: 0.005
 
 --------------------
 
@@ -1295,7 +1746,18 @@ Eksekutif -- 1.2570350428023493
 Daerah -- 1.253938136159808
 CPO -- 0.8313843814022038
 PKS -- 0.8305644757671085
- -- time: 0.004
+ -- time: 0.005
+
+--------------------
+
+
+Muhammad -- 2.0
+Walhi -- 3.0
+Muhammad Nur -- 2.0
+Nur -- 2.0
+Aceh -- 12.0
+Walhi Aceh -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -1325,6 +1787,12 @@ Babel -- 1.3101637688861896
 Pemerintah -- 1.306009650857044
 Provinsi -- 1.2927135472692743
 APBN -- 0.9604407079457856
+ -- time: 0.003
+
+--------------------
+
+
+Bangka -- 4.0
  -- time: 0.002
 
 --------------------
@@ -1346,6 +1814,14 @@ Kampung -- 1.2781900949178002
 --------------------
 
 
+Tigaraksa -- 3.0
+Bantar Panjang -- 2.0
+Bantar -- 2.0
+ -- time: 0.004
+
+--------------------
+
+
 <p><span>Rabu, 01 Februari 2017 | 14:26 WIB</span></p>   
 <strong><img src="[BASEURL]/f55aeae43d8f94d81e0f1c79e925654d.jpeg" title="Siswa SDN Inpres Cikeusal beraktivitas, Selasa (31/1). SD ini merupakan salah satu sekolah yang akan digusur untuk kepentingan pembangunan Tol Serang-Panimbang." data:w="400" data:h="225"><br>CIKEUSAL</strong> - SDN Cikeusal di Kampung Cikeusal Lor, Desa Cikeusal, Kecamatan Cikeusal yang dibangun tahun 1984 akan digusur untuk proyek pembangunan jalan Tol Serang-Panimbang. Dari peta lokasi yang beredar, SDN Cikeusal masuk jalur yang akan dilintasi pancang beton.    “Saya juga kaget soalnya gak ada pemberitahuan. Tahunya dari siswa ada yang telepon kalau di sekolah ada dua orang lagi pasang patok. Katanya patok untuk pembangunan jalan tol,” kata Agung Saputra, guru SDN Cikeusal, Selasa (31/1). 
 <p>Menurut Agung, pihak yang memasang patok tersebut menujukan foto satelit bahjwa SDN Cikeusal masuk dalam jalur pembangunan tol Serang-Panimbang. "Begitu tahu, saya langsung melaporkan pada UPTD Pendidikan takutnya udah digusur tapi gantinya tidak ada,” katanya.</p> 
@@ -1363,7 +1839,20 @@ Tol -- 1.2656607435907568
 Pendidikan -- 1.1237398493523567
 Sekdes -- 1.0876349956457867
 Kades -- 1.0787915120234375
- -- time: 0.003
+ -- time: 0.011
+
+--------------------
+
+
+Cikeusal -- 9.0
+Desa Cikeusal -- 2.0
+Kecamatan -- 2.0
+Serang-Panimbang -- 2.0
+Kecamatan Cikeusal -- 2.0
+SDN -- 5.0
+Agung -- 2.0
+Desa -- 3.0
+ -- time: 0.011
 
 --------------------
 
@@ -1390,7 +1879,30 @@ Suryadi -- 1.0798870460608025
 Lebak -- 0.9870309669525513
 Pemkab -- 0.8797862605586402
 Hermanto -- 0.8374416904916278
- -- time: 0.006
+ -- time: 0.019
+
+--------------------
+
+
+Ciujung -- 2.0
+Kabupaten -- 3.0
+Pamarayan -- 2.0
+Banten -- 2.0
+Bina -- 2.0
+DPUPR Kabupaten -- 2.0
+Bendung Pamarayan -- 2.0
+Bendung -- 2.0
+Kabupaten Serang -- 3.0
+DPUPR -- 3.0
+Ruang -- 2.0
+DPUPR Kabupaten Serang -- 2.0
+Hatib -- 2.0
+Marga -- 2.0
+Dinas -- 2.0
+Bina Marga -- 2.0
+Serang -- 5.0
+Kepala -- 2.0
+ -- time: 0.007
 
 --------------------
 
@@ -1435,7 +1947,13 @@ News -- 1.295003797638292
 Inspirasi -- 1.2650488248265823
 Cereal -- 1.032921216509228
 Monster -- 0.9326179783814981
- -- time: 0.005
+ -- time: 0.018000000000000002
+
+--------------------
+
+
+Rommy -- 2.0
+ -- time: 0.01
 
 --------------------
 
@@ -1469,6 +1987,40 @@ Humas -- 0.8399029221866701
 --------------------
 
 
+Polsek Kajuara Polres -- 2.0
+Polres -- 2.0
+Gona Kecamatan Kajuara Kabupaten -- 3.0
+Kajuara Polres -- 2.0
+Gona Kecamatan Kajuara -- 3.0
+Gona Kecamatan -- 3.0
+Desa Gona Kecamatan Kajuara Kabupaten Bone -- 3.0
+Desa Gona Kecamatan -- 3.0
+Desa -- 4.0
+Kecamatan Kajuara -- 4.0
+Kecamatan -- 5.0
+Desa Gona -- 3.0
+Polsek Kajuara -- 3.0
+Polsek Kajuara Polres Bone -- 2.0
+Gona -- 3.0
+Polsek -- 3.0
+Kajuara Kabupaten Bone -- 4.0
+Kabupaten -- 6.0
+Kajuara Kabupaten -- 4.0
+Desa Gona Kecamatan Kajuara -- 3.0
+Gona Kecamatan Kajuara Kabupaten Bone -- 3.0
+Kajuara -- 9.0
+Kabupaten Bone -- 5.0
+Kecamatan Kajuara Kabupaten Bone -- 4.0
+Kecamatan Kajuara Kabupaten -- 4.0
+Desa Gona Kecamatan Kajuara Kabupaten -- 3.0
+Bone -- 8.0
+Polres Bone -- 2.0
+Kajuara Polres Bone -- 2.0
+ -- time: 0.006
+
+--------------------
+
+
 <img src="[BASEURL]/e552782c325233f83da4dc8d563b6a53.jpeg" data:w="724" data:h="468">  
 <p><strong>Gilabola.com – Jurgen Klopp</strong> mengakui salah sudah marah-marah ke wasit. Apa yang ia sampaikan memang cukup menarik untuk dicermati.</p> 
 <p>Jurgen Klopp, Pelatih Liverpool, memang sudah mengakui bahwa dirinya telah berbuat salah dengan marah kepada wasit keempat. Klopp mengatakan bahwa kemarahannya itu hanya bagian dari gairah besarnya di pinggir lapangan saja.</p> 
@@ -1491,6 +2043,15 @@ Krisis -- 0.978382918826836
 Pemain -- 0.9759330254808193
 Arsenal -- 0.9724438156701285
  -- time: 0.002
+
+--------------------
+
+
+Costa -- 2.0
+Liverpool -- 2.0
+Swarbrick -- 2.0
+Klopp -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -1519,7 +2080,15 @@ Marseille -- 0.9856108882008064
 Perancis -- 0.9597463243886811
 Arsenal -- 0.933741550980864
 Juventus -- 0.8075160929459297
- -- time: 0.005
+ -- time: 0.004
+
+--------------------
+
+
+Liga -- 2.0
+Silva -- 2.0
+Madrid -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -1560,6 +2129,20 @@ Kuningan -- 1.0454653345151612
 --------------------
 
 
+Timnas Indonesia -- 4.0
+Pemain Naturalisasi -- 2.0
+Naturalisasi -- 2.0
+Timnas -- 4.0
+Pemain -- 2.0
+Edy -- 2.0
+Milla -- 3.0
+PSSI -- 2.0
+Indonesia -- 5.0
+ -- time: 0.003
+
+--------------------
+
+
 <img src="[BASEURL]/36728a71c056b2c9b1bd29b5b75adf19.jpeg" width="700" height="393" alt="Persija Kedatangan Pemain Asing dari Hasil Seleksi Sore Ini" data:w="700" data:h="393">  
 <p><strong>Laporan Wartawan SuperBall.id, Mochamad Hary Prasetya</strong></p> 
 <p><strong>SUPERBALL.ID, JAKARTA</strong> - Proses seleksi pemain masih terus dilakukan <a href="http://superball.tribunnews.com/tag/persija-jakarta" rel="nofollow">Persija Jakarta</a> untuk persiapannya menyambut Piala Presiden dan Liga 1 2017.</p> 
@@ -1591,6 +2174,18 @@ Media -- 1.1075852349820252
 Brasil -- 1.0633938824037947
 Polandia -- 0.9659669718314906
 Eduardo -- 0.8868046816439256
+ -- time: 0.003
+
+--------------------
+
+
+Persija -- 3.0
+Liga -- 2.0
+Bhayangkara -- 2.0
+Mozes -- 2.0
+SuperBall -- 2.0
+FC -- 2.0
+Carlos -- 2.0
  -- time: 0.002
 
 --------------------
@@ -1627,6 +2222,17 @@ Sport -- 1.0128330359603128
 Juventus -- 0.9051969856344114
 Penulis -- 0.811758731533301
  -- time: 0.004
+
+--------------------
+
+
+Coppa -- 2.0
+Inter -- 3.0
+Lazio -- 2.0
+Pioli -- 2.0
+Italia -- 3.0
+Coppa Italia -- 2.0
+ -- time: 0.005
 
 --------------------
 
@@ -1669,7 +2275,20 @@ Kuningan -- 1.070009510745468
 Eropa -- 1.0110027812114957
 Singapura -- 0.8322554695250354
 Filipina -- 0.8070120718273333
- -- time: 0.003
+ -- time: 0.005
+
+--------------------
+
+
+Timnas Indonesia -- 2.0
+Pelatih -- 2.0
+Internasional -- 2.0
+Hanif -- 2.0
+Pelatih Timnas -- 2.0
+Timnas -- 3.0
+PSSI -- 3.0
+Indonesia -- 3.0
+ -- time: 0.006
 
 --------------------
 
@@ -1703,6 +2322,14 @@ ESPN -- 1.0536128338549409
 --------------------
 
 
+Liverpool -- 2.0
+SuperBall -- 2.0
+Gerrard -- 2.0
+ -- time: 0.007
+
+--------------------
+
+
 <p><strong>Laporan Wartawan SuperBall.id, Ndaru Guntur</strong></p> 
 <p><strong>SUPERBALL.ID, MANCHESTER --</strong>&nbsp;Manchester United akan kembali beraksi melawan Hull City di Old Trafford Kamis (2/2/2017) pukul 03.00 WIB di ajang Liga Inggris.</p> 
 <p>Setan Merah yang saat ini berada di posisi ke-6 klasemen sementara Liga Inggris sepertinya akan menarik keuntungan dari laga ini untuk mengejar rekan satu kotanya, Manchester City.</p> 
@@ -1724,7 +2351,16 @@ Wartawan -- 1.3110907799357994
 Guntur -- 1.2828963777095097
 MANCHESTER -- 1.2628589869102547
 Merah -- 1.1293971952922799
- -- time: 0.002
+ -- time: 0.003
+
+--------------------
+
+
+Manchester -- 2.0
+Lingard -- 2.0
+City -- 2.0
+Pogba -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -1752,6 +2388,18 @@ Andi Soraya -- 1.9638848061039642
 Ari Wibowo -- 1.9572365459525933
 Sinetron -- 1.2931455112506312
 Melayu -- 1.1698873835436685
+ -- time: 0.003
+
+--------------------
+
+
+Billy Davidson -- 2.0
+RCTI -- 2.0
+Billy -- 3.0
+Davidson -- 2.0
+Surga -- 3.0
+Cinta -- 3.0
+Instagram -- 2.0
  -- time: 0.003
 
 --------------------
@@ -1790,6 +2438,16 @@ Belgia -- 0.8260217240372175
 --------------------
 
 
+Rusia -- 3.0
+AS -- 2.0
+Perendzhiev -- 2.0
+Trump -- 2.0
+Sputnik -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <span><a href="http://cdn.bantenhits.com/media/k2/items/cache/ead248967e610c7c52a3305099a45965_XL.jpg" rel="nofollow"><img src="[BASEURL]/562dcf6ed591527d2debb163d19bcc5c.jpeg" alt="Himpunan Mahasiswa Serang saat menggelar unjuk rasa terkait molornya pembebasan lahan pembangunan waduk di Kecamatan Baros (Banten Hits/Memed)" data:w="600" data:h="400"></a></span> 
 <span>Himpunan Mahasiswa Serang saat menggelar unjuk rasa terkait molornya pembebasan lahan pembangunan waduk di Kecamatan Baros (Banten Hits/Memed)</span>    
 <p><strong>Serang -</strong> Himpunan Mahasiswa Serang (Hamas) menyoroti kenerja &nbsp;Badan Pertanahan Nasional (BPN) Provinsi Banten yang dinilai lambat melakukan pembebasan lahan untuk pembangunan &nbsp;waduk di Desa Sindang Heula, Desa Pancanegara dan Desa Sayar, Kecamatan Baros, Kabupaten Serang.</p>   
@@ -1814,6 +2472,20 @@ Hits -- 1.256824384625589
 Pendapatan -- 0.8944911942240446
 Belanja -- 0.8908731064526988
 Negara -- 0.8882509652831616
+ -- time: 0.002
+
+--------------------
+
+
+Mahasiswa -- 2.0
+BPN -- 3.0
+Hamas -- 2.0
+Provinsi Banten -- 2.0
+Banten -- 4.0
+Mahasiswa Serang -- 2.0
+Provinsi -- 2.0
+Serang -- 4.0
+Desa -- 3.0
  -- time: 0.003
 
 --------------------
@@ -1839,6 +2511,13 @@ Banten -- 1.2728899477420015
 Hits -- 1.2692103179999747
 Maya -- 1.266588525258359
 Bogor -- 0.9053011417334192
+ -- time: 0.002
+
+--------------------
+
+
+Tangerang -- 3.0
+Babakan -- 2.0
  -- time: 0.001
 
 --------------------
@@ -1875,7 +2554,16 @@ MUI -- 1.0466411064656038
 Tanah -- 0.8838008071358102
 Penulis -- 0.8104916538812168
 Citra -- 0.808294605475412
- -- time: 0.006
+ -- time: 0.007
+
+--------------------
+
+
+DKI -- 2.0
+DKI Jakarta -- 2.0
+Jakarta -- 3.0
+Ahok -- 3.0
+ -- time: 0.004
 
 --------------------
 
@@ -1904,6 +2592,16 @@ Chocolate -- 1.0245417942353239
 Sragen -- 0.8287012940893071
 Karnaval -- 0.8140470522271841
 Penulis -- 0.8071685676989685
+ -- time: 0.006
+
+--------------------
+
+
+The -- 2.0
+R.S -- 2.0
+Solo -- 5.0
+Sapa -- 2.0
+Rieva -- 2.0
  -- time: 0.005
 
 --------------------
@@ -1928,6 +2626,12 @@ Bojonegoro -- 2.1056416288158046
 --------------------
 
 
+Telkom -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img src="[BASEURL]/df28388515c4d594dc71ede3ebceb915.jpeg" width="510" height="294" alt="Si Ganteng Cari Calon Istri Berhijab Nih..Siapa Mau? - JPNN.COM" title="Si Ganteng Cari Calon Istri Berhijab Nih..Siapa Mau? - JPNN.COM" data:w="510" data:h="294"> 
 <p>Aktor Chand Kelvin. Foto: Instagram</p>  
 <p><span>jpnn.com -</span> Wajah ganteng, mapan, karir menjanjikan tidak membuat Chand Kelvin dengan mudah mendapatkan pasangan hidup. </p> 
@@ -1944,6 +2648,12 @@ Chand Kelvin -- 5.991718514567485
 Instagram -- 1.2959464433933454
 Wajah -- 1.2776387276311898
  -- time: 0.001
+
+--------------------
+
+
+Chand -- 2.0
+ -- time: 0.0
 
 --------------------
 
@@ -1973,6 +2683,15 @@ Humas -- 1.1135401665159887
 --------------------
 
 
+SMK -- 2.0
+Dicky -- 2.0
+Moncongloe -- 2.0
+Maros -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <a href="http://kriminalitas.com/wp-content/uploads/2015/04/gantung_diri.jpg" rel="nofollow"><img src="[BASEURL]/21d1598232eaa3532e7757d52db22375.jpeg" alt="" width="620" height="320" data:w="620" data:h="320"></a>Ilustrasi (Kriminalitas.com) 
 <p><strong>KRIMINALITAS.COM, Kediri –</strong> Diduga depresi karena menderita bisul yang tidak kunjung sembuh, ST (72) warga Kecamatan Trowulan, Kabupaten Mojokerto, ditemukan tewas gantung diri di dalam kamar di Desa Besuk Kecamatan Gurah Kabupaten Kediri, Rabu (1/2/2017).</p> 
 <p>Informasi yang dihimpun menyebutkan, kasus bunuh diri ini terungkap ketika saksi Sri Utami Rahayu, anak perempuan korban baru saja bangun tidur, sekira&nbsp;pukul 08.00 pagi.</p> 
@@ -1993,6 +2712,15 @@ Polsek Gurah -- 2.3405876329573703
 Polres Kediri -- 2.3047085280322857
 Humas -- 0.8871069898039107
  -- time: 0.002
+
+--------------------
+
+
+Kabupaten -- 2.0
+Gurah -- 2.0
+Kecamatan -- 2.0
+Kediri -- 3.0
+ -- time: 0.001
 
 --------------------
 
@@ -2019,7 +2747,16 @@ Inggris -- 1.0967069880894582
 Finance -- 0.9977356022397036
 Facebook -- 0.9310231673576175
 Batman -- 0.8130229705378151
- -- time: 0.001
+ -- time: 0.003
+
+--------------------
+
+
+Urutan -- 2.0
+Lego -- 2.0
+Samsung -- 2.0
+Di Urutan -- 2.0
+ -- time: 0.008
 
 --------------------
 
@@ -2042,7 +2779,17 @@ Korsel -- 1.2959406055574547
 Industri -- 1.255651198184717
 Perdagangan -- 1.2149975823846537
 Washington -- 0.9211005217869466
- -- time: 0.007
+ -- time: 0.008
+
+--------------------
+
+
+FTA -- 2.0
+AS -- 3.0
+AMCHAM -- 2.0
+Kim -- 2.0
+Korea -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -2064,6 +2811,15 @@ Partai Demokrat -- 2.948885807118883
 Teknologi -- 1.2998790429235125
 Presiden -- 1.1694438348405694
 SMP -- 0.9209911052815593
+ -- time: 0.008
+
+--------------------
+
+
+Moon -- 2.0
+Jae-in -- 2.0
+Partai -- 2.0
+Korea -- 2.0
  -- time: 0.002
 
 --------------------
@@ -2105,7 +2861,25 @@ Sofa -- 1.2028863297109051
 Middlesbrough -- 0.989131265780075
 Marseille -- 0.9480279494823197
 Tottenham -- 0.8152575431705874
- -- time: 0.002
+ -- time: 0.005
+
+--------------------
+
+
+Payet -- 2.0
+Sterling -- 2.0
+Manchester City -- 2.0
+West -- 2.0
+West Ham -- 2.0
+Cresswell -- 2.0
+City -- 3.0
+Jesus -- 2.0
+Ham -- 2.0
+London -- 2.0
+Manchester -- 2.0
+Guardiola -- 2.0
+Aguero -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -2128,7 +2902,14 @@ Maia Estianty -- 3.52643207242743
 Ahmad Dhani -- 2.346262436353858
 Dul -- 1.1961024626347856
 Tuhan -- 1.0705618169526192
- -- time: 0.001
+ -- time: 0.002
+
+--------------------
+
+
+Maia -- 2.0
+Mario -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -2159,6 +2940,30 @@ Duta Besar -- 1.9681303307650446
 Reuters -- 1.2812782419446502
 RUU -- 0.9403939640398994
 Moskow -- 0.8824808543700959
+ -- time: 0.005
+
+--------------------
+
+
+Amerika Serikat -- 2.0
+Serikat -- 2.0
+Hubungan -- 2.0
+Senat -- 3.0
+Trump -- 2.0
+Hubungan Luar Negeri -- 2.0
+Komite Hubungan Luar -- 2.0
+AS -- 2.0
+Rusia -- 2.0
+Hubungan Luar -- 2.0
+Komite Hubungan Luar Negeri -- 2.0
+Negeri -- 2.0
+Galuzin -- 2.0
+Cardin -- 2.0
+Presiden -- 2.0
+Luar Negeri -- 2.0
+Komite Hubungan -- 2.0
+Komite -- 2.0
+Amerika -- 2.0
  -- time: 0.003
 
 --------------------
@@ -2191,7 +2996,18 @@ Kapolresta -- 0.9747523820331928
 Kapolsek -- 0.8644991820892951
 Kraton -- 0.8228364222565819
 Gading -- 0.80731803652015
- -- time: 0.015
+ -- time: 0.003
+
+--------------------
+
+
+Yogyakarta -- 2.0
+Kompol -- 2.0
+Jogja -- 2.0
+Kasim Akbar -- 2.0
+Akbar -- 2.0
+Kasim -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -2220,7 +3036,16 @@ KUDUS -- 1.2883182412757965
 Pantura -- 1.2721059124239886
 Timur -- 1.2698065801767702
 Jembatan -- 0.9547550210457194
- -- time: 0.004
+ -- time: 0.003
+
+--------------------
+
+
+Anton -- 2.0
+Kecamatan -- 2.0
+Kudus-Pati -- 3.0
+Kudus -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -2253,7 +3078,23 @@ Sumatra Barat -- 2.198727418914772
 Djarot Kusumayakti -- 2.0807609638157403
 SUSANTO -- 1.3179538928752428
 Direktur -- 1.1016680153452276
- -- time: 0.004
+ -- time: 0.003
+
+--------------------
+
+
+Arif -- 2.0
+Djarot -- 2.0
+Perum -- 2.0
+Ketua -- 2.0
+KPK -- 2.0
+Bulog -- 3.0
+Perum Bulog -- 2.0
+DPD -- 2.0
+Irman -- 2.0
+Xaveriandy -- 2.0
+Ketua DPD -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -2306,7 +3147,27 @@ Kalsel -- 0.8462224678285791
 Cerita -- 0.8346789434268225
 Biak -- 0.8259977482858908
 Tersangka -- 0.8237993729392308
- -- time: 0.013000000000000001
+ -- time: 0.023
+
+--------------------
+
+
+Pilgub DKI -- 2.0
+DKI -- 7.0
+DKI Jakarta -- 3.0
+Pilkada -- 2.0
+FOTO -- 2.0
+Pasar -- 3.0
+Baswedan -- 3.0
+Anies -- 5.0
+Janjikan -- 2.0
+Sandiaga -- 2.0
+Pilkada DKI -- 2.0
+Jakarta -- 6.0
+Timses -- 2.0
+Anies-Sandi -- 2.0
+Pilgub -- 2.0
+ -- time: 0.012
 
 --------------------
 
@@ -2373,6 +3234,41 @@ Saksi -- 0.8561668466883909
 Cerita -- 0.838098028969675
 Biak -- 0.8309498160332209
 Tersangka -- 0.8291374943619442
+ -- time: 0.02
+
+--------------------
+
+
+Igor -- 2.0
+Ketua MUI -- 4.0
+Pengacara Ahok -- 3.0
+MUI Ma'ruf Amin -- 3.0
+Bambang Yudhoyono -- 3.0
+Pengacara -- 3.0
+MUI Ma'ruf -- 3.0
+Susilo -- 2.0
+Ketua -- 6.0
+Presiden -- 3.0
+Susilo Bambang Yudhoyono -- 2.0
+Ketua MUI Ma'ruf -- 2.0
+Partai Demokrat -- 2.0
+Ketua MUI Ma'ruf Amin -- 2.0
+Ma'ruf Amin -- 4.0
+Ketua Umum -- 2.0
+Susilo Bambang -- 2.0
+MUI -- 8.0
+FOTO -- 2.0
+Bambang -- 3.0
+Demokrat -- 2.0
+Partai -- 2.0
+SBY -- 3.0
+Amin -- 4.0
+Sidang Ahok -- 2.0
+Sidang -- 2.0
+Jakarta -- 4.0
+Yudhoyono -- 4.0
+Ahok -- 6.0
+Ma'ruf -- 5.0
  -- time: 0.018000000000000002
 
 --------------------
@@ -2436,6 +3332,24 @@ Mayat -- 0.8142671411105354
 --------------------
 
 
+Amerika Serikat -- 2.0
+Serikat -- 2.0
+Kebijakan Trump -- 2.0
+Donald Trump -- 4.0
+FOTO -- 2.0
+Muslim Amerika -- 2.0
+Nihad -- 2.0
+Muslim -- 4.0
+Trump -- 7.0
+Donald -- 4.0
+Kebijakan -- 3.0
+Presiden -- 2.0
+Amerika -- 6.0
+ -- time: 0.061
+
+--------------------
+
+
 <img src="[BASEURL]/3c8780e2958dc73cbc6b16b8899608d5.jpeg" data:w="683" data:h="468"> Antasari Azhar hadir dalam debat kedua Pilgub DKI di Gedung Bidakara, Jakarta Selatan, Jumat (27/1). (Foto: Arah.com/ Restu)  
 <p><strong>Arah -</strong> <span>Ketua Badan Hukum Partai <a href="https://www.arah.com/tags/24813/Demokrasi-Indonesia.html" rel="nofollow">Demokrasi Indonesia</a> Perjuangan <a href="https://www.arah.com/tags/8588/Junimart-Girsang.html" rel="nofollow">Junimart Girsang</a> menilai mantan Ketua <a href="https://www.arah.com/tags/19799/Komisi-Pemberantasan-Korupsi-KPK.html" rel="nofollow">Komisi</a> <a href="https://www.arah.com/tags/19234/Pemberantasan-Korupsi.html" rel="nofollow">Pemberantasan Korupsi</a> <a href="https://www.arah.com/tags/19799/Komisi-Pemberantasan-Korupsi-KPK.html" rel="nofollow">(KPK)</a> <a href="https://www.arah.com/tags/24789/Antasari-Azhar.html" rel="nofollow">Antasari Azhar</a> mampu dan layak menjadi Jaksa Agung karena memiliki kemampuan serta pengalaman.</span></p> 
 <p><span>"Saya kira layak, tidak ada hambatan, tidak ada larangan seseorang terpidana menjadi pembantu presiden, tidak ada larangan. Itu menjadi hak prerogatif <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> apalagi beliau sudah mendapatkan grasi," kata Junimart di <a href="https://www.arah.com/tags/6993/Gedung-Nusantara.html" rel="nofollow">Gedung Nusantara</a> II, Jakarta, Rabu (1/2/2017).</span></p> 
@@ -2495,7 +3409,45 @@ Cerita -- 0.8251222470887827
 Biak -- 0.8186096702455077
 Tersangka -- 0.8169578391087386
 Bebas -- 0.8006217455193504
- -- time: 0.106
+ -- time: 0.02
+
+--------------------
+
+
+Perjuangan -- 4.0
+Pemberantasan -- 2.0
+III DPR -- 2.0
+Junimart -- 2.0
+Korupsi -- 2.0
+Pasar Senen -- 2.0
+DPR -- 2.0
+Grasi -- 2.0
+Ketua Komisi Pemberantasan Korupsi -- 2.0
+PDI -- 2.0
+Pemberantasan Korupsi -- 2.0
+Ketua -- 3.0
+Presiden -- 4.0
+Komisi III DPR -- 2.0
+Senen -- 2.0
+FOTO -- 2.0
+Pasar -- 2.0
+Antasari -- 8.0
+Ketua Komisi -- 2.0
+Azhar -- 6.0
+Agung -- 2.0
+Komisi III -- 2.0
+Gedung -- 2.0
+PDI Perjuangan -- 2.0
+Antasari Azhar -- 6.0
+Jakarta -- 2.0
+Grasi Antasari Azhar -- 2.0
+Komisi Pemberantasan -- 2.0
+Komisi Pemberantasan Korupsi -- 2.0
+Ketua Komisi Pemberantasan -- 2.0
+Komisi -- 4.0
+Grasi Antasari -- 2.0
+Indonesia -- 3.0
+ -- time: 0.014
 
 --------------------
 
@@ -2549,7 +3501,25 @@ Cerita -- 0.8315035928963724
 Biak -- 0.822601257222601
 Tersangka -- 0.8203473190533018
 Bebas -- 0.8008446836930813
- -- time: 0.02
+ -- time: 0.016
+
+--------------------
+
+
+FOTO -- 3.0
+KPK -- 3.0
+Antasari -- 7.0
+Azhar -- 4.0
+Jokowi -- 2.0
+Ketua KPK -- 2.0
+Metro Jaya -- 2.0
+Nasrudin -- 2.0
+Antasari Azhar -- 4.0
+Metro -- 2.0
+Ketua -- 3.0
+Presiden -- 2.0
+Jaya -- 2.0
+ -- time: 0.013000000000000001
 
 --------------------
 
@@ -2570,6 +3540,14 @@ Singapura -- 1.7381770004590145
 ANTV -- 1.2893774686441555
 Visa -- 0.9786889440973785
  -- time: 0.001
+
+--------------------
+
+
+Gopi -- 2.0
+India -- 2.0
+Amerika -- 2.0
+ -- time: 0.0
 
 --------------------
 
@@ -2600,7 +3578,17 @@ Instagram -- 1.0221902333643043
 Arab -- 0.8800541121595364
 Allah -- 0.8723734654358838
 Suriah -- 0.8300019058166449
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Lohan -- 3.0
+Jackie -- 2.0
+Turki -- 2.0
+Lindsay -- 2.0
+Lindsay Lohan -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -2638,7 +3626,22 @@ Reserse -- 1.170248860542784
 Kriminal -- 1.1677734540409712
 Komisaris -- 1.1576176284950035
 Depok -- 0.9421743484121907
- -- time: 0.004
+ -- time: 0.075
+
+--------------------
+
+
+Polda -- 2.0
+Metro Jaya -- 2.0
+Metro -- 2.0
+Polda Metro -- 2.0
+Rizieq -- 2.0
+Azis -- 2.0
+Jaya -- 2.0
+Firza -- 2.0
+Wahyu -- 2.0
+Polda Metro Jaya -- 2.0
+ -- time: 0.007
 
 --------------------
 
@@ -2660,7 +3663,16 @@ Jakarta Selatan -- 2.2252045726114935
 Radio Dalam -- 2.113466717538991
 Aldilla Jelita -- 2.0738366487819198
 Allah -- 0.8773391264594365
- -- time: 0.016
+ -- time: 0.003
+
+--------------------
+
+
+Indrabekti -- 2.0
+Bekti -- 2.0
+Jelita -- 2.0
+Aldila -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -2700,7 +3712,22 @@ Aaron Ramsey -- 1.9252067270174698
 London -- 1.2887997260866708
 Liverpool -- 1.119119924196062
 Lebah -- 0.9724179739228829
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+Inggris -- 3.0
+Watford -- 2.0
+Liga -- 2.0
+Deeney -- 2.0
+Kaboul -- 2.0
+Emirates -- 2.0
+Murphy -- 2.0
+Capoue -- 2.0
+Troy -- 2.0
+Troy Deeney -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -2737,7 +3764,50 @@ Rakyat -- 1.3106192650214374
 PKB -- 1.2747013031501504
 Sekretaris -- 0.8695495604911806
 Pengacara -- 0.8392926225892003
- -- time: 0.007
+ -- time: 0.009000000000000001
+
+--------------------
+
+
+Hasan -- 2.0
+Majelis Ulama -- 2.0
+Kadir Karding -- 2.0
+Kiai -- 3.0
+Ulama Indonesia -- 2.0
+Abdul Kadir Karding -- 2.0
+Am -- 2.0
+Bangsa -- 2.0
+Majelis -- 2.0
+Abdul Kadir -- 2.0
+Ahok-Djarot -- 2.0
+Rais Am -- 2.0
+Karding -- 3.0
+Kebangkitan -- 2.0
+Ketua -- 2.0
+Abdul -- 2.0
+Kadir -- 2.0
+Ma'ruf Amin -- 3.0
+PBNU -- 2.0
+KH -- 2.0
+Nahdlatul Ulama -- 2.0
+Rais -- 2.0
+Kebangkitan Bangsa -- 2.0
+DKI -- 2.0
+Majelis Ulama Indonesia -- 2.0
+Kiai Ma'ruf -- 2.0
+Partai -- 2.0
+Partai Kebangkitan Bangsa -- 2.0
+Amin -- 4.0
+Jakarta -- 2.0
+Partai Kebangkitan -- 2.0
+Tim -- 2.0
+Komisi -- 2.0
+Ahok -- 2.0
+Ulama -- 4.0
+Ma'ruf -- 4.0
+Nahdlatul -- 2.0
+Indonesia -- 3.0
+ -- time: 0.008
 
 --------------------
 
@@ -2776,7 +3846,15 @@ Public Relations -- 2.651570892988067
 Marketing -- 1.9241552171141523
 Jobplanet -- 1.2003259175540628
 Salah -- 1.0172100925230463
- -- time: 0.008
+ -- time: 0.003
+
+--------------------
+
+
+Ilmu Komunikasi -- 2.0
+Ilmu -- 2.0
+Komunikasi -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -2805,7 +3883,19 @@ Jawa Timur -- 1.9203291653420131
 Kemendes -- 1.1180493473644209
 Keuangan -- 1.1062704241967136
 BPK -- 1.0992085697787166
- -- time: 0.004
+ -- time: 0.005
+
+--------------------
+
+
+PDTT -- 2.0
+Menteri -- 2.0
+KPK -- 2.0
+Eko -- 2.0
+Pembangunan -- 2.0
+Basaria -- 2.0
+Desa -- 3.0
+ -- time: 0.003
 
 --------------------
 
@@ -2836,6 +3926,19 @@ Udara -- 0.961898278364381
 Keputusan -- 0.8633560976232278
 Jenderal -- 0.8373777879317583
 Kemenhan -- 0.8221135152546722
+ -- time: 0.006
+
+--------------------
+
+
+Marsekal Madya -- 2.0
+Muhammad -- 2.0
+Madya -- 2.0
+Marsekal -- 2.0
+Syaugi -- 3.0
+Muhammad Syaugi -- 2.0
+Kementerian -- 2.0
+Soelistyo -- 2.0
  -- time: 0.004
 
 --------------------
@@ -2884,6 +3987,13 @@ Line -- 0.8203010389354998
 --------------------
 
 
+Add -- 2.0
+Behijab -- 3.0
+ -- time: 0.002
+
+--------------------
+
+
 <img alt="" src="[BASEURL]/f57ae13cf95760d6e021db58c3214bac.jpeg" data:w="768" data:h="432">  
 <em>(Foto: Bola.net)</em>   
 <p>Selangkah lagi pemain asal Argentina Esteban Vizcarra bakal mendapatkan status sebagai Warga Negara Indonesia (WNI).</p> 
@@ -2914,6 +4024,16 @@ Cinta -- 1.0956445008456106
 Radar -- 1.0357971303759748
 Malang -- 1.0335030069950661
 PSSI -- 0.8378217520080447
+ -- time: 0.003
+
+--------------------
+
+
+Arema -- 2.0
+Viscara -- 2.0
+Esteban -- 2.0
+Vizcarra -- 2.0
+Indonesia -- 3.0
  -- time: 0.002
 
 --------------------
@@ -2941,6 +4061,19 @@ JACOB -- 0.8815921394738857
 AZWAR -- 0.8689785962025272
 SUBANGKIT -- 0.8244256117206371
 PADANG -- 0.8030131791187263
+ -- time: 0.007
+
+--------------------
+
+
+Makassar -- 3.0
+PFL 2017 -- 2.0
+Kamiada FC -- 2.0
+Kamiada -- 4.0
+PFL -- 3.0
+Pelindo -- 3.0
+FC -- 2.0
+Pelindo IV -- 3.0
  -- time: 0.005
 
 --------------------
@@ -2964,7 +4097,30 @@ Foto -- 1.3180739169606412
 Lampung -- 1.2754445759466426
 Farhan -- 1.0342802392177306
 Pemain -- 0.9724485868667041
- -- time: 0.061
+ -- time: 0.007
+
+--------------------
+
+
+League -- 3.0
+Futsal -- 3.0
+Pro Futsal League -- 3.0
+FC Kota Metro -- 2.0
+Pro -- 3.0
+Giga FC Kota -- 2.0
+Yolla -- 2.0
+Futsal League -- 3.0
+Kota -- 2.0
+Metro -- 2.0
+Kota Metro -- 2.0
+PFL -- 2.0
+Giga FC Kota Metro -- 2.0
+FC Kota -- 2.0
+Giga -- 3.0
+Pro Futsal -- 3.0
+FC -- 4.0
+Giga FC -- 3.0
+ -- time: 0.049
 
 --------------------
 
@@ -3001,6 +4157,11 @@ Throne -- 0.8789939471034686
 --------------------
 
 
+ -- time: 0.003
+
+--------------------
+
+
 <img src="[BASEURL]/c7276b7025a02d5546a66e6ab1a8ace7.png" alt="photo by Parent Herald" width="600" height="330" data:w="594" data:h="328"> 
 <p>photo by Parent Herald</p>  
 <p>Produksi konsol Nintendo Wii U akhirnya resmi dihentikan di Jepang. Pihak Nintendo sendiri yang mengumumkan kabar ini melalui situs resmi mereka. Setelah mendapatkan konfirmasi, dilansir dari <em>Gamespot</em>, juru bicara dari Nintendo mengatakan pemberhentian produksi ini resmi akan berakhir secara global, bukan hanya di Jepang saja.</p> 
@@ -3030,6 +4191,14 @@ Zero -- 0.8071491930258891
 Dawn -- 0.8061239814363534
 Mode -- 0.8038730973072753
 Foto -- 0.8028520468955345
+ -- time: 0.003
+
+--------------------
+
+
+Nintendo -- 3.0
+Wii -- 3.0
+Wii U -- 2.0
  -- time: 0.003
 
 --------------------
@@ -3085,7 +4254,12 @@ Polandia -- 1.0189547210002472
 Apartment -- 0.9528746544374747
 Organisasi -- 0.9184031850482866
 Cina -- 0.914389977801545
- -- time: 0.01
+ -- time: 0.002
+
+--------------------
+
+
+ -- time: 0.003
 
 --------------------
 
@@ -3121,7 +4295,24 @@ Pelabuhan -- 1.169779457077966
 Pariwisata -- 1.1515417343663177
 Mataram -- 1.1297985518136853
 Sumbawa -- 0.8420791090994547
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Nusa -- 2.0
+Bima -- 3.0
+Pulau -- 3.0
+Putri -- 2.0
+Damayanti -- 2.0
+Lombok -- 2.0
+Tenggara -- 2.0
+Bajo -- 2.0
+Komodo -- 2.0
+NTB -- 3.0
+Nusa Tenggara -- 2.0
+Damayanti Putri -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3187,6 +4378,22 @@ Bali -- 0.805591832653496
 --------------------
 
 
+Nusa -- 2.0
+Taman -- 2.0
+Nasional -- 3.0
+Taman Nasional -- 2.0
+Timur -- 2.0
+Utara -- 2.0
+Sulawesi Utara -- 2.0
+Tenggara -- 2.0
+Lembaga -- 2.0
+Sulawesi -- 3.0
+Indonesia -- 2.0
+ -- time: 0.003
+
+--------------------
+
+
 <p><strong>Laporan Wartawan TribunTravel.com, Sri Juliati</strong></p> 
 <p><strong>TRIBUNTRAVEL.COM -</strong> Kapan pun kita melihat foto binatang, yang terlintas adalah aksi lucu anjing atau kucing yang tengah bermain.</p> 
 <p>But wait, binatang ini tak selalu terlihat lucu, setiap waktu lho, guys.</p> 
@@ -3222,7 +4429,12 @@ Bali -- 0.805591832653496
 http://travel.tribunnews.com/2017/02/01/10-foto-ini-tunjukkan-ekspresi-hewan-saat-marah-marah-bikin-balik-marah-atau-ngakak
 Adolf Hitler -- 2.241708738275477
 Wartawan -- 1.3155644000534732
- -- time: 0.001
+ -- time: 0.002
+
+--------------------
+
+
+ -- time: 0.002
 
 --------------------
 
@@ -3243,6 +4455,13 @@ Naruto -- 1.9879561923504605
 Amerika -- 1.2438731044242093
 Sakura -- 0.8475930886955748
  -- time: 0.001
+
+--------------------
+
+
+Kishimoto -- 2.0
+Jump -- 2.0
+ -- time: 0.0
 
 --------------------
 
@@ -3289,6 +4508,16 @@ Terbuka -- 0.8177187838550879
 --------------------
 
 
+Pemkab -- 3.0
+Yusuf -- 2.0
+Deliserdang -- 5.0
+ASN -- 3.0
+Pemkab Deliserdang -- 2.0
+ -- time: 0.004
+
+--------------------
+
+
 <img src="[BASEURL]/ab9596d1cbd701fc047bc7db205e7396.jpeg" alt="" width="450" height="338" data:w="450" data:h="338"> 
 <p>Peresmian jambur ‘Sada Perarih’ yang bersumber dari Dana Desa (DD) dan hibah tahun 2016, Senin (30/1).(Solideo/Sumut Pos)</p>  
 <br>PERTUMBUKEN, SUMUTPOS.CO -Masyarakat Desa Pertumbuken, Kecamatan Barusjahe, Kabupaten Karo menggelar syukuran rampungnya pembangunan jambur yang bersumber dari Dana Desa (DD) dan hibah tahun 2016, Senin (30/1). 
@@ -3317,6 +4546,19 @@ Sekretaris -- 0.8515748493158712
 Hibah -- 0.836788086080098
 Bahagia -- 0.8203399054503105
  -- time: 0.003
+
+--------------------
+
+
+Sopian -- 2.0
+Karo -- 3.0
+Desa Pertumbuken -- 2.0
+Sembiring -- 2.0
+Pertumbuken -- 2.0
+Yunus -- 2.0
+Desa -- 5.0
+Barusjahe -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3362,6 +4604,30 @@ Organisasi -- 1.122238136092859
 Tata -- 1.12035676497293
 Perangkat -- 1.1081199808784206
  -- time: 0.005
+
+--------------------
+
+
+Raja -- 2.0
+Daerah -- 4.0
+RAPBD -- 2.0
+Sumut -- 3.0
+Menteri -- 2.0
+Indra Saleh -- 2.0
+Keuangan -- 3.0
+Raja Indra -- 2.0
+Utara -- 2.0
+Indra -- 3.0
+BPKD -- 2.0
+Menteri Keuangan -- 2.0
+Sumatera Utara -- 2.0
+Pendapatan -- 2.0
+Agus -- 2.0
+Raja Indra Saleh -- 2.0
+Anggaran -- 2.0
+Sumatera -- 2.0
+Saleh -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -3414,7 +4680,27 @@ Hortikultura -- 1.1050177718836527
 Perekonomian -- 1.0802659094808655
 Humas -- 1.053755750201523
 KPK -- 0.9675439080625344
- -- time: 0.009000000000000001
+ -- time: 0.007
+
+--------------------
+
+
+Kepala Dinas -- 6.0
+Daerah -- 4.0
+Sumut -- 4.0
+Kepala Biro -- 6.0
+Bina -- 2.0
+Kepala Badan -- 3.0
+Pembangunan -- 2.0
+Dinas -- 6.0
+Pangan -- 2.0
+Provinsi -- 2.0
+Biro -- 6.0
+Hasban -- 2.0
+Badan -- 3.0
+Kepala -- 17.0
+Kerja -- 2.0
+ -- time: 0.007
 
 --------------------
 
@@ -3452,7 +4738,24 @@ Pendapatan -- 1.2397759602790075
 Belanja -- 1.2363634219458497
 Daerah -- 1.23454724390772
 Lawang -- 1.0965640461114001
- -- time: 0.003
+ -- time: 0.078
+
+--------------------
+
+
+Dinas Bina Marga -- 2.0
+Bina Konstruksi -- 2.0
+Sumut -- 3.0
+Marga -- 2.0
+Dinas -- 2.0
+Bina -- 4.0
+Utara -- 2.0
+Bina Marga -- 2.0
+Haris -- 2.0
+Konstruksi -- 2.0
+Dinas Bina -- 2.0
+APBD -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -3481,6 +4784,14 @@ Imam -- 0.8733837343744004
 --------------------
 
 
+Jatibanteng -- 3.0
+Situbondo -- 2.0
+Andik -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
 <p><strong>KUMAI</strong> - Aparat Polsek Kumai, Kobar, Kaltim, melakukan operasi penyakit masyarakat (pekat) di Jalan Panglima Utar, Desa Sungai Kapitan Kumai.</p> 
 <p>Hasilnya, polisi menyita jenis <a href="http://www.jawapos.com/read/2017/02/01/106432/polsek-kumai-bongkar-bisnis-arak-campur-susu" rel="nofollow">arak yang dicampur dengan susu</a>. Arak yang diamankan sebanyak 63 botol, yang disimpan di lemari pendingin dan siap jual. Polisi juga mengamankan Sani (63) yang diduga sebagai pelaku bisnis miras oplosan tersebut.</p> 
@@ -3495,6 +4806,13 @@ Imam -- 0.8733837343744004
 http://news.okezone.com/read/2017/02/01/340/1606615/duh-ada-susu-dioplos-arak
 Kaltim -- 1.3016476424631511
 Perda -- 0.9577879651620743
+ -- time: 0.002
+
+--------------------
+
+
+Hendry -- 2.0
+Kumai -- 3.0
  -- time: 0.001
 
 --------------------
@@ -3529,7 +4847,24 @@ Posyandu -- 2.0654301842739877
 Kampung -- 1.3097415418722393
 Suriadi -- 1.2770575189851845
 Daerah -- 1.1644236821359983
- -- time: 0.004
+ -- time: 0.021
+
+--------------------
+
+
+Puskesmas -- 2.0
+Dinas Kesehatan -- 2.0
+Rumah Sakit -- 3.0
+Jiput -- 3.0
+Dinas -- 2.0
+RSUD -- 3.0
+Sakit -- 3.0
+Shinta -- 2.0
+Rumah -- 3.0
+Otoh -- 2.0
+Kesehatan -- 3.0
+Pandeglang -- 5.0
+ -- time: 0.005
 
 --------------------
 
@@ -3550,6 +4885,23 @@ Asrul Sani -- 3.965236512725111
 Kepala Dinas Kesehatan -- 3.7136040611304573
 Kantor Bupati -- 2.763374035805202
 Karya -- 0.9118490814123738
+ -- time: 0.003
+
+--------------------
+
+
+Mumammad -- 2.0
+Timur -- 3.0
+BPJS -- 2.0
+Selong -- 2.0
+Farid -- 2.0
+Lombok -- 3.0
+Kesehatan -- 3.0
+BPJS Kesehatan -- 2.0
+Mobile -- 2.0
+Mumammad Farid -- 2.0
+Lombok Timur -- 3.0
+Kepala -- 2.0
  -- time: 0.003
 
 --------------------
@@ -3577,7 +4929,27 @@ Satnarkoba -- 1.2669788801158917
 Kepolisian -- 1.2634802585988691
 Tanaman -- 1.1853271848648272
 Azwar -- 0.958968843077495
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Nasional -- 2.0
+BNNK Bireuen -- 2.0
+Badan Narkotika -- 2.0
+Saiful -- 2.0
+Narkotika Nasional -- 2.0
+BNNP -- 3.0
+Leubok -- 2.0
+Narkotika -- 2.0
+BNNK -- 3.0
+Badan Narkotika Nasional -- 2.0
+Bireuen -- 3.0
+Aceh -- 3.0
+BNNP Aceh -- 2.0
+Badan -- 2.0
+Kepala -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3606,6 +4978,32 @@ Pemerkosaan -- 1.3063158771245407
 Kebun -- 1.1167404145355877
 Aceh -- 0.8155827509957391
 Hukum -- 0.8097493722805732
+ -- time: 0.004
+
+--------------------
+
+
+Lingkar PTPN I -- 2.0
+Jalan -- 3.0
+Lingkar -- 3.0
+PTPN I -- 2.0
+Petugas -- 2.0
+Langsa -- 7.0
+PTPN -- 3.0
+Syariat Islam -- 5.0
+Syariat -- 5.0
+Dinas Syariat Islam -- 3.0
+Lingkar PTPN -- 3.0
+WH -- 2.0
+Dinas Syariat -- 3.0
+Islam -- 5.0
+Dinas -- 3.0
+Qanun -- 2.0
+Jalan Lingkar PTPN -- 3.0
+Kecamatan -- 3.0
+Jalan Lingkar -- 3.0
+Jalan Lingkar PTPN I -- 2.0
+Kecamatan Langsa -- 3.0
  -- time: 0.003
 
 --------------------
@@ -3639,7 +5037,19 @@ Aceh -- 1.3047855532294883
 Ketapang -- 1.234274248970187
 Provinsi -- 1.2275036996257385
 Mobil -- 1.1624468640482957
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+Lampung -- 3.0
+Medan -- 2.0
+Bandara -- 2.0
+Paya Bakong -- 2.0
+Bakong -- 2.0
+Paya -- 2.0
+Xenia -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3667,7 +5077,27 @@ Sakti -- 0.8650954212041321
 Mutia -- 0.8590017947778344
 Kapolsek -- 0.8280000673114163
 Julian -- 0.8136878818219447
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+Vario -- 2.0
+Bayu -- 2.0
+BL -- 2.0
+Rumah -- 2.0
+Hamid -- 2.0
+Syamtalira Bayu -- 2.0
+Honda -- 2.0
+PNS -- 2.0
+Cabin -- 2.0
+Kecamatan -- 2.0
+Syamtalira -- 2.0
+Honda Vario -- 2.0
+Aceh -- 3.0
+Duble Cabin -- 2.0
+Duble -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3688,7 +5118,15 @@ KUALASIMPANG -- 1.3189770165601027
 Kampung -- 1.2736518389442153
 Zulkifli -- 1.1195362954531671
 BPBD -- 0.8080327945532191
- -- time: 0.001
+ -- time: 0.002
+
+--------------------
+
+
+Tamiang -- 2.0
+Aceh -- 2.0
+Aceh Tamiang -- 2.0
+ -- time: 0.0
 
 --------------------
 
@@ -3714,7 +5152,19 @@ GOWA -- 1.3108459643489794
 Sungguminasa -- 1.2647763624124044
 Lingkungan -- 1.2000143085180521
 Humas -- 1.0372508121075117
- -- time: 0.002
+ -- time: 0.001
+
+--------------------
+
+
+Polres -- 2.0
+Polres Gowa -- 2.0
+Tambunan -- 2.0
+Gowa -- 4.0
+DPRD Gowa -- 2.0
+DPRD -- 2.0
+Aan -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -3749,7 +5199,17 @@ Thailand -- 1.1022673318521041
 Sawangan -- 1.0280018715260233
 Depok -- 1.025770481320978
 Usman -- 1.0096273989949178
- -- time: 0.049
+ -- time: 0.002
+
+--------------------
+
+
+Persija -- 2.0
+Bhayangkara -- 2.0
+Teco -- 2.0
+Trofeo Bhayangkara -- 2.0
+Trofeo -- 2.0
+ -- time: 0.007
 
 --------------------
 
@@ -3771,7 +5231,22 @@ Zenfone -- 1.9398318127889753
 Smartphone -- 1.3043705551872846
 MediaTek -- 0.9228152939734827
 Android -- 0.8157431010285383
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+ZenFone 3 -- 2.0
+ZenFone 3S -- 2.0
+Max -- 4.0
+ZenFone -- 5.0
+RAM 3GB -- 2.0
+3S Max -- 3.0
+Copyright©droidmen -- 2.0
+ZenFone 3S Max -- 2.0
+Asus -- 4.0
+RAM -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -3798,6 +5273,12 @@ Makan -- 1.3122601221849803
 Sembelit -- 0.9320968995198728
 Pencernaan -- 0.8834448628699403
  -- time: 0.002
+
+--------------------
+
+
+Minum -- 3.0
+ -- time: 0.001
 
 --------------------
 
@@ -3847,7 +5328,45 @@ Camat -- 0.8664030033740261
 Danramil -- 0.8647978498124049
 Kapolsek -- 0.8639542269646843
 Ayu -- 0.8350217031808577
- -- time: 0.021
+ -- time: 0.045
+
+--------------------
+
+
+UPI Kampus -- 3.0
+Desa Mancagahar -- 2.0
+Garut -- 2.0
+Upacara -- 3.0
+Penutupan -- 3.0
+Mancagahar -- 2.0
+‘Setia -- 2.0
+Upacara Penutupan -- 2.0
+Yonif -- 4.0
+Desa -- 3.0
+UPI -- 6.0
+Batalyon XI -- 6.0
+Ketua -- 2.0
+Korps Menwa Batalyon XI -- 2.0
+Korps Menwa -- 2.0
+Militer -- 2.0
+Diklatsarmil -- 2.0
+Angkatan XLV -- 3.0
+‘Setia Sampai -- 2.0
+Menwa Batalyon XI -- 6.0
+Korps Menwa Batalyon -- 2.0
+Kepala -- 2.0
+Yonif 303 -- 3.0
+Pameungpeuk -- 4.0
+Korps -- 2.0
+Kepala Desa -- 2.0
+Menwa Batalyon -- 6.0
+Menwa -- 7.0
+Komandan -- 2.0
+Kampus -- 3.0
+Pendidikan -- 2.0
+Batalyon -- 6.0
+Angkatan -- 3.0
+ -- time: 0.008
 
 --------------------
 
@@ -3892,7 +5411,28 @@ Herman -- 1.0065136191593325
 Ombudsman -- 0.9789867812550649
 Bawaslu -- 0.9431793370562037
 Aktivis -- 0.9362576981593084
- -- time: 0.009000000000000001
+ -- time: 0.005
+
+--------------------
+
+
+Unhas -- 2.0
+Makassar -- 3.0
+Guru Besar -- 4.0
+Movement -- 2.0
+Besar Ekonomi -- 2.0
+Celebes -- 2.0
+Celebes Movement -- 2.0
+Dr -- 2.0
+Ekonomi -- 2.0
+Guru -- 4.0
+Sulsel -- 7.0
+Ketua -- 5.0
+Direktur -- 2.0
+Guru Besar Ekonomi -- 2.0
+Eksekutif -- 2.0
+Prof -- 4.0
+ -- time: 0.003
 
 --------------------
 
@@ -3920,6 +5460,13 @@ Konsumen -- 0.8284415005353214
 --------------------
 
 
+Sulsel -- 2.0
+Sulawesi -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img width="660" height="330" src="[BASEURL]/53b1975112881b00d7fb81755efb6355.jpeg" alt="Kondisi rapat anggota DPRD Medan yang tergabung di pansus Ranperda Dinsosnaker di ruang banggar gedung DPRD Medan, tampak rapat minim kehadiran anggota dewan.(WOL Photo/muhammad rizki)" data:w="660" data:h="330">   
 <p><strong><a href="http://waspada.co.id/medan/" rel="nofollow">MEDAN,</a> <span><a href="http://waspada.co.id/" rel="nofollow">WOL</a></span></strong> – Siapa sangka 50 anggota DPRD Medan yang berkantor di gedung megah berlantai 8 ini hanya memiliki agenda 2 hari dalam sepekan yakni Senin dan Selasa. Sedangkan Rabu s/d Jumat, ke 50 wakil rakyat tersebut kerap melakukan kunjungan kerja (kunker) ke luar kota. Tak heran kantor bernilai Rp90 miliar ini lengang seakan tak bertuan. Fakta ini menurut pengamatan wartawan sudah berlangsung sejak tahun lalu hingga saat ini.</p> 
 <p>Parahnya, agenda yang terjadwal pada Senin dan Selasa seperti rapat paripurna, rapat komisi maupun rapat pansus kerap berjalan molor. Bahkan acara rapat selalu minim dihadiri anggota dewan. Tentu saja, setiap agenda berjalan tidak maksimal.</p> 
@@ -3942,7 +5489,24 @@ Pansus -- 2.07209157125992
 Menteri -- 1.0234537932715817
 Izin -- 0.9611025503723761
 Sekretaris -- 0.8684000920419997
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Ranperda -- 2.0
+Sumut -- 2.0
+DPRD Medan -- 3.0
+Bank -- 2.0
+Bahrumsyah -- 2.0
+Medan -- 3.0
+Ketua Pansus -- 2.0
+Ketua -- 3.0
+Pansus -- 2.0
+Bank Sumut -- 2.0
+Azis -- 2.0
+DPRD -- 3.0
+ -- time: 0.001
 
 --------------------
 
@@ -3979,7 +5543,22 @@ Makan -- 1.022365274482566
 Soto -- 1.0201322241711304
 Gang -- 0.9164840576161934
 Arifin -- 0.8090891459537679
- -- time: 0.004
+ -- time: 0.003
+
+--------------------
+
+
+Array -- 2.0
+Jalan -- 2.0
+Medan -- 4.0
+Daniel -- 2.0
+Array A -- 2.0
+A Argus -- 2.0
+Argus -- 2.0
+Array A Argus -- 2.0
+Sunggal -- 3.0
+Yeni -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -4022,6 +5601,27 @@ Surya -- 0.8457956074384922
 --------------------
 
 
+DPO -- 2.0
+Sumut -- 5.0
+Bank -- 3.0
+Husein -- 2.0
+Hasibuan -- 2.0
+Sumanggar -- 2.0
+Akbar -- 2.0
+Azis Husein Hasibuan -- 2.0
+Zulkarnaen -- 2.0
+Azis Husein -- 2.0
+Medan -- 2.0
+Husein Hasibuan -- 2.0
+Bank Sumut -- 3.0
+Kejati -- 2.0
+Azis -- 2.0
+Kepala -- 2.0
+ -- time: 0.02
+
+--------------------
+
+
 <p>Medan<strong>(MedanPunya)</strong> Mayoritas pekerja mega proyek Podomoro City Deli Medan berasal dari luar Sematera Utara.</p> 
 <p>Setibanya di Medan para pekerja diberikan fasilitas tempat tinggal yang tak jauh dari lokasi proyek, yakni di Jalan Sei Deli, Medan.</p> 
 <p>Tempat tinggal para pekerja merupakan bangunan kayu berdinding dan berlantai triplek.</p> 
@@ -4041,7 +5641,14 @@ Mayoritas -- 1.3068578646996234
 Podomoro -- 1.2869062267488216
 City -- 1.2809803451790698
 Malang -- 1.0117972890695646
- -- time: 0.001
+ -- time: 0.004
+
+--------------------
+
+
+Medan -- 2.0
+Deli -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -4069,6 +5676,14 @@ Yoyok -- 1.1305719525348308
 Sidoarjo -- 0.8334726494535443
 Penulis -- 0.8172566569192047
 Permata -- 0.8057113475772314
+ -- time: 0.001
+
+--------------------
+
+
+Graha -- 3.0
+Graha Amerta -- 3.0
+Amerta -- 3.0
  -- time: 0.002
 
 --------------------
@@ -4109,6 +5724,14 @@ Mutiara -- 0.8951248323871236
 --------------------
 
 
+Jati Asih -- 2.0
+Asih -- 2.0
+Jati -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img width="620" src="[BASEURL]/2dfdb1b272eb744a90c014f64fb7f20f.jpeg" alt="Amankan Demo FPI, Polisi Diprotes Warga karena Tutup JPO" data:w="620" data:h="413">      
 <strong>JAKARTA</strong> - Polisi mengamankan aksi FPI yang mengawal pemeriksaan Habib Rizieq Shihab, Munarman, dan Ustaz Bachtiar Nasir sebagai saksi kasus makar di Polda Metro Jaya. Dalam pengamanan itu, polisi sampai menutup Jembatan Penyeberangan Orang (JPO) Polda yang terhubung dengan halte bus Transjakarta. 
 <p>Ribuan personel kepolisian tampak mengawal jalannya aksi demo FPI di depan gedung Polda Metro Jaya, polisi pun menjaga sejumlah titik dalam pengamanan itu. Salah satunya di JPO Polda Metro Jaya yang ada di depan gedung tersebut. </p> 
@@ -4136,6 +5759,26 @@ Pemimpin -- 0.8607794123917417
 Nasional -- 0.8379432692824157
 MUI -- 0.8305458402936374
  -- time: 0.003
+
+--------------------
+
+
+Bachtiar -- 2.0
+Bachtiar Nasir -- 2.0
+JPO -- 2.0
+Rizieq Shihab -- 2.0
+Polda Metro -- 2.0
+Polda Metro Jaya -- 2.0
+Nasir -- 2.0
+Polda -- 4.0
+Metro Jaya -- 2.0
+Metro -- 2.0
+Munarman -- 2.0
+Shihab -- 2.0
+Rizieq -- 2.0
+Jaya -- 2.0
+FPI -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -4178,6 +5821,17 @@ Bogor -- 1.0632026587113241
 --------------------
 
 
+Pemkab -- 3.0
+Kabupaten -- 2.0
+Herman -- 2.0
+Helly -- 2.0
+Cianjur -- 4.0
+Cipanas -- 6.0
+ -- time: 0.002
+
+--------------------
+
+
 <img width="700" height="400" src="[BASEURL]/34ffda904989af9122b490d8bf2cdd00.jpeg" alt="" data:w="700" data:h="400">    
 <p><br></p>   
 <p><strong>GARUT, FOKUSJabar.com</strong> : Jalan menuju Masjid Besar yang lokasinya berdekatan dengan Kantor Kecamatan Cibatu, Kabupaten Garut kondisinya rusak parah.</p>  
@@ -4210,6 +5864,15 @@ Kampung -- 1.0278815630237637
 --------------------
 
 
+Kecamatan -- 2.0
+Kecamatan Cibatu -- 2.0
+Cibatu -- 4.0
+Desa -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img width="660" height="330" src="[BASEURL]/eb2dc386c4f88758957160dc1233d4a3.jpeg" alt="Kotak suara tiba di Sekretariat Panitia Pemilihan Kecamatan Cot Girek. (WOL Photo/Chairul Sya'ban)" data:w="660" data:h="330">   
 <p><strong><span><a href="http://waspada.co.id/aceh/" rel="nofollow">LHOKSUKON</a></span>,<span><a href="http://waspada.co.id/" rel="nofollow">WOL</a></span></strong> – Komisi Independen Pemilihan (KIP) Kabupaten Aceh Utara, mulai mendistribusikan logistik berupa kotak suara kepada penyelenggara Pemilukada tingkat kecamatan. Sementara untuk bentuk logistik lainnya, akan terus berlanjut.</p> 
 <p>Ketua KIP Aceh Utara, Jufri Sulaiman, mengatakan sejak kemarin, Selasa (31/01) pihaknya telah mendistribusikan sebanyak 2.346 kotak suara kepada penyelenggara pemilu tingkat kecamatan yakni Panitia Pemilihan Kecamatan (PPK).</p> 
@@ -4232,6 +5895,20 @@ Sulaiman -- 1.1887886887133288
 Karya -- 0.9336685760146155
 Ruko -- 0.9314742913007195
 Kepolisian -- 0.8216203231191062
+ -- time: 0.003
+
+--------------------
+
+
+KIP -- 3.0
+Utara -- 5.0
+KIP Aceh -- 2.0
+Pemilihan -- 2.0
+PPK -- 2.0
+Aceh -- 5.0
+Jufri -- 2.0
+Aceh Utara -- 5.0
+KIP Aceh Utara -- 2.0
  -- time: 0.002
 
 --------------------
@@ -4257,7 +5934,13 @@ Wisatawan -- 2.43266828706221
 Real Madrid -- 2.0749514527834862
 Panorama -- 1.206140454200869
 Nama -- 0.9416795392957354
- -- time: 0.002
+ -- time: 0.001
+
+--------------------
+
+
+Sabang -- 3.0
+ -- time: 0.001
 
 --------------------
 
@@ -4337,7 +6020,33 @@ Pertamina -- 0.8286476145483057
 Wakil -- 0.8124752468110622
 Sulaiman -- 0.8099507271048619
 Perangkat -- 0.8025628793216115
- -- time: 0.009000000000000001
+ -- time: 0.05
+
+--------------------
+
+
+Daerah -- 2.0
+RAPBA -- 2.0
+Nasional -- 2.0
+KPH -- 2.0
+PT -- 3.0
+Dermawan -- 2.0
+Pilkada -- 2.0
+Gubernur -- 2.0
+Waduk -- 3.0
+Partai -- 2.0
+UPTD -- 2.0
+Pemilihan Aceh -- 2.0
+Kota -- 2.0
+Ketua -- 2.0
+Pemilihan -- 3.0
+Aceh -- 15.0
+Seulawah -- 2.0
+DPRA -- 4.0
+Badan -- 2.0
+Anggaran -- 2.0
+Pemerintah -- 6.0
+ -- time: 0.036000000000000004
 
 --------------------
 
@@ -4368,7 +6077,28 @@ Taman Kota -- 2.4207390175705683
 Provinsi -- 1.1989195354038396
 SPBU -- 1.0200233904783997
 Spanduk -- 0.8915456011656275
- -- time: 0.003
+ -- time: 0.016
+
+--------------------
+
+
+Taman -- 2.0
+Relawan Komunitas Tarmizi-Machsalmina -- 2.0
+Komunitas -- 2.0
+Banda -- 2.0
+Relawan -- 2.0
+Gubernur -- 3.0
+Tarmizi-Machsalmina -- 3.0
+Baliho -- 3.0
+Komunitas Tarmizi-Machsalmina -- 2.0
+Banda Aceh -- 2.0
+Relawan Komunitas -- 2.0
+KIP -- 2.0
+Paslon -- 5.0
+Aceh -- 6.0
+Paslon Gubernur -- 2.0
+Baliho Paslon -- 2.0
+ -- time: 0.014
 
 --------------------
 
@@ -4391,7 +6121,16 @@ Warga -- 1.2575741762517612
 Police -- 1.144902092047922
 Yoyok -- 1.0783716392506753
 Polres Jepara -- 0.752746657529348
- -- time: 0.005
+ -- time: 0.002
+
+--------------------
+
+
+Pantai -- 2.0
+Jepara -- 3.0
+Prawean -- 2.0
+Pantai Prawean -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -4422,6 +6161,14 @@ Pemkab -- 1.266455993008339
 --------------------
 
 
+PAD -- 2.0
+Pati -- 3.0
+Prapto -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 Dythia Novianty   Rabu, 01 Februari 2017 | 14:39 WIB     Peluncuran rangkaian Samsung Galaxy A (2017) di Jakarta, Rabu (1/2/2017). [Suara.com/Dythia Novianty]    Samsung akhirnya memperkenalkan serangkaian model Galaxy A (2017) di Indonesia.        
 <p><strong>Suara.com</strong> - Samsung akhirnya memperkenalkan serangkaian model Galaxy A (2017) di Indonesia, yakni Galaxy A3, Galaxy A5 dan Galaxy A7. Ketiganya menyasar masyarakat kalangan milenia denga harga mulai dari A3 Rp3,999 juta, A5 Rp4,999 juta dan A7 Rp5,999 juta.</p> 
 <p>Ketiganya dihadirkan dengan berbagai fitur apik dan desain yang sesuai kebutuhan para milenial.</p> 
@@ -4445,6 +6192,22 @@ Marketing -- 1.1268209038154493
 Electronics -- 1.1204143294979994
 Android -- 0.8827805482160124
 Marshmallow -- 0.8796885004257894
+ -- time: 0.004
+
+--------------------
+
+
+Galaxy A7 -- 2.0
+Galaxy -- 6.0
+A3 -- 4.0
+A5 -- 3.0
+Novianty -- 2.0
+A7 -- 5.0
+Dythia -- 2.0
+Samsung -- 2.0
+Galaxy A -- 2.0
+Indonesia -- 2.0
+RAM -- 2.0
  -- time: 0.003
 
 --------------------
@@ -4476,7 +6239,22 @@ Tata Ruang -- 2.3925808491234055
 Karya -- 1.8071555564628519
 Pemukiman -- 1.8024332462349577
 Proyek -- 1.153418088347952
- -- time: 0.056
+ -- time: 0.003
+
+--------------------
+
+
+PUPR -- 2.0
+Intakoris -- 2.0
+Sam’ani Intakoris -- 2.0
+Dinas -- 3.0
+Sam’ani -- 3.0
+Kudus Sam’ani -- 2.0
+Ruang -- 2.0
+Perumahan -- 2.0
+Kudus Sam’ani Intakoris -- 2.0
+Kudus -- 3.0
+ -- time: 0.002
 
 --------------------
 
@@ -4516,7 +6294,26 @@ Salah -- 1.3001145090886546
 Airlangga -- 1.1352988406283393
 Direktur -- 1.1308274055351968
 Negara -- 1.0736406434842296
- -- time: 0.005
+ -- time: 0.007
+
+--------------------
+
+
+Menteri -- 4.0
+Perum -- 3.0
+Darmin -- 3.0
+Kementerian -- 6.0
+Bulog -- 2.0
+Perum Bulog -- 2.0
+BUMN -- 2.0
+Pertanian -- 2.0
+Perdagangan -- 2.0
+Perindustrian -- 2.0
+Nasution -- 2.0
+BULOG -- 2.0
+Darmin Nasution -- 2.0
+Perekonomian -- 2.0
+ -- time: 0.017
 
 --------------------
 
@@ -4558,7 +6355,33 @@ Partai Demokrat -- 2.0033547487811383
 Humphrey Djemat -- 1.93408073957638
 Kementan -- 1.2838775566459373
 Wantimpres -- 0.8781605127612937
- -- time: 0.007
+ -- time: 0.006
+
+--------------------
+
+
+MUI -- 3.0
+Kiai -- 2.0
+NU -- 2.0
+Ma’ruf -- 2.0
+Rais Aam -- 2.0
+Aam -- 2.0
+Amin -- 5.0
+Ansor -- 3.0
+PB NU -- 2.0
+PB -- 2.0
+Ketua -- 4.0
+Yudhoyono -- 2.0
+Banser -- 2.0
+Ma'ruf Amin -- 4.0
+Yaqut -- 2.0
+Ahok -- 2.0
+Ketua Umum -- 2.0
+Kiai Ma’ruf -- 2.0
+Ulama -- 2.0
+Ma'ruf -- 5.0
+Rais -- 2.0
+ -- time: 0.005
 
 --------------------
 
@@ -4597,6 +6420,15 @@ Natal -- 0.8439779221886661
 --------------------
 
 
+Kades -- 2.0
+Taufik -- 2.0
+Banjarejo -- 4.0
+Desa -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <img src="[BASEURL]/957ba274a474d8253bcb3b2e08c2a94e.jpeg" alt="Petugas saat melakukan evakuasi mayat bocah tanpa identitas di Pantai Prawean, Jepara, Rabu (1/2/2017). (MuriaNewsCom/Edy Sutriyono)" width="565" height="296" data:w="565" data:h="296"> 
 <p>Petugas saat melakukan evakuasi mayat bocah tanpa identitas di Pantai Prawean, Jepara, Rabu (1/2/2017). (MuriaNewsCom/Edy Sutriyono)</p>  
 <p><strong>MuriaNewsCom,Jepara</strong> – Warga dihebohkan dengan penemuan mayat tanpa identitas di Pantai Prawean, Desa Bandengan, Jepara, Rabu (1/2/2017) pagi. Mayat berjenis kelamin laki-laki tersebut, saat ditemukan mengenakan kaos warna hitam bertuliskan “Police” di bagian bekalang.</p> 
@@ -4614,6 +6446,17 @@ Warga -- 1.2450177934362525
 Police -- 1.1475347461422636
 TNI -- 0.8334425868082864
 Basarnas -- 0.8303454421560483
+ -- time: 0.001
+
+--------------------
+
+
+Pantai -- 2.0
+Jepara -- 4.0
+Prawean -- 2.0
+Pantai Prawean -- 2.0
+Bandengan -- 2.0
+Polair -- 2.0
  -- time: 0.002
 
 --------------------
@@ -4656,6 +6499,18 @@ Jabar -- 0.9611663454099306
 --------------------
 
 
+RT -- 3.0
+Supra -- 2.0
+Kecamatan -- 2.0
+Mejobo -- 2.0
+Mercy -- 2.0
+Kudus -- 3.0
+Desa -- 3.0
+ -- time: 0.018000000000000002
+
+--------------------
+
+
 <img src="[BASEURL]/78893305a7920d35800e81cdeb169a54.jpeg" data:w="600" data:h="450">  
 <p><a href="http://www.dreamers.id" rel="nofollow">DREAMERS.ID</a> - Sebagian besar orang sepertinya menyukai berbagai olahan <a href="http://www.dreamers.id/article/tag/pasta" rel="nofollow">pasta</a>, mulai dari spaghetti, macaroni, lasagna, dan jenis pasta lainnya. Tak hanya menjadi alternatif asupan karbohidrat, ragamnya yang banyak juga membuat kita tak merasa bosan menyantapnya.</p> 
 <p>Namun di balik kelezatannya, makanan khas Italia ini ternyata memiliki efek yang kurang menguntungkan bagi <a href="http://www.dreamers.id/article/tag/info%20kesehatan" rel="nofollow">kesehatan</a> tubuh, khususnya pada <a href="http://www.dreamers.id/article/tag/gigi" rel="nofollow">gigi</a>. Terlalu banyak mengkonsumsi olahan pasta ternyata bisa merusak penampilan gigi yang awalnya cantik.</p> 
@@ -4676,6 +6531,12 @@ Tempo -- 0.9849296380576393
 --------------------
 
 
+Yabu -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img src="[BASEURL]/ace27184a15186986604728b92dd078d.jpeg" data:w="600" data:h="450">  
 <p><a href="http://www.dreamers.id" rel="nofollow">DREAMERS.ID</a> - Kasus penipuan mengatas namakan artis populer kembali terjadi di industri hiburan Korea Selatan. Yang mana kali ini membawa nama aktor <em>Hallyu</em>, <a href="http://www.dreamers.id/article/tag/lee%20min%20ho" rel="nofollow">Lee Min Ho</a> dan dilakukan oleh seorang pria yang merupakan petinggi dari sebuah <a href="http://www.dreamers.id/article/tag/agensi" rel="nofollow">agensi</a>.</p> 
 <p>Melansir dari Kpop Herald, seorang kepala perusahaan manejemen artis ditangkap tanpa penahanan pada Selasa (31/01) karena diduga menipu banyak orang untuk berinvestasi dalam pembuatan <em>photobook</em> dari aktor Lee Min Ho dan menggelapkan uang tersebut.</p> 
@@ -4690,6 +6551,11 @@ http://www.dreamers.id/article/60088/petinggi-sebuah-agensi-artis-korea-ditangka
 Lee Min Ho -- 11.27656308649257
 Korea Selatan -- 2.8551654175550643
  -- time: 0.0
+
+--------------------
+
+
+ -- time: 0.001
 
 --------------------
 
@@ -4718,6 +6584,14 @@ Entertainment -- 1.0957973798398597
 --------------------
 
 
+Yoo -- 2.0
+Sungjae -- 3.0
+‘School -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img src="[BASEURL]/e0359cee4dc8156625af634a794e123f.jpeg" data:w="600" data:h="450">  
 <p><a href="http://www.dreamers.id" rel="nofollow">DREAMERS.ID</a> - Dekati habisnya masa kontrak, pasti banyak yang bertanya-tanya tentang bagaimana kelanjutan grup Ze:A yang debut di tahun 2010 ini, khususnya para penggemar. Sebelumnya sempat ada rumor bahwa mereka akan menghentikan kontrak dengan agensinya <a href="http://www.dreamers.id/article/tag/star%20empire%20entertainment" rel="nofollow">Star Empire Entertainment</a>&nbsp;dan bubar. &nbsp;</p> 
 <p>Tetapi pihak agensi membantah dan hingga saat ini belum ada informasi lebih lanjut mengenai status kontrak tersebut. Dan baru-baru ini, kembali beredar kabar yang mengatakan bahwa dua membernya yakni <a href="http://www.dreamers.id/article/tag/siwan" rel="nofollow">Siwan</a> dan <a href="http://www.dreamers.id/article/tag/hyungsik" rel="nofollow">Hyungsik</a> sudah bergabung dengan agensi lain yang khusus menangani aktor-aktris.</p> 
@@ -4735,6 +6609,14 @@ ZE:A -- 1.9021492038132501
 Ze:A -- 1.2682095404447669
 Star -- 1.2048235330752355
 Empire -- 1.202695246165676
+ -- time: 0.002
+
+--------------------
+
+
+Entertainment -- 3.0
+BH -- 2.0
+KeyEast -- 2.0
  -- time: 0.001
 
 --------------------
@@ -4764,6 +6646,16 @@ K-Pop -- 0.8684931209842871
 --------------------
 
 
+Jisoo -- 2.0
+JYP -- 2.0
+Entertainment -- 2.0
+SM -- 2.0
+Jinyoung -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <a href="https://www.bantennews.co.id/wp-content/uploads/2016/12/Iman.jpg" rel="nofollow"><img width="640" height="360" src="[BASEURL]/3d37057b732c39ad23bb3db7e2a6fd47.jpeg" alt="" title="iman" data:w="640" data:h="360"></a>  
 <p><strong>CILEGON</strong> – Walikota Cilegon Tb Iman Ariyadi segera menginstruksikan Dinas Lingkungan Hidup (DLH) Kota Cilegon terkait dengan pencemaran limbah karbon hitam yang menghujani empat lingkungan yakni Pabuaran I, II, IV dan lingkungan Makam Maja, Kelurahan Rawa Arum, Kecamatan Grogol, Kota Cilegon.</p> 
 <p>Iman mengatakan, pihaknya tidak akan memberikan toleransi apapun teradap industri yang terbukti telah melakukan pencemaran lingkungan. “Saya minta SKPD nya (DLH) turun ke lapangan untuk dicek pelanggarannya dimana. Kalau memang melanggar, ajukan itu secara hukum,” ujarnya, Rabu (1/2/2017).</p> 
@@ -4781,6 +6673,15 @@ Makam -- 1.2091285904126468
 Maja -- 1.2063648691249045
 Grogol -- 1.1894609627926314
 SKPD -- 1.115213222151962
+ -- time: 0.002
+
+--------------------
+
+
+DLH -- 2.0
+Kota -- 2.0
+Kota Cilegon -- 2.0
+Cilegon -- 3.0
  -- time: 0.002
 
 --------------------
@@ -4813,7 +6714,20 @@ Sidoarjo -- 1.0539604439505244
 Kapolri -- 0.9674353761895299
 Pemuda -- 0.9557766165764519
 Olahraga -- 0.9530095326369207
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Persija -- 2.0
+Stadion Patriot -- 2.0
+Liga -- 2.0
+Ridwan -- 2.0
+Macan -- 2.0
+Stadion -- 3.0
+Bekasi -- 3.0
+Patriot -- 3.0
+ -- time: 0.002
 
 --------------------
 
@@ -4858,7 +6772,22 @@ Mineral -- 1.2466008532630088
 ESDM -- 1.244350203073934
 Pemerintah -- 1.111225678874896
 Hakim -- 0.8032314184162973
- -- time: 0.008
+ -- time: 0.004
+
+--------------------
+
+
+Kota Yogyakarta -- 2.0
+Sultan -- 3.0
+Kota -- 2.0
+HB X -- 2.0
+Sultan HB -- 2.0
+DIY -- 3.0
+Yogyakarta -- 5.0
+Sultan HB X -- 2.0
+Mansur -- 2.0
+HB -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -4888,7 +6817,16 @@ Tokoh -- 1.315781434802146
 FPI -- 1.25081330856529
 Rekaman -- 1.1768577450942614
 WhatsApp -- 0.8395136740069472
- -- time: 0.005
+ -- time: 0.002
+
+--------------------
+
+
+Firza Husein -- 2.0
+Husein -- 2.0
+Rizieq -- 4.0
+Firza -- 3.0
+ -- time: 0.012
 
 --------------------
 
@@ -4913,6 +6851,18 @@ UKM -- 1.1729880662267693
 Perdagangan -- 1.170239413552239
 Korban -- 1.136086641726096
 Masyarakat -- 0.8859535420241971
+ -- time: 0.004
+
+--------------------
+
+
+Bulutaba -- 2.0
+Matra -- 3.0
+Kecamatan -- 2.0
+AKP -- 2.0
+Sartono -- 2.0
+Adding -- 2.0
+Pasangkayu -- 2.0
  -- time: 0.002
 
 --------------------
@@ -4951,6 +6901,18 @@ Riki -- 0.8151654268640212
 --------------------
 
 
+PS -- 2.0
+MEDAN -- 2.0
+Medan -- 2.0
+PS TNI -- 2.0
+Budi -- 2.0
+PSMS -- 2.0
+TNI -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <a href="http://kabarpapua.co/wp-content/uploads/2017/02/Jumpa-pers-di-Kantor-BPS-Papua.jpg" rel="nofollow"><img width="696" height="462" src="http://kabarpapua.co/wp-content/uploads/2017/02/Jumpa-pers-di-Kantor-BPS-Papua-696x462.jpg" alt="" title="Jumpa pers di Kantor BPS Papua"></a>Petugas BPS Provinsi Papua saat menyampaikan berita resmi statistik. (KabarPapua.co/Ramah)   
 <img src="http://kabarpapua.co/wp-content/uploads/2016/10/banner-natal.jpg">  
 <p><strong><a href="http://kabarpapua.co/" rel="nofollow">KABARPAPUA.CO</a>, Kota Jayapura –</strong> Kabid Statistik Distribusi Badan Pusat Statistik (BPS) Provinsi Papua Bambang Ponco mengatakan, jumlah penumpang yang berangkat menggunakan transportasi angkutan laut Kabupaten Merauke dan Kota Jayapura meningkat saat libur Natal dan Tahun Baru.</p> 
@@ -4981,6 +6943,21 @@ Online -- 0.8616285152547871
 Izin -- 0.8511126180157057
 Volume -- 0.8497504748796119
  -- time: 0.004
+
+--------------------
+
+
+Kota -- 3.0
+Pelabuhan -- 2.0
+BPS -- 3.0
+Merauke -- 2.0
+Kota Jayapura -- 3.0
+Bambang -- 2.0
+Provinsi Papua -- 2.0
+Jayapura -- 4.0
+Provinsi -- 2.0
+Papua -- 4.0
+ -- time: 0.003
 
 --------------------
 
@@ -5033,7 +7010,59 @@ Kadir -- 0.9494542771304277
 Basri -- 0.9338305951478425
 Pato -- 0.8211855633198802
 Supardi -- 0.8167291604825853
- -- time: 0.02
+ -- time: 0.069
+
+--------------------
+
+
+Kecamatan Biringbulu -- 3.0
+Kecamatan Bontonompo Selatan -- 4.0
+Barombong -- 3.0
+Tombolopao -- 4.0
+Selatan -- 5.0
+Ichsan -- 2.0
+Kecamatan Pattalassang -- 4.0
+Muin -- 2.0
+Ramli -- 2.0
+Pattalassang -- 4.0
+Desa -- 53.0
+Bupati Gowa -- 2.0
+Kecamatan -- 52.0
+Aziz -- 2.0
+Purichta Ichsan -- 2.0
+Bupati -- 2.0
+Bontomarannu -- 3.0
+Kepala -- 53.0
+Kecamatan Manuju -- 3.0
+Kabupaten -- 2.0
+Pemilihan Kepala -- 2.0
+Bontonompo Selatan -- 4.0
+Kecamatan Parigi -- 3.0
+Kepala Desa -- 52.0
+Pallangga -- 8.0
+Manuju -- 4.0
+Kecamatan Pallangga -- 7.0
+Syarifuddin -- 2.0
+Kecamatan Bontonompo -- 7.0
+Biringbulu -- 3.0
+Bohari -- 2.0
+Muhammad -- 3.0
+Arifin -- 2.0
+Gowa -- 5.0
+Bontonompo -- 7.0
+Kecamatan Bajeng -- 9.0
+Pemilihan -- 2.0
+Kecamatan Tombolopao -- 4.0
+Kecamatan Bontolempangan -- 3.0
+Kecamatan Barombong -- 3.0
+Parigi -- 4.0
+Kecamatan Bontomarannu -- 3.0
+Adnan -- 2.0
+Purichta -- 2.0
+Bajeng -- 9.0
+Bontolempangan -- 4.0
+Ilyas -- 2.0
+ -- time: 0.021
 
 --------------------
 
@@ -5053,7 +7082,26 @@ DPRD Makassar -- 3.223180281101274
 Kepala Daerah -- 2.6513514040396635
 Pileg 2014 -- 2.378490608628829
 Pilkada -- 2.12037625353508
- -- time: 0.053
+ -- time: 0.002
+
+--------------------
+
+
+Makassar -- 5.0
+Rasyid Ali -- 2.0
+Pilkada -- 2.0
+Demokrat Makassar -- 2.0
+Demokrat -- 3.0
+Rasyid -- 2.0
+Partai -- 3.0
+Pileg -- 3.0
+Partai Demokrat Makassar -- 2.0
+Ketua -- 2.0
+DPC -- 2.0
+Partai Demokrat -- 3.0
+DPRD -- 2.0
+Ali -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -5088,7 +7136,20 @@ Ninja -- 1.028971598600243
 Osaka -- 0.91038741956969
 Bukittinggi -- 0.84211310388734
 Murid -- 0.8397537731425267
- -- time: 0.004
+ -- time: 0.003
+
+--------------------
+
+
+Makassar -- 2.0
+Hasuda -- 3.0
+Festival -- 3.0
+Universitas -- 2.0
+Jogyakarta -- 2.0
+Matsuri -- 2.0
+Ai -- 7.0
+Ai Hasuda -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -5115,7 +7176,16 @@ Ketahanan Pangan -- 2.853205671846663
 Foto -- 1.2809688204414829
 Pertanian -- 1.2568528202557097
 KPI -- 1.0951502148870917
- -- time: 0.002
+ -- time: 0.001
+
+--------------------
+
+
+DKI -- 2.0
+DKI Jakarta -- 2.0
+Jakarta -- 2.0
+KPKP -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -5137,6 +7207,15 @@ KPI -- 1.0951502148870917
 http://kriminalitas.com/ketahuan-mau-cabuli-istri-orang-sujarno-tewas-usai-kepalanya-dihantam-besi/
 Polres Kediri -- 4.23546200484934
 Motif -- 0.8687273373937524
+ -- time: 0.002
+
+--------------------
+
+
+Panggayoh -- 2.0
+Polres -- 2.0
+Polres Kediri -- 2.0
+Kediri -- 3.0
  -- time: 0.001
 
 --------------------
@@ -5169,6 +7248,15 @@ Twitter -- 0.9216090977930865
 --------------------
 
 
+Red -- 2.0
+Red Velvet -- 2.0
+Seulgi -- 2.0
+Velvet -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img width="553" height="310" src="[BASEURL]/9357b42629cdc50ebe652144f7f4a794.png" alt="" data:w="553" data:h="310">  
 <p>Sungjae BTOB mengaku menerima tawaran peran sebagai Yoo Deok Hwa di ‘Goblin’ tanpa membaca naskah terlebih dahulu.</p> 
 <p>Baru baru ini Sungjae yang muncul di ‘Entertainment News Tonight’ bersama anggota BTOB mengungkapkan ceritanya tentang peran di ‘Goblin’.</p> 
@@ -5183,6 +7271,14 @@ https://www.kpopchart.net/2017/02/sungjae-btob-ambil-peran-di-goblin-tanpa-baca-
 Gong Yoo -- 4.439447515380524
 BTOB -- 2.483311239393944
 News -- 1.1921600864134656
+ -- time: 0.002
+
+--------------------
+
+
+Yoo -- 2.0
+Sungjae -- 2.0
+BTOB -- 2.0
  -- time: 0.001
 
 --------------------
@@ -5208,6 +7304,15 @@ Secret -- 1.0305536576338865
 Society -- 1.026665828460369
 History -- 1.0156383751352822
 Italia -- 0.8931574807681353
+ -- time: 0.001
+
+--------------------
+
+
+The -- 4.0
+Black Hand -- 2.0
+Black -- 2.0
+Hand -- 2.0
  -- time: 0.002
 
 --------------------
@@ -5239,7 +7344,16 @@ Muslim -- 1.2769462186709812
 Twin -- 1.1520764141313198
 Udara -- 1.1330571280197475
 Internasional -- 1.1310013853824554
- -- time: 0.002
+ -- time: 0.003
+
+--------------------
+
+
+Hodges -- 2.0
+Minneapolis -- 2.0
+Trump -- 2.0
+Hussein -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -5270,6 +7384,22 @@ Cipayung -- 1.1095124325483459
 --------------------
 
 
+Brimob -- 2.0
+Metro Jaya -- 2.0
+Kelapa Dua -- 2.0
+Metro -- 2.0
+Mako Brimob -- 2.0
+Depok -- 2.0
+Argo -- 2.0
+Mako -- 2.0
+Jaya -- 2.0
+Kelapa -- 2.0
+Firza -- 2.0
+ -- time: 0.001
+
+--------------------
+
+
 <img src="[BASEURL]/639bf92968be114859c0e2a4ed27d9b9.jpeg" data:w="700" data:h="466">  
 <p><strong>Rimanews</strong> - Mantan Ketua KPK Antasari Azhar kecewa karena&nbsp;kasus yang dilaporkannya pada tahun 2011 mengenai SMS fiktif terhadap bos PT Rajawali Putra Banjaran, Nasrudin Zulkarnaen, mandek.</p> 
 <p>"Setelah saya bertemu dengan pejabat yang berwenang&nbsp;yang dulu menangani, &nbsp;ternyata masih <em>stuck</em>. Belum ada pergerakan," ujar Antasari di Mapolda Metro Jaya, hari ini.</p> 
@@ -5288,6 +7418,13 @@ Ketua KPK -- 2.94361583982875
 Nasrudin Zulkarnaen -- 2.764606182263752
 Bareskrim Polri -- 2.429147247609969
 Polda -- 0.9060152807877326
+ -- time: 0.001
+
+--------------------
+
+
+Metro -- 2.0
+Antasari -- 3.0
  -- time: 0.001
 
 --------------------
@@ -5312,6 +7449,13 @@ iPad -- 1.9775836416949155
 Perusahaan -- 1.312182956611907
 Cupertino -- 1.3023631114511227
 California -- 1.295654629845739
+ -- time: 0.001
+
+--------------------
+
+
+Apple -- 3.0
+US$ -- 2.0
  -- time: 0.001
 
 --------------------
@@ -5371,6 +7515,13 @@ Makanan -- 0.8393753945789637
 --------------------
 
 
+Foto -- 2.0
+Instagram -- 6.0
+ -- time: 0.004
+
+--------------------
+
+
 <img width="620" src="[BASEURL]/a60823474ada91a171ebb6aefe08935c.jpeg" alt="GP Ansor DKI Pertanyakan Asal Usul Sadapan Ketua MUI dengan SBY" data:w="620" data:h="413">     GP Ansor. Foto/Istimewa/SINDOnews    
 <strong>JAKARTA</strong> - Pimpinan Wilayah Gerakan Pemuda (PW GP) Ansor DKI Jakarta mempertanyakan klaim penyadapan dari penasihat hukum terdakwa Basuki Tjahaja Purnama (Ahok) terkait percakapan Ketua MUI KH Ma'ruf Amin dengan Ketua Umum Partai Demokrat Susilo Bambang Yudhoyono (SBY). Karena, yang mempunyai kewenangan untuk menyadap adalah lembaga penegak hukum. 
 <p>"Silakan saja mereka mau lapor, bilang Pak Kiai (Ma'ruf Amin) berbohong. Satu hal yang perlu diingat, apa yang dibilang penasihat hukum Ahok yang dibilang percakapan Pak Kiai dan SBY disadap, bahwa itu ada UU (undang-undang) penyadapan. Itu tidak mudah," kata Ketua Hubungan Antar Lembaga PW GP Ansor DKI Jakarta, Redim Okto Fudin saat dihubungi <strong>SINDOnews</strong>, Rabu (1/2/2017).</p> 
@@ -5400,7 +7551,29 @@ Penyadapan -- 0.9475094152691714
 Rekaman -- 0.847558840937737
 BIN -- 0.8361741241447849
 Elektabilitas -- 0.8343424181439016
- -- time: 0.008
+ -- time: 0.006
+
+--------------------
+
+
+UU -- 2.0
+DKI -- 2.0
+Ansor DKI -- 2.0
+DKI Jakarta -- 2.0
+PW -- 2.0
+Redim -- 2.0
+GP -- 2.0
+PW GP -- 2.0
+Amin -- 2.0
+Ansor -- 3.0
+Ansor DKI Jakarta -- 2.0
+SINDOnews -- 2.0
+Ketua -- 3.0
+Jakarta -- 2.0
+Ma'ruf Amin -- 2.0
+Ahok -- 3.0
+Ma'ruf -- 2.0
+ -- time: 0.056
 
 --------------------
 
@@ -5427,7 +7600,17 @@ Jakarta Selatan -- 2.8545358307558395
 Kebayoran Baru -- 2.4221432959298816
 Sragen -- 2.2142995545757667
 Sugiyanto -- 1.8153423834512012
- -- time: 0.004
+ -- time: 0.005
+
+--------------------
+
+
+Jakarta -- 2.0
+Densus -- 3.0
+Densus 88 -- 2.0
+Martinus -- 2.0
+Polri -- 4.0
+ -- time: 0.003
 
 --------------------
 
@@ -5457,6 +7640,15 @@ News -- 1.3143300089859624
 Nasional -- 0.8912381963091742
 Jenderal -- 0.8510697440402
 Penyakit -- 0.8436925898868028
+ -- time: 0.004
+
+--------------------
+
+
+BPJS -- 3.0
+Fachrurrazi -- 2.0
+Kesehatan -- 5.0
+BPJS Kesehatan -- 2.0
  -- time: 0.004
 
 --------------------
@@ -5497,7 +7689,26 @@ Pengamat -- 1.3109589439622988
 Kementan -- 1.006552620527204
 Baca -- 0.962291108252836
 Wantimpres -- 0.8914447266468852
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+MUI -- 4.0
+Igor -- 2.0
+Demokrat -- 2.0
+Partai -- 2.0
+SBY -- 2.0
+Amin -- 2.0
+Ketua -- 3.0
+Jakarta -- 4.0
+Yudhoyono -- 2.0
+Presiden -- 3.0
+Partai Demokrat -- 2.0
+Ma'ruf Amin -- 2.0
+Ketua Umum -- 2.0
+Ma'ruf -- 3.0
+ -- time: 0.004
 
 --------------------
 
@@ -5538,7 +7749,24 @@ Markas -- 0.8652208078447643
 Komando -- 0.863220298198651
 Brimob -- 0.8609396646572679
 Depok -- 0.8555472796287396
- -- time: 0.005
+ -- time: 0.006
+
+--------------------
+
+
+Polda -- 3.0
+Jakarta Timur -- 2.0
+Metro Jaya -- 3.0
+Timur -- 2.0
+Metro -- 3.0
+Jakarta -- 3.0
+Polda Metro -- 3.0
+Rizieq -- 3.0
+Jaya -- 3.0
+Firza -- 2.0
+Polda Metro Jaya -- 3.0
+Aldwin -- 2.0
+ -- time: 0.006
 
 --------------------
 
@@ -5576,6 +7804,21 @@ Pentagon -- 0.864514904736457
 Professor -- 0.8503867730618279
 University -- 0.8429304527883761
 Timur -- 0.8144470811280432
+ -- time: 0.006
+
+--------------------
+
+
+AS -- 4.0
+Donovan -- 2.0
+Negeri -- 3.0
+Duta Besar -- 2.0
+Presiden -- 2.0
+Luar Negeri -- 3.0
+Washington -- 2.0
+Duta -- 2.0
+Kepala -- 4.0
+Pasifik -- 2.0
  -- time: 0.005
 
 --------------------
@@ -5605,7 +7848,19 @@ Kriminal -- 1.3062439217276685
 Riau -- 0.9178959238507107
 Perempuan -- 0.8519496854605191
 Suami -- 0.8172566569192047
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Polresta Pekanbaru -- 2.0
+Pekanbaru -- 4.0
+Polresta -- 2.0
+Bimo -- 2.0
+Satreskrim -- 2.0
+Dinsos -- 2.0
+Lili -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -5649,7 +7904,23 @@ BPJS -- 0.9318794468343677
 Whatsapp -- 0.8722706796979964
 Relawan -- 0.8610401536754971
 Jeruk -- 0.8199296961004715
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+Jawa -- 2.0
+Kecamatan -- 2.0
+Sulami -- 2.0
+Hartono -- 2.0
+Dr Moewardi -- 2.0
+Moewardi -- 2.0
+Solo -- 2.0
+Kemensos -- 2.0
+Dr -- 3.0
+Desa -- 2.0
+Indonesia -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -5687,6 +7958,19 @@ Pancasila -- 0.8386444756378405
 --------------------
 
 
+MUI -- 2.0
+Metro Jaya -- 2.0
+Metro -- 2.0
+Habib Rizieq -- 2.0
+Habib -- 2.0
+Rizieq -- 3.0
+Jaya -- 2.0
+Firza -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
 <p><strong>BANDAR LAMPUNG</strong> - Sungguh tega Nukman Prayoga alias Yoga (21). Lebih dari tujuh bulan berturut-turut, buruh serabutan ini memerkosa anak tirinya yang baru berumur delapan tahun.</p> 
 <p>Atas perbuatannya itu, Yoga kini menjadi penghuni sel tahanan Polsek Natar. Yoga ditangkap pada Kamis 27 Januari lalu sekitar pukul 14.30 WIB.</p> 
@@ -5706,7 +7990,13 @@ Polsek Natar -- 2.975431564333708
 Kompol Eko -- 2.747282991484984
 LAMPUNG -- 1.3155105875026036
 Dusun -- 0.9453252242204138
- -- time: 0.064
+ -- time: 0.001
+
+--------------------
+
+
+Natar -- 2.0
+ -- time: 0.001
 
 --------------------
 
@@ -5735,6 +8025,19 @@ Pasangan -- 1.3144861219732527
 Salahuddin -- 1.2756197831361789
 Sport -- 1.2506337789198338
 Permai -- 1.22948728369206
+ -- time: 0.068
+
+--------------------
+
+
+Prabowo -- 2.0
+Kedoya -- 2.0
+Kecamatan -- 2.0
+Gerindra -- 2.0
+Jakarta -- 3.0
+Partai -- 3.0
+Partai Gerindra -- 2.0
+Anies -- 2.0
  -- time: 0.003
 
 --------------------
@@ -5767,6 +8070,28 @@ Bahagia -- 0.8017297290565918
 --------------------
 
 
+Jatim -- 2.0
+Gunawan Angka -- 2.0
+Cahaya -- 2.0
+PT -- 3.0
+PT Blauran -- 2.0
+Blauran Cahaya Mulya -- 2.0
+Cahaya Mulya -- 2.0
+Chin -- 2.0
+PT Blauran Cahaya Mulya -- 2.0
+PT Blauran Cahaya -- 2.0
+Blauran Cahaya -- 2.0
+Polda -- 2.0
+Blauran -- 2.0
+Polda Jatim -- 2.0
+Angka -- 2.0
+Gunawan -- 3.0
+Mulya -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> &nbsp; 
 <p><strong>JAKARTA</strong> - Ratuan massa Front Pembela Islam (FPI) menggelar aksi unjuk rasa mengawal pemeriksaan Habib Rizieq Shihab; Ketua GNPF-MUI, Bachtiar Nasir; dan juru bicara FPI, Munarman di depan Mapolda Metro Jaya, Jalan Jenderal Sudirman, Jakarta Selatan.</p> 
 <p>Pantauan <strong>Okezone</strong> di lokasi, Rabu (1/1/2017). Meski hujan deras terus mengguyur kawasan Sudirman, massa FPI pun tetap semangat melanjutkan aksinya. Bahkan dengan lantang di hadapan ratusan massa aksi, sang orator yang berdiri di atas mobil komando melanjutkan orasinya menyamakan aspirasi mereka.</p> 
@@ -5792,7 +8117,20 @@ Takbir -- 0.9272743930914203
 Akbar -- 0.9227222451963117
 Imam -- 0.8615720703558374
 Sekretaris -- 0.8511765779338195
- -- time: 0.003
+ -- time: 0.002
+
+--------------------
+
+
+Mapolda -- 2.0
+Sudirman -- 2.0
+Islam -- 2.0
+Habib Rizieq -- 2.0
+Habib -- 2.0
+Jenderal -- 2.0
+Rizieq -- 2.0
+FPI -- 3.0
+ -- time: 0.002
 
 --------------------
 
@@ -5828,6 +8166,28 @@ Suryadi -- 0.8025058710945006
 --------------------
 
 
+MUI -- 3.0
+Provinsi Riau -- 2.0
+Majelis Ulama -- 2.0
+Majelis Ulama Indonesia -- 2.0
+Habib Rizieq -- 2.0
+Habib -- 2.0
+Ulama Indonesia -- 2.0
+Ma’ruf -- 2.0
+Majelis -- 2.0
+Riau -- 3.0
+Zulhusni -- 2.0
+Provinsi -- 2.0
+Rizieq -- 2.0
+KH Ma’ruf -- 2.0
+KH -- 2.0
+Ulama -- 2.0
+Indonesia -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 <img src="[BASEURL]/6c5f119d9266fd503a0e5c71a19f10de.jpeg" alt="Dukungan Bek Nice untuk Guardiola di Man City" width="600" height="300" data:w="600" data:h="300"> 
 <p><strong>INILAHCOM, Nice - Pelatih Pep Guardiola tengah menjadi sorotan menyusul rangkaian hasil buruk yang menimpa tim asuhannya, Manchester City beberapa waktu terakhir ini.</strong></p> 
 <p>Sempat membawa City melaju kencang di awal musim, performa Sergio Aguero cs. justru terus menurun hingga akhirnya mereka tengah terdampar di posisi kelima klasemen sementara Liga Premier Inggris.</p> 
@@ -5850,6 +8210,14 @@ Bayern Muenchen -- 1.902388535887641
 FC Hollywood -- 1.8149937757761676
 Brasil -- 1.114653259784786
 Bundesliga -- 0.81596263752882
+ -- time: 0.002
+
+--------------------
+
+
+Inggris -- 2.0
+Pep -- 2.0
+City -- 2.0
  -- time: 0.001
 
 --------------------
@@ -5868,6 +8236,14 @@ Bundesliga -- 0.81596263752882
 10660077
 http://www.tribunnews.com/bisnis/2017/02/01/kestabilan-nilai-tukar-rupiah-tentukan-pasar-properti
 Vivin Harsanto -- 3.086643801858481
+ -- time: 0.001
+
+--------------------
+
+
+Vivin -- 2.0
+JLL -- 3.0
+Herully -- 2.0
  -- time: 0.001
 
 --------------------
@@ -5925,7 +8301,56 @@ Depok -- 1.0339217667366765
 Warga -- 0.8792736907742468
 Tangerang -- 0.8784474352133625
 WhatsApp -- 0.8514788176760947
- -- time: 0.011
+ -- time: 0.166
+
+--------------------
+
+
+Mahasiswa Anti-Pornografi -- 2.0
+Kriminal Khusus Polda Metro -- 2.0
+Direktorat -- 2.0
+Khusus Polda Metro -- 2.0
+Direktorat Reserse -- 2.0
+Khusus Polda -- 2.0
+Khusus Polda Metro Jaya -- 2.0
+Polda Metro Jaya -- 4.0
+Undang-undang No -- 3.0
+Khusus -- 3.0
+Metro Jaya -- 5.0
+Ayat -- 3.0
+Metro -- 5.0
+Kriminal Khusus Polda -- 2.0
+Kriminal Khusus -- 3.0
+Reserse Kriminal Khusus -- 3.0
+Direktorat Reserse Kriminal Khusus -- 2.0
+Aliansi Mahasiswa Anti-Pornografi -- 2.0
+Rizieq -- 2.0
+Azis -- 2.0
+Firza -- 2.0
+Anti-Pornografi -- 2.0
+Jefri -- 2.0
+Mahasiswa -- 3.0
+No -- 3.0
+Reserse Kriminal Khusus Polda Metro Jaya -- 2.0
+Reserse -- 3.0
+Direktorat Reserse Kriminal -- 2.0
+Reserse Kriminal -- 3.0
+Argo -- 2.0
+Kriminal -- 3.0
+Polda Metro -- 4.0
+Wahyu -- 2.0
+Reserse Kriminal Khusus Polda Metro -- 2.0
+Undang-undang -- 4.0
+Polda -- 4.0
+Kriminal Khusus Polda Metro Jaya -- 2.0
+Reserse Kriminal Khusus Polda -- 2.0
+Aliansi -- 2.0
+Jakarta -- 2.0
+Pornografi -- 2.0
+Pasal -- 3.0
+Jaya -- 5.0
+Aliansi Mahasiswa -- 2.0
+ -- time: 0.01
 
 --------------------
 
@@ -5946,6 +8371,12 @@ Jakarta Selatan -- 2.4433683352170013
 Wartawan -- 1.3124067835220858
 Tendean -- 1.0923617459302655
  -- time: 0.001
+
+--------------------
+
+
+Tata -- 2.0
+ -- time: 0.0
 
 --------------------
 
@@ -5989,6 +8420,22 @@ Calon -- 1.3092096439788905
 Presiden -- 1.247461027948348
 Cilincing -- 1.1056904064846458
 Sari -- 0.8022902933134279
+ -- time: 0.005
+
+--------------------
+
+
+DKI -- 2.0
+DKI Jakarta -- 2.0
+Jakarta -- 3.0
+Yudhoyono -- 2.0
+Humphrey -- 2.0
+Agus -- 2.0
+PBNU -- 2.0
+Ahok -- 2.0
+Amin -- 2.0
+Ma'ruf -- 2.0
+Indonesia -- 2.0
  -- time: 0.004
 
 --------------------
@@ -6053,6 +8500,27 @@ Matahari -- 0.839241956457946
 PLN -- 0.8299686595508787
 Kehutanan -- 0.8250476552767237
 OJK -- 0.8127452172044589
+ -- time: 0.006
+
+--------------------
+
+
+Nasional -- 4.0
+Menteri -- 2.0
+HPN 2017 -- 2.0
+HPN -- 3.0
+Pramono -- 2.0
+Kementerian -- 4.0
+Maluku -- 4.0
+Margiono -- 2.0
+Kabinet -- 2.0
+Cyber -- 5.0
+Ambon -- 2.0
+Cyber Nasional -- 2.0
+Sekretaris Kabinet -- 2.0
+Presiden -- 3.0
+Sekretaris -- 2.0
+Pusat -- 2.0
  -- time: 0.005
 
 --------------------
@@ -6102,6 +8570,27 @@ Cilacap -- 0.8943172361610284
 --------------------
 
 
+Polres -- 2.0
+Kabupaten -- 2.0
+Tasikmalaya -- 2.0
+Padakembang -- 2.0
+Polres Ciamis -- 2.0
+Satreskrim -- 2.0
+Tribun Jabar -- 2.0
+Desa -- 2.0
+Satreskrim Polres Ciamis -- 2.0
+Kalipucang -- 2.0
+Satreskrim Polres -- 2.0
+Yusri -- 2.0
+Kecamatan -- 3.0
+Ciamis -- 2.0
+Jabar -- 3.0
+Tribun -- 2.0
+ -- time: 0.004
+
+--------------------
+
+
 <img src="[BASEURL]/878e236b19466eec22af6df6dfce9343.jpeg" width="700" height="393" alt="LDNU Sayangkan Sikap Ahok dan Tim Pengacara Kepada Maruf Amin" data:w="700" data:h="393">       
 <p><strong>TRIBUNNEWS.COM, JAKARTA -</strong> Lembaga Dakwah Pengurus Besar Nahdlatul Ulama (LD PBNU) menyayangkan sikap, perilaku maupun kata-kata dari terdakwa dan Tim Pengacara Kasus Penistaan Agama oleh <a href="http://www.tribunnews.com/tag/basuki-tjahaja-purnama" rel="nofollow">Basuki Tjahaja Purnama</a> (Ahok) pada <a href="http://www.tribunnews.com/tag/selasa" rel="nofollow">Selasa</a> (31/1/2017) di Gedung Kementerian Pertanian (Kementan), Jakarta Selatan.</p> 
 <p>Atas hal itu Ketua Lembaga Dakwah Pengurus Besar Nahdlatul Ulama (LD PBNU), <a href="http://www.tribunnews.com/tag/maman-imanulhaq" rel="nofollow">Maman Imanulhaq</a> menyampaikan lima sikapnya:</p> 
@@ -6144,6 +8633,42 @@ Warga -- 0.8311298178828794
 --------------------
 
 
+Dakwah Pengurus Besar Nahdlatul Ulama -- 2.0
+Pengurus -- 2.0
+Dakwah Pengurus -- 2.0
+Maman -- 2.0
+Lembaga Dakwah Pengurus -- 2.0
+Ma’ruf Amin -- 3.0
+Dakwah Pengurus Besar Nahdlatul -- 2.0
+Besar Nahdlatul Ulama -- 2.0
+Kyai -- 4.0
+Dakwah Pengurus Besar -- 2.0
+Ahli -- 3.0
+Nahdlatul Ulama -- 2.0
+Kyai Ma’ruf Amin -- 2.0
+Lembaga Dakwah -- 2.0
+Dakwah -- 2.0
+Lembaga Dakwah Pengurus Besar Nahdlatul -- 2.0
+Lembaga Dakwah Pengurus Besar -- 2.0
+Pengurus Besar Nahdlatul -- 2.0
+Pengurus Besar Nahdlatul Ulama -- 2.0
+Lembaga Dakwah Pengurus Besar Nahdlatul Ulama -- 2.0
+Ma’ruf -- 4.0
+Agama -- 3.0
+Pengurus Besar -- 2.0
+Lembaga -- 2.0
+Amin -- 4.0
+Besar Nahdlatul -- 2.0
+Kyai Ma’ruf -- 3.0
+Keterangan -- 2.0
+Tim -- 2.0
+Ulama -- 3.0
+Nahdlatul -- 2.0
+ -- time: 0.004
+
+--------------------
+
+
 <img src="[BASEURL]/8f9d14a9e955dfc5a2ef541ab830d838.jpeg" width="700" height="393" alt="Korek Kejahatan Pemilik Yayasan, Polisi Ajak Anak-anak Makan Ayam Goreng" data:w="700" data:h="393">       
 <p><strong>Laporan Wartawan Tribun Pekanbaru, Budi Rahmat</strong></p> 
 <p><strong>TRIBUNNEWS.COM, PEKANBARU</strong> - Anak-anak panti dan pengasuh Yayasan Tunas Bangsa diperintahkan tidak membongkar kejahatan pemilik yayasan, Lili.</p> 
@@ -6174,7 +8699,22 @@ Polisi -- 1.0946823441960831
 Suami -- 1.0878191545588487
 Tersangka -- 1.0859548548363498
 Riau -- 0.8895114093540131
- -- time: 0.012
+ -- time: 0.003
+
+--------------------
+
+
+Polresta Pekanbaru -- 2.0
+Tunas Bangsa -- 2.0
+Pekanbaru -- 3.0
+Polresta -- 2.0
+Bimo -- 2.0
+Yayasan Tunas Bangsa -- 2.0
+Yayasan -- 2.0
+Yayasan Tunas -- 2.0
+Tunas -- 2.0
+Bangsa -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -6207,7 +8747,21 @@ PN JakUt -- 2.7007872099118653
 Ketua Umum -- 2.633328502008406
 TRIBUNNERS -- 1.9313037704025073
 Pancasila -- 1.2386933664638227
- -- time: 0.003
+ -- time: 0.004
+
+--------------------
+
+
+Tim Pengacara -- 2.0
+Ketua -- 2.0
+NU -- 2.0
+Tim -- 2.0
+Ahok -- 2.0
+Ulama -- 3.0
+Pengacara -- 2.0
+Ma'ruf -- 2.0
+Indonesia -- 2.0
+ -- time: 0.004
 
 --------------------
 
@@ -6262,6 +8816,13 @@ Masyarakat -- 0.8020621497976363
 --------------------
 
 
+Jakarta -- 3.0
+Pilgub -- 2.0
+ -- time: 0.003
+
+--------------------
+
+
 <img src="[BASEURL]/ab3050fc7119fc7d9911c720a721d397.jpeg" width="700" height="393" alt="Pasangan Mesum Kepergok Petugas Berduaan di Kamar Tanpa Busana" data:w="700" data:h="393">       
 <p><strong>TRIBUNNEWS.COM, NEGARA</strong> - Penghuni rumah kos di Kelurahan Gilimanuk, Kecamatan Melaya, Jembrana, Bali pagi-pagi sudah dikejutkan dengan kedatangan personel gabungan, Selasa (31/1/2017).</p> 
 <p>Belasan penghuni kos diamankan lantaran tak dilengkapi Surat Keterangan Tinggal Sementara (SKTS).</p> 
@@ -6304,6 +8865,22 @@ Banyuwangi -- 1.0168952847275479
 Arfianto -- 0.9856559709180808
 Depok -- 0.8898078936186016
 PNS -- 0.80389692860332
+ -- time: 0.005
+
+--------------------
+
+
+Gilimanuk -- 3.0
+Ngurah -- 2.0
+Jawa -- 2.0
+Bali -- 2.0
+Ngurah Widiada -- 2.0
+Barat -- 2.0
+Widiada -- 2.0
+Lingkungan -- 4.0
+Kelurahan -- 2.0
+TNBB -- 2.0
+Kelurahan Gilimanuk -- 2.0
  -- time: 0.004
 
 --------------------
@@ -6340,6 +8917,16 @@ Cipayung -- 1.261241588338864
 Video -- 1.1299783979053264
 Depok -- 0.902076261776247
 Polri -- 0.8861337636512814
+ -- time: 0.003
+
+--------------------
+
+
+Firza Husein -- 2.0
+Husein -- 2.0
+Martinus -- 2.0
+Firza -- 3.0
+Vivi -- 2.0
  -- time: 0.002
 
 --------------------
@@ -6368,6 +8955,15 @@ Anak -- 0.9308933779857944
 Bangsa -- 0.8739779302393686
 Perumahan -- 0.8114012335657098
  -- time: 0.001
+
+--------------------
+
+
+Polresta Pekanbaru -- 3.0
+Pekanbaru -- 4.0
+Polresta -- 3.0
+Bimo -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -6409,7 +9005,19 @@ Mesir -- 0.9131290098942595
 Permesta -- 0.886770805517946
 Operasi -- 0.8192672593963426
 Ferry Setiawan -- 0.202741799927053
- -- time: 0.06
+ -- time: 0.003
+
+--------------------
+
+
+Tu-16 -- 3.0
+AU -- 3.0
+Tupolev Tu-16 -- 2.0
+TNI AU -- 2.0
+Tupolev -- 4.0
+TNI -- 3.0
+Indonesia -- 2.0
+ -- time: 0.003
 
 --------------------
 
@@ -6441,6 +9049,22 @@ Politikus -- 1.1318808942502234
 Direktur -- 0.8820640772925495
 Presiden -- 0.838799183255082
  -- time: 0.003
+
+--------------------
+
+
+Kejaksaan -- 2.0
+Jaksa -- 2.0
+Junimart -- 3.0
+Girsang -- 2.0
+Junimart Girsang -- 2.0
+Prasetyo -- 2.0
+Jaksa Agung -- 2.0
+DPR -- 2.0
+Antasari -- 2.0
+Agung -- 3.0
+Komisi -- 2.0
+ -- time: 0.002
 
 --------------------
 
@@ -6481,6 +9105,13 @@ Hakim -- 1.2658282071614462
 --------------------
 
 
+Basuki -- 2.0
+Patrialis -- 2.0
+ -- time: 0.002
+
+--------------------
+
+
 Foto: Fransiscus Rosano  
 <img src="[BASEURL]/7d89b90e812d2a28f5a22e9867d9f690.jpeg" data:w="650" data:h="433">  
 <p>All New Kia Rio di Eropa memanfaatkan pabrik Kia di Korea, begitu juga Indonesia nantinya</p>    
@@ -6516,6 +9147,29 @@ Mulyadi -- 1.0911412790587316
 Manager -- 1.0855957713222548
 Hyundai -- 0.8103454531810907
  -- time: 0.004
+
+--------------------
+
+
+All -- 2.0
+New -- 2.0
+Kia -- 6.0
+All New -- 2.0
+Motor -- 2.0
+Motors -- 2.0
+All New Kia -- 2.0
+Ridjal -- 2.0
+System -- 2.0
+Eropa -- 2.0
+Rio -- 3.0
+All New Kia Rio -- 2.0
+Kia Motors -- 2.0
+Kia Rio -- 2.0
+New Kia -- 2.0
+Korea -- 2.0
+Indonesia -- 3.0
+New Kia Rio -- 2.0
+ -- time: 0.006
 
 --------------------
 
@@ -6588,7 +9242,40 @@ Rita -- 0.8246281367940433
 Arifin -- 0.8207657170016512
 KARYA -- 0.8126180369813861
 JURNALISTIK -- 0.8116648194520629
- -- time: 0.01
+ -- time: 0.009000000000000001
+
+--------------------
+
+
+Peliputan -- 4.0
+Foto -- 3.0
+Ancaman -- 2.0
+2016 Dewan -- 2.0
+Karya -- 2.0
+News Feature Televisi -- 2.0
+Feature -- 5.0
+Karikatur -- 2.0
+Dewan -- 2.0
+News Feature -- 5.0
+Feature Radio -- 2.0
+News -- 6.0
+Kategori Peliputan News -- 2.0
+Adinegoro -- 2.0
+Televisi -- 2.0
+Kategori Peliputan News Feature -- 2.0
+Kategori Peliputan -- 3.0
+Peliputan News -- 2.0
+Kategori -- 5.0
+Berita -- 3.0
+Feature Televisi -- 2.0
+Anugerah -- 2.0
+Radio -- 2.0
+Foto Berita -- 2.0
+News Feature Radio -- 2.0
+Jakarta -- 2.0
+Mendalam -- 2.0
+Peliputan News Feature -- 2.0
+ -- time: 0.009000000000000001
 
 --------------------
 
@@ -6639,7 +9326,35 @@ Agus Harimurti Yudhoyono -- 0.5981925080426957
 Sylviana Murni -- 0.5512799272622446
 Susilo Bambang Yudhoyono -- 0.38814570103940826
 Suryadharma Ali -- 0.2781975141935901
- -- time: 0.005
+ -- time: 0.006
+
+--------------------
+
+
+MUI -- 3.0
+Humphrey -- 2.0
+Purnama -- 2.0
+Sirra -- 2.0
+Ma’ruf -- 2.0
+Wayan -- 2.0
+SBY -- 3.0
+MUI Ma'ruf Amin -- 2.0
+Amin -- 4.0
+Tjahaja -- 2.0
+Basuki Tjahaja Purnama -- 2.0
+Tjahaja Purnama -- 2.0
+Basuki -- 2.0
+MUI Ma'ruf -- 2.0
+Saputri -- 2.0
+Ketua -- 2.0
+Jakarta -- 2.0
+Yudhoyono -- 2.0
+Maya -- 2.0
+Maya Saputri -- 2.0
+Ma'ruf Amin -- 3.0
+Basuki Tjahaja -- 2.0
+Ma'ruf -- 4.0
+ -- time: 0.004
 
 --------------------
 
