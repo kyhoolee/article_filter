@@ -91,6 +91,10 @@ public class CneAPI {
 		return r;
 	}
 	
+	public static void filter(List<Entity> e) {
+		
+	}
+	
 	
 
 }
