@@ -118,7 +118,7 @@ public class CneDetector {
 		String[] sents = TextParser.sentenize(text);
 		for (int i = 0; i < sents.length; i++) {
 			sents[i] = removePunctuation(sents[i]);
-			System.out.println(sents[i]);
+			//System.out.println(sents[i]);
 
 			String[] word = TextParser.tokenize(sents[i]);
 			List<String> sent = new ArrayList<String>(Arrays.asList(word));
@@ -192,7 +192,7 @@ public class CneDetector {
 
 					j = next;
 					if (candidateFilter(candidate)) {
-						System.out.println(j + " " + next + " : " + candidate);
+						//System.out.println(j + " " + next + " : " + candidate);
 						result.add(postProcess(candidate));
 
 					}
@@ -214,7 +214,7 @@ public class CneDetector {
 
 					j = next;
 					if (candidateFilter(candidate)) {
-						System.out.println(j + " " + next + " : " + candidate);
+						//System.out.println(j + " " + next + " : " + candidate);
 						result.add(postProcess(candidate));
 
 					}
@@ -247,7 +247,7 @@ public class CneDetector {
 		String[] sents = TextParser.sentenize(text);
 
 		for (int i = 0; i < sents.length; i++) {
-			System.out.println(sents[i]);
+			//System.out.println(sents[i]);
 			sents[i] = preProcess(sents[i]);
 
 			String[] word = TextParser.tokenize(sents[i]);
@@ -303,7 +303,7 @@ public class CneDetector {
 
 		}
 
-		Utils.printArray(result);
+		//Utils.printArray(result);
 
 		return result;
 	}
@@ -321,7 +321,7 @@ public class CneDetector {
 
 				if (candidateFilter(c)) {
 					result.add(c);
-					System.out.println(c);
+					//System.out.println(c);
 				}
 			}
 		}
@@ -377,13 +377,13 @@ public class CneDetector {
 		for (String c : candidate) {
 			int eC = SpellApp.countExact(c);
 			if (SpellApp.countExact(c) > 0) {
-				System.out.println(c + " --- " + eC);
+				//System.out.println(c + " --- " + eC);
 				filtered.add(c);
 				r.add(c);
 			} else {
 				int tagged = SpellApp.countSuffix(c);
 				if (tagged > 0 && tagged < 100) {
-					System.out.println(c + " --- " + tagged);
+					//System.out.println(c + " --- " + tagged);
 					filtered.add(c);
 				}
 
@@ -578,6 +578,81 @@ public class CneDetector {
 		return result;
 	}
 	
+	public static List<Entity> getEntity(Map<String, Double> cans) {
+		List<Entity> result = new ArrayList<Entity>();
+		
+		for(String c : cans.keySet()) {
+			Entity e = new Entity(c, cans.get(c), Entity.type_unknow);
+			result.add(e);
+		}
+		
+		return result;
+	}
+	
+	public static List<Entity> getEntity(Map<String, Integer> cans, Set<String> matched) {
+		List<Entity> result = new ArrayList<Entity>();
+		
+		for(String c : cans.keySet()) {
+			if(!matched.contains(c)) {
+				Entity e = new Entity(c, cans.get(c), Entity.type_unknow);
+				result.add(e);
+			}
+		}
+		
+		return result;
+	}
+	
+	
+	public static Map<String, List<Entity>> genGroupCan(String text) {
+		Map<String, List<Entity>> result = new HashMap<String, List<Entity>>();
+		
+		
+		Map<String, Double> matched = new HashMap<String, Double>();
+
+		Set<String> capCan = processCapitalized(text);
+		Map<String, Integer> combCan = processCombination(capCan);
+		Set<String> longCan = filterShort(combCan.keySet());
+		
+
+		Map<String, Double> r = countCan(combCan.keySet(), text);
+		Map<String, Double> res = groupCan(longCan, r);
+		
+		matched = redirectCandidate(res);
+		matched = Utils.MapUtil.sortByValue(matched);
+		
+		List<Entity> matchedEntity = getEntity(matched);
+		List<Entity> unmatchedEntity = getEntity(combCan, matched.keySet());
+		
+		result.put("matched", matchedEntity);
+		result.put("unmatched", unmatchedEntity);
+
+		return result;
+	}
+	
+	public static void printResult(Map<String, List<Entity>> r) {
+		for(String key : r.keySet()) {
+			System.out.println(key);
+			printEntity(r.get(key));
+			System.out.println("\n\n");
+		}
+	}
+	
+	public static void printMap(Map<?, ?> map) {
+		for(Object k : map.keySet()) {
+			System.out.println(k + " : " + map.get(k));
+		}
+	}
+	
+	public static void printEntity(List<Entity> entity) {
+		for(Entity e: entity) {
+			printEntity(e);
+		}
+	}
+	
+	public static void printEntity(Entity e) {
+		System.out.println(e.name + " : " + e.occFreq);
+	}
+	
 
 	public static Map<String, Double> genCandidate(String text) {
 		Map<String, Double> result = new HashMap<String, Double>();
@@ -654,7 +729,7 @@ public class CneDetector {
 		Matcher matcher = pattern.matcher(input);
 		while (matcher.find()) {
 			String str = matcher.group();
-			System.out.println(str);
+			//System.out.println(str);
 			if(str.equals(input)) {
 				return true;
 			}
@@ -837,7 +912,7 @@ public class CneDetector {
 
 	public static void main(String[] args) {
 		//testGenComb();
-		System.out.println(checkRomanNumeral("Viiii"));
+		//System.out.println(checkRomanNumeral("Viiii"));
 	}
 
 	public static void testGenComb() {

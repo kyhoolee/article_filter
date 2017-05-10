@@ -1,10 +1,13 @@
 package id.co.babe.analysis.dao.es;
+import id.co.babe.analysis.util.TextfileIO;
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 import org.apache.lucene.queryparser.xml.FilterBuilder;
 import org.elasticsearch.action.ActionFuture;
 import org.elasticsearch.action.admin.indices.create.CreateIndexRequestBuilder;
@@ -164,8 +167,23 @@ public class EntityDictionaryEsImpl implements EntityDictionaryEs {
 	}
 	
 	
-	public static void main(String[] args) throws Exception {
-		EntityDictionaryEs dict = new EntityDictionaryEsImpl("localhost:9300", "myES");
+	public static void insertWikiData() {
+		
+		try {
+			EntityDictionaryEs dict = new EntityDictionaryEsImpl("localhost:9300", "myCuteCat");
+			dict.init();
+			List<String> entities = TextfileIO.readFile("nlp_data/indo_dict/wiki_tag.txt");
+			dict.insertWords(entities);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+	}
+	
+	public static void sample() throws Exception {
+		EntityDictionaryEs dict = new EntityDictionaryEsImpl("localhost:9300", "myCuteCat");
 		
 		dict.init();
 		
@@ -186,6 +204,10 @@ public class EntityDictionaryEsImpl implements EntityDictionaryEs {
 			System.out.println(s);
 		}
 		
+	}
+	
+	public static void main(String[] args) {
+		insertWikiData();
 	}
 	
 }

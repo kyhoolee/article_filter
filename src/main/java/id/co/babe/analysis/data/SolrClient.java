@@ -382,6 +382,24 @@ public class SolrClient {
 	}
 	
 	
+	public static void allEntity() {
+		List<Article> as = getBabeArticleById(11588577);
+		CneDetector.init();
+		for(Article a : as) {
+			String content = htmlText(a.content);
+			
+			
+			long start = System.currentTimeMillis();
+			Map<String, List<Entity>> r = CneDetector.genGroupCan(content);
+			long value = System.currentTimeMillis() - start;
+			
+			
+			CneDetector.printResult(r);
+			System.out.println("Processing time: " + value * 0.001);
+		}
+		
+	}
+	
 	public static void countSample() {
 		String[] w = {
 				"Perhelatan Miss Universe",
@@ -439,7 +457,8 @@ public class SolrClient {
 		//testRedirect();
 		//test1();
 		//test();
-		allCandidate();
+		allEntity();
+		//allCandidate();
 		//averageDocLen();
 		//freqSample();
 		//parseSample();

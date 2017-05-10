@@ -1,5 +1,6 @@
 package id.co.babe.analysis;
 
+import id.co.babe.analysis.data.SolrClient;
 import id.co.babe.analysis.model.Entity;
 import id.co.babe.analysis.nlp.CneDetector;
 import id.co.babe.analysis.nlp.TextParser;
@@ -52,7 +53,7 @@ public class CneAPI {
 	 * @param text
 	 * @return
 	 */
-	public Map<String, Double> getEntityScore(String text) {
+	public static Map<String, Double> getEntityScore(String text) {
 		return CneDetector.genCandidate(text);
 	}
 	
@@ -61,8 +62,19 @@ public class CneAPI {
 	 * @param text
 	 * @return
 	 */
-	public List<Entity> extractEntity(String text) {
+	public static List<Entity> extractEntity(String text) {
 		return CneDetector.getEntity(text);
 	}
+	
+	
+	public Map<String, List<Entity>> extractAllEntity(String text) {
+		return CneDetector.genGroupCan(text);
+	}
+	
+	public static String htmlText(String html) {
+		return SolrClient.htmlText(html);
+	}
+	
+	
 
 }
