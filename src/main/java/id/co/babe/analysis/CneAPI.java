@@ -5,6 +5,7 @@ import id.co.babe.analysis.model.Entity;
 import id.co.babe.analysis.nlp.CneDetector;
 import id.co.babe.analysis.nlp.TextParser;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -67,12 +68,27 @@ public class CneAPI {
 	}
 	
 	
-	public Map<String, List<Entity>> extractAllEntity(String text) {
+	public static Map<String, List<Entity>> extractAllEntity(String text) {
 		return CneDetector.genGroupCan(text);
 	}
 	
 	public static String htmlText(String html) {
 		return SolrClient.htmlText(html);
+	}
+	
+	
+	public static List<Entity> getFullEntity(String text) {
+		Map<String, List<Entity>> enMap = CneDetector.genGroupCan(text);
+		List<Entity> r = new ArrayList<Entity>();
+		
+		r.addAll(enMap.get("matched"));
+		
+		for(Entity e: enMap.get("unmatched")) {
+			e.occFreq *= -1;
+			r.add(e);
+		}
+		
+		return r;
 	}
 	
 	

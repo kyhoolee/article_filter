@@ -396,7 +396,7 @@ public class SolrClient {
 			
 			CneDetector.printResult(r);
 			System.out.println("Processing time: " + value * 0.001);
-		}
+		} 
 		
 	}
 	
