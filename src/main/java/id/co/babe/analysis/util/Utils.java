@@ -16,6 +16,12 @@ public class Utils {
 		System.out.println(checkRomanNumeral("VII"));
 	}
 	
+	public static void printArray(String[] c) {
+		for(String s : c) {
+			System.out.println(s);
+		}
+	}
+	
 	public static boolean checkRomanNumeral(String input) {
 		//M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})
 		Pattern pattern = Pattern.compile("M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})");

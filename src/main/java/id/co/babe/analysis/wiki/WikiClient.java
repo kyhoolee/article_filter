@@ -1,5 +1,6 @@
 package id.co.babe.analysis.wiki;
 
+import id.co.babe.analysis.util.StringFilter;
 import id.co.babe.analysis.util.TextfileIO;
 
 import java.io.UnsupportedEncodingException;
@@ -21,14 +22,106 @@ public class WikiClient {
 	
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		//sample();
-		//readWikiEntity("/home/mainspring/tutorial/resources/data/DbPedia/id/page_ids_id.nt", "nlp_data/wiki_dict/page_wiki_entity.txt", wiki_redirect);
+//		readWikiEntity("/home/mainspring/tutorial/resources/data/DbPedia/id/page_ids_id.nt", 
+//				"nlp_data/wiki_dict/page_wiki_entity.txt", wiki_redirect);
 		//parseRootWiki("nlp_data/wiki_dict/page_links_unredirected_id.nt", "nlp_data/wiki_dict/unredirect_entity.txt");
 //		mergeEntity("nlp_data/wiki_dict/wiki_tag.txt", 
 //				"nlp_data/wiki_dict/wiki_entity.txt",
 //				"nlp_data/indo_dict/tag_dict.txt");
 		//parseRootWiki("nlp_data/wiki_dict/redirects_id.nt", "nlp_data/wiki_dict/redirect_entity_map.txt");
-		filterEntity("nlp_data/wiki_dict/page_wiki_entity.txt", "nlp_data/wiki_dict/filtered_page_wiki_entity.txt");
+		//filterEntity("nlp_data/wiki_dict/page_wiki_entity.txt", "nlp_data/wiki_dict/filtered_page_wiki_entity.txt");
+		//filteredEntity("nlp_data/indo_dict/wiki_tag.txt", "nlp_data/indo_dict/filtered_wiki_tag.txt");
+		
+		
+//		readWikiEntity(
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/article_categories_en.nt", 
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/wiki_tag_en.nt", 
+//				wiki_entity, 100, 100);
+		
+		
+//		readWikiEntity(
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/article_categories_en.nt", 
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/wiki_tag_en.nt", 
+//				wiki_entity, 100, 100);
+		
+//		readWikiEntity(
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/page_ids_en.nt", 
+//				"/home/mainspring/tutorial/resources/data/DbPedia/en/filter/wiki_tag_en.txt", 
+//				new WikiFilter(wiki_entity));
+		
+		readWikiEntity(
+				"/home/mainspring/tutorial/resources/data/DbPedia/en/page_ids_en.ttl", 
+				"/home/mainspring/tutorial/resources/data/DbPedia/en/filter/wiki_tag_en.2017.txt", 
+				new WikiFilter(wiki_entity));
+		
+		
 	}
+	
+	
+	public static class WikiFilter implements StringFilter {
+		public String sign = "";
+		public WikiFilter(String sign) {
+			this.sign = sign;
+		}
+
+		@Override
+		public String filter(String line) {
+			String result = "";
+			
+			if(line.contains(sign)) {
+				int endIndex = line.indexOf(">");
+				String entity = line.substring(sign.length(), endIndex);
+				entity = entity.replace("_", " ");
+				
+				
+				
+					entity = urlDecode(entity);
+					try{
+						entity = unicode(entity);
+					} catch (Exception e) {
+						System.out.println(entity);
+						e.printStackTrace();
+					}
+					entity = filteredEntity(entity);
+				
+				if(filterEntity(entity)) {
+					return entity;
+				}
+			}
+			
+			return result;
+		}
+		
+	}
+	
+	
+	
+	public static void filteredEntity(String inPath, String outPath) {
+		Set<String> r = new HashSet<String>();
+		
+		List<String> in = TextfileIO.readFile(inPath);
+		for(String e : in) {
+			if(e.length() >= 1) {
+				r.add(filteredEntity(e));
+			}
+			
+		}
+		
+		TextfileIO.writeFile(outPath, r);
+	}
+	
+	public static String filteredEntity(String e) {
+		String r = e;
+		
+		if(r.contains("(")) {
+			int index = r.indexOf("(");
+			r = r.substring(0, index);
+			r = r.trim();
+		}
+		
+		return r;
+	}
+	
 	
 	public static Set<String> filterEntity(String inPath, String outPath) {
 		Set<String> r = new HashSet<String>();
@@ -49,7 +142,10 @@ public class WikiClient {
 		boolean result = (entity.length() > 1)
 				&& (!entity.contains("Kategori:"))
 				&& (!entity.contains("Templat:"))
-				&& (!entity.contains("Berkas:"));
+				&& (!entity.contains("Berkas:")
+				&& (!entity.contains("Category:"))
+				&& (!entity.contains("Template:"))
+				&& (!entity.contains("File:")));
 		
 		return result;
 	}
@@ -91,6 +187,42 @@ public class WikiClient {
 		return result;
 		
 	}
+	
+	
+	public static Set<String> readWikiEntity(String path, String outPath, String sign, int start, int offset) {
+		Set<String> result = new HashSet<String>();
+		List<String> wikiData = TextfileIO.readFileLimit(path, start, offset);
+		
+		for(String line : wikiData) {
+			
+			String entity = parseWiki(line, sign);
+			
+			System.out.println(entity + " -- " + line);
+			
+			if(entity != null)
+				result.add(entity);
+		}
+		
+		TextfileIO.writeFile(outPath, result);
+		
+		return result;
+		
+	}
+	
+	
+	public static void readWikiEntity(String path, String outPath, StringFilter filter) {
+		long start = System.currentTimeMillis();
+		
+		Set<String> wikiData = TextfileIO.readFileFilter(path, filter);
+		
+		TextfileIO.writeFile(outPath, wikiData);
+		
+		long time = System.currentTimeMillis() - start;
+		System.out.println("Processed: " + time * 0.001);
+		
+		
+	}
+	
 	
 	public static Set<String> readWikiEntity(String path, String outPath, String sign) {
 		Set<String> result = new HashSet<String>();

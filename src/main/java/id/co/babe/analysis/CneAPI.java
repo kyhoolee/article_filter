@@ -4,6 +4,7 @@ import id.co.babe.analysis.data.SolrClient;
 import id.co.babe.analysis.model.Entity;
 import id.co.babe.analysis.nlp.CneDetector;
 import id.co.babe.analysis.nlp.TextParser;
+import id.co.babe.analysis.util.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -49,6 +50,41 @@ public class CneAPI {
 		TextParser.init(sent_parser, token_parser);
 	}
 	
+	
+	
+	public static void initDict(String id_word, String stop_word, String[] tag_word, String redirect_word, String sent_parser, String token_parser) {
+		//CneDetector.init();
+		SpellApp.initDict(id_word);
+		System.out.println(id_word);
+		SpellApp.initStop(stop_word);
+		System.out.println(stop_word);
+		SpellApp.initTag(tag_word);
+		//Utils.printArray(tag_word);
+		SpellApp.initRedirect(redirect_word);
+		System.out.println(redirect_word);
+		//TextParser.init();
+		TextParser.init(sent_parser, token_parser);
+		System.out.println(sent_parser);
+		System.out.println(token_parser);
+	}
+	
+	public static void initDict(String id_word, String stop_word, String redirect_word, String sent_parser, String token_parser, String tag_word, String tag_word2) {
+		//CneDetector.init();
+		SpellApp.initDict(id_word);
+		System.out.println(id_word);
+		SpellApp.initStop(stop_word);
+		System.out.println(stop_word);
+		SpellApp.initTag(tag_word, tag_word2);
+		System.out.println(tag_word);
+		System.out.println(tag_word2);
+		SpellApp.initRedirect(redirect_word);
+		System.out.println(redirect_word);
+		//TextParser.init();
+		TextParser.init(sent_parser, token_parser);
+		System.out.println(sent_parser);
+		System.out.println(token_parser);
+	}
+	
 	/**
 	 * 
 	 * @param text
@@ -91,9 +127,7 @@ public class CneAPI {
 		return r;
 	}
 	
-	public static void filter(List<Entity> e) {
-		
-	}
+
 	
 	
 

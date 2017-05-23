@@ -11,6 +11,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import com.flakks.spelling.service.SpellApp;
 
@@ -34,7 +36,6 @@ public class SolrClient {
 	};
 	
 	public static final String url_entity = "http://10.2.15.89:9000/v1/entity/extract/";
-	
 	public static final String url_article = "http://10.2.15.5:8983/solr/article-repo/select?sort=created_ts_l+desc&wt=json&indent=true&q=type_i%3A0";
 	
 	public static List<Entity> getArticleEntity(String articleId) {
@@ -160,6 +161,18 @@ public class SolrClient {
 		return getBabeArticle(json);
 	}
 	
+	public static List<Article> getBabeArticleByCat(int categoryId) {
+		String json = HttpUtils.getRequest(url_article + "+AND+category_is%3A" + categoryId);
+		
+		return getBabeArticle(json);
+	}
+	
+	public static List<Article> getBabeArticleByCat(int categoryId, int start, int rows) {
+		String json = HttpUtils.getRequest(url_article + "+AND+category_is%3A" + categoryId + "&start=" + start + "&rows=" + rows);
+		
+		return getBabeArticle(json);
+	}
+	
 	public static List<Article> getBabeArticle(String json) {
 		JSONObject object = HttpUtils.jsonObject(json);
 		
@@ -168,24 +181,29 @@ public class SolrClient {
 		List<Article> result = new ArrayList<Article>();
 		for(int i = 0 ; i < docs.length() ; i ++) {
 			JSONObject o = docs.getJSONObject(i);
-			Article e = new Article(
-					o.getInt("article_id_l"), 
-					o.getString("title_t"),
-					o.getString("summary_t"),
-					o.getString("body_t"), 
-					o.getString("url_s"));
+			
 			try {
+				Article e = new Article(
+						o.getInt("article_id_l"), 
+						o.getString("title_t"),
+						
+						o.getString("body_t"), 
+						o.getString("url_s"));
+				
 				e.allEntity = getList(o.getJSONArray("allentity_ss"));
 				e.entity = getList(o.getJSONArray("entity_ss"));
 				e.category = getList(o.getJSONArray("category_name_ss"));
 				e.catId = getIntList(o.getJSONArray("category_is"));
+				e.summary = o.getString("summary_t");
+				
+				result.add(e);
+				
+				printArticle(e);
 				
 			} catch (Exception er) {
 				
 			}
-			result.add(e);
 			
-			printArticle(e);
 		}
 		
 		return result;
@@ -209,11 +227,36 @@ public class SolrClient {
 		}
 	}
 	
+	public static String htmlPText(String html) {
+		List<String> ts = htmlTextList(html);
+		String text = "";
+		for(String s: ts) {
+			text += s + " . ";
+		}
+		return text;
+	}
+	
+	public static List<String> htmlTextList(String html) {
+		Document doc = Jsoup.parse(html);
+		Elements es = doc.getElementsByTag("p");
+		
+		List<String> text = new ArrayList<String>();
+		
+		for(Element e : es) {
+			text.add(e.text());
+		}
+		
+		return text;
+	}
+	
 	public static String htmlText(String html) {
+		html = html.replace("<p>", " . ").replace("</p>", " . ");
 		Document doc = Jsoup.parse(html);
 		String text = doc.text();
 		
 		return text;
+		
+		
 	}
 	
 	public static Set<String> parseCNE(Article a) {
@@ -331,10 +374,16 @@ public class SolrClient {
 		System.out.println(tL);
 	}
 	
-	public static void allCandidate() {
+	public static void allCandidate(int... catId) {
+		CneDetector.init();
+		for(int c : catId) {
+			allCandidate(c);
+		}
+	}
+	public static void allCandidate(int catId) {
 		List<String> result = new ArrayList<String>();
 		
-		List<Article> as = 
+		List<Article> as = getBabeArticleByCat(catId, 0, 200);
 				//getBabeArticleById(
 						//11588577);
 						//11880499);
@@ -348,55 +397,57 @@ public class SolrClient {
 				//11720946);
 				//11854246);
 				//11795823);
-				getBabeArticle(0, 200); 
+				//getBabeArticle(0, 200); 
 				
 		
-		CneDetector.init();
+		
 		for(Article a : as) {
 			String content = htmlText(a.content);
 			
 			result.add(a.content);
 			result.add("\n");
 			result.add(a.articleId + "");
-			result.add(a.url);
+			result.add(a.url+ "\n\n--------------------\n\n");
 			
 			long start = System.currentTimeMillis();
-			List<String> candidate = CneDetector.genCanScore(content);
+			List<List<String>> candidate = CneDetector.genCanScore(content);
 			long value = System.currentTimeMillis() - start;
-			//CneDetector.genCandidate(content);
-			System.out.println("id: " + a.articleId + " -- time: " + (value * 0.001));
-			result.addAll(candidate);
+			System.out.println("id: " + a.articleId + " -- time: " + (value * 0.001) + "\n\n");
+			result.addAll(candidate.get(0));
 			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 			
-			start = System.currentTimeMillis();
-			candidate = CneDetector.genUnmatchCan(content);
-			value = System.currentTimeMillis() - start;
-			//CneDetector.genCandidate(content);
 			System.out.println("Time: " + (value * 0.001));
-			result.addAll(candidate);
+			result.addAll(candidate.get(1));
 			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 		}
 		
-		TextfileIO.writeFile("sample_result/root_score_can.update.4.5.txt", result);
+		TextfileIO.writeFile("sample_result/root_score_can." + catId + ".18.5.txt", result);
 		
 	}
 	
 	
 	public static void allEntity() {
-		List<Article> as = getBabeArticleById(11588577);
+		List<Article> as = getBabeArticleById(10660577);
+		
+		long start = System.currentTimeMillis();
 		CneDetector.init();
+		long value = System.currentTimeMillis() - start;
+		System.out.println("Processing time: " + value * 0.001);
+		
+		
 		for(Article a : as) {
 			String content = htmlText(a.content);
 			
 			
-			long start = System.currentTimeMillis();
+			start = System.currentTimeMillis();
 			Map<String, List<Entity>> r = CneDetector.genGroupCan(content);
-			long value = System.currentTimeMillis() - start;
+			value = System.currentTimeMillis() - start;
 			
 			
 			CneDetector.printResult(r);
 			System.out.println("Processing time: " + value * 0.001);
-		} 
+		}
+		
 		
 	}
 	
@@ -458,7 +509,7 @@ public class SolrClient {
 		//test1();
 		//test();
 		allEntity();
-		//allCandidate();
+		//allCandidate(27, 40, 9, 32);
 		//averageDocLen();
 		//freqSample();
 		//parseSample();

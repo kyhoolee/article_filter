@@ -10,7 +10,9 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import au.com.bytecode.opencsv.CSVReader;
 import au.com.bytecode.opencsv.CSVWriter;
@@ -72,7 +74,113 @@ public class TextfileIO {
 
 		return result;
 	}
+	
+	
+	
+	
+	public static Set<String> readFileFilter(String filePath, StringFilter filter) {
+		Set<String> result = new HashSet<>();
 
+		BufferedReader br = null;
+		FileReader fr = null;
+
+		try {
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(
+					filePath), "UTF8"));
+
+			String line;
+			int count = 0;
+			while ((line = br.readLine()) != null) {
+				count ++;
+				if(count <= 10)
+					System.out.println(line);
+				String w = filter.filter(line);
+				if (!w.isEmpty()) {
+					result.add(w);
+				}
+
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (br != null)
+					br.close();
+				if (fr != null)
+					fr.close();
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+		}
+
+		return result;
+	}
+	
+	
+	
+	public static List<String> readFileLimit(String filePath, int start, int offset) {
+		List<String> result = new ArrayList<>();
+
+		BufferedReader br = null;
+		FileReader fr = null;
+
+		try {
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(
+					filePath), "UTF8"));
+
+			String line;
+			int count = 0;
+			while ((line = br.readLine()) != null) {
+				count ++;
+				if (count >= start && count <= (start + offset) && line != null && !line.isEmpty())
+					result.add(line);
+
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (br != null)
+					br.close();
+				if (fr != null)
+					fr.close();
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+		}
+
+		return result;
+	}
+
+	
+	public static void initSetFile(String filePath, Collection<String> c) {
+		BufferedReader br = null;
+		FileReader fr = null;
+
+		try {
+			br = new BufferedReader(new InputStreamReader(new FileInputStream(
+					filePath), "UTF8"));
+
+			String line;
+			while ((line = br.readLine()) != null) {
+				if (line != null && !line.isEmpty())
+					c.add(line);
+
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (br != null)
+					br.close();
+				if (fr != null)
+					fr.close();
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+		}
+	}
+	
 	public static List<String> readFile(String filePath) {
 		List<String> result = new ArrayList<>();
 

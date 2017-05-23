@@ -27,10 +27,12 @@ import com.flakks.spelling.SpellingLookup;
 import com.flakks.spelling.SpellingSuggestor;
 import com.flakks.spelling.Suggestion;
 import com.flakks.spelling.TrieNode;
+import com.flakks.spelling.lucene.LuceneSpell;
 
 public class SpellApp {
-	public static Trie<String, Boolean> trieDict;
+	//public static Trie<String, Boolean> trieDict;
 	public static Set<String> exactTag;
+	
 	
 	
 	public static Map<String, Dictionary> dictionaries;
@@ -68,26 +70,72 @@ public class SpellApp {
 	}
 	
 	public static void initTag(String tagDict) {
-		trieDict = Tries.forInsensitiveStrings(Boolean.FALSE);
+		//trieDict = Tries.forInsensitiveStrings(Boolean.FALSE);
 		exactTag = new HashSet<String>();
+		
+//		try {
+//			LuceneSpell.init(tagDict);
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+		
 		List<String> dictionary = TextfileIO.readFile(tagDict);
 		for (String word : dictionary) {
-			if(word!=null && word.trim().length() > 0)
-				trieDict.put(word.trim().toLowerCase(), Boolean.TRUE);
+			exactTag.addAll(variedWord(word.toLowerCase()));
+//			if(word!=null && word.trim().length() > 0)
+//				trieDict.put(word.trim().toLowerCase(), Boolean.TRUE);
 		}
 
 	}
 	
 	
-	public static Set<String> suffixEntity(String word) {
-		Set<String> keys = trieDict.keySet(word, TrieMatch.EXACT);
-		return keys;
+	public static void initTag(String... tagDict) {
+		//trieDict = Tries.forInsensitiveStrings(Boolean.FALSE);
+		exactTag = new HashSet<String>();
+		
+//		try {
+//			LuceneSpell.init(tagDict);
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+		for(String t : tagDict) {
+			TextfileIO.initSetFile(t, exactTag);
+			System.out.println(t);
+//			List<String> dictionary = TextfileIO.readFile(tagDict[i]);
+//			for (String word : dictionary) {
+//				exactTag.addAll(variedWord(word.toLowerCase()));
+//			}
+		
+		}
+
 	}
-	public static int countSuffix(String word) {
-		Set<String> keys = trieDict.keySet(word, TrieMatch.EXACT);
-		if(keys == null)
-			return 0;
-		return keys.size();
+	
+//	public static Set<String> prefixEntity(String word) {
+////		Set<String> keys = trieDict.keySet(word, TrieMatch.PARTIAL);
+////		return keys;
+//		
+//		try {
+//			return LuceneSpell.getPrefix(word).keySet();
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//		return new HashSet<String>();
+//	}
+//	public static int countPrefix(String word) {
+////		Set<String> keys = trieDict.keySet(word, TrieMatch.PARTIAL);
+////		if(keys == null)
+////			return 0;
+////		return keys.size();
+//		return LuceneSpell.countPrefix(word);
+//	}
+	
+	public static Set<String> variedWord(String w) {
+		Set<String> r = new HashSet<String>();
+		
+		r.add(w);
+		r.add(w.replace("-", " "));
+		r.add(w.replace("-", ""));
+		return r;
 	}
 	
 	public static int countExact(String word) {
@@ -96,10 +144,17 @@ public class SpellApp {
 //			return 0;
 //		return keys.size();
 		
-		if(exactTag.contains(word.toLowerCase()))
-			return 1;
-		else 
-			return 0;
+		int r = 0;
+		for(String w: variedWord(word.toLowerCase())) {
+			if(exactTag.contains(w))
+				r ++;
+		}
+		return r;
+		
+//		if(exactTag.contains(word.toLowerCase()))
+//			return 1;
+//		else 
+//			return 0;
 	}
 	
 	

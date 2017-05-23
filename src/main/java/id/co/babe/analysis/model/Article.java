@@ -68,10 +68,9 @@ public class Article {
 		this.label = label;
 	}
 	
-	public Article(long articleId, String title, String summary, String content, String url) {
+	public Article(long articleId, String title, String content, String url) {
 		this.articleId = articleId;
 		this.title = title;
-		this.summary = summary;
 		this.content = content;
 		this.url = url;
 		this.allEntity = new ArrayList<String>();

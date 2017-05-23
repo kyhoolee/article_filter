@@ -23,26 +23,37 @@ public class CneDetector {
 			".co.id" };
 
 	public static String[] month = { "januari", "februari", "pebruari","february",
-			"maret", "april", "mei", "juni", "juli", "agustus", "september",
+			"maret", "april", "mei", "may", "juni", "juli", "agustus", "september",
 			"oktober", "november", "desember" };
 
 	public static final Set<String> set_month = new HashSet<String>(
 			Arrays.asList(month));
 
-	public static String[] week_day_time = { "wib","senin", "sabtu", "jumat", "selasa",
+	public static String[] week_day_time = {"tahun", "wib","senin", "sabtu", "jumat", "selasa",
 			"rabu", "kamis", "minggu" };
 
 	public static final Set<String> set_day = new HashSet<String>(
 			Arrays.asList(week_day_time));
 
-	public static String[] currency = { "rp", "usd" };
+	public static String[] currency = { "rp", "usd", "rupiah", "won" };
+	
+	public static String[] connected = {"of", "de", "the", ":", "'s"};
+	public static final Set<String> set_connected = new HashSet<String>(
+			Arrays.asList(connected));
+	
+	public static String[] connect_punc = {":", "'s"};
+	public static final Set<String> set_connect_punc = new HashSet<String>(
+			Arrays.asList(connect_punc));
 
 	public static void init() {
 		// SpellApp.initIndo("nlp_data/indo_dict/id_full.txt");
 		SpellApp.initDict("nlp_data/indo_dict/id_full.txt");
 		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
-		SpellApp.initTag("nlp_data/indo_dict/wiki_tag.txt");
+		SpellApp.initTag(
+				"nlp_data/indo_dict/filtered_wiki_tag.txt", 
+				"/home/mainspring/tutorial/resources/data/DbPedia/en/filter/wiki_tag_en.2017.txt");
 		SpellApp.initRedirect("nlp_data/indo_dict/redirect_entity_map.txt");
+		
 		TextParser.init();
 	}
 
@@ -83,7 +94,7 @@ public class CneDetector {
 		String result = text.replace("/", " , ").replace(",", " , ")
 				.replace("\"", "  ").replace("(", " , ").replace(")", " , ")
 				.replace("\"", " , ").replace("“", " , ").replace("”", " , ")
-				.replace("”", " , ").replace("‘", " , ").replace("’", " , ");
+				.replace("”", " , ").replace("‘", " , ").replace("’", " , ").replace("' ", " , ").replace(" '", " , ");
 
 		result = removePunctuation(result);
 
@@ -231,6 +242,7 @@ public class CneDetector {
 
 	public static boolean candidateFilter(String w) {
 		String phrase = w.toLowerCase();
+		phrase = removePunctuation(phrase);
 		boolean result = 
 				phrase.length() > 1 && !SpellApp.checkStop(phrase)
 				&& !checkDatePhrase(phrase) 
@@ -258,22 +270,34 @@ public class CneDetector {
 
 				if (j == 0) {
 					String start = word[j];
-					if (!checkCorrect(start) && checkCapital(start)) {
+					if (/*!checkCorrect(start) && */checkCapital(start)) {
 						int next = j + 1;
 						String candidate = start;
+						int count = 1;
 						while (next < word.length
 								&& checkCapitalorNumeric(word[next])) {
 
+//							if(set_connect_punc.contains(word[next])) {
+//								candidate += word[next];
+//							} else {
+//								candidate += " " + word[next];
+//							}
 							candidate += " " + word[next];
 							next++;
+							count ++;
 						}
 
 						// System.out.println(j + " " + next + " : " +
 						// candidate);
 						j = next;
-						if (candidateFilter(candidate)) {
+						
+						boolean check = (count > 1) || (count == 1 && !checkCorrect(start));
+						
+								
+						if (candidateFilter(candidate) && check) {
 							result.add(postProcess(candidate));
 						}
+						
 					} else {
 						j++;
 					}
@@ -285,6 +309,12 @@ public class CneDetector {
 						while (next < word.length
 								&& checkCapitalorNumeric(word[next])) {
 
+//							if(set_connect_punc.contains(word[next])) {
+//								candidate += word[next];
+//							} else {
+//								candidate += " " + word[next];
+//							}
+							
 							candidate += " " + word[next];
 							next++;
 						}
@@ -307,87 +337,123 @@ public class CneDetector {
 
 		return result;
 	}
+	
+	
+
 
 	public static Set<String> genComb(String word) {
 		Set<String> result = new HashSet<String>();
-
-		String[] tokens = word.split(" ");
-		for (int i = 0; i < tokens.length; i++) {
+		result.add(word);
+		
+		String[] tokens = word.split("\\s+");
+		for (int i = 1; i < tokens.length; i++) {
 			for (int start = 0; start < tokens.length - i; start++) {
-				String c = tokens[start];
-				for (int j = 1; j <= i; j++) {
-					c += " " + tokens[start + j];
-				}
-
-				if (candidateFilter(c)) {
-					result.add(c);
-					//System.out.println(c);
+				if(!set_connected.contains(tokens[start])) {
+					String c = new String(tokens[start]);
+					for (int j = 1; j <= i; j++) {
+						if(set_connect_punc.contains(tokens[start + j])) {
+							c += tokens[start + j];
+						} else {
+							c += " " + tokens[start + j];
+						}
+					}
+	
+					if (candidateFilter(c)) {
+						result.add(c);
+					}
 				}
 			}
 		}
 
 		return result;
 	}
+	
+	public static String textReplace(String text) {
+		String r = text
+				.replace(":", " :")
+				.replace("'s", " 's");
+		return text;
+		
+	}
 
-	public static Map<String, Integer> processCombination(Set<String> ws) {
+	public static Map<String, Integer> processCombination(Set<String> ws, String text) {
+		String filter_text = textReplace(text);
 		Map<String, Integer> r = new HashMap<String, Integer>();
 
+		Set<String> combination = new HashSet<String>();
 		for (String w : ws) {
 			Set<String> comb = genComb(w);
-			for (String c : comb) {
-				if (r.containsKey(c)) {
-					r.put(c, r.get(c) + 1);
-				} else {
-					r.put(c, 1);
-				}
-			}
+			combination.addAll(comb);
+		}
+		
+		for(String com : combination) {
+			com = removePunctuation(com);
+			r.put(com, countComb(com, filter_text));
 		}
 
 		return r;
 	}
+	
+	public static int countComb(String com, String text) {
+		int r = 0;
+		
+		int lastIndex = 0;
+		int count = 0;
 
-	public static Map<String, Set<String>> searchTaggedEntity(Set<String> ws) {
-		Map<String, Set<String>> r = new HashMap<String, Set<String>>();
+		while(lastIndex != -1){
 
-		for (String w : ws) {
-			Set<String> tagged = SpellApp.suffixEntity(w);
-			if (tagged.size() > 0)
-				r.put(w, tagged);
+		    lastIndex = text.indexOf(com,lastIndex);
+
+		    if(lastIndex != -1){
+		        count ++;
+		        lastIndex += com.length();
+		    }
 		}
-
+		
+		r = count;
 		return r;
 	}
 
-	public static Map<String, Integer> countTaggedEntity(Set<String> ws) {
-		Map<String, Integer> r = new HashMap<String, Integer>();
+//	public static Map<String, Set<String>> searchTaggedEntity(Set<String> ws) {
+//		Map<String, Set<String>> r = new HashMap<String, Set<String>>();
+//
+//		for (String w : ws) {
+//			Set<String> tagged = SpellApp.prefixEntity(w);
+//			if (tagged.size() > 0)
+//				r.put(w, tagged);
+//		}
+//
+//		return r;
+//	}
 
-		for (String w : ws) {
-			int tagged = SpellApp.countSuffix(w);
-			if (tagged > 0)
-				r.put(w, tagged);
-		}
+//	public static Map<String, Integer> countTaggedEntity(Set<String> ws) {
+//		Map<String, Integer> r = new HashMap<String, Integer>();
+//
+//		for (String w : ws) {
+//			int tagged = SpellApp.countPrefix(w);
+//			if (tagged > 0)
+//				r.put(w, tagged);
+//		}
+//
+//		return r;
+//	}
 
-		return r;
-	}
-
-	public static Set<String> filterShort(Set<String> candidate) {
+	public static Set<String> filterShort(Map<String, Integer> candidate) {
 		Set<String> r = new HashSet<String>();
 
 		Set<String> filtered = new HashSet<String>();
-		for (String c : candidate) {
-			int eC = SpellApp.countExact(c);
-			if (SpellApp.countExact(c) > 0) {
-				//System.out.println(c + " --- " + eC);
+		for (String c : candidate.keySet()) {
+			
+			
+			
+			if (SpellApp.countExact(c) > 0 && (c.length() > 2 || candidate.get(c) > 1) ) {
 				filtered.add(c);
-				r.add(c);
-			} else {
-				int tagged = SpellApp.countSuffix(c);
-				if (tagged > 0 && tagged < 100) {
-					//System.out.println(c + " --- " + tagged);
-					filtered.add(c);
-				}
+			} 
 
+			if(candidate.get(c) > 1 && c.length() > 3) {
+				filtered.add(c);
 			}
+			
 		}
 
 		for (String c : filtered) {
@@ -395,11 +461,14 @@ public class CneDetector {
 			boolean check = true;
 			for (String p : filtered) {
 
-				if (p.contains(c) && p.length() > c.length()) {
+				if (p.toLowerCase().contains(c.toLowerCase()) && p.length() > c.length()) {
 					check = false;
 					break;
 				}
 			}
+			
+			
+			System.out.println(c + " -- " + check);
 
 			if (check) {
 				r.add(c);
@@ -458,9 +527,9 @@ public class CneDetector {
 			for (String w : countSet.keySet()) {
 				if (can.contains(w)) {
 					if (can.length() == w.length())
-						c += countSet.get(w) * 0.8 * (can.split(" ").length);
+						c += countSet.get(w) * 0.8 * (can.split("\\s+").length);
 					else
-						c += countSet.get(w) * 0.2 / (can.split(" ").length);
+						c += countSet.get(w) * 0.2 / (can.split("\\s+").length);
 				}
 			}
 			result.put(can, c);
@@ -491,7 +560,7 @@ public class CneDetector {
 		
 		Map<String, Set<String>> redirect = new HashMap<String, Set<String>>();
 		for(String key : input.keySet()) {
-			String root = SpellApp.getRedirect(key);
+			String root = SpellApp.getRedirect(key).toLowerCase();
 			
 			if(r.containsKey(root)) {
 				Set<String> val = redirect.get(root);
@@ -542,7 +611,7 @@ public class CneDetector {
 		Map<String, Double> r = new HashMap<String, Double>();
 		
 		Set<String> capCan = processCapitalized(text);
-		Map<String, Integer> combCan = processCombination(capCan);
+		Map<String, Integer> combCan = processCombination(capCan, text);
 		
 		for(String key: combCan.keySet()) {
 			if(combCan.get(key) > 0) {
@@ -610,28 +679,81 @@ public class CneDetector {
 		Map<String, Double> matched = new HashMap<String, Double>();
 
 		Set<String> capCan = processCapitalized(text);
-		Map<String, Integer> combCan = processCombination(capCan);
-		Set<String> longCan = filterShort(combCan.keySet());
+		System.out.println("\n\n");
+		System.out.println("------------ capCan-----------------");
+		Utils.printArray(capCan);
+		System.out.println("------------ capCan-----------------");
+		System.out.println("\n\n");
 		
+		
+		Map<String, Integer> combCan = processCombination(capCan, text);
+		System.out.println("\n\n");
+		System.out.println("------------ comCan-----------------");
+		Utils.printArray(combCan.keySet());
+		System.out.println("------------ comCan-----------------");
+		System.out.println("\n\n");
+		
+		
+		
+		
+		Set<String> longCan = filterShort(combCan);
+		System.out.println("\n\n");
+		System.out.println("------------ longCan-----------------");
+		Utils.printArray(longCan);
+		System.out.println("------------ longCan-----------------");
+		System.out.println("\n\n");
 
 		Map<String, Double> r = countCan(combCan.keySet(), text);
 		Map<String, Double> res = groupCan(longCan, r);
 		
 		matched = redirectCandidate(res);
+		
+		System.out.println("\n\n");
+		System.out.println("------------ matched-----------------");
+		Utils.printArray(matched.keySet());
+		System.out.println("------------ matched-----------------");
+		System.out.println("\n\n");
 		matched = Utils.MapUtil.sortByValue(matched);
+		combCan = Utils.MapUtil.sortByValue(combCan);
 		
 		List<Entity> matchedEntity = getEntity(matched);
 		List<Entity> unmatchedEntity = getEntity(combCan, matched.keySet());
 		
 		result.put("matched", matchedEntity);
+		
+		unmatchedEntity = filter(unmatchedEntity, matchedEntity);
 		result.put("unmatched", unmatchedEntity);
 
 		return result;
 	}
 	
+	public static List<Entity> filter(List<Entity> unmatched, List<Entity> matched) {
+		List<Entity> r = new ArrayList<Entity>(); 
+		
+		for(Entity e: unmatched) {
+			if(!checkContain(e, matched)) {
+				r.add(e);
+			}
+		}
+		
+		return r;
+	}
+	
+	public static boolean checkContain(Entity e, List<Entity> matched) {
+		for(Entity m: matched) {
+			if(m.name.contains(e.name)) {
+				return true;
+			}
+		}
+		
+		return false;
+	}
+	
 	public static void printResult(Map<String, List<Entity>> r) {
 		for(String key : r.keySet()) {
+			System.out.println();
 			System.out.println(key);
+			System.out.println();
 			printEntity(r.get(key));
 			System.out.println("\n\n");
 		}
@@ -658,11 +780,11 @@ public class CneDetector {
 		Map<String, Double> result = new HashMap<String, Double>();
 
 		Set<String> capCan = processCapitalized(text);
-		Map<String, Integer> combCan = processCombination(capCan);
+		Map<String, Integer> combCan = processCombination(capCan, text);
 
 		// Map<String, Integer> tagCan = countTaggedEntity(combCan.keySet());
 
-		Set<String> longCan = filterShort(combCan.keySet());
+		Set<String> longCan = filterShort(combCan);
 		
 		System.out.println("---------");
 		Utils.printCollection(combCan.keySet());
@@ -695,14 +817,23 @@ public class CneDetector {
 		return result;
 	}
 	
-	public static List<String> genCanScore(String text) {
-		Map<String, Double> canScore = genCandidate(text);
+	public static List<List<String>> genCanScore(String text) {
+		Map<String, List<Entity>> canScore = genGroupCan(text);
 		
-		List<String> r = new ArrayList<String>();
+		List<String> r0 = new ArrayList<String>();
+		List<String> r1 = new ArrayList<String>();
+		List<List<String>> r = new ArrayList<>();
 		
-		for(String key: canScore.keySet()) {
-			r.add(key + " -- " + canScore.get(key));
+		for(Entity e: canScore.get("matched")) {
+			r0.add(e.name + " -- " + e.occFreq);
 		}
+		
+		for(Entity e: canScore.get("unmatched")) {
+			r1.add(e.name + " -- " + e.occFreq);
+		}
+		
+		r.add(r0);
+		r.add(r1);
 		
 		return r;
 	}
@@ -724,17 +855,27 @@ public class CneDetector {
 	}
 	
 	
-	public static boolean checkRomanNumeral(String input) {
+	public static boolean checkRoman(String word) {
 		Pattern pattern = Pattern.compile("(M|m){0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?(I|i){0,3})");
-		Matcher matcher = pattern.matcher(input);
+		Matcher matcher = pattern.matcher(word);
 		while (matcher.find()) {
 			String str = matcher.group();
 			//System.out.println(str);
-			if(str.equals(input)) {
+			if(str.equals(word)) {
 				return true;
 			}
 		}
 		return false;
+	}
+	
+	public static boolean checkRomanNumeral(String input) {
+		String[] ws = input.split("\\s+");
+		for (int i = 0; i < ws.length; i++) {
+			if (!checkRoman(ws[i]) && !checkNumber(ws[i]))
+				return false;
+		}
+
+		return true;
 	}
 
 	public static boolean checkSpecialWord(String w) {
@@ -756,7 +897,7 @@ public class CneDetector {
 
 	public static boolean checkDatePhrase(String w) {
 		String word = w.toLowerCase();
-		String[] ws = word.split(" ");
+		String[] ws = word.split("\\s+");
 		for (int i = 0; i < ws.length; i++) {
 			if (!checkDate(ws[i]))
 				return false;
@@ -887,9 +1028,12 @@ public class CneDetector {
 		boolean result = false;
 
 		if (word != null && word.length() > 0) {
-			return Character.isUpperCase(word.charAt(0))
+			result = Character.isUpperCase(word.charAt(0))
 					|| Character.isDigit(word.charAt(0));
 		}
+		
+		if(set_connected.contains(word))
+			result = true;
 		return result;
 	}
 
@@ -911,12 +1055,19 @@ public class CneDetector {
 	}
 
 	public static void main(String[] args) {
+		checkCap();
 		//testGenComb();
 		//System.out.println(checkRomanNumeral("Viiii"));
 	}
+	
+	public static void checkCap() {
+		System.out.println(checkCapitalorNumeric("'Aku"));
+	}
 
 	public static void testGenComb() {
-		String word = "1 2 3";
+		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
+		
+		String word = "Age of Youth";
 		Set<String> r = genComb(word);
 		System.out.println("---");
 		Utils.printCollection(r);
