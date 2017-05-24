@@ -101,12 +101,14 @@ public class SpellApp {
 		for(String t : tagDict) {
 			TextfileIO.initSetFile(t, exactTag);
 			System.out.println(t);
-//			List<String> dictionary = TextfileIO.readFile(tagDict[i]);
+//			List<String> dictionary = TextfileIO.readFile(t);
 //			for (String word : dictionary) {
 //				exactTag.addAll(variedWord(word.toLowerCase()));
 //			}
 		
 		}
+		
+		System.out.println(exactTag.size());
 
 	}
 	
@@ -170,7 +172,7 @@ public class SpellApp {
 			try {
 				indoStopDict.add(line.toLowerCase());
 			} catch (Exception e) {
-				
+				e.printStackTrace();
 			}
 		}
 	}
@@ -188,7 +190,7 @@ public class SpellApp {
 				String[] tokens = line.split(" ");
 				indoDict.put(tokens[0], Integer.parseInt(tokens[1]));
 			} catch (Exception e) {
-				
+				e.printStackTrace();
 			}
 		}
 	}

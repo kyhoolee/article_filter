@@ -30,6 +30,12 @@ public class SqlClient {
 	static final String LOCAL_PASS = "maingames";
 	
 	
+	
+	public static List<Category> getBabeCategory() {
+		return getCategory();
+	}
+	
+	
 	public static void main(String[] args) {
 		//writeTagEntity();
 		writeWikitagToDB();
@@ -160,10 +166,16 @@ public class SqlClient {
 	}
 	
 	
-	
+	public static List<Category> getEnabledCategory() {
+		String sql = "SELECT * FROM sasha_category where enabled = 1;";
+		
+		List<Category> cat = getCategory(sql);
+		
+		return cat;
+	}
 	
 	public static List<Category> getCategory() {
-		String sql = "SELECT * FROM sasha_category";
+		String sql = "SELECT * FROM sasha_category;";
 		
 		List<Category> cat = getCategory(sql);
 		
@@ -190,7 +202,7 @@ public class SqlClient {
 				result.add(cat);
 			}
 			
-			System.out.println("total: " + result.size());
+			//System.out.println("total: " + result.size());
 			
 			rs.close();
 			stmt.close();

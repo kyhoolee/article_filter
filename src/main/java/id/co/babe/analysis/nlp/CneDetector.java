@@ -50,7 +50,7 @@ public class CneDetector {
 		SpellApp.initDict("nlp_data/indo_dict/id_full.txt");
 		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
 		SpellApp.initTag(
-				"nlp_data/indo_dict/filtered_wiki_tag.txt", 
+				"nlp_data/indo_dict/wiki_tag.txt", 
 				"/home/mainspring/tutorial/resources/data/DbPedia/en/filter/wiki_tag_en.2017.txt");
 		SpellApp.initRedirect("nlp_data/indo_dict/redirect_entity_map.txt");
 		
@@ -444,7 +444,7 @@ public class CneDetector {
 		Set<String> filtered = new HashSet<String>();
 		for (String c : candidate.keySet()) {
 			
-			
+			System.out.println(c + " -- " + SpellApp.countExact(c));
 			
 			if (SpellApp.countExact(c) > 0 && (c.length() > 2 || candidate.get(c) > 1) ) {
 				filtered.add(c);
@@ -456,6 +456,7 @@ public class CneDetector {
 			
 		}
 
+		System.out.println("\n\n");
 		for (String c : filtered) {
 
 			boolean check = true;

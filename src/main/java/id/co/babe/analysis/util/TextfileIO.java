@@ -14,10 +14,13 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import com.flakks.spelling.service.SpellApp;
+
 import au.com.bytecode.opencsv.CSVReader;
 import au.com.bytecode.opencsv.CSVWriter;
 
 public class TextfileIO {
+	
 
 	public static void writeCsv(String filePath, List<String[]> data) {
 		try {
@@ -164,7 +167,7 @@ public class TextfileIO {
 			String line;
 			while ((line = br.readLine()) != null) {
 				if (line != null && !line.isEmpty())
-					c.add(line);
+					c.addAll(SpellApp.variedWord(line.toLowerCase()));
 
 			}
 		} catch (IOException e) {

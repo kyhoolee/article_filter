@@ -421,13 +421,13 @@ public class SolrClient {
 			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 		}
 		
-		TextfileIO.writeFile("sample_result/root_score_can." + catId + ".18.5.txt", result);
+		TextfileIO.writeFile("sample_result/root_score_can." + catId + ".24.5.txt", result);
 		
 	}
 	
 	
 	public static void allEntity() {
-		List<Article> as = getBabeArticleById(10660577);
+		List<Article> as = getBabeArticleById(10663746);
 		
 		long start = System.currentTimeMillis();
 		CneDetector.init();
@@ -484,6 +484,16 @@ public class SolrClient {
 		}
 	}
 	
+	
+	public static void printCategory() {
+		List<Category> cats = SqlClient.getEnabledCategory();
+		int count = 0;
+		for(Category c : cats) {
+			count ++;
+			System.out.println(count + " :: " + c.catId + " " + c.catName);
+		}
+	}
+	
 	public static void test() {
 		String c = "Januari 2017";
 		CneDetector.init();
@@ -508,8 +518,9 @@ public class SolrClient {
 		//testRedirect();
 		//test1();
 		//test();
+		//printCategory();
 		allEntity();
-		//allCandidate(27, 40, 9, 32);
+		//allCandidate(45, 50, 26, 27, 28);
 		//averageDocLen();
 		//freqSample();
 		//parseSample();

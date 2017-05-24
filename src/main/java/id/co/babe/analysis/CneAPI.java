@@ -59,7 +59,7 @@ public class CneAPI {
 		SpellApp.initStop(stop_word);
 		System.out.println(stop_word);
 		SpellApp.initTag(tag_word);
-		//Utils.printArray(tag_word);
+		Utils.printArray(tag_word);
 		SpellApp.initRedirect(redirect_word);
 		System.out.println(redirect_word);
 		//TextParser.init();
