@@ -13,11 +13,14 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.flakks.spelling.service.SpellApp;
+import com.flakks.spelling.service.HttpSpellApp;
 
 import edu.stanford.nlp.util.Characters;
 
 public class CneDetector {
+	
+	public static String[] news_common = {"penulis", "editor", "sumber", "laporan", "wartawan"};
+	public static Set<String> set_news_common = new HashSet<String>(Arrays.asList(news_common)); 
 
 	public static String[] web_suffix = { ".com", ".co", ".id", ".net",
 			".co.id" };
@@ -46,21 +49,18 @@ public class CneDetector {
 			Arrays.asList(connect_punc));
 
 	public static void init() {
-		// SpellApp.initIndo("nlp_data/indo_dict/id_full.txt");
-		SpellApp.initDict("nlp_data/indo_dict/id_full.txt");
-		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
-		SpellApp.initTag(
+		// HttpSpellApp.initIndo("nlp_data/indo_dict/id_full.txt");
+		HttpSpellApp.initNormal("nlp_data/indo_dict/id_full.txt");
+		HttpSpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
+		HttpSpellApp.initEntity(
 				"nlp_data/indo_dict/wiki_tag.txt", 
 				"/home/mainspring/tutorial/resources/data/DbPedia/en/filter/wiki_tag_en.2017.txt");
-		SpellApp.initRedirect("nlp_data/indo_dict/redirect_entity_map.txt");
+		HttpSpellApp.initRedirect("nlp_data/indo_dict/redirect_entity_map.txt");
 		
 		TextParser.init();
 	}
 
-	public static void init(String dict, String sentBin, String tokenBin) {
-		SpellApp.initIndo(dict);
-		TextParser.init(sentBin, tokenBin);
-	}
+
 
 	public static Map<String, Double> processFreq(String text) {
 		Map<String, Double> result = new HashMap<String, Double>();
@@ -244,7 +244,8 @@ public class CneDetector {
 		String phrase = w.toLowerCase();
 		phrase = removePunctuation(phrase);
 		boolean result = 
-				phrase.length() > 1 && !SpellApp.checkStop(phrase)
+				phrase.length() > 1 && !HttpSpellApp.checkStop(phrase)
+				&& !checkCommonPhrase(phrase)
 				&& !checkDatePhrase(phrase) 
 				&& !checkMoneyPhrase(phrase)
 				&& !checkWebPhrase(phrase)
@@ -418,7 +419,7 @@ public class CneDetector {
 //		Map<String, Set<String>> r = new HashMap<String, Set<String>>();
 //
 //		for (String w : ws) {
-//			Set<String> tagged = SpellApp.prefixEntity(w);
+//			Set<String> tagged = HttpSpellApp.prefixEntity(w);
 //			if (tagged.size() > 0)
 //				r.put(w, tagged);
 //		}
@@ -430,7 +431,7 @@ public class CneDetector {
 //		Map<String, Integer> r = new HashMap<String, Integer>();
 //
 //		for (String w : ws) {
-//			int tagged = SpellApp.countPrefix(w);
+//			int tagged = HttpSpellApp.countPrefix(w);
 //			if (tagged > 0)
 //				r.put(w, tagged);
 //		}
@@ -444,9 +445,9 @@ public class CneDetector {
 		Set<String> filtered = new HashSet<String>();
 		for (String c : candidate.keySet()) {
 			
-			System.out.println(c + " -- " + SpellApp.countExact(c));
+			System.out.println(c + " -- " + HttpSpellApp.checkEntity(c));
 			
-			if (SpellApp.countExact(c) > 0 && (c.length() > 2 || candidate.get(c) > 1) ) {
+			if (HttpSpellApp.checkEntity(c) > 0 && (c.length() > 2 || candidate.get(c) > 1) ) {
 				filtered.add(c);
 			} 
 
@@ -542,7 +543,7 @@ public class CneDetector {
 		Map<String, Double> r = new HashMap<String, Double>();
 		
 		for(String key : input.keySet()) {
-			String root = SpellApp.getRedirect(key);
+			String root = HttpSpellApp.checkRedirect(key);
 			
 			if(r.containsKey(root)) {
 				r.put(root, r.get(root) + input.get(key));
@@ -561,7 +562,7 @@ public class CneDetector {
 		
 		Map<String, Set<String>> redirect = new HashMap<String, Set<String>>();
 		for(String key : input.keySet()) {
-			String root = SpellApp.getRedirect(key).toLowerCase();
+			String root = HttpSpellApp.checkRedirect(key).toLowerCase();
 			
 			if(r.containsKey(root)) {
 				Set<String> val = redirect.get(root);
@@ -826,11 +827,11 @@ public class CneDetector {
 		List<List<String>> r = new ArrayList<>();
 		
 		for(Entity e: canScore.get("matched")) {
-			r0.add(e.name + " -- " + e.occFreq);
+			r0.add("-t-t- " + e.name + " -- " + e.occFreq);
 		}
 		
 		for(Entity e: canScore.get("unmatched")) {
-			r1.add(e.name + " -- " + e.occFreq);
+			r1.add("-f-f- " + e.name + " -- " + e.occFreq);
 		}
 		
 		r.add(r0);
@@ -954,6 +955,15 @@ public class CneDetector {
 
 		return true;
 	}
+	
+	public static boolean checkCommonPhrase(String w) {
+		for(String common : set_news_common) {
+			if(w.toLowerCase().contains(common)) {
+				return true;
+			}
+		}
+		return false;
+	}
 
 	public static boolean checkWeb(String w) {
 		boolean result = false;
@@ -982,14 +992,14 @@ public class CneDetector {
 
 	public static boolean checkStop(String word) {
 		boolean result = !checkAllCapitalized(word)
-				&& (SpellApp.checkStop(word) || !checkLetterNumeric(word) || (word
+				&& (HttpSpellApp.checkStop(word) || !checkLetterNumeric(word) || (word
 						.length() < 2));
 
 		return result;
 	}
 
 	public static boolean checkCorrect(String word) {
-		return SpellApp.checkCorrect(word);
+		return HttpSpellApp.checkNormal(word);
 	}
 
 	public static boolean checkCapital(String word) {
@@ -1066,7 +1076,7 @@ public class CneDetector {
 	}
 
 	public static void testGenComb() {
-		SpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
+		HttpSpellApp.initStop("nlp_data/indo_dict/stop_word.txt");
 		
 		String word = "Age of Youth";
 		Set<String> r = genComb(word);

@@ -23,7 +23,7 @@ public class CneAPI {
 	
 	public static void initDict() {
 		//CneDetector.init();
-		SpellApp.initDict(id_word);
+		SpellApp.initNormal(id_word);
 		SpellApp.initStop(stop_word);
 		SpellApp.initTag(tag_word);
 		SpellApp.initRedirect(redirect_word);
@@ -42,7 +42,7 @@ public class CneAPI {
 	 */
 	public static void initDict(String id_word, String stop_word, String tag_word, String redirect_word, String sent_parser, String token_parser) {
 		//CneDetector.init();
-		SpellApp.initDict(id_word);
+		SpellApp.initNormal(id_word);
 		SpellApp.initStop(stop_word);
 		SpellApp.initTag(tag_word);
 		SpellApp.initRedirect(redirect_word);
@@ -54,11 +54,11 @@ public class CneAPI {
 	
 	public static void initDict(String id_word, String stop_word, String[] tag_word, String redirect_word, String sent_parser, String token_parser) {
 		//CneDetector.init();
-		SpellApp.initDict(id_word);
+		SpellApp.initNormal(id_word);
 		System.out.println(id_word);
 		SpellApp.initStop(stop_word);
 		System.out.println(stop_word);
-		SpellApp.initTag(tag_word);
+		SpellApp.initEntity(tag_word);
 		Utils.printArray(tag_word);
 		SpellApp.initRedirect(redirect_word);
 		System.out.println(redirect_word);
@@ -70,11 +70,11 @@ public class CneAPI {
 	
 	public static void initDict(String id_word, String stop_word, String redirect_word, String sent_parser, String token_parser, String tag_word, String tag_word2) {
 		//CneDetector.init();
-		SpellApp.initDict(id_word);
+		SpellApp.initNormal(id_word);
 		System.out.println(id_word);
 		SpellApp.initStop(stop_word);
 		System.out.println(stop_word);
-		SpellApp.initTag(tag_word, tag_word2);
+		SpellApp.initEntity(tag_word, tag_word2);
 		System.out.println(tag_word);
 		System.out.println(tag_word2);
 		SpellApp.initRedirect(redirect_word);

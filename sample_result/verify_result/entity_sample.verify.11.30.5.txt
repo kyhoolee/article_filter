@@ -1,0 +1,2393 @@
+-*-<img src="[BASEURL]/369dc89fa81121df8e869cb7949d9905.jpeg" alt="Masashi Kishimoto, “Sejak awal Hinata sudah ditakdirkan dengan Naruto”" data:w="1920" data:h="1080">       
+<p>Dalam ulang tahun kelima dari versi digital majalah Shonen Jump versi Amerika milik Viz, dimuat sebuah&nbsp;<em>chapter&nbsp;</em>baru seri&nbsp;<strong>Boruto</strong>, serta sebuah transkrip wawancara dengan Masashi Kishimoto yang dilaksanakan dalam acara Jump Festa beberapa saat lalu. Kishimoto membicarakan mengenai apa yang akan dilakukannya setelah <em>Naruto</em> tamat, bagaimana dia membedakan antara <em>Naruto</em> dan <em>Boruto,</em> serta apakah dia mendapatkan tekanan untuk menciptakan seri <em>hit</em> lain.<span></span></p> 
+<p>Berikut adalah beberapa potongan dari wawancara tersebut:</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/02/JOI-wawancara-kishimoto-jump-festa-1.jpg" rel="nofollow"><img src="[BASEURL]/6bf2b76d5ce4c731c8d5244b2fb73ad2.jpeg" alt="JOI - wawancara kishimoto jump festa (1)" width="638" height="174" data:w="638" data:h="174"></a></p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/02/JOI-wawancara-kishimoto-jump-festa-2.jpg" rel="nofollow"><img src="[BASEURL]/a5a75498ce9deaf453cf080719ee0cc3.jpeg" alt="JOI - wawancara kishimoto jump festa (2)" width="594" height="232" data:w="594" data:h="232"></a></p> 
+<p>Ternyata sejak awal Sakura memang sudah ditakdirkan dengan Sasuke ya.</p> 
+<p>Sumber: <a href="http://www.crunchyroll.com/anime-news/2017/01/30/viz-presents-naruto-authors-comments-on-tone-of-boruto-hinata-marriage-and-more" rel="nofollow">Crunchyroll</a></p>
+
+
+-*-10662574
+-*-http://jurnalotaku.com/2017/02/01/masashi-kishimoto-sejak-awal-hinata-sudah-ditakdirkan-dengan-naruto/
+
+--------------------
+
+
+-t-t- Masashi Kishimoto -- 2.5762064757911016
+-t-t- Shonen Jump -- 2.5257179738205093
+-t-t- Jump Festa -- 2.211509085975332
+-t-t- Boruto -- 2.170634817630514
+-t-t- Naruto -- 2.00656253074378
+-t-t- Amerika -- 1.2446886697568793
+-t-t- Viz -- 1.2307371422126119
+-t-t- Sakura -- 0.849797597973304
+-t-t- Sasuke -- 0.8235277403089752
+-*- -- time: 0.001
+
+--------------------
+
+
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/41bf847a38f99b6b3445998e559395fa.jpeg" alt="Undur Rilis, ‘Musou Stars’ Perkenalkan Karakter Baru" data:w="800" data:h="450">       
+<p><strong>Koei Tecmo</strong> telah mengumumkan karakter baru untuk<strong> “Musou Stars.”</strong> Tetapi di saat yang sama, mereka <a href="https://www.gamecity.ne.jp/stars/info170131.html" rel="nofollow">mengumumkan</a> bahwa jadwal rilis game ini harus diundur.<span></span></p> 
+<p>Karakter yang diumumkan ada 4 yaitu Arnice dan Christophorus dari <em>Nights of Azure</em>, Ayane dari <em>Ninja Gaiden</em>, dan Tokitsugu dari <em>Toukiden 2.</em> Karena Ayane kali ini mewakilkan seri&nbsp;<em>Ninja Gaiden</em>, bukan dari <em>Dead or Alive</em>, dia akan bertarung dengan kodachi atau pedang kecil.</p> 
+<p>Sedangkan tanggal rilis untuk <em>Musou Stars</em> diundur dari 2 Maret ke tanggal 30 Maret, bersamaan dengan rilisnya game Koei Tecmo lainnya yaitu <em>Blue Reflection</em>. Seperti biasa, mereka mengatakan perlu waktu tambahan untuk meningkatkan kualitas game-nya. Mereka juga memberi pesan lebih lanjut yang disampaikan oleh Masaki Furusawa selaku produser.</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/02/musou-stars-undur-karakter.jpg" rel="nofollow"><img src="[BASEURL]/1e812fdc55a713e24d2992671b0308c3.jpeg" alt="musou-stars-undur-karakter" width="630" height="390" data:w="630" data:h="390"></a></p> 
+<p>Furusawa menjelaskan bahwa meski mereka sudah melakukan pengaturan terakhir untuk konsep dari “pertarungan pahlawan yang dibintangi semua orang,” timnya merasa perlu waktu tambahan agar bisa menyempurnakan game-nya sebagai “<em>all-star title</em>” yang membuat fans puas. Dengan waktu tambahan ini, Furusawa berharap meningkatkan <em>feeling</em> game-nya yang mengumpulkan karakter dari berbagai seri, serta memoles masing-masing bagian game-nya, termasuk penambahan elemen baru.</p> 
+<p><em>Musou Stars</em> akan rilis untuk PlayStation 4 dan PlayStation Vita. Versi Inggrisnya masih belum diumumkan.</p> 
+<p>Sumber: Gematsu (<a href="http://gematsu.com/2017/01/musou-stars-adds-arnice-christophorus-ayane-tokitsugu" rel="nofollow">1</a>, <a href="http://gematsu.com/2017/01/musou-stars-delayed-march-30-japan" rel="nofollow">2</a>)</p>
+
+
+-*-10648512
+-*-http://jurnalotaku.com/2017/02/01/undur-rilis-musou-stars-perkenalkan-karakter-baru/
+
+--------------------
+
+
+-t-t- Musou Stars -- 6.500057348732918
+-t-t- Koei Tecmo -- 4.800978672283039
+-t-t- Ninja Gaiden -- 4.745657361762625
+-t-t- Nights of Azure -- 3.7507013758386027
+-t-t- Furusawa -- 2.8950875446764948
+-t-t- Ayane -- 2.3907852032556653
+-t-t- PlayStation 4 -- 1.6612592241755033
+-t-t- PlayStation Vita -- 1.6504912871927286
+-t-t- Christophorus -- 1.224822278926159
+-f-t- Dead -- 1.1581207464000964
+-f-t- Alive -- 1.1547784089068622
+-*- -- time: 0.001
+
+--------------------
+
+
+-t-f- Toukiden 2 -- 1.0
+-f-f- 2. Karena -- 1.0
+-f-f- Toukiden 2. Karena -- 1.0
+-f-f- 2. Karena Ayane -- 1.0
+-t-f- Blue Reflection -- 1.0
+-t-f- Arnice -- 1.0
+-f-f- Karena Ayane -- 1.0
+-t-f- Masaki Furusawa -- 1.0
+-f-f- Versi Inggrisnya -- 1.0
+-t-f- Tokitsugu -- 1.0
+-f-f- Toukiden 2. Karena Ayane -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<p><em>Valentine</em> menjadi salah satu momen yang spesial di <strong>Jepang</strong>. Sebagian besar orang Jepang akan memperlakukan perayaan hari kasih sayang ini seperti perayaan lainnya. Toko-toko pun berlomba untuk menjual cokelat dengan beraneka rasa dan bentuk. Seperti cokelat <em>One Piece</em> yang satu ini.</p> 
+<p><img src="[BASEURL]/209b91ad43cf4aaeb0dbaa610d7e911f.jpeg" alt="cokelat one piece" width="800" height="803" data:w="640" data:h="642"><img src="[BASEURL]/13107bdcdc51ca8d86083cfe394c8bc6.jpeg" alt="cokelat one piece" width="800" height="1111" data:w="576" data:h="800"></p> 
+<p>Toko <em>pastry</em> terkenal di Jepang, <strong>Tokyo Chocolate</strong> akan menghadirkan cokelat <em>One Piece</em> edisi terbatas. Mengambil karakter dari <em>manga</em> terkenal karya <strong>Eiichiro Oda</strong>, mereka juga memamerkan cokelat ini pada <em>event Salon de Chocolate 2017</em>. Pameran cokelat tersebut akan diadakan pada tanggal 2-5 Februari di Tokyo International Forum.</p> 
+<p><img src="[BASEURL]/ccd2cd32c4e0831e01ee829214d03ccd.jpeg" alt="cokelat one piece" width="800" height="765" data:w="640" data:h="612"><img src="https://japanesestation.com/wp-content/uploads/2017/01/4c9858160a94c263c91c4ad7cb393ddc1485748715_full.jpg" alt="cokelat one piece" width="800" height="806" data:w="640" data:h="645"></p> 
+<p>Dua kotak cokelat dengan <em>cover</em> <strong>Luffy</strong> dan <strong>Law</strong> ini akan tersebar di 17 toko di Jepang mulai tanggal 1 Februari dalam waktu terbatas. Untuk rasa setiap cokelat, terinspirasi dari latar belakang cerita karakternya. Seperti rasa jeruk untuk cokelat <strong>Nami</strong>, dan bunga sakura untuk cokelat <strong>Chopper</strong>.&nbsp;Harga yang ditawarkan untuk satu kotak cokelat ini adalah 2.160 yen.</p> 
+<p><img src="https://japanesestation.com/wp-content/uploads/2017/01/c019ebd902a04db5f36247b027fa37271485748764_full.jpg" alt="cokelat one piece" width="800" height="815" data:w="640" data:h="652"></p> 
+<p>Kira-kira, kalau Zoro rasa cokelatnya seperti apa ya? Cokelat dari karakter yang mana yang paling ingin kalian coba?</p> 
+<span>Source : <a href="http://www.crunchyroll.com/anime-news/2017/01/30/get-special-one-piece-chocolate-boxes-at-salon-du-chocolat-japan" rel="nofollow">crunchyroll.com</a></span>
+
+
+-*-10647018
+-*-https://japanesestation.com/rayakan-valentine-dengan-cokelat-one-piece-beraneka-rasa/
+
+--------------------
+
+
+-t-t- Jepang -- 4.676417263473723
+-t-t- One Piece -- 4.598652463293644
+-t-t- Tokyo International Forum -- 3.220557871698674
+-t-t- Eiichiro Oda -- 2.1760093286107245
+-t-t- Valentine -- 1.317815434057879
+-f-t- Toko-toko -- 1.2265056901143792
+-t-t- Luffy -- 0.9879429404774712
+-t-t- Law -- 0.9836003411531702
+-t-t- Nami -- 0.8994579862513936
+-t-t- Chopper -- 0.8849160528185982
+-t-t- Zoro -- 0.8456608017064472
+-f-t- Cokelat -- 0.8319886310513275
+-f-t- Source -- 0.8085030204609316
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Chocolate 2017 -- 1.0
+-t-f- Salon de Chocolate -- 1.0
+-t-f- Salon de Chocolate 2017 -- 1.0
+-f-f- Source  -- 1.0
+-t-f- Tokyo Chocolate -- 1.0
+-f-f- Salon de -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/9fbfe632f5a982b53800f3d2032c2d00.jpeg" data:w="740" data:h="423" />        
+<p>Situs resmi dari adaptasi&nbsp;<em>anime</em>&nbsp;dari seri novel&nbsp;<strong>DIVE!!</strong> buatan Eto Mori baru saja mengumumkan di hari Rabu kalau&nbsp;<em>anime</em> tersebut akan tayang secara eksklusif di Amazon Prime Video saja. Seri&nbsp;<em>anime</em> ini sebenarnya juga akan tayang di Fuji TV dalam blok program Noitamina di bulan Juli, dan Amazon telah menekan&nbsp;<em>deal</em> eksklusif dengan tayangan Noitamina milik Fuji TV.</p> 
+<p><span></span></p> 
+<p>Ketiga karakter utamanya adalah&nbsp;<strong>Tomoki Sakai</strong> (Yuuki Kaji),&nbsp;<strong>Youichi Fujitani</strong>, dan&nbsp;<strong>Shibuki Okitsu</strong>. Kedua pemeran lainnya akan diumumkan pada tanggal 5 Mei, namun nama Yuuki Kaji sendiri harusnya sudah bisa membuat beberapa orang tertarik, mengingat <a href="http://jurnalotaku.com/2016/05/05/puluhan-penggemar-rela-menginap-di-mall-demi-melihat-yuki-kaji/" rel="nofollow">betapa populernya orang ini</a>.</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/04/JOI-DIVE-anime-announcement-3.jpg" rel="nofollow">  <img src="[BASEURL]/75512fc7b9d35afe46340780b7830561.jpeg" data:w="700" data:h="454" /> </a></p> 
+<p>Seri ini akan berkisar di Mizuki Diving Club (MDC) yang sedang berada di ambang penutupan karena memiliki masalah keuangan. Pelatih barunya ingin membuat perusahaan di atasnya tetap membuka klub tersebut dengan satu&nbsp;kondisi, klub ini akan mengirim salah satu anggotanya sebagai bagian dari tim olimpiade Jepang.</p> 
+<p>Kaoru Suzuki (Inuyasha) akan menyutradarai film ini di studio ZERO-G. Suzuhito Yasuda (<em>Danmachi</em>) akan mengerjakan desain karakternya, dan Touko Machida (<em>Wake Up, Girls!</em>) akan mengerjakan naskahnya.</p> 
+<p>Sumber: <a href="http://www.animenewsnetwork.com/daily-briefs/2017-05-20/dive-tv-anime-to-stream-exclusively-on-amazon-prime-video/.116200" rel="nofollow">ANN</a></p>
+
+
+-*-12313897
+-*-http://jurnalotaku.com/2017/05/22/seri-tv-dive-akan-tayang-secara-eksklusif-di-amazon-prime/
+
+--------------------
+
+
+-t-t- Fuji TV -- 4.6634422376698765
+-t-t- Yuuki Kaji -- 4.314905574547372
+-t-t- Amazon Prime -- 2.76524707835044
+-t-t- Noitamina -- 2.3258759189392815
+-t-t- Diving Club -- 1.9730875277752316
+-t-t- Suzuhito Yasuda -- 1.7006840717545193
+-f-t- Wake Up -- 1.6423003399210447
+-f-t- Situs -- 1.3178672336920223
+-f-t- DIVE -- 1.291510776434949
+-t-t- Jepang -- 0.8802011388296007
+-t-t- Inuyasha -- 0.8706218158949692
+-t-t- ZERO-G -- 0.8532099658306601
+-t-t- Danmachi -- 0.8442796525008099
+-f-t- Girls -- 0.8180456361609223
+-*- -- time: 0.001
+
+--------------------
+
+
+-t-f- Amazon Prime Video -- 1.0
+-t-f- Eto Mori -- 1.0
+-t-f- Touko Machida -- 1.0
+-f-f- Prime Video -- 1.0
+-f-f- Mizuki Diving -- 1.0
+-t-f- Tomoki Sakai -- 1.0
+-t-f- Mizuki Diving Club -- 1.0
+-t-f- Shibuki Okitsu -- 1.0
+-t-f- Youichi Fujitani -- 1.0
+-t-f- Kaoru Suzuki -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0ef77c3902a50f04bc62802b45b7f21f.jpeg" data:w="740" data:h="456" />        
+<p>Sebuah poster&nbsp;<em>key visual</em>&nbsp;untuk&nbsp;<em>anime</em> <strong>“</strong><strong>Kakegurui”</strong> diumumkan, dalam poster tersebut, terdapat daftar para pemeran dan para staf yang akan mengerjakan&nbsp;<em>anime</em> ini. Selain itu, visual para karakter bersama foto para&nbsp;<em>seiyuu</em>-nya juga diperlihatkan dalam beberapa gambar selanjutnya.<span></span></p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-kakegurui-macem-macem-visual-2.jpg" rel="nofollow">  <img src="[BASEURL]/7ebeff905b231a9f0c88fbe7a97bf241.jpeg" data:w="600" data:h="887" /> </a></p> 
+<p>Kamu dapat melihat daftar para&nbsp;<em>seiyuu</em> seri ini dalam <a href="http://jurnalotaku.com/2017/03/27/pv-anime-kakegurui-umumkan-para-seiyuunya/" rel="nofollow">artikel ini</a>, serta artikel yang mengumumkan para <a href="http://jurnalotaku.com/2017/05/03/anime-kakegurui-umumkan-8-seiyuu-tambahan/" rel="nofollow">seiyuu tambahannya</a>.</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-kakegurui-macem-macem-visual-3.jpg" rel="nofollow">  <img src="[BASEURL]/44da02b5f4fb831a75615215d4b112f2.jpeg" data:w="600" data:h="883" /> </a></p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-kakegurui-macem-macem-visual-4.jpg" rel="nofollow">  <img src="[BASEURL]/508293504ce0b2e511eb70a583a357a4.jpeg" data:w="600" data:h="886" /> </a></p> 
+<p>Yuichiro Hayashi (<em>Garo the Animation</em>) akan menyutradarai&nbsp;<em>anime</em> ini di studio <strong>MAPPA</strong> bersama Yasuko Kobayashi (<em>Shingeki no Kyojin, Garo the Animation</em>) yang akan menulis naskah seri ini. Manabu Akita (<em>JoJo’s Bizarre Adventure</em>) akan mendesain karakternya.</p> 
+<p><em>Manga</em> ini telah diluncurkan di majalah Gangan Joker milik Square Enix pada bulan Maret 2014, dan&nbsp;edisi kelima dari kompilasi bukunya telah terbit pada bulan Mei 2016 lalu. Edisi terbarunya akan terbit tanggal 22 Februari mendatang. Berikut ini adalah sinopsis dari&nbsp;<em>manga</em> tersebut.</p> 
+<p>Hyakkao Private Academy adalah sebuah institusi untuk anak-anak terpilih dengan kurikulum yang aneh. Kalau kamu adalah putra dan putri dari orang kaya dari yang terkaya, bukan keahlian atletik atau kepandaian yang dapat membuatmu menang tapi bagaimana membaca lawan, seni dari judi. Tidak ada cara lain mengasah keterampilan tersebut selain menggunakan kurikulum berjudi. Di Hyakkao Private Academy, pemenang hidup seperti raja dan yang kalah akan diperas sampai habis. Namun saat&nbsp;<strong>Yumeko Jabami</strong> bergabung, dia akan mengajarkan kepada anak-anak tersebut apa yang pantas disebut sebagai penjudi kelas tinggi.</p> 
+<p>  <img src="[BASEURL]/8f2fc78df7ac49b8705524ed4c492ea1.jpeg" data:w="526" data:h="744" /> </p> 
+<p>Twitter resmi dari <em>anime</em> ini akan mengumumkan pemeran anggota OSIS pada tanggal 25 April di media sosial tersebut.&nbsp;<em>Kakegurui</em> sendiri akan tayang di bulan Juli tahun ini.</p> 
+<p>Sumber: <a href="http://yaraon-blog.com/archives/105659" rel="nofollow">Yaraon!</a></p>
+
+
+-*-12313898
+-*-http://jurnalotaku.com/2017/05/22/adaptasi-anime-kakegurui-menampilkan-poster-key-visual-dan-para-karakternya/
+
+--------------------
+
+
+-t-t- Garo the Animation -- 7.075930346335965
+-t-t- Hyakkao Private Academy -- 6.044478760726105
+-t-t- Yasuko Kobayashi -- 2.2832720372837176
+-t-t- Gangan Joker -- 2.1551317829486636
+-t-t- Square Enix -- 2.143569618499448
+-t-t- Kakegurui -- 2.1215244102612894
+-t-t- MAPPA -- 1.146170169930745
+-t-t- Shingeki -- 1.1358327416090896
+-t-t- Kyojin -- 1.1319802882991494
+-t-t- JoJo -- 1.1075694025846599
+-t-t- OSIS -- 0.8297587069243223
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Di Hyakkao Private Academy -- 1.0
+-t-f- Manabu Akita -- 1.0
+-f-f- Di Hyakkao Private -- 1.0
+-t-f- Bizarre Adventure -- 1.0
+-t-f- Yuichiro Hayashi -- 1.0
+-t-f- Yumeko Jabami -- 1.0
+-f-f- Di Hyakkao -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/1fd7a6e31b878134cb220e9f379de235.jpeg" data:w="1920" data:h="1080" />        
+<p>Selain <em>anime,</em> <strong><a href="http://jurnalotaku.com/series/action-heroine-cheer-fruits/" rel="nofollow">Action Heroine Cheer Fruits</a></strong> juga akan dibuat menjadi seri <em>manga.</em>&nbsp;Hal ini diketahui melalui pengumuman oleh majalah <em>manga</em> Young Champion Retsu.<span></span></p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/04/JOI-Cheer-Fruits-New-Visual.jpg" rel="nofollow">  <img src="[BASEURL]/150e6d5c9bbac9c07b00d553187c368d.jpeg" data:w="331" data:h="500" /> </a></p> 
+<p>Seri <em>manga</em>&nbsp;<em>Action Heroine Cheer Fruits</em> akan rilis pada volume ketujuh majalah <em>manga</em> Young Champion Retsu yang terbit pada tanggal 20 Juni mendatang sementara seri <em>anime</em>-nya akan tayang pada musim panas, tepatnya bulan Juli.</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-cheer-fruits-1.jpg" rel="nofollow">  <img src="[BASEURL]/c66a0e6b372a3b0efd7c77f8924bf4dd.jpeg" data:w="350" data:h="496" /> </a></p> 
+<p>Adaptasi <em>manga</em> <em>Action Heroine Cheer Fruits</em> dikerjakan oleh Azuse dengan mengambil kisah di sebuah kota kecil bernama Hinano yang tumbuh dari hasil cocok tanam berupa buah-buahan. Misaki Shirogane dan An Akagi mencoba melakukan revitalisasi kota kecil ini dengan menjadi pembela kebenaran dan menampilkan<em> event live action</em> untuk menarik perhatian orang-orang dari luar kota tersebut.</p> 
+<p>Sumber: <a href="http://www.crunchyroll.com/anime-news/2017/05/17/action-heroine-cheer-fruits-to-get-comicalized-this-summer" rel="nofollow">Crunchyroll</a></p>
+
+
+-*-12313654
+-*-http://jurnalotaku.com/2017/05/22/anime-action-heroine-cheer-fruits-dapatkan-adaptasi-manga/
+
+--------------------
+
+
+-t-t- Action Heroine Cheer Fruits -- 15.12334776356977
+-t-t- Young Champion Retsu -- 7.411335870291245
+-t-t- Azuse -- 0.9931132334880275
+-*- -- time: 0.0
+
+--------------------
+
+
+-t-f- Misaki Shirogane -- 1.0
+-t-f- Hinano -- 1.0
+-t-f- An Akagi -- 1.0
+-*- -- time: 0.0
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e4776ed232c0cdc4aa74df0ab195b48f.jpeg" data:w="800" data:h="450" />        
+<p><strong>Nippon Ichi Software</strong> telah merilis informasi terbaru dari <strong>“Yomawari: Midnight Shadows”</strong> yang mendetilkan aksi yang kalian bisa lakukan pada saat menjelajahi kota di malam hari yang menyeramkan.<span></span></p> Karakter 
+<p><em>Yomawari: Midnight Shadows </em>menghadirkan 2 gadis muda yang harus menjelajahi kota di malam hari. Ceritanya akan diceritakan dari sudut pandang masing-masing gadis secara bergantian.</p> Yui 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-2.jpg" rel="nofollow">  <img src="[BASEURL]/62acd9522d1eed0052f9aec20e4fa1e1.jpeg" data:w="512" data:h="512" /> </a></p> 
+<p>Teman dekat Haru, dia memiliki kepribadian yang ceria. Ketika dalam perjalan pulang dari pesta kembang api, mereka terpisah dan tiba di kota pada malam hari. Dia memiliki 2 anak anjing.</p> Haru 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-3.jpg" rel="nofollow">  <img src="[BASEURL]/a72bf76f2dc9806e1d584934ea6e1523.jpeg" data:w="512" data:h="512" /> </a></p> 
+<p>Teman dekat Yui, dia memiliki kepribadian yang pendiam. Tetapi dia mengumpulkan keberaniannya untuk menjelajahi kota di malam hari demi mencari Yui.</p> Chako 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-4.jpg" rel="nofollow">  <img src="[BASEURL]/8fcdfea6852a8bddfff33bd5f526c353.jpeg" data:w="355" data:h="370" /> </a></p> Mendorong Obyek 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-5.jpg" rel="nofollow">  <img src="[BASEURL]/227d8e5ef1060a291b94cadb5252addc.jpeg" data:w="600" data:h="338" /> </a></p> 
+<p>Elemen baru di <em>Yomawari: Midnight Shadows </em>adalah sekarang kalian bisa mendorong obyek. Kalau kalian melihat <em>icon</em> tangan, itu berarti obyeknya bisa didorong. Contohnya adalah kalian bisa mendorong kotak kayu untuk membuka jalan.</p> Interaksi 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-6.jpg" rel="nofollow">  <img src="[BASEURL]/ef8703143de22d35ec976ae7cb8617d2.jpeg" data:w="600" data:h="338" /> </a></p> 
+<p>Seluruh kotanya diselimuti oleh kegelapan dan para gadis hanya bisa mengandalkan senter untuk menjelajahi kotanya.</p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-7.jpg" rel="nofollow">  <img src="[BASEURL]/4340f7a35b8e8324814357ec800e2fe9.jpeg" data:w="600" data:h="338" /> </a></p> 
+<p>Sepanjang jalan, kalian akan bisa menemukan obyek yang melakukan interaksi. Ketika kalian menemukan item-nya, tanda tanya akan muncul di atas karakter kalian. Ketika kalian mendekatinya, nanti akan muncul tanda seru. Pada saat ini kalian bisa melakukan aksi atau mengambil “<em>lost item</em>.”</p> Lost Item 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-8.jpg" rel="nofollow">  <img src="[BASEURL]/a3306782abdfad5bf8c5135a5c5a3dfc.jpeg" data:w="600" data:h="338" /> </a></p> 
+<p>Para gadis bisa membawa<em> lost item</em> yang mereka temukan di perjalanan. <em>Lost item</em> bisa dilempar, ditaruh, atau digunakan. Karena barang-barang ini bisa berguna di tempat yang tidak terduga, mereka adalah barang yang penting ketika menjelajahi kota.</p> Charm 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/yomawari-midnight-shadows-eksplorasi-9.jpg" rel="nofollow">  <img src="[BASEURL]/d81935ace94929e9d3dcb8c750ff407e.jpeg" data:w="600" data:h="338" /> </a></p> 
+<p>Kalian juga bisa mendapatkan barang yang bernama <em>charm</em>. Dengan meng-<em>equip</em> <em>charm</em>, kalian akan mendapatkan berbagai keuntungan seperti bisa membawa kerikil yang lebih banyak, stamina tidak cepat berkurang, atau berlari lebih cepat.</p> 
+<p><em>Yomawari: Midnight Shadows</em> akan rilis di Jepang pada tanggal 24 Agustus untuk PlayStation 4 dan PlayStation Vita. Versi Inggrisnya akan rilis pada musim gugur.</p> 
+<p>Sumber: <a href="http://gematsu.com/2017/05/yomawari-midnight-shadows-details-exploration-actions" rel="nofollow">Gematsu</a></p>
+
+
+-*-12313655
+-*-http://jurnalotaku.com/2017/05/22/yomawari-midnight-shadows-detilkan-aksi-eksplorasi/
+
+--------------------
+
+
+-t-t- Yomawari: Midnight Shadows -- 14.574889836304763
+-t-t- Nippon Ichi Software -- 4.174620718441567
+-t-t- Yui -- 3.4536118144372865
+-t-t- Haru -- 2.3458934457347724
+-t-t- PlayStation 4 -- 1.639138316462399
+-t-t- PlayStation Vita -- 1.6322302279741707
+-t-t- Jepang -- 0.8267151150062626
+-*- -- time: 0.002
+
+--------------------
+
+
+-t-f- Chako -- 1.0
+-f-f- Mendorong Obyek -- 1.0
+-t-f- Lost Item -- 1.0
+-f-f- Versi Inggrisnya -- 1.0
+-t-f- Yomawari : Midnight Shadows -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/45bc166be7c62ac17f21ddcdd74db5d9.jpeg" data:w="800" data:h="450" />        
+<p><strong>Falcom</strong> telah mengungkapkan detil terbaru dari <strong>“The Legend of Trails of Cold Steel III.”</strong> Informasi yang diungkapkan kali ini adalah mengenai sistem pertarungan yang mendapatkan banyak perubahan.<span></span></p> Pengenalan Sistem Pertarungan Sistem Pertarungan AT yang Paling Nyaman dan Intuitif Sepanjang Seri Trails 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-1.jpg" rel="nofollow">  <img src="[BASEURL]/4be7cba2cd25904077ec2acc8735f109.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Berbagai elemen sistem “AT Battle,” yang urutan aksi ditentukan oleh Action Turn Bar yang berada di sisi kiri layar, telah ditingkatkan. Kalian akan bisa mengendalikan pertarungan yang lebih intuitif dari game-game sebelumnya, dan sistem juga pertarungan berbasis <em>command</em> yang lebih nyaman.</p> Direct Command 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-2.jpg" rel="nofollow">  <img src="[BASEURL]/a176fc6a8efd6c260f0fb8034987170b.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Ring Command dari game-game sebelumnya dirubah menjadi Direct Command. Kalian bisa memilih aksi hanya dengan menekan 1 tombol saja. Masing-masing tombol aksi dan<em> d-pad</em> memiliki aksi khusus. Contohnya adalah lingkaran untuk serangan standar, segitiga untuk Craft, kotak untuk Arts, X untuk bergerak, tombol atas untuk Order, tombol kiri untuk <em>item</em>, tombol bawah untuk Exit, dan tombol kanan untuk mengganti gaya bertarung (khusus Juna).</p> 
+<p>Kalian masih bisa melakukan Combat Link yang merupakan serangan kombinasi dan kalian bisa melihat garis yang menandakan aksinya di pojok kanan bawah. Teknik yang kuat seperti S-Break juga akan hadir kembali</p> Pertarungan yang Seamless 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-3.jpg" rel="nofollow">  <img src="[BASEURL]/1fc74698240bedbc50bbdc56f3618d2b.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Sebelumnya, pertarungan akan terjadi ketika kalian menyentuh musuh dan akan pindah ke layar pertarungan khusus. Tetapi kali ini pertarungan akan dilakukan langsung di tempat yang sama kalian bertemu musuhnya. Hal ini dapat mempengaruhi strategi kalian, contohnya adalah di labirin, peta dengan perbedaan ketinggian, dan lainnya.</p> Ubah Gaya Bertarung 
+<p>Juna, yang berasal dari Crossbell State kuno, menggunakan Gunbreaker, yang merupakan gabungan pistol dan baton. Setiap kali giliran Juna datang pada saat bertarung, kalian bisa mengganti antara 2 mode serangan. Pelajari masing-masing keunikan senjata dan gunakan sesuai situasi.</p> Striker Mode 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-4.jpg" rel="nofollow">  <img src="[BASEURL]/f64262ac46d557c73be8c104f6c4bae0.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Dalam mode ini, Gunbreaker-nya bertindak seperti baton. Ini adalah mode serangan jarak dekat dan hanya bisa menyerang 1 musuh, tetapi stats milik Juna meningkat.</p> Gunner Mode 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-5.jpg" rel="nofollow">  <img src="[BASEURL]/aeb9b84e75e91135980ff2b46e14c932.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Gunner Mode adalah senjata jarak menengah yang fungsi utamanya adalah menembak. Karena serangan standar jadi serangan jarak jauh, kalian akan bisa menyerang beberapa musuh sekaligus. Karena stats Juni lebih lemah jika dibandingkan dengan Striker Mode, kalian harus berhati-hati.</p> Manfaatkan Pergantian Mode 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-6.jpg" rel="nofollow">  <img src="[BASEURL]/2d1814810a6bee5a3360a8dfad5f4e47.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Ketika menghadapi musuh yang lemah, gunakan Gunner Mode untuk bisa mengalahkan musuh sekaligus dengan cepat. Sedangkan apabila kalian bertarung melawan musuh yang kuat, gunakan Striker Mode. Ganti terus gaya bertarung Juna sesuai dengan situasinya.</p> Brave Order 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-7.jpg" rel="nofollow">  <img src="[BASEURL]/72e76d7548f3c89d12d56474c5945c79.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Brave Order adalah sistem untuk mengaktifkan Order di masing-masing giliran karakter tanpa menghabiskan turn. Ketika diaktifkan, efek Order akan diberikan ke seluruh party dalam waktu terbatas.</p> 
+<p>Brave Order memerlukan Brave Point (BP) yang akan bertambah selama kalian bertarung. Tentunya efek Brave Order akan membantu kalian.</p> Craft 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/trails-of-cold-steel-iii-battle-system-9.jpg" rel="nofollow">  <img src="[BASEURL]/a3474325a0b9f4f8c272ea1bb70f3ed0.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p>Craft adalah teknik masing-masing karakter yang bisa diaktifkan menggunakan Craft Point (CP). Variasinya ada berbagai macam seperti serangan jarak jauh atau menyembuhkan anggota <em>party</em>.</p> 
+<p><em>The Legend of Heroes: Trails of Cold Steel III</em> akan rilis di Jepang pada tanggal 28 September untuk PlayStation 4.</p> 
+<p>Sumber: <a href="http://gematsu.com/2017/05/legend-heroes-trails-cold-steel-iii-details-new-battle-system-elements" rel="nofollow">Gematsu</a></p>
+
+
+-*-12313377
+-*-http://jurnalotaku.com/2017/05/22/legend-heroes-trails-cold-steel-iii-detilkan-sistem-pertarungan/
+
+--------------------
+
+
+-t-t- The Legend of Heroes: Trails of Cold Steel III -- 8.3199080140369
+-t-t- Brave Order -- 7.737323834712431
+-t-t- Gunner Mode -- 5.679614301386009
+-t-t- Striker Mode -- 5.630601023914217
+-f-t- Sistem Pertarungan -- 5.108741772665553
+-t-t- Juna -- 5.032655408151041
+-t-t- Direct Command -- 4.80043869119836
+-t-t- Craft -- 3.6684379387505914
+-t-t- Gunbreaker -- 2.010334274729541
+-t-t- PlayStation 4 -- 1.6085106182849527
+-t-t- Falcom -- 1.3185883390863988
+-t-t- Arts -- 1.155320524895901
+-t-t- Exit -- 1.1397631666886991
+-t-t- Seamless -- 1.0906340121053948
+-t-t- Jepang -- 0.8088907736329296
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- Intuitif Sepanjang Seri -- 1.0
+-f-f- Legend of Trails of Cold -- 1.0
+-f-f- Sistem Pertarungan Sistem Pertarungan -- 1.0
+-f-f- Ubah Gaya -- 1.0
+-f-f- Sistem Pertarungan Sistem Pertarungan AT -- 1.0
+-t-f- Intuitif Sepanjang Seri Trails -- 1.0
+-f-f- Pengenalan Sistem Pertarungan Sistem -- 1.0
+-f-f- Pengenalan Sistem Pertarungan Sistem Pertarungan -- 1.0
+-t-f- Ring Command -- 1.0
+-f-f- Pengenalan Sistem Pertarungan -- 1.0
+-f-f- Sepanjang Seri Trails -- 1.0
+-f-f- Pertarungan Sistem -- 1.0
+-t-f- The Legend of Trails of Cold -- 1.0
+-t-f- Crossbell State -- 1.0
+-f-f- Pertarungan Sistem Pertarungan AT -- 1.0
+-f-f- Legend of Trails -- 1.0
+-f-f- Seri Trails -- 1.0
+-t-f- S-Break -- 1.0
+-f-f- Ubah Gaya Bertarung -- 1.0
+-f-f- Informasi -- 1.0
+-f-f- Manfaatkan Pergantian Mode -- 1.0
+-f-f- Turn Bar -- 1.0
+-f-f- Legend of Trails of Cold Steel III -- 1.0
+-f-f- Pengenalan Sistem Pertarungan Sistem Pertarungan AT -- 1.0
+-t-f- Combat Link -- 1.0
+-t-f- Sistem Pertarungan AT -- 1.0
+-f-f- Pergantian Mode -- 1.0
+-t-f- The Legend of Trails of Cold Steel III -- 1.0
+-f-f- Legend of Trails of Cold Steel -- 1.0
+-t-f- Action Turn Bar -- 1.0
+-t-f- The Legend of Trails of Cold Steel -- 1.0
+-f-f- Sepanjang Seri -- 1.0
+-f-f- Gunbreaker-nya -- 1.0
+-f-f- The Legend of Trails -- 1.0
+-t-f- BP -- 1.0
+-f-f- Pertarungan AT -- 1.0
+-f-f- Gaya Bertarung -- 1.0
+-f-f- AT Battle -- 1.0
+-f-f- Pertarungan Sistem Pertarungan -- 1.0
+-f-f- Pengenalan Sistem -- 1.0
+-f-f- The Legend of Trails of -- 1.0
+-f-f- Sistem Pertarungan Sistem -- 1.0
+-t-f- Brave Point -- 1.0
+-f-f- Legend of Trails of -- 1.0
+-f-f- Paling Nyaman -- 1.0
+-f-f- Manfaatkan Pergantian -- 1.0
+-t-f- CP -- 1.0
+-f-f- Action Turn -- 1.0
+-t-f- Craft Point -- 1.0
+-f-f- Intuitif Sepanjang -- 1.0
+-t-f- The Legend of Heroes : Trails of Cold Steel III -- 0.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<p>Pada kesempatan kali ini di <a href="http://www.chokaigi.jp/" rel="nofollow">NicoNico Chokaigi 2017</a>, Tim Japanese Station mengadakan wawancara eksklusif dengan The World Standard / Wa-Suta (わーすた), sebuah <em>idol group</em> asal <strong>Jepang</strong> yang beranggotakan 5 gadis <em>kawaii</em> yaitu <strong>Nanase Hirokawa, Ruka Mishina, Ririka Kodama, Hazuki Sakamoto</strong> dan <strong>Miri Matsuda</strong> dan tergabung dalam manajemen <a href="http://idolstreet.jp/index.php" rel="nofollow">iDOL Street</a> di bawah avex entertaiment.</p> 
+<p><em>Idol group</em> yang sedang naik daun lewat beberapa lagu populernya seperti <em><strong>“Inu Neko. Seishun Massakari / いぬねこ。青春真っ盛り”</strong></em> dan <em><strong>“Ultra Mirakurukuru Ultimate Choco Beam /うるとらみらくるくるふぁいなるアルティメットチョコびーむ”</strong></em> yang juga baru merilis single terbaru bertajuk <em><strong>“Just be Yourself”</strong></em> ini mengungkap bagaimana pendapat dan perasaan mereka tentang Indonesia dan juga <em>euphoria</em> kultur J-pop di negeri kita tercinta ini. Seperti apa sih wawancaranya? Yuk kita simak di bawah ini!</p>  <img src="[BASEURL]/7f2fac006f96d6ad8bd370839b500e64.jpeg" data:w="800" data:h="534" /> The World Standard / Wa-Suta 
+<p><span><strong>BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA?</strong></span></p> 
+<p><strong>Semua :&nbsp;</strong>We are The World Standard, Wa-Suta!</p> 
+<p><strong>Miri :&nbsp;</strong>Aku Miri Matsuda!</p> 
+<p><strong>Ruka :&nbsp;</strong>Aku Ruka Mishina!</p> 
+<p><strong>Nanase&nbsp;</strong><strong>:&nbsp;</strong>Aku Nanase Hirokawa!</p> 
+<p><strong>Ririka :&nbsp;</strong>Aku Ririka Kodama!</p> 
+<p><strong>Hazuki :&nbsp;</strong>Aku Hazuki Sakamoto!</p> 
+<p><strong>Semua :&nbsp;</strong>Yoroshiku Onegaishimasu!</p> 
+<p><span><strong>SEBAGAI SALAH SATU IDOL GROUP DI JEPANG, KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA?</strong></span></p> 
+<p><strong>Nanase :&nbsp;</strong>Nama grup kami Wa-Suta adalah singkatan dari The World Standard dan kami berusaha memperkenalkan Kawaii Japan Idol Culture, misalnya dengan mengenakan kostum seperti ini (kostum single “Just Be Yourself”), atau yang lain-lainnya yang kawaii dari Jepang. Selain itu banyak di antara lagu kami yang memasukkan unsur budaya dunia, mungkin bisa dinikmati banyak orang.</p> 
+<p><span><strong>SEPERTI YANG SUDAH KITA DENGAR SEBELUMNYA, WA-SUTA BENAR-BENAR MENGGUNAKAN SNS (SOSIAL MEDIA) UNTUK MENYEBARKAN “KAWAII JAPAN IDOL”, BISAKAH KALIAN MEMBERITAHU KAMI BAGAIMANA KALIAN MELAKUKANNYA?</strong></span></p> 
+<p>  <img src="https://japanesestation.com/wp-content/uploads/2017/05/Wa-suta-option-2-e1495428924563.jpg" data:w="800" data:h="534" /> </p> 
+<p><strong>Ririka :&nbsp;</strong>Grup kami memperbolehkan pengunjung untuk memotret di saat pertunjukan, seperti yang tadi dibilang grup kami mengenakan kostum yang cukup unik, setiap kalinya kami mengenakan nekomimi, yang menjadi salah satu ikon kawaii di Jepang. Foto-foto kami itu banyak disebarkan oleh penggemar di media sosial, berkat hal itu kawaii versi kami semakin menyebar luas!</p> 
+<p><span><strong>APAKAH KALIAN PERNAH MENDENGAR MENGENAI INDONESIA SEBELUMNYA? APA YANG ADA DI BENAK KALIAN MENGENAI INDONESIA?</strong></span></p> 
+<p><strong>Semua :&nbsp;</strong>Tentu saja kami tahu!</p> 
+<p><strong>Nanase :&nbsp;</strong>Kami memiliki kesan bahwa Indonesia adalah negara di mana budaya idol sedang berkembang, selain itu, bukankah ada bagian-bagian dalam budaya Indonesia yang memiliki kesamaan dengan budaya Jepang?</p> 
+<p><span><strong>SAAT INI KALIAN MEMILIKI POPULARITAS YANG BAGUS DI INDONESIA! BANYAK SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN “INU NEKO. SEISHUN MASSAKARI”, APA PENDAPAT KALIAN MENGENAI HAL INI?</strong></span></p> 
+<p>  <img src="https://japanesestation.com/wp-content/uploads/2017/05/IMG_8822-e1494586492554.jpg" data:w="800" data:h="534" /> </p> 
+<p><strong>Miri :&nbsp;</strong>Kami pernah melihat video cover “Inu Neko. Seishun Massakari” karena banyak orang Indonesia yang memberitahu kami lewat Twitter, tapi ini pertama kali kami diberitahu di saat wawancara bahwa banyak yang mengcover lagu kami, kami sangat terharu.</p> 
+<p><strong>Semua :&nbsp;</strong>Kami senang sekali!</p> 
+<p><strong>Nanase :&nbsp;</strong>Kami juga senang sekali banyak yang mengcover tidak hanya lagu, tapi juga kostum kami.</p> 
+<p><span><strong>APAKAH KALIAN MEMILIKI RENCANA UNTUK PERFORM DI INDONESIA?</strong></span></p> 
+<p><strong>Ruka :&nbsp;</strong>Kami belum ada rencana untuk membuat pertunjukan disana…. tapi kami ingin pergi kesana!</p> 
+<p><strong>Nanase :&nbsp;</strong>Jika ada orang yang tahu Wa-Suta meski hanya seorang, kami ingin kesana, dan menikmati pertunjukan bersama-sama.</p> 
+<p><span><strong>ADAKAH PENGALAMAN UNIK SELAMA KALIAN PERFORM DI PANGGUNG? BISAKAH KALIAN&nbsp;MENCERITAKANNYA KEPADA KAMI?</strong></span></p> 
+<p><strong>Hazuki :&nbsp;</strong>Pada saat melakukan pertunjukan, para anggota Wa-Suta sering melakukan eye-contact satu sama lain. Pada saat pertunjukan semakin meriah, seringkali di antara tarian, anggota Wa-Suta jadi ramai sendiri, jadi di saat pertunjukan pun kami bersenang-senang dengan saling melakukan eye-contact.</p> 
+<p><span><strong>APAKAH YANG KALIAN LAKUKAN SAAT SEDANG TIDAK BERAKTIVITAS? ADAKAH HOBI YANG SERING KALIAN LAKUKAN DI WAKTU SENGGANG?</strong></span></p> 
+<p><strong>Ruka :&nbsp;</strong>Kalau aku, di hari libur aku suka bersantai di rumah sambil menonton anime.</p> 
+<p><strong>Ririka :&nbsp;</strong>Kegiatan di hari libur berbeda-beda untuk tiap member, misalnya kalau aku di hari libur aku suka tidur saja atau menonton video.</p> 
+<p><strong>Nanase :&nbsp;</strong>Para anggota Wa-suta memang banyak yang suka memanfaatkan waktunya untuk tidur. Sedangkan aku sebaliknya, sering barmain ponsel sendirian.</p> 
+<p><span><strong>APA ARTI FANS UNTUK KALIAN SEMUA?</strong></span></p> 
+<p><strong>Ruka :&nbsp;</strong>Mereka selalu mendukung kami, kami berusaha keras agar semua bisa menikmati (pertunjukan kami). Semuanya karena penggemar kami menyampaikan pada kami bahwa mereka senang menikmati (pertunjukan kami), dan karenanya kami juga jadi merasa senang, jadi kami dan penggemar bersenang-senang bersama-sama. Sebuah hubungan yang penting dimana kami saling memberi dan menyampaikan berbagai macam hal.</p> 
+<p><span><strong>TERAKHIR, MOHON SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN DI INDONESIA!</strong></span></p> 
+<p>  <img src="[BASEURL]/3dcd9e345e8932cd74658f822dd6b5d1.jpeg" data:w="800" data:h="534" /> </p> 
+<p><strong>Nanase :&nbsp;</strong>Halo Indonesia, salam kenal!</p> 
+<p><strong>Semua :&nbsp;</strong>Salam kenal!</p> 
+<p><strong>Nanase :&nbsp;</strong>Kami Wa-Suta! Meskipun kami belum pernah berkunjung ke Indonesia, kami akan terus bekerja keras di Jepang agar suatu saat bisa berkunjung ke Indonesia! Kami akan senang sekali jika kalian bisa terus mendukung kami, suatu saat kami akan kesana! Tunggu kami ya!</p> 
+<p>Wa-Suta berjanji akan berusaha keras untuk bisa berkunjung dan mengadakan pertunjukan di Indonesia! Dan janji tersebut menutup wawancara eksklusif kami dengan idol group asal Jepang ini. Untuk para penggemar Wa-Suta di Indonesia tetap dukung mereka terus ya, agar suatu saat keinginan mereka ke Indonesia bisa terwujud!</p> 
+<p>Interview by : Harry Pasha</p> 
+<p>Images by : Mahardhika W.P &amp; Nuary F Pradipta</p> 
+<p>Interpreter : Mahardhika W.P</p> 
+<p>Translator : Dirck Julian Abraham Samallo</p>
+
+
+-*-12313094
+-*-https://japanesestation.com/exclusive-interview-dengan-the-world-standard-wa-suta-%e3%82%8f%e3%83%bc%e3%81%99%e3%81%9f-di-niconico-chokaigi-2017-meski-hanya-seorang-yang-tahu-tentang-kami-kami-ingin-kesana-exclusive-i/
+
+--------------------
+
+
+-t-t- The World Standard -- 15.576497754729777
+-t-t- Wa-Suta -- 10.308619770175095
+-f-t- DI INDONESIA -- 8.233188824471602
+-f-t- APA YANG -- 6.890039245143744
+-f-t- BISAKAH KALIAN -- 6.6353044055982044
+-t-t- Nanase Hirokawa -- 6.3141200067127325
+-t-t- Jepang -- 6.264313273417905
+-t-t- Ruka Mishina -- 5.812161236611598
+-t-t- Ririka Kodama -- 5.696662394965177
+-t-t- Miri Matsuda -- 5.584245691745279
+-t-t- Hazuki Sakamoto -- 5.551062505829987
+-t-t- IDOL GROUP -- 4.733518024509741
+-f-t- KALIAN MELAKUKAN -- 4.690519824264938
+-t-t- Inu Neko -- 4.592773161973482
+-t-t- Seishun Massakari -- 4.588799831343326
+-f-t- MENGENAI INDONESIA -- 4.309405750330911
+-f-t- YANG KALIAN -- 4.245600182742686
+-f-t- KALIAN MENGENAI -- 4.218141093979423
+-f-t- UNTUK FANS -- 4.160889995045454
+-f-t- APAKAH KALIAN -- 4.1598450083604686
+-f-t- KALIAN MEMILIKI -- 4.090914909379477
+-f-t- PERFORM DI -- 3.9258123160422267
+-f-t- KALIAN LAKUKAN -- 3.7386678467295624
+-t-t- Mahardhika W.P -- 3.2244737274234256
+-f-t- Just Be -- 2.6136881838969783
+-f-t- Be Yourself -- 2.6124792649127806
+-t-t- iDOL Street -- 2.5638977065680466
+-t-t- SOSIAL MEDIA -- 2.2607232373835795
+-t-t- J-pop -- 1.238541548582102
+-t-t- Twitter -- 1.0196469236283392
+-t-t- Interpreter -- 0.8052795918769751
+-t-t- Translator -- 0.8029828710358249
+-*- -- time: 0.019
+
+--------------------
+
+
+-t-f- Indonesia -- 10.0
+-f-f- KALIAN BERBEDA DENGAN -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- LAKUKAN DI -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- SEPERTI YANG -- 1.0
+-f-f- KALIAN LAKUKAN DI WAKTU -- 1.0
+-f-f- SAAT INI KALIAN -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK SELAMA KALIAN PERFORM -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- PENGALAMAN UNIK -- 1.0
+-f-f- DARI KALIAN UNTUK FANS KALIAN DI -- 1.0
+-f-f- SELAMA KALIAN PERFORM -- 1.0
+-t-f- Japanese Station -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- PERFORM DI PANGGUNG -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- SAAT SEDANG -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- SAAT SEDANG TIDAK -- 1.0
+-f-f- GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-t-f- Idol Culture -- 1.0
+-f-f- DAN APA YANG MEMBUAT -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- YANG SUDAH KITA DENGAR -- 1.0
+-f-f- KATA DARI KALIAN UNTUK -- 1.0
+-f-f- Interpreter : Mahardhika W.P -- 1.0
+-f-f- WA-SUTA BENAR-BENAR MENGGUNAKAN -- 1.0
+-f-f- SEBAGAI SALAH SATU -- 1.0
+-f-f- ADA DI BENAK -- 1.0
+-f-f- DARI KALIAN UNTUK -- 1.0
+-f-f- DI BENAK KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- DANCE YANG -- 1.0
+-f-f- YANG COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI RENCANA -- 1.0
+-f-f- APA PENDAPAT KALIAN MENGENAI HAL -- 1.0
+-f-f- COVER YANG -- 1.0
+-f-f- APA ARTI FANS UNTUK -- 1.0
+-f-f- KALIAN UNTUK FANS KALIAN DI -- 1.0
+-f-f- ADAKAH HOBI YANG -- 1.0
+-f-f- BISAKAH KALIAN MEMBERITAHU KAMI -- 1.0
+-f-f- ARTI FANS UNTUK KALIAN -- 1.0
+-f-f- Nuary F -- 1.0
+-f-f- YANG KALIAN LAKUKAN SAAT SEDANG TIDAK BERAKTIVITAS -- 1.0
+-t-f- Dirck Julian Abraham Samallo -- 1.0
+-f-f- MEMBERITAHU KAMI -- 1.0
+-f-f- YANG ADA DI BENAK -- 1.0
+-f-f- MENDENGAR MENGENAI INDONESIA SEBELUMNYA -- 1.0
+-f-f- PENDAPAT KALIAN MENGENAI HAL -- 1.0
+-f-f- YANG COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- KALIAN MEMILIKI POPULARITAS YANG BAGUS DI -- 1.0
+-f-f- KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- SEKALI GRUP DANCE YANG -- 1.0
+-f-f- ADAKAH PENGALAMAN -- 1.0
+-f-f- Ultra Mirakurukuru -- 1.0
+-f-f- APA ARTI FANS UNTUK KALIAN -- 1.0
+-f-f- LAKUKAN SAAT -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI POPULARITAS YANG BAGUS DI INDONESIA -- 1.0
+-f-f- IDOL GROUP DI -- 1.0
+-f-f- TERLEBIH DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- KALIAN LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- KALIAN MEMILIKI RENCANA -- 1.0
+-f-f- UNTUK MENYEBARKAN -- 1.0
+-f-f- KALIAN MILIKI DAN APA -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK SELAMA KALIAN PERFORM DI PANGGUNG -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- MEMILIKI RENCANA UNTUK -- 1.0
+-f-f- Aku Hazuki -- 1.0
+-f-f- SEPERTI YANG SUDAH KITA -- 1.0
+-f-f- UNTUK FANS KALIAN DI -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK -- 1.0
+-f-f- Tim Japanese -- 1.0
+-f-f- HOBI YANG SERING KALIAN -- 1.0
+-f-f- POPULARITAS YANG BAGUS DI -- 1.0
+-f-f- YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- SATU IDOL GROUP DI JEPANG -- 1.0
+-f-f- WAKTU SENGGANG -- 1.0
+-f-f- UNTUK FANS KALIAN -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- DAN APA -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN DI -- 1.0
+-f-f- YANG MEMBUAT KALIAN -- 1.0
+-f-f- SATU IDOL -- 1.0
+-f-f- UNTUK PERFORM DI -- 1.0
+-f-f- KALIAN PERNAH -- 1.0
+-f-f- KATA DARI KALIAN UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- MEMILIKI POPULARITAS YANG BAGUS DI -- 1.0
+-f-f- WA-SUTA BENAR-BENAR -- 1.0
+-f-f- KONSEP APA YANG KALIAN -- 1.0
+-f-f- ARTI FANS -- 1.0
+-f-f- YANG KALIAN MILIKI DAN -- 1.0
+-f-f- DANCE YANG COVER -- 1.0
+-f-f- KALIAN MEMBERITAHU KAMI BAGAIMANA -- 1.0
+-f-f- YANG KALIAN LAKUKAN SAAT SEDANG -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- Yoroshiku Onegaishimasu -- 1.0
+-f-f- GROUP DI JEPANG -- 1.0
+-f-f- APAKAH YANG KALIAN LAKUKAN SAAT SEDANG TIDAK -- 1.0
+-f-f- KALIAN PERFORM -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- KALIAN MEMILIKI POPULARITAS -- 1.0
+-f-f- BAGAIMANA KALIAN MELAKUKANNYA -- 1.0
+-f-f- MENCERITAKANNYA KEPADA KAMI -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH -- 1.0
+-f-f- SELAMA KALIAN PERFORM DI PANGGUNG -- 1.0
+-f-f- IDOL GROUP DI JEPANG -- 1.0
+-f-f- KALIAN PERNAH MENDENGAR MENGENAI -- 1.0
+-f-f- BENAK KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- MOHON SEPATAH -- 1.0
+-f-f- MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-t-f- Translator : Dirck Julian Abraham Samallo -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- APA PENDAPAT KALIAN -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN UNTUK FANS -- 1.0
+-f-f- YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH -- 1.0
+-f-f- SELAMA KALIAN PERFORM DI -- 1.0
+-f-f- YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- MENGENAI HAL -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER -- 1.0
+-f-f- APAKAH YANG -- 1.0
+-f-f- KALIAN LAKUKAN SAAT SEDANG TIDAK BERAKTIVITAS -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK SELAMA -- 1.0
+-f-f- YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- INI KALIAN MEMILIKI POPULARITAS YANG -- 1.0
+-f-f- Aku Hazuki Sakamoto -- 1.0
+-f-f- PERNAH MENDENGAR MENGENAI INDONESIA SEBELUMNYA -- 1.0
+-f-f- YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- MEMBUAT KALIAN -- 1.0
+-f-f- SEISHUN MASSAKARI -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK -- 1.0
+-f-f- YANG SERING -- 1.0
+-f-f- YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- ADAKAH HOBI YANG SERING KALIAN LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- SERING KALIAN LAKUKAN DI -- 1.0
+-f-f- FANS KALIAN DI INDONESIA -- 1.0
+-f-f- APAKAH KALIAN PERNAH MENDENGAR MENGENAI INDONESIA -- 1.0
+-f-f- DARI KALIAN UNTUK FANS -- 1.0
+-f-f- APAKAH KALIAN PERNAH MENDENGAR -- 1.0
+-f-f- SEPATAH KATA -- 1.0
+-f-f- Ultimate Choco Beam -- 1.0
+-f-f- MILIKI DAN -- 1.0
+-f-f- YANG KALIAN LAKUKAN SAAT -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI -- 1.0
+-f-f- POPULARITAS YANG BAGUS -- 1.0
+-f-f- APAKAH YANG KALIAN LAKUKAN SAAT SEDANG -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER -- 1.0
+-f-f- INI KALIAN MEMILIKI POPULARITAS YANG BAGUS DI INDONESIA -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN -- 1.0
+-f-f- YANG KALIAN LAKUKAN SAAT SEDANG TIDAK -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- PERNAH MENDENGAR MENGENAI -- 1.0
+-f-f- Mirakurukuru Ultimate Choco -- 1.0
+-f-f- GROUP DI -- 1.0
+-f-f- Aku Ruka Mishina -- 1.0
+-f-f- UNIK SELAMA KALIAN PERFORM DI PANGGUNG -- 1.0
+-f-f- KATA DARI KALIAN UNTUK FANS KALIAN DI -- 1.0
+-f-f- KALIAN MILIKI DAN -- 1.0
+-f-f- KATA DARI KALIAN -- 1.0
+-f-f- TERLEBIH DAHULU -- 1.0
+-f-f- UNTUK PERFORM -- 1.0
+-f-f- SERING KALIAN -- 1.0
+-t-f- Tim Japanese Station -- 1.0
+-t-f- Just Be Yourself -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN -- 1.0
+-f-f- MEMBERITAHU KAMI BAGAIMANA KALIAN MELAKUKANNYA -- 1.0
+-f-f- IDOL GROUP LAINNYA -- 1.0
+-f-f- ADA DI BENAK KALIAN MENGENAI -- 1.0
+-f-f- BISAKAH KALIAN MEMBERITAHU KAMI BAGAIMANA -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- DI WAKTU -- 1.0
+-f-f- PENDAPAT KALIAN MENGENAI HAL INI -- 1.0
+-f-f- BENAR-BENAR MENGGUNAKAN SNS -- 1.0
+-f-f- KONSEP APA YANG -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- HOBI YANG SERING -- 1.0
+-f-f- KALIAN MEMBERITAHU KAMI BAGAIMANA KALIAN MELAKUKANNYA -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- SEBAGAI SALAH SATU IDOL GROUP -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS -- 1.0
+-f-f- Mirakurukuru Ultimate -- 1.0
+-f-f- YANG MELAKUKAN -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- Kami Wa-Suta -- 1.0
+-f-f- MOHON SEPATAH KATA DARI -- 1.0
+-f-f- BERBEDA DENGAN IDOL -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA -- 1.0
+-f-f- Aku Ruka -- 1.0
+-t-f- Nuary F Pradipta -- 1.0
+-f-f- Chokaigi 2017 -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- GRUP DANCE YANG COVER -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI -- 1.0
+-f-f- KALIAN MEMILIKI POPULARITAS YANG BAGUS DI INDONESIA -- 1.0
+-f-f- DARI KALIAN UNTUK FANS KALIAN -- 1.0
+-f-f- GRUP DANCE YANG COVER YANG MELAKUKAN -- 1.0
+-f-f- ADAKAH HOBI YANG SERING KALIAN LAKUKAN DI WAKTU -- 1.0
+-f-f- KALIAN MEMILIKI RENCANA UNTUK PERFORM DI INDONESIA -- 1.0
+-f-f- KALIAN MENGENAI HAL INI -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU -- 1.0
+-f-f- MEMILIKI POPULARITAS -- 1.0
+-f-f- GRUP DANCE YANG COVER YANG -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK -- 1.0
+-f-f- KALIAN PERNAH MENDENGAR MENGENAI INDONESIA SEBELUMNYA -- 1.0
+-f-f- PENGALAMAN UNIK SELAMA -- 1.0
+-f-f- SEKALI GRUP -- 1.0
+-f-f- TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- ADA DI -- 1.0
+-f-f- HOBI YANG SERING KALIAN LAKUKAN DI -- 1.0
+-f-f- TERLEBIH DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- FANS KALIAN -- 1.0
+-f-f- YANG SERING KALIAN LAKUKAN DI WAKTU -- 1.0
+-f-f- RENCANA UNTUK PERFORM DI -- 1.0
+-f-f- DARI KALIAN UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- MILIKI DAN APA YANG -- 1.0
+-f-f- KHUSUS UNTUK -- 1.0
+-f-f- DI BENAK -- 1.0
+-f-f- KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- Foto-foto -- 1.0
+-f-f- YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- LAKUKAN SAAT SEDANG TIDAK -- 1.0
+-f-f- Mirakurukuru Ultimate Choco Beam -- 1.0
+-f-f- MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- FANS KALIAN DI -- 1.0
+-f-f- GRUP DANCE -- 1.0
+-f-f- COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- DANCE YANG COVER YANG -- 1.0
+-f-f- DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- KALIAN MEMBERITAHU -- 1.0
+-f-f- YANG SERING KALIAN -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- BENAK KALIAN -- 1.0
+-f-f- YANG SUDAH KITA DENGAR SEBELUMNYA -- 1.0
+-f-f- BAGUS DI INDONESIA -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN UNTUK -- 1.0
+-f-f- SEBAGAI SALAH -- 1.0
+-f-f- SUDAH KITA -- 1.0
+-f-f- Abraham Samallo -- 1.0
+-f-f- Japan Idol Culture -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN UNTUK FANS -- 1.0
+-f-f- ARTI FANS UNTUK KALIAN SEMUA -- 1.0
+-f-f- Julian Abraham -- 1.0
+-f-f- SERING KALIAN LAKUKAN -- 1.0
+-f-f- YANG BAGUS -- 1.0
+-f-f- UNIK SELAMA KALIAN PERFORM DI -- 1.0
+-f-f- FANS UNTUK KALIAN -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- TIDAK BERAKTIVITAS -- 1.0
+-f-f- INI KALIAN -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- Aku Nanase Hirokawa -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT -- 1.0
+-f-f- YANG SUDAH KITA -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI POPULARITAS -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- KATA DARI KALIAN UNTUK FANS KALIAN -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- SEDANG TIDAK -- 1.0
+-f-f- SEPERTI YANG SUDAH KITA DENGAR SEBELUMNYA -- 1.0
+-f-f- DENGAN IDOL GROUP -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT -- 1.0
+-f-f- KAMI BAGAIMANA -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG -- 1.0
+-f-f- APA YANG ADA DI -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK SELAMA KALIAN PERFORM DI -- 1.0
+-f-f- KATA DARI KALIAN UNTUK FANS -- 1.0
+-f-f- KALIAN MENGENAI HAL -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- ADAKAH HOBI YANG SERING KALIAN -- 1.0
+-f-f- Aku Miri Matsuda -- 1.0
+-f-f- PERNAH MENDENGAR MENGENAI INDONESIA -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- YANG BAGUS DI INDONESIA -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- KALIAN MEMBERITAHU KAMI -- 1.0
+-f-f- YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- KITA DENGAR SEBELUMNYA -- 1.0
+-f-f- SERING KALIAN LAKUKAN DI WAKTU -- 1.0
+-f-f- BAGAIMANA KALIAN -- 1.0
+-f-f- KHUSUS UNTUK FANS -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- YANG SERING KALIAN LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- YANG BAGUS DI -- 1.0
+-f-f- BAGUS DI -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- MEMILIKI RENCANA -- 1.0
+-f-f- KAWAII JAPAN IDOL -- 1.0
+-f-f- KALIAN PERNAH MENDENGAR MENGENAI INDONESIA -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT -- 1.0
+-f-f- HOBI YANG SERING KALIAN LAKUKAN -- 1.0
+-f-f- MOHON SEPATAH KATA -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI RENCANA UNTUK PERFORM DI INDONESIA -- 1.0
+-f-f- POPULARITAS YANG BAGUS DI INDONESIA -- 1.0
+-f-f- TERLEBIH DAHULU KHUSUS -- 1.0
+-f-f- SAAT INI -- 1.0
+-f-f- SEBAGAI SALAH SATU IDOL GROUP DI JEPANG -- 1.0
+-f-f- KALIAN PERFORM DI -- 1.0
+-f-f- UNIK SELAMA -- 1.0
+-f-f- SELAMA KALIAN -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE KALIAN -- 1.0
+-f-f- RENCANA UNTUK PERFORM DI INDONESIA -- 1.0
+-f-f- SATU IDOL GROUP -- 1.0
+-f-f- APAKAH YANG KALIAN LAKUKAN -- 1.0
+-f-f- YANG ADA -- 1.0
+-f-f- KALIAN UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- GROUP LAINNYA -- 1.0
+-f-f- APA YANG ADA DI BENAK KALIAN MENGENAI -- 1.0
+-f-f- Kawaii Japan Idol -- 1.0
+-f-f- KEPADA KAMI -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- KALIAN MEMBERITAHU KAMI BAGAIMANA KALIAN -- 1.0
+-f-f- JAPAN IDOL -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA -- 1.0
+-f-f- MEMILIKI POPULARITAS YANG BAGUS DI INDONESIA -- 1.0
+-f-f- BISAKAH KALIAN MEMBERITAHU KAMI BAGAIMANA KALIAN -- 1.0
+-f-f- KALIAN LAKUKAN SAAT SEDANG TIDAK -- 1.0
+-f-f- YANG MELAKUKAN LAGU -- 1.0
+-f-f- LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- Ultra Mirakurukuru Ultimate -- 1.0
+-f-f- BANYAK SEKALI GRUP -- 1.0
+-f-f- ADA DI BENAK KALIAN -- 1.0
+-f-f- MENGENAI HAL INI -- 1.0
+-f-f- KAMI BAGAIMANA KALIAN MELAKUKANNYA -- 1.0
+-f-f- KALIAN MELAKUKANNYA -- 1.0
+-f-f- FANS UNTUK -- 1.0
+-f-f- RENCANA UNTUK PERFORM -- 1.0
+-f-f- KITA DENGAR -- 1.0
+-f-f- YANG COVER YANG MELAKUKAN -- 1.0
+-f-f- MILIKI DAN APA -- 1.0
+-f-f- YANG SERING KALIAN LAKUKAN DI -- 1.0
+-f-f- KALIAN MEMILIKI RENCANA UNTUK -- 1.0
+-f-f- KONSEP APA -- 1.0
+-f-f- APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT -- 1.0
+-f-f- MENDENGAR MENGENAI INDONESIA -- 1.0
+-f-f- RENCANA UNTUK -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU -- 1.0
+-f-f- MEMBERITAHU KAMI BAGAIMANA KALIAN -- 1.0
+-f-f- APA YANG ADA DI BENAK -- 1.0
+-f-f- COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- MEMILIKI RENCANA UNTUK PERFORM DI -- 1.0
+-f-f- BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- APA YANG ADA DI BENAK KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- DAHULU KHUSUS -- 1.0
+-f-f- ADAKAH HOBI YANG SERING KALIAN LAKUKAN -- 1.0
+-f-f- ADAKAH HOBI -- 1.0
+-f-f- MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- APA YANG ADA -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- KALIAN MEMILIKI RENCANA UNTUK PERFORM -- 1.0
+-f-f- Ultra Mirakurukuru Ultimate Choco -- 1.0
+-f-f- KAWAII JAPAN -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- APAKAH KALIAN PERNAH MENDENGAR MENGENAI INDONESIA SEBELUMNYA -- 1.0
+-f-f- SIGNATURE KALIAN -- 1.0
+-f-f- SALAH SATU IDOL -- 1.0
+-f-f- ADAKAH PENGALAMAN UNIK SELAMA KALIAN -- 1.0
+-f-f- KALIAN SEMUA -- 1.0
+-f-f- LAKUKAN DI WAKTU -- 1.0
+-f-f- KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- DI BENAK KALIAN -- 1.0
+-f-f- MENDENGAR MENGENAI -- 1.0
+-f-f- MEMILIKI RENCANA UNTUK PERFORM DI INDONESIA -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- APAKAH KALIAN PERNAH -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN -- 1.0
+-f-f- FANS DI -- 1.0
+-f-f- TERLEBIH DAHULU KHUSUS UNTUK -- 1.0
+-f-f- SALAH SATU IDOL GROUP DI JEPANG -- 1.0
+-f-f- YANG COVER -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- BERBEDA DENGAN -- 1.0
+-f-f- Aku Ririka Kodama -- 1.0
+-f-f- INI KALIAN MEMILIKI POPULARITAS YANG BAGUS -- 1.0
+-f-f- MELAKUKAN LAGU -- 1.0
+-t-f- Ultra Mirakurukuru Ultimate Choco Beam -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU -- 1.0
+-f-f- SEPERTI YANG SUDAH KITA DENGAR -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA -- 1.0
+-f-f- Ultimate Choco -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI -- 1.0
+-f-f- Choco Beam -- 1.0
+-f-f- DAHULU KHUSUS UNTUK FANS -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- APA YANG KALIAN MILIKI -- 1.0
+-f-f- ADAKAH HOBI YANG SERING KALIAN LAKUKAN DI -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- NicoNico Chokaigi -- 1.0
+-f-f- Japan Idol -- 1.0
+-f-f- DANCE YANG COVER YANG MELAKUKAN -- 1.0
+-f-f- APA PENDAPAT KALIAN MENGENAI -- 1.0
+-f-f- APA PENDAPAT KALIAN MENGENAI HAL INI -- 1.0
+-f-f- KALIAN LAKUKAN DI -- 1.0
+-f-f- APAKAH KALIAN PERNAH MENDENGAR MENGENAI -- 1.0
+-f-f- DAN APA YANG -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG -- 1.0
+-f-f- SALAH SATU IDOL GROUP -- 1.0
+-f-f- UNTUK KALIAN -- 1.0
+-f-f- INI KALIAN MEMILIKI -- 1.0
+-f-f- INDONESIA SEBELUMNYA -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- PERFORM DI INDONESIA -- 1.0
+-f-f- DAHULU KHUSUS UNTUK FANS DI INDONESIA -- 1.0
+-f-f- GRUP DANCE YANG COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- MEMILIKI RENCANA UNTUK PERFORM -- 1.0
+-f-f- MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- BENAR-BENAR MENGGUNAKAN -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- DI PANGGUNG -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN -- 1.0
+-f-f- MENCERITAKANNYA KEPADA -- 1.0
+-f-f- YANG KALIAN MILIKI -- 1.0
+-f-f- APA YANG ADA DI BENAK KALIAN -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN -- 1.0
+-f-f- APA ARTI FANS -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- SEDANG TIDAK BERAKTIVITAS -- 1.0
+-f-f- F Pradipta -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS -- 1.0
+-f-f- POPULARITAS YANG -- 1.0
+-f-f- KALIAN MEMILIKI POPULARITAS YANG BAGUS -- 1.0
+-f-f- MENGENAI INDONESIA SEBELUMNYA -- 1.0
+-f-f- ADA DI BENAK KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- KALIAN DI INDONESIA -- 1.0
+-f-f- DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- YANG SUDAH -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK FANS DI -- 1.0
+-f-f- KALIAN BERBEDA -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- FANS DI INDONESIA -- 1.0
+-f-f- SEBAGAI SALAH SATU IDOL -- 1.0
+-f-f- Aku Ririka -- 1.0
+-f-f- GRUP DANCE YANG -- 1.0
+-f-f- FANS UNTUK KALIAN SEMUA -- 1.0
+-f-f- BISAKAH KALIAN MEMBERITAHU KAMI BAGAIMANA KALIAN MELAKUKANNYA -- 1.0
+-f-f- Wa-suta -- 1.0
+-f-f- PERNAH MENDENGAR -- 1.0
+-f-f- MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- YANG COVER YANG -- 1.0
+-f-f- DENGAR SEBELUMNYA -- 1.0
+-f-f- KALIAN MILIKI -- 1.0
+-f-f- YANG MEMBUAT -- 1.0
+-f-f- SUDAH KITA DENGAR -- 1.0
+-f-f- PENGALAMAN UNIK SELAMA KALIAN PERFORM -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH -- 1.0
+-f-f- BANYAK SEKALI GRUP DANCE YANG COVER YANG -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN -- 1.0
+-f-f- MENGGUNAKAN SNS -- 1.0
+-f-f- KALIAN DI -- 1.0
+-f-f- KAMI BAGAIMANA KALIAN -- 1.0
+-f-f- APAKAH YANG KALIAN LAKUKAN SAAT SEDANG TIDAK BERAKTIVITAS -- 1.0
+-f-f- INI KALIAN MEMILIKI POPULARITAS YANG BAGUS DI -- 1.0
+-f-f- APA ARTI -- 1.0
+-f-f- DI JEPANG -- 1.0
+-f-f- KALIAN LAKUKAN SAAT SEDANG -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG -- 1.0
+-f-f- DI BENAK KALIAN MENGENAI -- 1.0
+-f-f- YANG ADA DI BENAK KALIAN MENGENAI -- 1.0
+-f-f- KALIAN LAKUKAN SAAT -- 1.0
+-f-f- LAKUKAN SAAT SEDANG TIDAK BERAKTIVITAS -- 1.0
+-f-f- Halo Indonesia -- 1.0
+-f-f- WA-SUTA BENAR-BENAR MENGGUNAKAN SNS -- 1.0
+-f-f- LAGU SIGNATURE -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI RENCANA UNTUK PERFORM DI -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN UNTUK -- 1.0
+-f-f- PENGALAMAN UNIK SELAMA KALIAN PERFORM DI PANGGUNG -- 1.0
+-f-f- KALIAN PERNAH MENDENGAR -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER YANG -- 1.0
+-f-f- SEBAGAI SALAH SATU IDOL GROUP DI -- 1.0
+-f-f- DENGAN IDOL -- 1.0
+-f-f- PENGALAMAN UNIK SELAMA KALIAN -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI POPULARITAS YANG -- 1.0
+-f-f- SEPERTI YANG SUDAH -- 1.0
+-f-f- BENAK KALIAN MENGENAI -- 1.0
+-f-f- DAHULU KHUSUS UNTUK -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN -- 1.0
+-f-f- ARTI FANS UNTUK -- 1.0
+-f-f- ADAKAH HOBI YANG SERING -- 1.0
+-f-f- SERING KALIAN LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- SALAH SATU -- 1.0
+-f-f- UNIK SELAMA KALIAN -- 1.0
+-f-f- DI WAKTU SENGGANG -- 1.0
+-f-f- Aku Nanase -- 1.0
+-t-f- Julian Abraham Samallo -- 1.0
+-f-f- Aku Miri -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI -- 1.0
+-f-f- HAL INI -- 1.0
+-f-f- KALIAN UNTUK -- 1.0
+-f-f- DANCE YANG COVER YANG MELAKUKAN LAGU SIGNATURE -- 1.0
+-f-f- UNIK SELAMA KALIAN PERFORM -- 1.0
+-f-f- YANG ADA DI BENAK KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- PENDAPAT KALIAN -- 1.0
+-f-f- HOBI YANG -- 1.0
+-f-f- SAAT SEDANG TIDAK BERAKTIVITAS -- 1.0
+-f-f- PENDAPAT KALIAN MENGENAI -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI POPULARITAS YANG BAGUS DI -- 1.0
+-f-f- SEKALI GRUP DANCE -- 1.0
+-f-f- LAKUKAN SAAT SEDANG -- 1.0
+-f-f- SATU IDOL GROUP DI -- 1.0
+-f-f- INI KALIAN MEMILIKI POPULARITAS -- 1.0
+-f-f- APA ARTI FANS UNTUK KALIAN SEMUA -- 1.0
+-f-f- MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK -- 1.0
+-f-f- HOBI YANG SERING KALIAN LAKUKAN DI WAKTU SENGGANG -- 1.0
+-f-f- SEPATAH KATA DARI -- 1.0
+-f-f- PENGALAMAN UNIK SELAMA KALIAN PERFORM DI -- 1.0
+-f-f- KHUSUS UNTUK FANS DI -- 1.0
+-f-f- BISAKAH KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS -- 1.0
+-f-f- UNTUK PERFORM DI INDONESIA -- 1.0
+-f-f- BANYAK SEKALI -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI RENCANA UNTUK -- 1.0
+-f-f- KATA DARI -- 1.0
+-f-f- YANG ADA DI -- 1.0
+-f-f- DANCE YANG COVER YANG MELAKUKAN LAGU -- 1.0
+-f-f- Dirck Julian Abraham -- 1.0
+-f-f- APAKAH KALIAN MEMILIKI RENCANA UNTUK PERFORM -- 1.0
+-f-f- KONSEP APA YANG KALIAN MILIKI DAN APA YANG -- 1.0
+-f-f- MOHON SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN DI INDONESIA -- 1.0
+-f-f- KALIAN UNTUK FANS -- 1.0
+-f-f- YANG KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL -- 1.0
+-f-f- YANG SERING KALIAN LAKUKAN -- 1.0
+-f-f- Dirck Julian -- 1.0
+-f-f- SAAT INI KALIAN MEMILIKI POPULARITAS YANG BAGUS -- 1.0
+-f-f- MEMBERITAHU KAMI BAGAIMANA -- 1.0
+-f-f- MEMILIKI POPULARITAS YANG BAGUS -- 1.0
+-f-f- APA YANG KALIAN -- 1.0
+-f-f- Harry Pasha -- 1.0
+-f-f- NicoNico Chokaigi 2017 -- 1.0
+-f-f- SEPATAH KATA DARI KALIAN UNTUK FANS KALIAN DI -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP -- 1.0
+-f-f- KALIAN MENGENAI INDONESIA -- 1.0
+-f-f- BISAKAH KALIAN MEMBERITAHU -- 1.0
+-f-f- SEKALI GRUP DANCE YANG COVER YANG MELAKUKAN -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- KALIAN MEMILIKI RENCANA UNTUK PERFORM DI -- 1.0
+-f-f- KALIAN PERFORM DI PANGGUNG -- 1.0
+-f-f- Kawaii Japan -- 1.0
+-f-f- APA PENDAPAT -- 1.0
+-f-f- HOBI YANG SERING KALIAN LAKUKAN DI WAKTU -- 1.0
+-f-f- MEMILIKI POPULARITAS YANG -- 1.0
+-f-f- KALIAN MILIKI DAN APA YANG MEMBUAT KALIAN BERBEDA -- 1.0
+-f-f- YANG ADA DI BENAK KALIAN -- 1.0
+-f-f- APAKAH YANG KALIAN LAKUKAN SAAT -- 1.0
+-f-f- YANG KALIAN LAKUKAN -- 1.0
+-f-f- SUDAH KITA DENGAR SEBELUMNYA -- 1.0
+-f-f- APAKAH YANG KALIAN -- 1.0
+-f-f- KALIAN UNTUK FANS KALIAN -- 1.0
+-f-f- JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS UNTUK -- 1.0
+-f-f- INU NEKO -- 1.0
+-f-f- UNTUK KALIAN SEMUA -- 1.0
+-f-f- UNTUK FANS DI -- 1.0
+-f-f- DARI KALIAN -- 1.0
+-f-f- KALIAN MELAKUKAN JIKOUSHOUKAI TERLEBIH DAHULU KHUSUS -- 1.0
+-f-f- APA YANG MEMBUAT -- 1.0
+-f-f- LAGU SIGNATURE KALIAN -- 1.0
+-f-f- Kawaii Japan Idol Culture -- 1.0
+-f-f- SALAH SATU IDOL GROUP DI -- 1.0
+-f-f- UNTUK FANS DI INDONESIA -- 1.0
+-f-f- KALIAN BERBEDA DENGAN IDOL GROUP LAINNYA -- 1.0
+-f-f- APA YANG KALIAN MILIKI DAN APA YANG MEMBUAT -- 1.0
+-f-f- COVER YANG MELAKUKAN -- 1.0
+-f-f- KALIAN MEMILIKI POPULARITAS YANG -- 1.0
+-f-f- Nanase: Halo -- 0.0
+-f-f- Hazuki: Aku -- 0.0
+-f-f- Semua: Salam -- 0.0
+-f-f- Nanase : Jika -- 0.0
+-f-f- Translator: Dirck -- 0.0
+-f-f- Ririka : Aku Ririka Kodama -- 0.0
+-f-f- Semua: We -- 0.0
+-f-f- KALIAN MENCERITAKANNYA KEPADA KAMI -- 0.0
+-f-f- Ririka : Grup -- 0.0
+-f-f- Ririka: Aku -- 0.0
+-f-f- Translator: Dirck Julian -- 0.0
+-f-f- Translator: Dirck Julian Abraham -- 0.0
+-f-f- Ririka: Kegiatan -- 0.0
+-f-f- Translator: Dirck Julian Abraham Samallo -- 0.0
+-f-f- Hazuki : Pada -- 0.0
+-f-f- Nanase : Nama -- 0.0
+-f-f- Ririka : Kegiatan -- 0.0
+-f-f- Ruka: Kalau -- 0.0
+-f-f- Nanase : Para -- 0.0
+-t-f- Nanase : Halo Indonesia -- 0.0
+-f-f- Nanase : Aku Nanase Hirokawa -- 0.0
+-f-f- Nanase: Halo Indonesia -- 0.0
+-f-f- Miri: Aku Miri -- 0.0
+-f-f- Semua: Yoroshiku -- 0.0
+-f-f- Nanase: Kami -- 0.0
+-f-f- Hazuki: Aku Hazuki Sakamoto -- 0.0
+-f-f- Ruka : Mereka -- 0.0
+-f-f- Nanase : Kami Wa-Suta -- 0.0
+-f-f- KALIAN MENCERITAKANNYA KEPADA -- 0.0
+-f-f- Ruka : Kalau -- 0.0
+-f-f- Nanase: Aku -- 0.0
+-f-f- Ririka: Aku Ririka Kodama -- 0.0
+-f-f- Hazuki : Aku Hazuki Sakamoto -- 0.0
+-f-f- Ruka : Kami -- 0.0
+-f-f- Nanase: Aku Nanase Hirokawa -- 0.0
+-f-f- Ruka: Aku -- 0.0
+-f-f- Ririka: Grup -- 0.0
+-f-f- Ruka: Mereka -- 0.0
+-f-f- Hazuki: Pada -- 0.0
+-f-f- Semua: Kami -- 0.0
+-f-f- Ruka : Aku Ruka Mishina -- 0.0
+-f-f- Nanase: Nama -- 0.0
+-f-f- Nanase: Aku Nanase -- 0.0
+-f-f- Interpreter: Mahardhika W.P -- 0.0
+-f-f- Nanase: Jika -- 0.0
+-f-f- Ruka: Aku Ruka -- 0.0
+-f-f- Semua : Tentu -- 0.0
+-f-f- Nanase: Kami Wa-Suta -- 0.0
+-f-f- Ruka: Aku Ruka Mishina -- 0.0
+-f-f- Semua : Kami -- 0.0
+-f-f- KALIAN MENCERITAKANNYA -- 0.0
+-f-f- Semua: Tentu -- 0.0
+-f-f- Semua: Yoroshiku Onegaishimasu -- 0.0
+-f-f- Hazuki: Aku Hazuki -- 0.0
+-f-f- Ririka: Aku Ririka -- 0.0
+-f-f- BISAKAH KALIAN MENCERITAKANNYA -- 0.0
+-f-f- Semua : We -- 0.0
+-f-f- Miri: Aku Miri Matsuda -- 0.0
+-f-f- Semua : Yoroshiku Onegaishimasu -- 0.0
+-f-f- Interpreter: Mahardhika -- 0.0
+-f-f- Miri: Aku -- 0.0
+-f-f- Nanase: Para -- 0.0
+-f-f- Miri : Aku Miri Matsuda -- 0.0
+-f-f- BISAKAH KALIAN MENCERITAKANNYA KEPADA KAMI -- 0.0
+-f-f- BISAKAH KALIAN MENCERITAKANNYA KEPADA -- 0.0
+-f-f- Nanase : Kami -- 0.0
+-f-f- Miri: Kami -- 0.0
+-f-f- Miri : Kami -- 0.0
+-f-f- Semua : Salam -- 0.0
+-f-f- Ruka: Kami -- 0.0
+-*- -- time: 0.019
+
+--------------------
+
+
+-*-<img src="[BASEURL]/9861acad0f046767297ae48ab8cb2b1b.jpeg" data:w="1920" data:h="1080" />        
+<p>Pada hari Jumat lalu, terdengar kabar bahwa Bandai Apparel berencana merilis 61 buah handuk <em>muffler</em> (ukuran 120cm x 20cm) secara berkala dengan motif ilustrasi <em>full body</em> karakter-karakter dari <em>anime</em> <strong>“</strong><strong>Girls und Panzer”</strong>.<span></span></p> 
+<p>Untuk sesi preorder pertama dibuka untuk 10 handuk, lima karakter dari tim Anglerfish asal SMA Wanita Oarai dan lima karakter dari Akademi Wanita St. Gloriana yang tersedia secara online di situs Bandai Fashion Net sejak hari Jumat dengan harga 1.620 yen (sekitar 195.000 Rupiah) dan akan dirilis pada bulan Juni 2017.</p> 
+<p><strong>Tim Anglerfish</strong><br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-anglerfish.jpg" rel="nofollow">  <img src="[BASEURL]/1f40f1949302667275dd4f5dbf5fffe5.jpeg" data:w="640" data:h="488" /> </a></p> 
+<p>Miho Nishizumi<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-miho.jpg" rel="nofollow">  <img src="[BASEURL]/0fce4d3b35d4d340265613f7f673a9ad.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Hana Isuzu<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-hana.jpg" rel="nofollow">  <img src="[BASEURL]/6e4bc6aed569ffa7be10acc2035010eb.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Mako Reizei<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-mako.jpg" rel="nofollow">  <img src="[BASEURL]/953f7422f0bca173a3c8688a0d17af9b.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Saori Takebe<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-saori.jpg" rel="nofollow">  <img src="[BASEURL]/5df0a95791f2ff27033fd0fa2557a7d8.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Yukari Akiyama<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-yukari.jpg" rel="nofollow">  <img src="[BASEURL]/6c677cd40b75db80f2189f5df35eb5e3.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p><strong>Tim Akademi Wanita St. Gloriana</strong><br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-gloriana.jpg" rel="nofollow">  <img src="[BASEURL]/00943ffd673b96036edd35ab56b89746.jpeg" data:w="640" data:h="488" /> </a></p> 
+<p>Darjeeling<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-darjeeling.jpg" rel="nofollow">  <img src="[BASEURL]/d3c4d049e0a26ce85d27843802a69acd.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Assam<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-assam.jpg" rel="nofollow">  <img src="[BASEURL]/2c7be930303f8daf2a9961cf9ff04d71.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Orange Pekoe<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-pekoe.jpg" rel="nofollow">  <img src="[BASEURL]/7d11fd13cd9237adfe64e2da01564eac.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Rukuriri<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-rukuriri.jpg" rel="nofollow">  <img src="[BASEURL]/1447acf363830f8a79f2aef42721c241.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Rosehip<br><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-muffler-towel-rosehip.jpg" rel="nofollow">  <img src="[BASEURL]/deccd9b40ef6858005ffeca68691a0f8.jpeg" data:w="640" data:h="640" /> </a></p> 
+<p>Sumber: <a href="http://www.crunchyroll.com/anime-news/2017/05/17/bandais-apparel-division-plans-to-release-61-muffler-towels-inspired-by-girls-und-panzer-girls" rel="nofollow">Crunchyroll</a></p>
+
+
+-*-12312585
+-*-http://jurnalotaku.com/2017/05/22/bandai-apparel-akan-rilis-61-handuk-muffler-bermotif-karakter-girls-und-panzer/
+
+--------------------
+
+
+-f-t- Akademi Wanita St -- 6.057500593049398
+-t-t- Anglerfish -- 2.0120534764945806
+-f-t- Fashion Net -- 2.002878415869279
+-f-t- Gloriana -- 1.8899046617573596
+-t-t- Orange Pekoe -- 1.666197642707902
+-f-t- Girls -- 1.158202597717078
+-f-t- Panzer -- 1.150773485376768
+-*- -- time: 0.001
+
+--------------------
+
+
+-t-f- Bandai Apparel -- 1.0
+-t-f- Saori Takebe -- 1.0
+-f-f- Tim Akademi -- 1.0
+-t-f- Tim Anglerfish -- 1.0
+-f-f- Wanita Oarai -- 1.0
+-t-f- Mako Reizei -- 1.0
+-t-f- Miho Nishizumi -- 1.0
+-f-f- Tim Akademi Wanita -- 1.0
+-f-f- Rukuriri -- 1.0
+-t-f- Bandai Fashion Net -- 1.0
+-f-f- SMA Wanita -- 1.0
+-t-f- Yukari Akiyama -- 1.0
+-t-f- SMA Wanita Oarai -- 1.0
+-t-f- Hana Isuzu -- 1.0
+-f-f- Bandai Fashion -- 1.0
+-f-f- Tim Akademi Wanita St -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/717a4e757fe0cbe5af1281f955b274d4.jpeg" data:w="560" data:h="338" />        
+<p>Akun&nbsp;twitter resmi dari <strong>“</strong><strong>The Idolm@ster: Million Live Theater Days”&nbsp;</strong>mengumumkan bahwa mereka telah berhasil mendapatkan satu juta pra-registrasi, dengan ini semua target pra-registrasinya sudah tercapai.</p> 
+<p><span></span><br></p>  
+<blockquote> 
+  <p>【事前登録数100万(ミリオン)突破！！】<a href="https://twitter.com/hashtag/%E3%83%9F%E3%83%AA%E3%82%B7%E3%82%BF?src=hash" rel="nofollow">#ミリシタ</a> の事前登録数が、ついに100万突破しました！最終特典「最高レアリティSSR確定チケット」がもらえます！ご登録いただいた皆様、宣伝活動をしてくださったプロデューサーの皆様ありがとうございます！ <a href="https://twitter.com/hashtag/idolmaster?src=hash" rel="nofollow">#idolmaster</a> <a href="https://twitter.com/hashtag/%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2?src=hash" rel="nofollow">#事前登録</a></p> 
+  <p>— ミリオンライブ！ シアターデイズ【公式】 (@imasml_theater) <a href="https://twitter.com/imasml_theater/status/865118002110279681" rel="nofollow">May 18, 2017</a></p> 
+</blockquote> 
+<p><br></p>  
+<br> Hadiah terakhirnya merupakan Sure Ticket SSR, jadi kalian tidak perlu capek-capek melakukan re-roll untuk mendapatkan SSR saat mulai main nanti. Sebuah&nbsp; 
+<em>livestream&nbsp;</em>juga direncanakan pada 30 Mei, kemungkinan besar untuk berterimakasih pada calon pemain dan memberikan detil lebih lanjut untuk game ini. 
+<p><em>The Idolm@ster: Million Live Theater Days</em> berfokus pada konser teater 765 Production concert theater, dimana kalian akan menjadi produser dari&nbsp;765 Million Stars. Game ini akan menawarkan interaksi yang lebih mendalam dengan para idol.</p> 
+<p>Teater dapat dieksplorasi dan kalian bisa berinteraksi dengan para Idol dan melihat mereka berinteraksi dengan yang lainnya juga. Untuk konser akan ada dua macam, “Unit Concert” yang gaya permainannya relatif sama dengan <em>Starlight Stage,&nbsp;</em>dan “Solo Concert” dimana not-nya lebih sedikit dan dimainkan dengan resolusi&nbsp;vertikal.</p> 
+<p><em>The Idolm@ster: Million Live Theater Days&nbsp;</em>akan dirilis untuk IOS dan Android&nbsp;di Jepang pada tahun ini.</p>
+
+
+-*-12312082
+-*-http://jurnalotaku.com/2017/05/22/the-idolmster-million-live-theater-days-capai-satu-juta-pra-registrasi/
+
+--------------------
+
+
+-t-t- The Idolm@ster: Million Live Theater Days -- 21.062413275950913
+-t-t- SSR -- 3.4020770670037788
+-t-t- Solo Concert -- 1.713286355349049
+-t-t- Production -- 0.9914348873447282
+-t-t- IOS -- 0.81241628398476
+-t-t- Android -- 0.8100917754613134
+-t-t- Jepang -- 0.8069064321096848
+-*- -- time: 0.002
+
+--------------------
+
+
+-t-f- Sure Ticket SSR -- 1.0
+-t-f- Starlight Stage -- 1.0
+-t-f- Sure Ticket -- 1.0
+-f-f- Million Stars -- 1.0
+-t-f- Unit Concert -- 1.0
+-f-f- Ticket SSR -- 1.0
+-f-f- Akun -- 1.0
+-f-f- の事前登録数が、ついに100万突破しました！最終特典「最高レアリティSSR確定チケット」がもらえます！ご登録いただいた皆様、宣伝活動をしてくださったプロデューサーの皆様ありがとうございます -- 1.0
+-f-f- The Idolm@ster : Million Live Theater Days -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><em>Idol group</em>&nbsp;besutan agensi <em>Stardust Promotion&nbsp;</em>asal&nbsp;<em>Fukuoka&nbsp;</em>yakni&nbsp;<em>Batten Showjo Tai</em>&nbsp;atau yang biasa disingkat&nbsp;<em>Bashow,</em><em>&nbsp;</em>kemarin&nbsp;(20/5) akhirnya resmi memulai rangkaian tur nasional untuk album pertama mereka yang bertajuk&nbsp;<em>‘Masuto Bai’ (Must Buy).</em></p> 
+<p><strong>Baca juga: <a href="https://www.akibanation.com/tur-musim-panas-nogizaka46-2017/" rel="nofollow">Tur Musim&nbsp;Panas Nogizaka46 Akan Segera Dimulai</a></strong></p> 
+<p>Setelah mengumumkan akan adanya album pertama pada akhir&nbsp;Maret lalu, kali ini&nbsp;<em>idol group&nbsp;&nbsp;</em>yang digawangi oleh&nbsp;<em>Kiyama Ai&nbsp;</em>(hijau),&nbsp;<em>Ueda Riko&nbsp;</em>(merah),&nbsp;<em>Haruno Kiina&nbsp;</em>(kuning),&nbsp;<em>Seta Sakura&nbsp;</em>(ungu),&nbsp;<em>Nishigaki Arisa&nbsp;</em>(merah muda) dan&nbsp;<em>Hoshino Sora&nbsp;</em>(biru)&nbsp;akhirnya resmi memulai tur nasional untuk album pertama mereka&nbsp;ke beberapa kota besar di Jepang seperti&nbsp;<em>Aichi, Tokyo, Fukuoka</em> hingga&nbsp;<em>Kobe&nbsp;</em>mulai 20 Mei hingga 2 Juli 2017 mendatang.</p> 
+<p>Rencananya album yang bertajuk&nbsp;<em>‘Masuto Bai’&nbsp;</em>ini<em>&nbsp;</em>akan dirilis pada 21 Juni 2017 mendatang&nbsp;dalam 3 tipe yang berbeda yakni 2 tipe untuk <em>limited edition</em>&nbsp;<em>(Masuto Ban &amp; Minshai Ban)&nbsp;</em>serta 1 tipe untuk&nbsp;<em>regular edition (Kikinshai Ban),</em> yang masing-masing dibanderol mulai harga&nbsp;¥2,500 untuk tipe <em>regular</em>&nbsp;hingga&nbsp;¥6,000 untuk tipe&nbsp;<em>limited edition (Masuto Ban)</em> sesudah pajak.</p> 
+<a href="https://www.akibanation.com/wp-content/uploads/2017/05/batten-showjo-tai.jpg" rel="nofollow">  <img src="[BASEURL]/ca4d96af822749d3e89bcac3584ff20e.jpeg" data:w="730" data:h="582" /> </a>Batten Showjo Tai first album ‘Masuto Bai’ 
+<p>Berikut adalah&nbsp;<em>tracklist&nbsp;</em>dari album pertama&nbsp;<em>Batten Showjo Tai ‘Masutobai’:</em></p> 
+<p><strong>Regular &amp; Limited Edition</strong></p> 
+<ol> 
+  <li>Ooshoi!</li> 
+  <li>Batten Shojo (Must Buy Ver.)</li> 
+  <li>Bi Bi Bi Bishojo</li> 
+  <li>Yume no Score</li> 
+  <li>STORM!</li> 
+  <li>Touto</li> 
+  <li>Kotoba Tennis</li> 
+  <li>Nobishiro Kōshinkyoku</li> 
+  <li>Yoka Yoka Dance</li> 
+  <li>Special Day</li> 
+</ol> 
+<p><strong>Limited Edition</strong></p> 
+<p>DVD / BluRay Ver. Full live from: [2017.04.06 @ Liquid Room]</p> 
+<p>1. Yume no Canvas<br>2. ShittoChan<br>3. Atsuka Natsu Kitabai！<br>4. Special Day<br>5. Fure! Fure! Friends!<br>6. Bi Bi Bi Bishoujo<br>7. Kotoba Tennis<br>8. Touto<br>9. Nobishiro Kōshinkyoku<br>10. Yume no Score<br>11. Batten Shoujo<br>12. Kororin HAPPY FANTASY<br>13. Yoka Yoka Dance<br>14. Sayanora DESTINY<br>15. STORM!<br>16. Osshoi!<br>17. ENDING</p> 
+<p>Dengan mengenakan kostum garis-garis berwarna biru dan putih, para&nbsp;<em>member Batten Showjo Tai&nbsp;</em>terlihat begitu bersemangat untuk memulai hari pertama tur nasional yang kemarin (20/5) baru saja&nbsp;mereka gelar di&nbsp;<em>Aeon Mall Tokoname,&nbsp;</em>Jepang.</p> 
+<p><em>“Album yang sempurna telah selesai! Sekarang kami&nbsp;akan membawakannya untuk&nbsp;kalian.”&nbsp;</em>ucap sang&nbsp;<em>leader, Ueda Riko&nbsp;</em>yang kemudian disusul dengan dibawakannya lagu&nbsp;<em>Batten Shoujo, Yoka Yoka Dance, Bi Bi Bi Bishoujo, Masuto Bai, Kororin HAPPY FANTASY&nbsp;</em>dan juga&nbsp;<em>Ooshoi!.</em></p> 
+<a href="https://www.akibanation.com/wp-content/uploads/2017/05/batten-aeon-mall.jpg" rel="nofollow">  <img src="[BASEURL]/e2de485bfeaa12b8468a7364e2c281a5.jpeg" data:w="640" data:h="480" /> </a>Batten Showjo Tai saat menggelar pertunjukan pertama tur nasional mereka di Aeon Mall Tokoname, Jepang // source: stradustpromotion 
+<p>Dan berikut adalah jadwal tur nasional&nbsp;<em>Batten Showjo Tai:</em></p> 
+<ul> 
+  <li><strong>21 Mei &nbsp;&nbsp;</strong>– &nbsp;Osaka City Air Terminal, Tokyo</li> 
+  <li><strong>28 Mei &nbsp;&nbsp;</strong>– &nbsp;LaLaport TOYOSU Seaside deck main stage,&nbsp;Osaka</li> 
+  <li><strong>3 Juni &nbsp; &nbsp;</strong>– &nbsp;Riverwalk Kitakyushu, Fukuoka</li> 
+  <li><strong>17 Juni &nbsp;</strong>– &nbsp;Tokyo Dome City LaQua Garden Stage, Tokyo</li> 
+  <li><strong>24 Juni &nbsp;</strong>– &nbsp;Kobe Harborland Space Theater,&nbsp;Kobe</li> 
+  <li><strong>2 Juli&nbsp;</strong>&nbsp; &nbsp; – &nbsp;JR Kyushu Hall, Fukuoka</li> 
+</ul> 
+<p><em>Keep update with everything about Japan, by always reading from akibanation.com!</em></p> 
+<span></span>
+
+
+-*-12311778
+-*-https://www.akibanation.com/batten-showjo-tai-tour-1/
+
+--------------------
+
+
+-t-t- Batten Showjo Tai  -- 11.168876339551618
+-t-t- Yoka Yoka Dance -- 9.21437250721404
+-t-t- Masuto Bai -- 8.788137846434836
+-t-t- Bi Bi Bi Bishoujo -- 8.361140334050575
+-t-t- Kororin HAPPY FANTASY -- 5.919943561673278
+-t-t- Aeon Mall Tokoname -- 5.700749225247797
+-t-t- Must Buy -- 4.641712842093084
+-t-t- Masuto Ban -- 4.443502785831821
+-t-t- Ueda Riko -- 4.258764233040205
+-t-t- Limited Edition -- 4.187832112327385
+-t-t- Special Day -- 4.081056295345876
+-t-t- Kotoba Tennis -- 4.0789565817042535
+-t-t- Nobishiro Kōshinkyoku -- 4.064851942372667
+-t-t- Batten Shoujo -- 3.764867381280126
+-t-t- Osaka City Air Terminal -- 3.6714917279707953
+-t-t- Yume -- 3.0515846465887613
+-t-t- Tokyo Dome City -- 2.9351351788031486
+-t-t- Kobe -- 2.8100762631181486
+-t-t- Stardust Promotion -- 2.625099427061968
+-t-t- Fukuoka 17 -- 2.181826833209654
+-t-t- Canvas 2 -- 2.029504119057556
+-f-t- Day 5 -- 2.0094223924312113
+-t-t- Fure -- 2.005920101568664
+-t-t- Ooshoi -- 1.9429560593174935
+-t-t- LaLaport TOYOSU -- 1.6900934287370504
+-t-t- Riverwalk Kitakyushu -- 1.672494559483209
+-t-t- JR Kyushu -- 1.630432342283691
+-t-t- Idol -- 1.3185168815511437
+-t-t- Aichi -- 1.1757283775620408
+-t-t- Friends -- 1.001386369031357
+-f-t- ENDING -- 0.9651946604200177
+-f-t- Album -- 0.9240027127374786
+-t-t- Japan -- 0.8067273606621411
+-t-t- Musim Panas -- 0.0
+-*- -- time: 0.008
+
+--------------------
+
+
+-t-f- Jepang -- 3.0
+-f-f- Bi Bi Bishoujo 7. Kotoba Tennis 8. Touto 9 -- 1.0
+-f-f- Bi Bishojo Yume -- 1.0
+-f-f- JR Kyushu Hall -- 1.0
+-f-f- 3. Atsuka Natsu -- 1.0
+-f-f- Panas Nogizaka46 Akan Segera -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance -- 1.0
+-f-f- TOYOSU Seaside -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku Yoka -- 1.0
+-f-f- Liquid Room -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special -- 1.0
+-f-f- Bishoujo 7. Kotoba Tennis 8. Touto -- 1.0
+-f-f- Panas Nogizaka46 Akan -- 1.0
+-f-f- Kobe 2 Juli -- 1.0
+-f-f- Tennis 8. Touto 9 -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7. Kotoba Tennis -- 1.0
+-f-f- Nogizaka46 Akan -- 1.0
+-f-f- Tennis Nobishiro -- 1.0
+-f-f- FANTASY 13 -- 1.0
+-f-f- Bishoujo 7 -- 1.0
+-f-f- HAPPY FANTASY 13 -- 1.0
+-f-f- Panas Nogizaka46 -- 1.0
+-f-f- Kororin HAPPY FANTASY 13 -- 1.0
+-f-f- Kobe Harborland Space Theater -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7. Kotoba Tennis 8. Touto -- 1.0
+-f-f- 3. Atsuka Natsu Kitabai！ 4 -- 1.0
+-f-f- Tokyo Dome City LaQua Garden Stage -- 1.0
+-f-f- Nobishiro Kōshinkyoku Yoka Yoka Dance Special Day -- 1.0
+-f-f- Hoshino Sora -- 1.0
+-f-f- 2. ShittoChan 3. Atsuka Natsu Kitabai！ 4 -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku -- 1.0
+-f-f- Nogizaka46 Akan Segera Dimulai -- 1.0
+-f-f- Yoka Dance Special -- 1.0
+-f-f- 7. Kotoba Tennis 8. Touto -- 1.0
+-f-f- Bi Bishoujo 7. Kotoba Tennis 8. Touto 9 -- 1.0
+-f-f- Kotoba Tennis Nobishiro -- 1.0
+-f-f- 2. ShittoChan 3. Atsuka Natsu -- 1.0
+-f-f- Canvas 2. ShittoChan 3. Atsuka Natsu Kitabai！ 4 -- 1.0
+-f-f- Score 11 -- 1.0
+-f-f- ShittoChan 3. Atsuka Natsu Kitabai -- 1.0
+-f-f- Yoka Yoka Dance 14 -- 1.0
+-f-f- Kōshinkyoku Yoka Yoka Dance Special Day -- 1.0
+-f-f- Bi Bi Bishojo -- 1.0
+-f-f- Panas Nogizaka46 Akan Segera Dimulai -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special Day -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka -- 1.0
+-f-f- Bishoujo 7. Kotoba -- 1.0
+-f-f- Bi Bishojo -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance -- 1.0
+-f-f- Osaka 3 -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku Yoka Yoka -- 1.0
+-f-f- Tokyo Dome City LaQua -- 1.0
+-f-f- Bi Bishoujo 7 -- 1.0
+-f-f- Bi Bi Bishoujo 7. Kotoba Tennis -- 1.0
+-f-f- 2. ShittoChan -- 1.0
+-f-f- Special Day 5 -- 1.0
+-f-f- Natsu Kitabai -- 1.0
+-f-f- Kobe Harborland Space -- 1.0
+-f-f- Kobe Harborland -- 1.0
+-f-f- Kotoba Tennis 8. Touto 9 -- 1.0
+-f-f- Yoka Dance Special Day -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku Yoka -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7 -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7. Kotoba Tennis 8 -- 1.0
+-f-f- Nishigaki Arisa -- 1.0
+-f-f- Kotoba Tennis 8 -- 1.0
+-f-f- Masutobai -- 1.0
+-f-f- Dome City LaQua Garden Stage -- 1.0
+-f-f- Bishojo Yume -- 1.0
+-f-f- Canvas 2. ShittoChan 3. Atsuka Natsu -- 1.0
+-f-f- Tur Musim -- 1.0
+-f-f- Akan Segera -- 1.0
+-f-f- Dome City LaQua -- 1.0
+-f-f- 2. ShittoChan 3 -- 1.0
+-f-f- Nobishiro Kōshinkyoku Yoka Yoka -- 1.0
+-f-f- 7. Kotoba -- 1.0
+-f-f- Akan Segera Dimulai -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7. Kotoba Tennis 8. Touto 9 -- 1.0
+-t-f- Bi Bi Bi Bishojo -- 1.0
+-f-f- Kotoba Tennis 8. Touto -- 1.0
+-f-f- Kiyama Ai -- 1.0
+-f-f- Kōshinkyoku Yoka Yoka Dance Special -- 1.0
+-f-f- Nogizaka46 Akan Segera -- 1.0
+-f-f- Atsuka Natsu Kitabai！ 4 -- 1.0
+-f-f- Harborland Space -- 1.0
+-f-f- LaLaport TOYOSU Seaside -- 1.0
+-f-f- Canvas 2. ShittoChan 3 -- 1.0
+-f-f- 8. Touto 9 -- 1.0
+-f-f- Bi Bi Bishojo Yume -- 1.0
+-f-f- Tennis 8 -- 1.0
+-f-f- Osaka 3 Juni -- 1.0
+-f-f- Must Buy Ver -- 1.0
+-f-f- Bi Bi Bi Bishojo Yume -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka -- 1.0
+-f-f- City LaQua -- 1.0
+-f-f- Kōshinkyoku 10 -- 1.0
+-f-f- Seta Sakura -- 1.0
+-f-f- 7. Kotoba Tennis 8. Touto 9 -- 1.0
+-f-f- Nobishiro Kōshinkyoku 10 -- 1.0
+-f-f- 3. Atsuka -- 1.0
+-f-f- Bi Bi Bishoujo 7 -- 1.0
+-f-f- Tokyo 24 Juni -- 1.0
+-f-f- ShittoChan 3 -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special Day -- 1.0
+-f-f- Kōshinkyoku Yoka -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku Yoka -- 1.0
+-f-f- Kōshinkyoku Yoka Yoka Dance -- 1.0
+-f-f- Bi Bishoujo 7. Kotoba Tennis -- 1.0
+-f-f- 2. ShittoChan 3. Atsuka Natsu Kitabai -- 1.0
+-f-f- Score STORM -- 1.0
+-f-f- Nobishiro Kōshinkyoku Yoka Yoka Dance -- 1.0
+-f-f- Touto Kotoba Tennis -- 1.0
+-f-f- LaQua Garden -- 1.0
+-f-f- Nobishiro Kōshinkyoku Yoka Yoka Dance Special -- 1.0
+-f-f- Bi Bishoujo 7. Kotoba -- 1.0
+-f-f- Canvas 2. ShittoChan 3. Atsuka -- 1.0
+-f-f- Tokyo 28 -- 1.0
+-f-f- Kyushu Hall -- 1.0
+-f-f- Nobishiro Kōshinkyoku Yoka -- 1.0
+-f-f- Canvas 2. ShittoChan 3. Atsuka Natsu Kitabai -- 1.0
+-f-f- Kobe 2 -- 1.0
+-f-f- Harborland Space Theater -- 1.0
+-f-f- Bishoujo 7. Kotoba Tennis -- 1.0
+-f-f- Bi Bi Bishoujo 7. Kotoba Tennis 8 -- 1.0
+-f-f- Kōshinkyoku Yoka Yoka -- 1.0
+-f-f- Bi Bi Bi Bishoujo 7. Kotoba -- 1.0
+-f-f- Dome City LaQua Garden -- 1.0
+-f-f- Buy Ver -- 1.0
+-f-f- Kikinshai Ban -- 1.0
+-f-f- Tokyo 24 -- 1.0
+-f-f- Touto Kotoba -- 1.0
+-f-f- BluRay Ver -- 1.0
+-f-f- Dance Special -- 1.0
+-f-f- Haruno Kiina -- 1.0
+-f-f- LaQua Garden Stage -- 1.0
+-f-f- 8. Touto -- 1.0
+-f-f- Sayanora DESTINY 15 -- 1.0
+-f-f- Yoka Dance 14 -- 1.0
+-f-f- Bi Bi Bishoujo 7. Kotoba Tennis 8. Touto -- 1.0
+-f-f- Shoujo 12 -- 1.0
+-f-f- Bi Bishoujo 7. Kotoba Tennis 8 -- 1.0
+-f-f- Canvas 2. ShittoChan -- 1.0
+-f-f- Space Theater -- 1.0
+-f-f- 7. Kotoba Tennis -- 1.0
+-f-f- Touto 9 -- 1.0
+-f-f- DESTINY 15 -- 1.0
+-f-f- Batten Shojo -- 1.0
+-f-f- ShittoChan 3. Atsuka Natsu Kitabai！ 4 -- 1.0
+-f-f- Tennis 8. Touto -- 1.0
+-f-f- Atsuka Natsu -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance -- 1.0
+-f-f- City LaQua Garden -- 1.0
+-f-f- Tokyo Dome City LaQua Garden -- 1.0
+-f-f- Yoka Yoka Dance Special Day -- 1.0
+-f-f- Osshoi -- 1.0
+-f-f- Tokyo 28 Mei -- 1.0
+-f-f- Atsuka Natsu Kitabai -- 1.0
+-f-f- ShittoChan 3. Atsuka Natsu -- 1.0
+-f-f- Dance 14 -- 1.0
+-f-f- Sayanora DESTINY -- 1.0
+-f-f- City LaQua Garden Stage -- 1.0
+-f-f- Bi Bi Bishoujo 7. Kotoba -- 1.0
+-f-f- 2. ShittoChan 3. Atsuka -- 1.0
+-f-f- Dance Special Day -- 1.0
+-f-f- Natsu Kitabai！ 4 -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro -- 1.0
+-f-f- Kotoba Tennis Nobishiro Kōshinkyoku -- 1.0
+-f-f- Garden Stage -- 1.0
+-f-f- Bishoujo 7. Kotoba Tennis 8 -- 1.0
+-f-f- Bishoujo 7. Kotoba Tennis 8. Touto 9 -- 1.0
+-f-f- Batten Shoujo 12 -- 1.0
+-f-f- 3. Atsuka Natsu Kitabai -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku -- 1.0
+-f-f- Fukuoka 17 Juni -- 1.0
+-f-f- 7. Kotoba Tennis 8 -- 1.0
+-f-f- Minshai Ban -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special Day -- 1.0
+-f-f- Yoka Yoka Dance Special -- 1.0
+-f-f- Segera Dimulai -- 1.0
+-f-f- Kitabai！ 4 -- 1.0
+-f-f- Touto Kotoba Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special -- 1.0
+-f-f- Bashow -- 1.0
+-f-f- Tennis Nobishiro Kōshinkyoku Yoka Yoka Dance Special -- 1.0
+-f-f- Bi Bishoujo 7. Kotoba Tennis 8. Touto -- 1.0
+-f-f- ShittoChan 3. Atsuka -- 1.0
+-f-f- Tur Musim Panas Nogizaka46 Akan Segera -- 0.0
+-f-f- Tur Musim Panas Nogizaka46 Akan -- 0.0
+-f-f- Musim Panas Nogizaka46 Akan Segera -- 0.0
+-f-f- Musim Panas Nogizaka46 -- 0.0
+-f-f- Tur Musim Panas Nogizaka46 -- 0.0
+-f-f- Tur Musim Panas -- 0.0
+-f-f- Musim Panas Nogizaka46 Akan -- 0.0
+-f-f- Tur Musim Panas Nogizaka46 Akan Segera Dimulai -- 0.0
+-f-f- Musim Panas Nogizaka46 Akan Segera Dimulai -- 0.0
+-*- -- time: 0.008
+
+--------------------
+
+
+-*-<img src="[BASEURL]/ea28c5b58d997dc04f74f4e29dd91131.jpeg" data:w="680" data:h="383" />        
+<p>Setelah nyaris setengah tahun dari&nbsp;<a href="http://jurnalotaku.com/2016/12/17/inuyashiki-dapatkan-adaptasi-anime-live-action/" rel="nofollow">kabar pertama adaptasi anime</a>&nbsp;<em>manga</em> <strong>Inuyashiki</strong> karangan Hiroya Oku yang juga membuat manga <em>Gantz</em>, pada Jumat kemarin melalui <em>manga</em> kompilasi volume kesembilan dan majalah <em>manga</em> Evening tampilan visual terbaru dan jajaran staff diumumkan.<span></span></p> 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-inuyashiki-new-visual.jpg" rel="nofollow">  <img src="[BASEURL]/bef1b416efeea050c0b2b75ae682f80f.jpeg" data:w="640" data:h="903" /> </a></p> 
+<p><em>Anime</em> yang akan tayang pada Oktober 2017 di program Noitamina milik Fuji TV ini bercerita tentang <strong>Ichiro Inuyashiki</strong>, pria berusia 58 tahun yang diremehkan semua orang, bahkan oleh keluarganya sendiri. Dia terjangkit penyakit kanker dan hanya punya 3 bulan lagi untuk hidup. Saat merenungi nasibnya, dia tersambar oleh sebuah sinar yang sangat silau di malam hari. Saat dia bangun, dia menyadari bahwa tubuhnya banyak berubah dan berbagai kekuatan aneh dapat dia gunakan.</p> 
+<p>Sebelumnya telah dikabarkan bahwa Keiichi Satou (<em>Tiger &amp; Bunny</em>, <em>GANTZ:O</em>, <em>Rage of Bahamut Genesis</em>) adalah kepala pengarah seri ini, sedangkan Shuhei Yabuta (sutradara 3D untuk <em>Iron Man</em>, <em>Highschool of the Dead</em>, <em>Attack on Titan</em>) menjadi sutradara di seri ini.</p> 
+<p>Menyusul keduanya, terdapat nama-nama sebagai berikut: Hiroshi Seko (penulis naskah untuk <em>Mob Psycho 100</em>, <em>Attack on Titan</em>) didaulat menjadi komposer seri ini, Naoyuki Onda (<em>Gantz</em>, <em>Rage of Bahamut</em>, film <em>Berserk</em>) menjadi desainer karakter di seri ini. Untuk produksi animasi diserahkan kepada studio <strong>MAPPA</strong>.</p> 
+<p>Sumber: <a href="http://www.crunchyroll.com/anime-news/2017/05/18/inuyashiki-tv-anime-staff-listing-spotted-with-visual" rel="nofollow">Crunchyroll</a></p>
+
+
+-*-12311064
+-*-http://jurnalotaku.com/2017/05/22/anime-inuyashiki-tampilkan-visual-terbaru-dan-jajaran-staf/
+
+--------------------
+
+
+-t-t- Rage of Bahamut Genesis -- 4.165192287529803
+-t-t- Highschool of the Dead -- 3.8363290787049893
+-t-t- Mob Psycho 100 -- 2.7690871416344054
+-t-t- Hiroya Oku -- 2.5494534431197566
+-t-t- Inuyashiki -- 2.4268229840918174
+-t-t- Fuji TV -- 2.3167878312241483
+-t-t- Keiichi Satou -- 1.967189753301156
+-t-t- Iron Man -- 1.8669504043812037
+-f-t- Attack -- 1.791085060245865
+-f-t- Titan -- 1.7844538754604233
+-t-t- Evening -- 1.2187801895886876
+-t-t- Noitamina -- 1.1652890971926346
+-t-t- Tiger -- 0.97813754903991
+-t-t- Bunny -- 0.9752393658328655
+-t-t- GANTZ:O -- 0.9727105005872135
+-t-t- Berserk -- 0.8388982908460081
+-t-t- MAPPA -- 0.8095521259919564
+-*- -- time: 0.001
+
+--------------------
+
+
+-t-f- Gantz -- 2.0
+-t-f- Hiroshi Seko -- 1.0
+-t-f- Naoyuki Onda -- 1.0
+-t-f- Shuhei Yabuta -- 1.0
+-t-f- Ichiro Inuyashiki -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<p><a href="https://www.akibanation.com/kimi-no-na-wa-meraih-20-milyar-yen-kalahkan-2-movie-ghibli/" rel="nofollow">Kimi no Na wa</a> adalah sebuah film anime yang ditulis dan disutradarai oleh Makoto Shinkai. Secara harfiah, judul film anime ini bisa diartikan sebagai ‘Namamu’ atau yang dalam bahasa Inggris diterjemahkan menjadi ‘Your Name’. Setelah dirilis pada bioskop-bioskop di dunia, Kimi no Na wa sukses besar dan meraup untung yang bisa dibilang cukup tinggi. Karena kepopulerannya inilah, Kimi no Na wa berhasil menarik perhatian perusahaan JAV untuk digubah ke dalam versi film porno.</p> 
+<p><a href="https://www.akibanation.com/wp-content/uploads/2017/05/Kimi-no-Na-Wa.jpg" rel="nofollow">  <img src="[BASEURL]/5b48d60f6438aad9f9b04d35f0f5bfd5.jpeg" data:w="824" data:h="1209" /> </a>Dilansir dari <em>The Hyped Geek</em> dan media massa lainnya, baru-baru ini, perusahaan yang bergerak di bidang produksi film porno Jepang atau yang lebih dikenal <a href="https://www.akibanation.com/mengejutkan-inilah-6-fakta-jav-yang-tidak-akan-diketahui-para-penggemarnya/" rel="nofollow">Japanese Adult Video (JAV)</a>–bernama KM Produce–berencana membuat parodi film anime Kimi no Na wa secara live-action. Di bawah label Real Works, aktris panas tersohor Jepang, yakni Ayane Suzukawa, direkrut menjadi bintang utamanya. Menurut Akiba-chan dan Akiba-kei, apa reaksi yang akan dilontarkan dari para penggemar menanggapi hal ini?</p> 
+<p>Kabar burung mengatakan bahwa para penggemar Kimi no Na wa dari Jepang hanya sebagian kecil saja yang tidak setuju. Sisanya memilih untuk setuju dan netral. Jika dihitung dalam persentase, ada sebanyak 30% kontra, 60% pro, dan 10% netral. Lalu bagaimana tanggapan dari penggemar mancanegara seperti halnya Indonesia? Sayangnya, belum ada informasi jelas mengenai reaksi fans Your Name di luar Jepang. Meski begitu, pembuatan proyek ini akan terus diberlangsungkan tanpa memedulikan kritik dari publik.</p> 
+<p><span><strong>Baca juga: <a href="https://www.akibanation.com/oppai-wanita-jepang/" rel="nofollow">Wah Oppai Wanita Jepang Ini Diremas Suku Korowai di Papua, Kenapa?</a></strong></span></p> 
+<p>Ada yang unik dari Kimi no Na wa versi film porno. Jika film anime ini aslinya memakai kanji ‘Na wa’ yang berarti ‘Name’ atau ‘Nama’, namun di parodi panasnya menggunakan kanji ‘Na wa’ yang maknanya ‘Rope’ atau ‘Tali’. Jadi, kalau diterjemahkan, judulnya dapat ditulis ‘Your Rope’. Di gambar sampulnya saja, film anime live-action buatan KM Produce yang menggairahkan ini menampakkan seorang wanita seksi (Ayane Suzukawa) yang tengah dililit dengan tali merah. Ia memakai seragam sekolah mirip karakter gadis di anime aslinya, yaitu Mitsuha Miyamizu.</p> 
+<p><a href="https://www.akibanation.com/wp-content/uploads/2017/05/Film-Porno.jpg" rel="nofollow">  <img src="[BASEURL]/2848607e43fae2b767b816adc7ac94a9.jpeg" data:w="811" data:h="1152" /> </a>Belum diketahui siapa yang akan memerankan tokoh prianya dalam proyek 18+ ini. Yang jelas, Kimi no Na wa versi film porno akan dirilis pada bulan <em>Juni 2017</em>. Sebelumnya, banyak parodi film porno yang diambil dari film-film Hollywood terkenal. Misalnya Aladdin, Tarzan, Iron Man, Robocop, dan The Avengers. Tidak heran jika parodi film bioskop terkenal ke versi blue-film merambah ranah anime. Mengingat, dewasa ini franchise anime dan manga sudah mulai diterima oleh berbagai kalangan di berbagai negara dan memiliki potensi yang mumpuni.</p> 
+<p>Jadi, apakah Minasan menunggu perilisan Kimi no Na wa versi film porno ini? Bagikan yuk, biar teman-teman Minna juga tahu. Sesama penggemar JAV jangan pelit ‘link’ ya! Berbagi itu indah. 😉</p> 
+<span></span>
+
+
+-*-12302781
+-*-https://www.akibanation.com/kimi-no-na-wa-versi-film-porno-bakal-tayang-sebentar-lagi/
+
+--------------------
+
+
+-t-t- Kimi -- 8.79020942065285
+-t-t- Your Name -- 7.069339497230965
+-t-t- Nama -- 6.337306311294415
+-t-t- Jepang -- 5.479880169644902
+-t-t- KM Produce -- 4.23428462637154
+-t-t- Ayane Suzukawa -- 4.15352427313717
+-t-t- Japanese Adult Video -- 3.7350481557573247
+-t-t- JAV -- 3.2046199688337156
+-t-t- Makoto Shinkai -- 2.6030755420991274
+-t-t- Real Works -- 2.3055692803380587
+-t-t- Rope -- 1.923219637669432
+-t-t- Iron Man -- 1.735750190328961
+-t-t- The Avengers -- 1.7287726144296187
+-t-t- Inggris -- 1.277151593378523
+-t-t- Akiba-kei -- 1.128415478387513
+-t-t- Indonesia -- 1.0531784277450758
+-t-t- Papua -- 1.0057697021741026
+-t-t- Tali -- 0.965892996749015
+-t-t- Hollywood -- 0.8748949716535827
+-t-t- Tarzan -- 0.8690918844432736
+-t-t- Robocop -- 0.8663565039596913
+-f-t- Minna -- 0.811998012331763
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Wah Oppai Wanita Jepang Ini Diremas Suku -- 1.0
+-f-f- Jepang Ini -- 1.0
+-f-f- Wah Oppai Wanita Jepang Ini Diremas Suku Korowai -- 1.0
+-f-f- Wanita Jepang Ini Diremas Suku -- 1.0
+-t-f- Oppai Wanita -- 1.0
+-f-f- Menurut Akiba-chan -- 1.0
+-f-f- Jepang Ini Diremas Suku Korowai -- 1.0
+-f-f- Oppai Wanita Jepang Ini -- 1.0
+-f-f- Wanita Jepang Ini -- 1.0
+-f-f- KM Produce–berencana -- 1.0
+-f-f- Oppai Wanita Jepang Ini Diremas -- 1.0
+-f-f- The Hyped -- 1.0
+-f-f- Wanita Jepang Ini Diremas -- 1.0
+-f-f- Hyped Geek -- 1.0
+-f-f- Your Rope -- 1.0
+-f-f- Ini Diremas -- 1.0
+-f-f- Namamu -- 1.0
+-f-f- Ini Diremas Suku -- 1.0
+-f-f- Wanita Jepang -- 1.0
+-f-f- Diremas Suku Korowai -- 1.0
+-f-f- Jepang Ini Diremas -- 1.0
+-f-f- Ini Diremas Suku Korowai -- 1.0
+-f-f- Minasan -- 1.0
+-f-f- Wanita Jepang Ini Diremas Suku Korowai -- 1.0
+-f-f- Diremas Suku -- 1.0
+-f-f- Wah Oppai -- 1.0
+-f-f- Jepang Ini Diremas Suku -- 1.0
+-f-f- Wah Oppai Wanita Jepang Ini Diremas -- 1.0
+-t-f- Suku Korowai -- 1.0
+-f-f- Misalnya Aladdin -- 1.0
+-t-f- The Hyped Geek -- 1.0
+-f-f- Mitsuha Miyamizu -- 1.0
+-f-f- Oppai Wanita Jepang Ini Diremas Suku Korowai -- 1.0
+-f-f- Wah Oppai Wanita Jepang -- 1.0
+-f-f- Oppai Wanita Jepang Ini Diremas Suku -- 1.0
+-f-f- Berbagi -- 1.0
+-t-f- Oppai Wanita Jepang -- 1.0
+-f-f- Wah Oppai Wanita Jepang Ini -- 1.0
+-f-f- Wah Oppai Wanita -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3d854acfacad1c33b612c2902aff88db.jpeg" data:w="1064" data:h="618" />        
+<p>Pada <strong>JOI Spotlight</strong> minggu ini kita sudah memasuki paruh akhir musim ini. Beberapa&nbsp;<em>anime</em>&nbsp;sayangnya tidak dapat hadir karena menayangkan <em>recap,&nbsp;</em>yang menunjukkan adanya masalah pada proses produksinya. Oleh karena itu mari kita lihat berbagai seri yang produksinya masih berjalan lancar di minggu ini.</p> 
+<p><span></span></p> Uchouten Kazoku 06 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/Uchouten-Kazoku-2-06.jpg" rel="nofollow">  <img src="[BASEURL]/f8a19e6c59a6ec20a796eacc90533d26.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p><strong>Kaptain</strong></p> 
+<p>Selain bergulat dengan ikan paus, cara lain Benten untuk melepas stress adalah bergulat dengan oni dan <em>“farming”</em> tanduk mereka. Neraka dunia ini juga nampaknya sudah banyak berubah. Neraka yang dikunjungi Yasaburou kemungkinan besar adalah Samghata, sebuah mortar raksasa dimana penghuni dilumat dan sisa dari mereka dibuang ke lubang di tengah.</p> 
+<p>Kaisei juga nampaknya punya sentimen yang sama dengan penonton yang membenci Benten.</p> Little Witch Academia 19 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/Little-Witch-Academia-19.jpg" rel="nofollow">  <img src="[BASEURL]/a6b7803cc17440f2ca13d86fe6673e79.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p><strong>Kaptain</strong></p> 
+<p>Setelah hilang di beberapa episode, Diana akhirnya kembali di sebuah episode yang sinetron banget. Episode yang cukup <em>low-tension</em> untuk standar seri ini, kemungkinan besar untuk menghemat <em>budget</em> untuk Akko yang sudah pasti mengacaukan segalanya di episode selanjutnya.</p> Frame Arms Girl 07  
+<a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/hraes.jpg" rel="nofollow">  <img src="[BASEURL]/98ac44f9d9c6fa56a2284b531d97f683.jpeg" data:w="700" data:h="535" /> </a> 
+<p>My Hraesvelgr</p>  
+<p><strong>Etherlite</strong></p> 
+<p>Akhirnya Hraesvelgr muncul, dan imba af. Penggambaran produksi plamonya juga cukup menarik, meskipun hanya sekedar <em>nice to know</em>.</p> 
+<p><strong>Kaptain</strong></p> 
+<p>Dari semua <em>anime</em> “iklan” mungkin ini baru pertama kalinya proses pembuatan produknya dijabarkan, dan hal ini sangat saya hargai.</p> Dragon Ball Super 90 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/joispdbs90.jpg" rel="nofollow">  <img src="[BASEURL]/8af483b3ab4b97651373a8c255c32cc7.jpeg" data:w="700" data:h="396" /> </a><br><strong>bukan_randy</strong></p> 
+<p>Episode di mana <em>seiyuu</em> berumur 80 tahun mengisi dua karakter yang saling bertarung dan berteriak-teriak. Seperti biasa, sistem power level di Dragon Ball Super sepertinya dipermak sehingga di mana Ultimate Gohan bisa imbang dengan Goku Super Saiyan Blue (dan sebelumnya Android No. 17 juga bisa imbang dengan Super Saiyan Blue).</p> 
+<p>Setelah 30 tahun lebih serinya (atau hampir 30 tahun sejak Gohan muncul di seri ini), akhirnya ada satu episode yang didedikasikan untuk Goku vs Gohan. Setidaknya arc “Goku ngumpulin anggota tim yang semuanya udah di-<em>spoiler-in</em> sama <em>opening, eyecatch,</em> dan berbagai materi promosinya” akhirnya bakal selesai dalam 2-3 eps lagi.</p> Sukasuka 6 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/pasted-image-01.png" rel="nofollow">  <img src="[BASEURL]/100d486026094607163d9dd06d90ce9f.png" data:w="700" data:h="394" /> </a></p> 
+<p><strong>Etherlite</strong></p> 
+<p>Semuanya semakin jelas. Apa yang terjadi pada dunia ini, apa sebenarnya Ctholly dan fairy lainnya, dan nasib mereka. Pertanyaannya apakah bisa jadi <em>happy ending</em>? Karena meskipun masih terus ‘diperpanjang’, situasinya tetap tidak menunjukkan akhir yang menyenangkan. <em>I do have ideas on who’s the girl she met subconsiously though.</em></p> 
+<p><strong>Signum</strong></p> 
+<p><em>It’s really nice now</em> <em>that Willem met his old friend</em>, namun karena prinsip yang berbeda pertemuan tersebut jadi agak, asem. Pertemuan Willem dengan musuh lamanya juga cukup light dan lucu, <em>overall it’s a nice episode</em>. Ctholly dan masalahnya juga cukup menarik, membuat saya bertanya-tanya tentang metode yang digunakan untuk membuat para fairy. Apakah jangan-jangan hantu yang diangkat menjadi Ctholly itu sebenarnya… agak lebih dekat kepada Willem daripada yang dia sadari.</p> Sakura Quest 07 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/sakura-quest-gif.gif" rel="nofollow">  <img src="[BASEURL]/af33c12127d94dd00fd959b436f24e46.gif" data:w="500" data:h="281" /> </a><br><strong>Kaptain</strong></p> 
+<p><em>Drunk hair down Shiori is the miracle of the universe</em>. Untungnya konflik dari Shiori dan Maki bisa selesai dengan baik disini, <em>montage</em> dari masa kecil Maki sudah cukup menjual saya tentang passionnya terhadap akting, dan awalnya saya mengira beban Shiori tentang pembakaran rumah terkesan gampang diselesaikan, namun “penghormatan terakhir” dari Yoshino memperbaiki pandangan saya tentang konflik ini.</p> 
+<p><strong>Signum</strong></p> 
+<blockquote> 
+  <p>Drunk hair down Shiori is the miracle of the universe.</p> 
+</blockquote> 
+<p><em>I can’t stress that enough</em> mengingat dia salah satu <em>best girl</em> yang kemudian menjadi bestest P.A Works Girl hanya dalam 1 episode ini. Arc pembuatan film ini mungkin bisa menjadi salah satu arc terbaik, karena hampir semua beban dan masalah Maki terjelaskan dalam arc ini. Bagaimana saya bisa melihat sisi ‘egois’ dari Shiori dalam menutup-nutupi fakta kalau rumah yang seharusnya dibakar sudah mendapatkan ijin, dan bagaimana Yoshino yang semakin terbebani pekerjaan setiap harinya. Mungkin di arc berikutnya kita akan membahas lebih dalam mengenai Ririko.</p> 
+<p>Also, terima kasih kepada anak-anak kecil yang jadi zombie, sekarang terkonfirmasi kalau pantat Sanae itu besar.</p> Tiger Mask W 32 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/Tiger-Mask-W-32.jpg" rel="nofollow">  <img src="[BASEURL]/e3edc9ea936df0f927afbe13d66b9a7b.jpeg" data:w="700" data:h="396" /> </a></p> 
+<p><strong>Kaptain</strong></p> 
+<p>Konflik NJPW selesai. Kalau finisher terakhir Naoto merupakan kombinasi dari semua finisher seri ini,<em> i will love this show forever.</em></p> Saekano flat 6  
+<a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/1495125120345.jpg" rel="nofollow">  <img src="[BASEURL]/f8449877b72a49b0097df62d9d52e55e.jpeg" data:w="700" data:h="394" /> </a> 
+<p>Karena muka seram Katou &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; muka apapun worst girl</p>  
+<p><strong>Etherlite</strong></p> 
+<p><em>Too illogical.</em> Sejak spotlight terakhir saya tentang seri ini, ada jalan lain yang jauh lebih simple tapi tertutup begitu saja. Kamu lebih pilih <em>scoring points with your heroine and keep the harem alive? Fine</em>, tapi bukan berarti kerjaan ditelantarin juga. Ingat kalau Katou bisa bantu <em>debugging,</em> lalu para member Icy Tail juga bisa diperalat&nbsp;dimintai tolong. Di Nasu Kougen juga Eriri punya PC, abis ngerawat Eriri juga lu bisa pake buat kerja. <em>They did it the last time, why can’t they do it this time?</em></p> Shingeki no Kyojin 32-33 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/pasted-image-0-1.png" rel="nofollow">  <img src="[BASEURL]/56ecadef8f91a2798d6f3f30ce094795.png" data:w="638" data:h="359" /> </a></p> 
+<p><strong>Etherlite</strong></p> 
+<p><em>Armored Titan’s weakness is the joints!</em> Lalu cuma Mikasa yang nyerang, uda gitu cuma nyerang 1 patellofemoral joint doang trus sisanya urusan Eren. Yang lain? cuma nonton sambil ngunyah popcorn. <em>*applause* Though, good thinking from</em> Hange dalam memprediksi dimana mereka harus mencari Eren.</p> 
+<p>Kemudian, sebelum mereka berdua jadi Titan, mereka tidak memakai vertical maneuvering gear (Connie juga sempat minta yang lain tolong mereka berdua juga karena mereka ga pakai), lalu mendadak Bertholdt bisa pake 1 &amp; bawa Eren naik ke Armored Titan, &amp; waktu Eren sadar, Reiner lagi pake 1 juga. Oke,<em> they might get one from</em> Eren, trus satu lagi dari mana? Pakainya cepet banget lagi, dari keluar dari Titan mode, semua mental, ngembat 1 set &amp; pake, ambil eren trus loncat ke pundak Armored Titan. [/plotholes, plotholes everywhere]</p> Shingeki no Bahamut – Virgin Soul 07 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/Shingeki-no-Bahamut-Virgin-Soul-07.jpg" rel="nofollow">  <img src="[BASEURL]/780d06cdb036a4fc3a48ad06ba4c7f19.jpeg" data:w="700" data:h="467" /> </a></p> 
+<p><strong>Kaptain</strong></p> 
+<p>Saya mulai berpikir para demon kalah karena terlalu bodoh dan bukan karena manusia terlalu kuat. Pacing episode ini juga aneh, saat saya lihat adegan awalnya saya cukup bersemangat karena rencana yang jelas-jelas akan gagal ini langsung selesai, tapi kita malah dapat <em>flashback</em> kejadian tersebut, jadi ngapain ada&nbsp;<em>flash-forward&nbsp;</em>di awal?</p> Kemono Friends 1-12 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/18527639_10154398597758414_4366352454838222385_n.jpg" rel="nofollow">  <img src="[BASEURL]/9a2fe002df12bec201f66827a4771096.jpeg" data:w="640" data:h="360" /> </a></p> 
+<p><strong>Signum</strong></p> 
+<p><em>I’ve been binge watching this series that probably takes up the entire week worth of anime, well I haven’t skipped Granblue though</em>. Seri ini sama sekali tidak saya harapkan untuk saya sukai, <em>I mean</em>, ini untuk anak kecil dan mungkin hype selama ini cuma karena karakter moe dan keimutan dari<em> cute girls doing cute things.</em></p> 
+<p>Nggak salah, tapi nggak sepenuhnya benar juga. Salah satu hal yang paling saya suka dari seri ini adalah kejujurannya, semua tentang seri ini terasa <em>innocent</em> dan baik. <em>It cleanse your heart somehow while keeping it a litle bit dark with all the subplots within.</em></p> 
+<p>Saya juga baru tahu setelah menonton kalau seri ini dikerjakan oleh 10 orang tim CG saja, dengan jajaran <em>seiyuu-seiyuu</em> yang masih baru. Mungkin karena itulah acara ini terlihat sangat <em>awkward.</em> Tapi mungkin hal itu pula yang menjadi daya tarik terbaik dari <em>Kemono Friends</em>. Semua ke-<em>awkward</em>-an tersebut terasa tidak <em>perfect,</em> tapi tetap terasa usaha dari mereka semua untuk membuat seri ini sebaik mungkin.</p> 
+<p><em>Kemono Friends</em> mungkin salah satu acara healing terhebat yang pernah saya tonton.<em> It’s fun, it’s innocent, it’s definitely watchable on many levels.</em></p> Granblue Fantasy the Animation 7 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/95a78152.jpg" rel="nofollow">  <img src="[BASEURL]/e249b6d8f3abb17580e2be1b7dbae9ff.jpeg" data:w="640" data:h="360" /> </a></p> 
+<p><strong>Signum</strong></p> 
+<p>Kembali agak telat dari episode 8 yang baru saja tayang tadi malam, apa-apaan ini <em>channeling</em> kekuatan Tiamat buat ngalahin Colossus? Woi game mechanic woi. Tapi ah sudahlah, yang penting dikasih Colo Cane gratis.</p> Samurai Jack 10 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/samurai-jack-10.jpg" rel="nofollow">  <img src="[BASEURL]/8d8651968acabe7199b405c1a4a63388.jpeg" data:w="700" data:h="394" /> </a><br><strong>Kaptain</strong></p> 
+<p>Berhubung episode akhirnya sudah tayang, saya akan sedikit memberi keleluasaan untuk bisa membicarakan “kartun barat” ini. <em>The Evil that is Aku is undone</em>. <em>Season</em> kelima ini memiliki tiga episode awal yang saya akui adalah salah satu karya animasi terbaik di industri ini, hanya sja semua subplot roman di episode selanjutnya sangat, sangat payah. Ujung-ujungnya kita malah dapat <em>ending</em> <em>Gurren Lagann</em>.</p> 
+<p>Kurangnya jatah episode bisa dibilang adalah kekurangan utamanya, saya lebih suka bila hubungan Jack-Ashi itu lebih seperti guru-murid, dan seperti yang ditunjukkan season ini, jatah 10 episode itu sangat tidak cukup untuk membuat plot roman yang memuaskan.</p> 
+<p><em>Samurai Jack</em> yang sebagai seri episodik memiliki satu kualitas yang unik, dulu kalian bisa pilih episode manapun sebagai episode favorit kalian dan kemungkinan besar fanbase seri ini akan setuju atau minimal menghargai pilihan kalian, hanya saja berkat paruh akhir season kelima ini hal ini nampaknya tidak berlaku lagi. Setidaknya satu hal yang paling saya harapkan ada untuk <em>finale</em> seri ini terjadi, <em>he got back, back to the past, Samurai Jack</em>.</p> Fate/Grand Order 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/18555842_10154392895698414_8160772520376485477_n.jpg" rel="nofollow">  <img src="[BASEURL]/41ba06b53dc2536fe10833dd46750142.jpeg" data:w="700" data:h="394" /> </a></p> 
+<p><strong>Signum</strong></p> 
+<p>Mana ini Kiara gak dateng-dateng ke papa, quartz udah abis tapi nggak keluar-keluar juga. <em>On the other hand</em>, challenge quest yang Shiki lumayan nyusahin, untung sekarang Tamamo udah jadi temen baik Merlin jadi hidup pun semakin mudah.</p> 
+<p><strong>Etherlite</strong></p> 
+<p>Uda nyerah Kiara ga dateng, simpen quartz buat summer aja paling… Ada yang tertarik main US version?<em> I do recommend it for the story, it is the best component of the game so far.</em></p> Granblue Fantasy 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/18447305_10154398058303414_8916868677936419391_n.jpg" rel="nofollow">  <img src="[BASEURL]/681673dace6c5d120e006cdd76937566.jpeg" data:w="540" data:h="960" /> </a></p> 
+<p><strong>Signum</strong></p> 
+<p>Soiya class! Nggak banyak yang bisa dikatakan di minggu ini, kecuali ada class baru (Taiko Master) yang cukup unik karena benar-benar memfokuskan dirinya sebagai support Ougi spam. Lalu ada juga Unite and Fight di mana kali ini benar-benar susah untuk mendapatkan honor. Apalagi kalo buat berantem sama tim lain yang memakai Summer Zoi.</p> Chio-chan no Tsuugakuro 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/chio-chan-tsugakurou-fi-e1495364970433.jpg" rel="nofollow">  <img src="[BASEURL]/86053f269a7676066f82eca81b6bd97e.jpeg" data:w="700" data:h="497" /> </a></p> 
+<p><strong>Kaptain</strong></p> 
+<p>Menceritakan tentang keseharian anak SMA yang terobsesi dengan game barat dan kesehariannya bersama temannya yang mencoba “tobat” dari dunia gaming, atlit yang eksibisionis, preman yang sangat heterosexual, dan berbagai karakter unik lainnya. Cara paling sederhana menjelaskan seri ini adalah “Watamote, tapi&nbsp;lucu dan nggak malu-maluin”. Chio sendiri sebagai tokoh utama di genre semacam ini punya kelebihan seperti “nggak terlalu tolol” dan “cukup atletis untuk masuk klub olahraga”</p> 
+<p>Untuk kalian yang pernah baca “karya lain” Kawasaki Tadataka, berbagai <em>reaction face</em> khas karyanya bisa banyak ditemukan juga disini.</p> 
+<p><strong>bukan_randy</strong></p> 
+<p>IMO jokenya kadang masih hit-and-miss, tapi sekalinya hit, bisa sangat <em>relatable</em> sekali karena nampaknya pengarangnya juga penggemar game-game barat di PC.</p> 
+<p>Jadi memasuki paruh kedua&nbsp;<em>season&nbsp;</em>ini, apa saja seri baru yang kalian ikuti ataupun menyerah nonton?</p> 
+<p>Header: <a href="https://twitter.com/chibiss_i/status/860361336437391360" rel="nofollow">Chibi</a></p>
+
+
+-*-12301344
+-*-http://jurnalotaku.com/2017/05/21/joi-spotlight-spring-2017-midseason-edition/
+
+--------------------
+
+
+-t-t- Dragon Ball Super -- 7.777839192472932
+-t-t- Super Saiyan Blue -- 7.697168743144692
+-t-t- Armored Titan -- 6.768696271262165
+-t-t- Signum -- 5.9295137329948915
+-t-t- Kemono Friends -- 5.7328801822506605
+-t-t- Shiori -- 5.639604290961126
+-t-t- Etherlite -- 5.417132083464478
+-t-t- Samurai Jack -- 5.361424446798388
+-t-t- Eren -- 5.1118616382916855
+-t-t- Little Witch Academia -- 4.0257250097133355
+-t-t- Granblue Fantasy -- 3.9109526122718634
+-t-t- Goku -- 3.6241420166941802
+-t-t- Ctholly -- 3.498536942635278
+-t-t- Willem -- 3.483917900809656
+-t-t- Tiger Mask W -- 3.433024886895963
+-t-t- Maki -- 3.382989567847881
+-t-t- Ultimate Gohan -- 2.8932820563040016
+-t-t- Uchouten Kazoku -- 2.600046487492549
+-t-t- Benten -- 2.566960130026635
+-t-t- Super 90 -- 2.4652660088109926
+-f-t- No. 17 -- 2.4300691325765493
+-t-t- Yoshino -- 2.223086821599087
+-t-t- W 32 -- 2.167118173780732
+-t-t- Katou -- 2.130662016834718
+-t-t- Eriri -- 2.1013163726745767
+-t-t- PC -- 1.855611105205403
+-t-t- The Evil -- 1.8255391861227652
+-t-t- Gurren Lagann -- 1.803042609394828
+-t-t- Kiara -- 1.728125432141225
+-t-t- Taiko Master -- 1.6944907009198193
+-t-t- Chio -- 1.6594543193038795
+-t-t- Diana -- 1.2665662984408936
+-t-t- Akko -- 1.2567514627292786
+-t-t- Sanae -- 1.085092786686707
+-t-t- Naoto -- 1.0800397990198887
+-t-t- Saekano -- 1.0755173025430615
+-t-t- Mikasa -- 1.0404538523564946
+-t-t- Connie -- 1.024052999627153
+-t-t- Reiner -- 1.0155427132971475
+-t-t- Bahamut -- 1.0024133400839936
+-t-t- Pacing -- 0.9958185393433129
+-t-t- Tiamat -- 0.9242889511012615
+-t-t- Colossus -- 0.9233742664148368
+-t-t- Shiki -- 0.8643119402360796
+-t-t- Merlin -- 0.861545363241437
+-t-t- Unite -- 0.8428627132533233
+-t-t- Fight -- 0.8424654176145566
+-t-t- SMA -- 0.8340473549209645
+-t-t- Watamote -- 0.8240022456830431
+-t-t- IMO -- 0.8105928554305106
+-t-t- Header -- 0.8005659709703891
+-*- -- time: 0.014
+
+--------------------
+
+
+-f-f- Fantasy the Animation -- 1.0
+-f-f- Tsuugakuro -- 1.0
+-f-f- JOI Spotlight -- 1.0
+-f-f- Grand Order -- 1.0
+-f-f- Pada JOI Spotlight -- 1.0
+-f-f- P.A Works Girl -- 1.0
+-f-f- Arms Girl 07 -- 1.0
+-t-f- Academia 19 -- 1.0
+-f-f- Akhirnya Hraesvelgr -- 1.0
+-t-f- Sakura Quest 07 -- 1.0
+-f-f- Header: Chibi -- 1.0
+-f-f- Di Nasu -- 1.0
+-f-f- Bertholdt -- 1.0
+-f-f- Frame Arms Girl -- 1.0
+-f-f- Hange -- 1.0
+-t-f- Virgin Soul 07 -- 1.0
+-f-f- On the -- 1.0
+-f-f- Fantasy the Animation 7 -- 1.0
+-f-f- Ujung-ujungnya -- 1.0
+-t-f- Granblue Fantasy the Animation 7 -- 1.0
+-f-f- Yasaburou -- 1.0
+-f-f- Dragon Ball Super 90 -- 1.0
+-f-f- Little Witch Academia 19 -- 1.0
+-f-f- Samurai Jack 10 -- 1.0
+-f-f- Arms Girl -- 1.0
+-f-f- Ougi -- 1.0
+-f-f- Summer Zoi -- 1.0
+-f-f- Setelah 30 -- 1.0
+-f-f- Di Nasu Kougen -- 1.0
+-f-f- Jack 10 -- 1.0
+-f-f- Ririko -- 1.0
+-f-f- Goku Super Saiyan -- 1.0
+-f-f- Friends 1-12 -- 1.0
+-f-f- Witch Academia 19 -- 1.0
+-f-f- Android No. 17 -- 1.0
+-f-f- CG -- 1.0
+-f-f- Uchouten Kazoku 06 -- 1.0
+-f-f- Nasu Kougen -- 1.0
+-f-f- Pada JOI -- 1.0
+-f-f- Goku Super Saiyan Blue -- 1.0
+-f-f- Quest 07 -- 1.0
+-f-f- Tiger Mask W 32 -- 1.0
+-f-f- Soul 07 -- 1.0
+-f-f- Mask W 32 -- 1.0
+-f-f- Frame Arms -- 1.0
+-f-f- Chio-chan -- 1.0
+-f-f- Girl 07 -- 1.0
+-f-f- US -- 1.0
+-f-f- Though -- 1.0
+-f-f- Konflik NJPW -- 1.0
+-f-f- Tamamo -- 1.0
+-f-f- Kyojin 32-33 -- 1.0
+-f-f- Fantasy the -- 1.0
+-f-f- Kazoku 06 -- 1.0
+-f-f- Jack-Ashi -- 1.0
+-f-f- Samghata -- 1.0
+-f-f- Granblue Fantasy the -- 1.0
+-f-f- Android No -- 1.0
+-f-f- Frame Arms Girl 07 -- 1.0
+-f-f- Animation 7 -- 1.0
+-f-f- P.A Works -- 1.0
+-f-f- Kawasaki Tadataka -- 1.0
+-f-f- Icy Tail -- 1.0
+-f-f- Kemono Friends 1-12 -- 1.0
+-f-f- Colo Cane -- 1.0
+-f-f- Pertemuan Willem -- 1.0
+-f-f- Granblue Fantasy the Animation -- 1.0
+-f-f- Ball Super 90 -- 1.0
+-f-f- Goku Super -- 1.0
+-f-f- Sakura Quest -- 1.0
+-f-f- Virgin Soul -- 1.0
+-f-f- Sukasuka 6 -- 1.0
+-f-f- My Hraesvelgr -- 1.0
+-f-f- Works Girl -- 1.0
+-f-f- Header : Chibi -- 0.0
+-*- -- time: 0.014
+
+--------------------
+
+
+-*-<img src="[BASEURL]/ca52a7da2a9dd526cb3f4eff8200a48e.jpeg" data:w="740" data:h="454" />        
+<p>Melanjutkan dari <a href="http://jurnalotaku.com/2017/05/16/penguin-dan-waifu-2d-nya-grape-kun-menginspirasi-talkshow-di-kebun-binatang/" rel="nofollow">acara&nbsp;<em>talkshow</em></a> yang diadakan pada kebun binatang Tobu setelah diinspirasi oleh kisah Grape-kun, Humboldt Penguin berusia 20 tahun yang kebetulan jatuh cinta dengan salah satu karakter&nbsp;<em>Kemono Friends</em>, Hululu yang gambarnya dipasang di kebun binatang tersebut. Dalam salah satu segmen&nbsp;<em>talkshow</em>-nya, diulas kehidupan cinta Grape-kun yang sepertinya tidak begitu mulus, cerita cinta&nbsp;ini kemudian diulas oleh salah satu pengguna Twitter yang datang ke acara tersebut.<span></span></p> 
+<p></p>  
+<blockquote> 
+  <p>グレープ君NTRれてたwww</p> 
+  <p>— かんどるま＠上琴病Lv0 (@kandolma) <a href="https://twitter.com/kandolma/status/865821309514559488" rel="nofollow">May 20, 2017</a></p> 
+</blockquote> 
+<p><br></p>  
+<blockquote> 
+  <p>Grape-kun kena NTR hahaha.</p> 
+</blockquote> 
+<p></p>  
+<blockquote> 
+  <p>グレープ君の経緯<br>10年前、東武動物公園にペンギン舎が出来る時に羽村動物園からやって来る。その時は奥さんのミドリちゃんと一緒。<br>７年前、若いペンギンに奥さんを奪われる。<br>以来グレープ君はずっとぽつん状態。<br>今年けもフレコラボでふるるーと出会う。<br>そして今に至る</p> 
+  <p>— かんどるま＠上琴病Lv0 (@kandolma) <a href="https://twitter.com/kandolma/status/865822808810471424" rel="nofollow">May 20, 2017</a></p> 
+</blockquote> 
+<p><br></p>  
+<blockquote> 
+  <p>Sejarah dari Grape-kun</p> 
+  <p>10 tahun lalu, saat rumah penguin didirikan di kebun binatang Tobu. Dia&nbsp;dan istrinya Midori dipindahkan dari kebun binatang Hanemura.</p> 
+  <p>7 tahun lalu, seekor penguin muda merebut istrinya dan sejak saat itu dia selalu sendiri.</p> 
+  <p>Tahun ini, kolaborasi dengan Kemofure datang bersama Hululu, dan dia&nbsp;sudah bersamanya sampai saat ini.</p> 
+</blockquote> 
+<p>Siapa yang mengira kalau penguin yang satu ini&nbsp;memiliki kisah yang begitu pedih di masa hidupnya, mungkin bila dia tetap berada di kebun binatang Hanemura bersama Midori, dia&nbsp;tidak akan mengalami masa-masa pahit seperti saat istrinya direbut penguin yang lebih muda. Namun bila dia tidak pindah ke kebun binatang Tobu, kemungkinan besar dia tidak akan bertemu dengan Hululu dan akhirnya jatuh cinta kepadanya.</p> 
+<p>Dalam acara tersebut, dia&nbsp;juga akhirnya bisa bertemu langsung dan dipeluk oleh&nbsp;<em>seiyuu</em> dari Hululu, Chikuta Ikuko.<br></p>  
+<blockquote> 
+  <p>トークショー来てくださった皆さん、ありがとうございました！<br>やまだおにいさん、グレープくん、ありがとうございました🐧✨<a href="https://twitter.com/hashtag/%E6%9D%B1%E6%AD%A6%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92?src=hash" rel="nofollow">#東武動物公園</a> <a href="https://twitter.com/hashtag/%E3%81%91%E3%82%82%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA?src=hash" rel="nofollow">#けものフレンズ</a> <a href="https://t.co/XS5l4veD72" rel="nofollow">pic.twitter.com/XS5l4veD72</a></p> 
+  <p>— 築田行子＊フルル (@ckik195) <a href="https://twitter.com/ckik195/status/865826569243066368" rel="nofollow">May 20, 2017</a></p> 
+</blockquote> 
+<p><br></p>  
+<br> “ 
+<em>Kepada semua yang sudah datang ke acara Talkshow, terima kasih ya! Yamada onii-san, Grape-kun, terima kasih</em>.” 
+<p>Sumber: <a href="http://yaraon-blog.com/archives/105576" rel="nofollow">Yaraon!</a></p>
+
+
+-*-12300013
+-*-http://jurnalotaku.com/2017/05/21/kisah-cinta-grape-kun-penguin-berwaifu-2d-yang-ternyata-pernah-kena-ntr/
+
+--------------------
+
+
+-t-t- Grape-kun -- 5.524615594607541
+-t-t- Hululu -- 4.007578926851799
+-t-t- Tobu -- 3.2624669701876297
+-t-t- Humboldt Penguin -- 2.561419878988064
+-t-t- NTR -- 2.301284542151062
+-f-t- かんどるま＠上琴病Lv0 -- 2.2516488868831632
+-t-t- Midori -- 1.9956337806116382
+-t-t- Hanemura -- 1.9893119907971581
+-t-t- Twitter -- 1.1775561012053586
+-t-t- Talkshow -- 0.8184376237765894
+-t-t- Yamada -- 0.8127997291073998
+-*- -- time: 0.002
+
+--------------------
+
+
+-t-f- Chikuta Ikuko -- 1.0
+-t-f- Kemofure -- 1.0
+-f-f- グレープ君NTRれてたwww -- 1.0
+-f-f- XS5l4veD72 -- 1.0
+-f-f- Melanjutkan -- 1.0
+-t-f- Kemono Friends -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b86e0ff8bb8a44fcea077112cb9c42e2.jpeg" data:w="740" data:h="460" />        
+<p>Seperti yang sudah dijanjikan sebelumnya, halaman Facebook <strong>AFA – Anime Festival Asia</strong> mengumumkan siapa saja artis yang akan datang dalam gelaran AFA ID 2017 di hari Minggu ini. Pengumuman artis memakai jeda selama 10 menit per artis, membuat banyak orang menunggu-nunggu dengan was-was siapa saja artis yang akan datang tahun ini.&nbsp;<em>Now that everyone is announced,</em> berikut ini adalah daftar para artis yang akan menghibur kamu di tahun ini!<span></span></p> Ami Wajima 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-2.jpg" rel="nofollow">  <img src="[BASEURL]/c05b79fb6c15357b6c4097e53b0cf289.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Ami Wajima saat ini berusia 18 tahun, dan lahir di prefektur Hokkaido. Walaupun dia memiliki sebuah kompleks mengenai kemampuan vokalnya saat waktu kecil, dia selalu memiliki keinginan yang besar untuk menjadi seorang penyanyi.</p> 
+<p>Di tahun 2016, dia menjadi pemenang dari Horipro x Pony Canyon Next Generation Anisong Singe Audition, mengalahkan 10.041 kandidat lain. Kemudian, dia menggebrak dunia lewat debut majornya, ‘<em>Gensou Drive</em>‘ yang menjadi lagu pembuka untuk seri&nbsp;<em>Mayoiga</em>. Dia juga merilis&nbsp;<em>single</em> keduanya ‘<em>Eien Loop</em>‘ yang kemudian menjadi lagu penutup seri&nbsp;<em>Kuromukuro</em>.</p> 
+<p>Dengan vokal kompleks yang akan meresap ke dalam hatimu, Ami Wajima adalah penyanyi generasi berikutnya yang harus kamu antisipasi.</p> Kisida Kyoudan&nbsp;and The Akeboshirockets 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-5.jpg" rel="nofollow">  <img src="[BASEURL]/b65960242401d19e276fa0b1db0abc3a.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>KISIDAKYODAN AND THE AKEBOSIROCKETS adalah sebuah band yang dibentuk saat <em>leader</em> band Kishida Kyoudan, Kishida membutuhkan orang untuk bergabung bersama mereka dalam acara&nbsp;<em>live</em>. Sejak itu, mereka menjadi sebuah band yang aktif bersama.</p> 
+<p>Di 2010, mereka melaksanakan debut major mereka dengan lagu tema <em>Highschool of the Dead</em>. Di bulan Desember 2014, mereka merilis full album pertama mereka, “<em>hack/SLASH</em>“.</p> 
+<p>Di tahun 2015, mereka merilis “<em>GATE ～それは暁のように～”</em> (<em>GATE~Sorewa Akatsuki no Youni</em>), diikuti dengan lagu-lagu lain untuk <em>anime </em>TV. Di bulan Desember, mereka menyanyikan lagu tema untuk&nbsp;<em>Strike the Blood II OVA</em>, “<em>Blood on the Edge</em>“. Mereka juga mengadakan bermacam-macam penampilan&nbsp;<em>live</em> di skala nasional.</p> Konomi Suzuki 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-8.jpg" rel="nofollow">  <img src="[BASEURL]/335a3cb590537f8b8c38fe74dfcfc473.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Lahir di tahun 1996, Konomi Suzuki tahun ini berusia 20 tahun. Dia menerima penghargaan dari&nbsp;<em>all Japan anime songs grand prix</em> dan melakukan debut dengan lagu “<em>CHOIR JAIL</em>” saat dia berusia 15 tahun. Dia sudah 4 kali diundang dalam acara festival besar, ‘Animelo Summer Live’.</p> 
+<p>Dia juga menyanyikan banyak sekali lagu tema untuk berbagai&nbsp;<em>anime</em>, di antaranya:</p> 
+<ul> 
+  <li>“<i>This Game</i>” untuk seri&nbsp;<em>No Game No Life</em></li> 
+  <li>“<em>Redo</em>” untuk seri&nbsp;<em>Re:Zero</em>.</li> 
+</ul> 
+<p>Dia juga akan merilis 3 lagu baru di tahun 2017. Konomin menerima hadiah kedua di minggu pertama Billboard Japan Hot Animation. Saat ini dia sedang melaksanakan sebuah tur solo.</p> kradness 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-4.jpg" rel="nofollow">  <img src="[BASEURL]/f2374304efe518b35ddc0603564b383e.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Memiliki 180.000&nbsp;<em>subscribers</em> di Youtube dan lebih dari 170.000&nbsp;<em>follower</em> Twitter, penggemar kradness tidak hanya di Jepang tapi juga di seluruh dunia. Dia memiliki suara tinggi yang unik sebagai seorang penyanyi, dia juga memiliki sebuah&nbsp;<em>brand fashion</em> miliknya sendiri yang bernama “RAMERA”. Dia juga seorang produser yang melakukan debut sebagai seorang model.</p> 
+<p>Dia juga menjadi DJ dan komposer untuk unit “Carmellia” dan juga vokalis untuk Quarks.</p> Luna Haruna 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-3.jpg" rel="nofollow">  <img src="[BASEURL]/81758af70c200c3d0135efe5903bb086.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Lahir pada tanggal 11 Oktober, Luna Haruna adalah salah satu artis paling ditunggu di Jepang. Luna senang menonton animasi dan menyanyi sejak kecil. Di acara Animax Anison Grand Prix 2011, Luna menjadi seorang finalis yang kemudian menjadi kesempatannya melakukan debut di label rekaman. Lagu debutnya “<em>Sora wa takaku Kaze wa utau</em>” menjadi lagu tema untuk seri&nbsp;<em>Fate/Zero season</em> kedua dan diproduksi oleh Yuki Kajiura.</p> 
+<p>Di bulan Agustus 2013, Luna merilis album pertamanya “<em>OVERSKY</em>” dan juga melaksanakan konser solo di Shibuya Public Hall pada bulan Desember 2014. Di bulan Januari 2015, lagu “<em>Kimi Iro Signal</em>” menjadi lagu untuk seri&nbsp;<em>Saekano</em> dan diikuti album kedua “<em>Candy Lips</em>.”</p> Shiena Nishizawa 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-6.jpg" rel="nofollow">  <img src="[BASEURL]/95a009596389d20bddd48e2d7da1b6c1.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Jatuh cinta dengan musik di SMP saat dia pertama kali melihat gitar lama ayahnya, ketertarikan tersebut berkembang tidak hanya dari gitar tapi juga menyanyi dan menulis lagu. Di tahun 2014, dia memenangkan hadiah utama di Flying Dog Audition. Pada tahun 2015, lagu debutnya “<em>Fubuki</em>” menjadi lagu penutup untuk seri&nbsp;<em>KanColle</em> dan saat itu, dia baru berusia 17 tahun.</p> 
+<p><em>Single</em> keduanya mengikutertakan lagu “<em>Brand-new World</em>“, yang menjadi lagu tema dari&nbsp;<em>anime</em> <em>Asterisk War</em>&nbsp;dan lagu “<em>Piacere</em>” menjadi lagu tema&nbsp;<em>anime</em>&nbsp;<em>ARIA The AVVENIRE</em>. Lagu ketiganya “<em>The Asterisk War</em>” juga menjadi lagu kepada&nbsp;<em>anime</em> yang berjudul sama di&nbsp;<em>season</em> keduanya.&nbsp;<em>Single&nbsp;</em>keempatnya “<em>Kikan</em>” menjadi lagu tema untuk&nbsp;<em>KanColle the Movie</em>.</p> Tomohisa Sako (Shounen T) 
+<p><a href="http://storage.jurnalotaku.com/wp-content/uploads/2017/05/JOI-afaid-2017-line-up-7.jpg" rel="nofollow">  <img src="[BASEURL]/a04b4c32b65de929fbc7ddcdb7f61b41.jpeg" data:w="700" data:h="700" /> </a></p> 
+<p>Tomohisa mungkin lebih dikenal dengan nama Shounen T yang pada tahun 2010 memulai karir musiknya di dunia&nbsp;<em>online</em>. Hal ini disebabkan salju yang hebat dan dia tidak bisa tampil di luar. Musiknya mendapatkan reaksi positif dan tidak lama kemudian, dia dipanggil “<em>Tuhan dengan suara penyembuh</em>.”</p> 
+<p>Semua video yang dipartisipasi olehnya sudah dilihat lebih dari 13,5 juta kali! Dia memiliki 250.000 pengikut di akun LINE resminya, dan dengan jumlah&nbsp;<em>follower</em> Twitter yang sama. Di bulan Maret 2012 dia memulai debut majornya dengan single ‘<em>Ai Kotoba</em>‘. 3 dari&nbsp;<em>single</em>-nya berhasil mencapai Top 10 Oricon Daily Charts dengan posisi tertinggi di posisi ketujuh.</p> 
+<p>AFA juga sudah <a href="https://www.facebook.com/animefestivalasia/photos/a.104576466021.104377.91683256021/10154411994446022/?type=3" rel="nofollow">mengumumkan</a> penjualan tiket early bird spesial bagi para pemegang&nbsp;<em>membership&nbsp;</em>AFA World. Tiket&nbsp;<em>early bird</em> tahun ini sama seperti tahun lalu untuk kelas VIP, yaitu 1,9 juta Rupiah untuk 2 hari. Kamu dapat membeli tiketnya lewat situs <a href="https://www.loket.com/event/7db69edcd0c5c597957c5cdae76e6ac5" rel="nofollow">loket.com</a>.</p>
+
+
+-*-12299643
+-*-http://jurnalotaku.com/2017/05/21/afa-id-2017-inilah-lineup-artis-yang-akan-dibawakan-afa-di-tahun-2017/
+
+--------------------
+
+
+-t-t- Ami Wajima -- 7.444187842501309
+-t-t- Highschool of the Dead -- 4.725942496653057
+-t-t- Luna Haruna -- 4.592281787178851
+-t-t- No Game No Life -- 4.583078889418228
+-t-t- Konomi Suzuki -- 4.404436831433877
+-t-t- AFA -- 4.244546334777004
+-t-t- Animax Anison Grand Prix -- 4.229793663580488
+-t-t- Strike the Blood -- 3.625266343689296
+-t-t- Shounen T -- 3.478426895227243
+-t-t- Animelo Summer Live -- 3.4065504702357625
+-t-t- Shibuya Public Hall -- 3.0035002485929305
+-t-t- The Asterisk War -- 2.880722059268235
+-t-t- ARIA The AVVENIRE -- 2.8153124273188883
+-t-t- Pony Canyon -- 2.4633242068188004
+-t-t- Next Generation -- 2.46060079724913
+-t-t- Billboard Japan -- 2.3653002285943154
+-t-t- Kishida -- 2.336263778623763
+-f-t- GATE -- 2.2603178575498997
+-t-t- Hot Animation -- 2.0947919052749033
+-f-t- Zero -- 2.0213746715695606
+-t-t- Jepang -- 2.015937046308212
+-t-t- Tomohisa Sako -- 1.9644194543767053
+-t-t- Yuki Kajiura -- 1.917731562685636
+-t-t- Shiena Nishizawa -- 1.868521421750446
+-t-t- Twitter -- 1.8674387089756195
+-t-t- Flying Dog -- 1.8267941980324514
+-t-t- Brand-new World -- 1.7959044941467242
+-t-t- KanColle -- 1.7805909174910965
+-t-t- Ai Kotoba -- 1.6571931714229569
+-f-t- Top 10 -- 1.6498766571907533
+-t-t- Redo -- 1.5912325744958555
+-t-t- Hokkaido -- 1.2571272562492308
+-t-t- Horipro -- 1.2327980086165848
+-t-t- Mayoiga -- 1.2101661069123593
+-t-t- Kuromukuro -- 1.1997250876060646
+-t-t- SLASH -- 1.135588971469573
+-t-t- Edge -- 1.1115606326848617
+-t-t- Youtube -- 1.0364466591491306
+-t-t- Quarks -- 0.9978212150714866
+-t-t- Sora -- 0.9678349631963391
+-t-t- Kaze -- 0.9664976206385165
+-t-t- Fate -- 0.9626741381067249
+-t-t- Saekano -- 0.9384037671200128
+-t-t- SMP -- 0.9298787539431995
+-t-t- Fubuki -- 0.9089454046682457
+-t-t- Kikan -- 0.877494920918278
+-t-t- Tuhan -- 0.8499486084079089
+-t-t- LINE -- 0.838045089113302
+-t-t- VIP -- 0.8068878898637708
+-*- -- time: 0.006
+
+--------------------
+
+
+-f-f- Pony Canyon Next Generation Anisong -- 1.0
+-f-f- CHOIR JAIL -- 1.0
+-f-f- AFA World -- 1.0
+-f-f- OVERSKY -- 1.0
+-f-f- Generation Anisong -- 1.0
+-f-f- AFA ID -- 1.0
+-f-f- KISIDAKYODAN AND THE -- 1.0
+-f-f- Anison Grand Prix 2011 -- 1.0
+-f-f- KanColle the -- 1.0
+-f-f- Next Generation Anisong Singe Audition -- 1.0
+-f-f- Generation Anisong Singe Audition -- 1.0
+-f-f- KISIDAKYODAN AND -- 1.0
+-f-f- AND THE -- 1.0
+-f-f- Next Generation Anisong -- 1.0
+-f-f- Canyon Next Generation Anisong Singe -- 1.0
+-f-f- Singe Audition -- 1.0
+-f-f- Daily Charts -- 1.0
+-f-f- KanColle the Movie -- 1.0
+-f-f- Canyon Next -- 1.0
+-f-f- Festival Asia -- 1.0
+-f-f- 10 Oricon -- 1.0
+-f-f- ID 2017 -- 1.0
+-f-f- Top 10 Oricon Daily -- 1.0
+-f-f- Grand Prix 2011 -- 1.0
+-f-f- This Game -- 1.0
+-f-f- Top 10 Oricon -- 1.0
+-f-f- AFA ID 2017 -- 1.0
+-f-f- Anisong Singe -- 1.0
+-f-f- :Zero -- 1.0
+-f-f- GATE~Sorewa Akatsuki -- 1.0
+-f-f- Flying Dog Audition -- 1.0
+-f-f- Candy Lips -- 1.0
+-f-f- Strike the Blood II OVA -- 1.0
+-f-f- Anisong Singe Audition -- 1.0
+-f-f- Carmellia -- 1.0
+-f-f- Kishida Kyoudan -- 1.0
+-f-f- The Akeboshirockets -- 1.0
+-f-f- Billboard Japan Hot Animation -- 1.0
+-f-f- Pony Canyon Next Generation Anisong Singe -- 1.0
+-f-f- Blood II OVA -- 1.0
+-f-f- KISIDAKYODAN AND THE AKEBOSIROCKETS -- 1.0
+-f-f- 10 Oricon Daily -- 1.0
+-f-f- Prix 2011 -- 1.0
+-f-f- Anime Festival -- 1.0
+-f-f- TV -- 1.0
+-f-f- Canyon Next Generation Anisong Singe Audition -- 1.0
+-f-f- Oricon Daily -- 1.0
+-f-f- Japan Hot -- 1.0
+-f-f- DJ -- 1.0
+-f-f- Facebook AFA -- 1.0
+-f-f- Dog Audition -- 1.0
+-f-f- Iro Signal -- 1.0
+-f-f- AND THE AKEBOSIROCKETS -- 1.0
+-f-f- Anime Festival Asia -- 1.0
+-f-f- Oricon Daily Charts -- 1.0
+-f-f- Next Generation Anisong Singe -- 1.0
+-f-f- Kisida Kyoudan -- 1.0
+-f-f- II OVA -- 1.0
+-f-f- Japan Hot Animation -- 1.0
+-f-f- 10 Oricon Daily Charts -- 1.0
+-f-f- Eien Loop -- 1.0
+-f-f- Canyon Next Generation Anisong -- 1.0
+-f-f- Top 10 Oricon Daily Charts -- 1.0
+-f-f- Strike the Blood II -- 1.0
+-f-f- Animax Anison Grand Prix 2011 -- 1.0
+-f-f- Kimi Iro Signal -- 1.0
+-f-f- Blood II -- 1.0
+-f-f- Gensou Drive -- 1.0
+-f-f- Pony Canyon Next -- 1.0
+-f-f- Canyon Next Generation -- 1.0
+-f-f- Pony Canyon Next Generation -- 1.0
+-f-f- RAMERA -- 1.0
+-f-f- Generation Anisong Singe -- 1.0
+-f-f- Piacere -- 1.0
+-f-f- Memiliki 180.000 -- 1.0
+-f-f- Youni -- 1.0
+-f-f- Pony Canyon Next Generation Anisong Singe Audition -- 1.0
+-f-f- Billboard Japan Hot -- 1.0
+-f-f- THE AKEBOSIROCKETS -- 1.0
+-f-f- Konomin -- 1.0
+-f-f- Kimi Iro -- 1.0
+-*- -- time: 0.006
+
+--------------------
+
+
+-*-<p>  <img src="[BASEURL]/47f1d18e609ef1d65c0405e9c5370254.jpeg" data:w="800" data:h="450" /> </p> Pembahasan 
+<em>Dragon Ball Super</em> episode 91 ini akan menyorot benih-benih masalah baru yang mengancam tim Universe 7. Apa yang terjadi? 
+<p>1</p> 
+<p>Universe 7 Awalnya di Atas Angin</p> 
+<p>  <img src="[BASEURL]/a91b4595d515091fe485f7e714af8714.jpeg" data:w="800" data:h="450" /> </p> 
+<p>Poin pertama yang perlu disorot dalam pembahasan <em>Dragon Ball Super </em>episode 91 ini adalah kesiapan Universe-Universe sebelum turnamen nanti. Di awal episode sebetulnya Universe 7 ada di atas angin.</p>   
+<a href="http://www.duniaku.net/2017/05/14/pembahasan-dragon-ball-super-90/?utm_source=duniaku_ftr&amp;utm_medium=read_more" rel="nofollow">  <img src="[BASEURL]/7b6f77c633f4fb8b7bbab4d4c1ad385b.jpeg" data:w="800" data:h="450" /> </a>   
+<p>Bagaimana tidak? Ultimate Gohan telah kembali. Putra Son Goku ini bahkan sudah membuktikan kekuatan <em>Ultimate</em>-nya mampu beradu jotos dengan Super Saiyan Blue. Ayahnya sampai perlu mengerahkan Super Saiyan Blue Kaio-ken untuk dapat menangani Gohan.</p> 
+<p>Masalah-masalah yang dihadapi oleh Universe 7 pun awalnya terlihat remeh. Misalnya saja Vegeta yang terdorong latihan sendiri karena di episode sebelumnya merasakan pancaran kekuatan adu jotos Gohan vs Goku. Atau Master Roshi, yang berinisiatif menggunakan kemampuan berubah wujud Puar untuk meredam kelemahannya: sifat cabul yang parah.</p> 
+<p>  <img src="[BASEURL]/aa2f809f9a6a17751d00b55bbf86a61e.jpeg" data:w="800" data:h="450" /> </p>     
+<p>Masalah lain paling hanya Yamcha, yang walau masih berharap rasanya tetap tidak akan mendapat kesempatan bergabung jadi tim Universe 7. Namun pergolakan di akhir episode sepertinya bisa ia manfaatkan, kalau para penulis naskah serial ini mengizinkan. Toh, seharusnya Yamcha adalah manusia terkuat ketiga di bumi, setelah Krillin dan Tien.</p> 
+<p>2</p> 
+<p>Kondisi Universe Lain</p> 
+<p>  <img src="[BASEURL]/3f60b3b011e14416ef53b2e50ab19f45.jpeg" data:w="800" data:h="450" /> </p>   
+<a href="http://www.duniaku.net/2017/05/20/fakta-rindaman-crows-x-worst/?utm_source=duniaku_ftr&amp;utm_medium=read_more" rel="nofollow">  <img src="[BASEURL]/809802742da45b87a12173d3c08d3bbb.jpeg" data:w="800" data:h="450" /> </a>   
+<p>Kondisi Universe selain 7 sih bervariasi. Di satu sisi ada Universe yang masih mengumpulkan petarung. Di sisi lain ada juga Universe yang telah siap, seperti Universe 7, tinggal menantikan dimulainya turnamen.</p> 
+<p>Di Universe 6, Hit merekrut lagi Frost yang reputasinya sudah hancur lebur gara-gara ulahnya sendiri. Hit memerintahkan Frost untuk mencabut semua jarumnya, karena satu pelanggaran saja Frost akan musnah. Namun mengingat betapa liciknya petarung yang satu ini, jangan heran kalau dia akan menggunakan trik lain lagi di turnamen nanti.</p> 
+<p>Lain lagi dengan Universe 9. Bergamo belum bisa merekrut peserta selain dirinya dan rekan-rekannya di Trio De Dangers. Planet-planet di Universe 9 bahkan mengalami masalah sendiri, seperti planet yang mereka kunjungi di episode ini. Mengetahui ancaman kehancuran semesta, para bandit di Universe 9 mencoba membuat kekacauan lalu mengungsi ke semesta lain.</p> 
+<p>Kondisi di planet itu bahkan begitu buruk hingga Sidra, dewa penghancur yang paling ragu-ragu di antara rekan-rekannya, memutuskan saat itu juga untuk melenyapkan sisa kota di planet bersama para bandit.</p> 
+<p>Pada akhirnya, mana di antara Universe-Universe ini yang akan jadi ancaman terbesar Universe 7? Itu perlu dilihat di episode berikutnya.</p>  Tentu, bukan hanya dua poin di atas saja kejadian menarik yang disorot di pembahasan 
+<em>Dragon Ball Super </em>episode 91 ini. Bagaimana dengan ancaman keretakan yang tampaknya bisa membuat Universe 7 kalah sebelum bertanding? Baca lanjutan pembahasannya di halaman kedua! 
+<span></span>  
+<p>3</p> 
+<p>Buu Tidak Bisa Ikut</p> 
+<p>  <img src="[BASEURL]/db4c18dee9d413eaf5d03ce6100fdc5b.jpeg" data:w="800" data:h="450" /> </p> 
+<p>Ini adalah masalah serius yang pasti akan membuat Goku dan kawan-kawannya pusing. Buu, salah satu andalan mereka untuk turnamen ini, tiba-tiba tertidur. Kalau dia sudah tertidur, ia bisa-bisa tidak akan bangun selama dua bulan. Padahal turnamennya sendiri sudah hampir dimulai.</p> 
+<p>Kalau dari preview-preview yang beredar saat ini sih tampaknya Buu memang tidak akan bangun, hingga Goku harus memikirkan siapa kira-kira yang harus ditunjuk untuk menggantinya.</p>   
+<a href="http://www.duniaku.net/2017/05/10/dragon-ball-super-episode-93-preview-frieza/?utm_source=duniaku_ftr&amp;utm_medium=read_more" rel="nofollow">  <img src="[BASEURL]/6149656876d59a0ab56fc2f141d206a3.jpeg" data:w="800" data:h="451" /> </a>   
+<p>Patut kita lihat bersama bagaimana kabar Buu. Benarkah dia tidak akan ikut? Atau ini hanya akal-akalan para penulis naskah, agar kembalinya Buu bisa dramatis?</p> 
+<p>Preview <em>Dragon Ball Super </em>episode 93 sih menyebutkan kalau Buu akan digantikan oleh penjahat besar <em>Dragon Ball </em>lainnya. Akan menarik kalau memang penjahat yang satu ini bisa direkrut.</p> 
+<p>Yang bikin penasaran terutama adalah apa yang terjadi kalau penjahat yang satu itu berinteraksi dengan Frost, yang di episode ini telah dikonfirmasi akan berlaga di turnamen.</p> 
+<p>4</p> 
+<p>Krillin dan No. 18 Juga Keluar?</p> 
+<p>  <img src="[BASEURL]/0ba8375f01c02068cb936e5abb89ea48.jpeg" data:w="800" data:h="450" /> </p>     
+<p>Kalau Buu ketiduran sih sudah dibocorkan lewat <em>preview</em>–<em>preview </em>kemarin. Tapi yang ini sih kejutan yang juga akan disorot dalam pembahasan <em>Dragon Ball Super </em>episode 91 kali ini: Krillin dan No. 18 juga terancam keluar.</p> 
+<p>Entah apa yang terjadi, terutama karena Krillin sudah berjuang mati-matian agar Goku menerimanya. Tapi di <em>preview </em>ini Krillin dan No. 18 terlihat marah.</p> 
+<p>Untuk dua nama ini sih sepertinya Goku dan sekutunya akan mencoba menyelesaikan masalah, agar Krillin dan No. 18 berubah pikiran. Mungkinkah mereka marah karena Goku mengusulkan untuk merekrut nama kontroversial menggantikan Buu? Mengingat nama yang digosipkan ini sudah pernah membunuh Krillin, tak heran kalau Krillin malas satu tim dengan dia.</p> 
+<p>Krillin mungkin bisa digantikan oleh Yamcha (walau Krillin sendiri selalu ditampilkan jauh lebih kompeten dari Yamcha). Tidak demikian dengan No. 18, yang sejak Cell Saga juga terasa memiliki kekuatan yang lumayan.</p> 
+<p>Tapi preview terkadang hanya melebih-lebihkan situasi agar penonton penasaran menyaksikan episode berikutnya. Jadi kita nantikan saja apa yang terjadi di <em>Dragon Ball Super </em>episode 92 nanti.</p>  
+<p>Itulah pembahasan <em>Dragon Ball Super </em>episode 91. Menurutmu, apakah Buu bisa dibangunkan? Benarkah ia akan digantikan? Apa kira-kira penyebab Krillin dan No. 18 sampai mengancam mundur, walau nasib semesta mereka jadi taruhan? Sampaikan di kolom komentar!</p> 
+<span></span>
+
+
+-*-12298900
+-*-http://www.duniaku.net/2017/05/21/pembahasan-dragon-ball-super-episode-91/
+
+--------------------
+
+
+-t-t- Dragon Ball Super -- 22.620612650037202
+-t-t- Universe 7 -- 21.920420099609288
+-f-t- No. 18 -- 10.420639001949986
+-t-t- Krillin -- 9.842203667173958
+-t-t- Universe 9 -- 9.42937532326783
+-t-t- Buu -- 8.411837908229895
+-f-t- Universe-Universe -- 8.127047139227887
+-t-t- Super Saiyan Blue -- 7.934986804011413
+-t-t- Kondisi Universe -- 7.552564127273488
+-t-t- Frost -- 4.302126623237003
+-t-t- Yamcha -- 4.065498981671093
+-t-t- Son Goku -- 3.417589059717626
+-t-t- Ultimate Gohan -- 3.00741284271768
+-t-t- Master Roshi -- 2.4369015476091813
+-t-t- Hit -- 2.26498533705511
+-t-t- Cell Saga -- 1.6774748267768687
+-t-t- Vegeta -- 1.232738930994968
+-t-t- Puar -- 1.2107476894069455
+-t-t- Tien -- 1.1666287200088563
+-t-t- Bergamo -- 1.1002605237060192
+-f-t- Planet-planet -- 1.0910636380231649
+-t-t- Sidra -- 1.06194893988079
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- Masalah-masalah -- 1.0
+-f-f- De Dangers -- 1.0
+-f-f- 7 Awalnya -- 1.0
+-f-f- Tidak Bisa -- 1.0
+-f-f- Preview Dragon Ball -- 1.0
+-f-f- Atas Angin -- 1.0
+-f-f- No. 18 Juga Keluar -- 1.0
+-f-f- Atau Master -- 1.0
+-f-f- Preview Dragon -- 1.0
+-f-f- Ultimate-nya -- 1.0
+-f-f- Universe 6 -- 1.0
+-f-f- Super Saiyan Blue Kaio-ken -- 1.0
+-f-f- Universe Lain -- 1.0
+-f-f- Buu Tidak -- 1.0
+-f-f- Kalau Buu -- 1.0
+-f-f- 18 Juga Keluar -- 1.0
+-f-f- Universe 7 Awalnya -- 1.0
+-f-f- Pembahasan Dragon Ball Super -- 1.0
+-f-f- Saiyan Blue Kaio-ken -- 1.0
+-f-f- Atau Master Roshi -- 1.0
+-f-f- Tidak Bisa Ikut -- 1.0
+-f-f- Putra Son Goku -- 1.0
+-f-f- Preview Dragon Ball Super -- 1.0
+-f-f- Pembahasan Dragon -- 1.0
+-f-f- Putra Son -- 1.0
+-f-f- Universe 7. Apa -- 1.0
+-f-f- Di Universe 6 -- 1.0
+-f-f- Blue Kaio-ken -- 1.0
+-f-f- No. 18 Juga -- 1.0
+-f-f- Universe 7. Namun -- 1.0
+-f-f- 18 Juga -- 1.0
+-f-f- 7. Namun -- 1.0
+-f-f- 7. Apa -- 1.0
+-f-f- Trio De Dangers -- 1.0
+-f-f- Juga Keluar -- 1.0
+-f-f- Pembahasan Dragon Ball -- 1.0
+-f-f- Buu Tidak Bisa Ikut -- 1.0
+-f-f- Trio De -- 1.0
+-f-f- Kondisi Universe Lain -- 1.0
+-f-f- Bisa Ikut -- 1.0
+-f-f- Buu Tidak Bisa -- 1.0
+-f-f- Di Universe -- 1.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img src="[BASEURL]/4424a58f48b6599de978cb5b3cb06db8.jpeg" data:w="740" data:h="435" />        
+<p>Berita buruk bagi para penggemar diva pop Jepang, <strong>Ayumi Hamasaki</strong>, karena sang diva dikabarkan saat ini kemungkinan akan menjadi tuli sepenuhnya. Berita sedih ini dimuat dalam blog post dalam Team Ayu pada tanggal 20 Mei lalu.<span></span></p> 
+<p>“<em>Aku melakukan banyak tes pendengaran dan akhirnya tahu telinga kananku (yang sudah lama bekerja ekstra karena ketulian kuping kiriku) sudah mulai melemah</em>.” kata Ayumi.</p> 
+<p>Sebelum tur tahun ini, sang penyanyi memang telah mengalami vertigo dan mual-mual. “<em>Aku mengalami pusing yang hebat. Aku tidak bisa berjalan lurus dan seringnya muntah di kamar mandi saat di studio rekaman</em>.” lanjut Ayumi.</p> 
+<p>“<em>Aku ingat bagaimana membayangkan menjadi seorang penyanyi dengan 2 kuping yang tidak bekerja. Aku merasa dalam kegelapan</em>.” Kata Ayumi. Dengan ketulian total menjadi sebuah realitas, Ayumi telah berusaha keras bagaimana melanjutkan hidup setelah menghabiskan mayoritas hidupnya sebagai superstar pop.</p> 
+<p>Pada tahun 2000, Ayumi terkena infeksi kuping di tengah-tengah tur. Doktor menyarankan dirinya untuk beristirahat dan mengurangi paparan terhadap suara keras. Namun dia menghiraukan rekomendasi tersebut dan melanjutkan turnya setelah beberapa hari di rumah sakit.</p> 
+<p>Sejak saat itu, pendengaran di telinga kirinya lambat laun menjadi semakin parah sampai di tahun 2008, dokter mendiagnosa kalau dia sudah kehilangan pendengaran di telinga kirinya secara permanen.</p> 
+<p>Sumber: <a href="http://www.jpopasia.com/feed/21417/ayumi-hamasaki-becoming-completely-deaf/" rel="nofollow">J-Pop Asia</a></p>
+
+
+-*-12298587
+-*-http://jurnalotaku.com/2017/05/21/ayumi-hamasaki-ditakutkan-akan-menjadi-tuli-sepenuhnya/
+
+--------------------
+
+
+-t-t- Ayumi Hamasaki -- 3.396575637068183
+-f-t- Berita -- 2.570722028967619
+-f-t- Team Ayu -- 2.465228080992243
+-t-t- Jepang -- 1.298770246064092
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kata Ayumi -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/af96750e28a869c20d144b39c184be35.jpeg" data:w="800" data:h="450" />  Film 
+<em>Kuroko no Basket: Last Game</em> memang baru dirilis di Indonesia beberapa hari lalu, namun di Jepang, film yang diangkat dari manga Tadatoshi Fujimaki ini cukup sukses dengan penjualan tiket yang fantastis. 
+<p><em>Kuroko no Basket: Last Game</em> mengambil latar setahun setelah kemenangan Seirin di Winter Cup, Jabberbwock sebuah tim basket jalanan asal Amerika datang ke Jepang untuk melakukan pertandingan persahabatan melawan tim Starky yang diperkuat&nbsp;Miyaji, Imayoshi, Higuchi, Kasamatsu, dan Okamura.</p>   
+<a href="http://www.duniaku.net/2017/05/19/review-kuroko-no-basket-last-game-indonesia/?utm_source=duniaku_ftr&amp;utm_medium=read_more" rel="nofollow">  <img src="[BASEURL]/1641a7bb75e46c83f7555258e0b81f17.jpeg" data:w="800" data:h="450" /> </a>   
+<p>Namun pertandingan tersebut malah menjadi pemicu kemarahan tim Jepang melawan Amerika akibat buntut dari&nbsp;ejekan dari Jabberwock.</p> 
+<p>Untuk membalasnya, para anggota generasi keajaiban seperti Akashi Seijuro, Murasakibara Atsushi, Aomine Daiki, Kise Ryouta, dan Midorima Shintarou serta dua anggota yang telah lama berpisah Kuroko Tetsuya dan Kagami Taiga pun berkumpul kembali.</p> 
+<p>  <img src="[BASEURL]/12e547f53e780032261514810a29d436.jpeg" data:w="800" data:h="450" /> </p>   
+<a href="http://www.duniaku.net/2017/05/19/review-kuroko-no-basket-last-game-indonesia/?utm_source=duniaku_ftr&amp;utm_medium=read_more" rel="nofollow"></a>   
+<p>Sejak dirilis di Jepang pada 18 Mei lalu,&nbsp;<em>Kuroko no Basket: Last Game</em> sukses mencuri perhatian. Hingga saat ini, film garapan Shunsuke Tada tersebut meraup pendapatan lebih dari 1 miliar yen dan menjadikannya sebagai salah satu film anime movie tersukses di tahun 2017.</p> 
+<p>Pendapatan fantastis tersebut bukan tak mungkin bisa menjadi lebih tinggi lagi, mengingat perhitungannya hanya dilakukan di Jepang, dan belum diakumulasikan oleh pendapatan di beberapa negara yang menayangkan <em>Kuroko no Basket: Last Game</em> seperti Indonesia.</p> 
+<p>Kesuksesan film tentang olahraga basket ini mungkin tak terlepas dari promosi unik yang telah dilakukan jauh sebelum Kuroko tayang di bioskop Jepang.&nbsp;Menyambut film <em>Kuroko no Basket Last Game, </em>ada delapan karakter <em>Kuroko no Basket </em>diperlihatkan mengenakan seragam tim NBA. Adapun karakter-karakter yang terpilih ini jelas adalah yang akan memiliki peran besar di film tersebut.</p> 
+<p>Contohnya seperti Taiga Kagami yang mengenakan <em>jersey</em> Chicago Bulls, Kuroko Tetsuya dengan Jersey San Antoni Spurs, dan&nbsp;Midorima Shintarou yang mengenakan<em> jersey</em> Boston Celtic.</p>     
+<p>Untuk merayakan kesuksesan film ini, beberapa staff <em>Kuroko no Basuke: The Last Game</em> akan menghadiri nonton bareng di Tokyo’s Shinjuku Piccadilly theater pada 25 Mei mendatang. Kensho Ono (pengisi suara Tetsuya Kuroko), Yuuki Ono (pengisi suara Taiga Kagami), dan Hiroshi Kamiya (pengisi suara Seijuro Akashi) dipastikan hadir dalam acara tersebut.</p> 
+<p>Nah, bagi kamu yang penasaran keseruan ini, daripada nunggu <a href="http://www.duniaku.net/2017/05/19/review-kuroko-no-basket-last-game-indonesia/" rel="nofollow">link download <em>Kuroko no Basket: Last Game</em></a>, lebih baik langsung datang ke CGV terdekat mumpung masih tayang.</p> 
+<p><sub>sumber: <a href="https://www.animenewsnetwork.com/news/2017-05-16/kuroko-basketball-last-game-anime-film-tops-1-billion-yen/.116168" rel="nofollow">ANN</a></sub></p> 
+<span></span>
+
+
+-*-12295810
+-*-http://www.duniaku.net/2017/05/21/kuroko-no-basket-last-game-1-milliar-yen/
+
+--------------------
+
+
+-f-t- Basket: Last Game -- 18.159790895017288
+-t-t- Jepang -- 6.792533412195869
+-t-t- Kuroko Tetsuya -- 5.579055378345611
+-t-t- Midorima Shintarou -- 4.069022142749884
+-t-t- Taiga Kagami -- 3.5338864049315704
+-t-t- The Last Game -- 3.315917265119304
+-t-t- Tadatoshi Fujimaki -- 2.5693055986261637
+-t-t- Amerika -- 2.4072388880019115
+-t-t- Indonesia -- 2.302327674852401
+-t-t- Chicago Bulls -- 1.8251189875519225
+-t-t- Boston Celtic -- 1.7864557078077035
+-t-t- Kensho Ono -- 1.7187096600495124
+-t-t- Yuuki Ono -- 1.7041199710357724
+-t-t- Hiroshi Kamiya -- 1.6893191804080638
+-t-t- Starky -- 1.2123952201273989
+-t-t- Miyaji -- 1.2071187309779567
+-t-t- Higuchi -- 1.202818688599185
+-t-t- Kasamatsu -- 1.2006744149876418
+-t-t- Okamura -- 1.1971091169629804
+-t-t- Jabberwock -- 1.1666499897721505
+-t-t- NBA -- 0.9434658614547825
+-t-t- Tokyo -- 0.8694657789700774
+-t-t- CGV -- 0.808290081636781
+-t-t- ANN -- 0.8007934145933343
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Jersey San Antoni -- 1.0
+-t-f- Shinjuku Piccadilly -- 1.0
+-t-f- Murasakibara Atsushi -- 1.0
+-t-f- Jabberbwock -- 1.0
+-f-f- Basuke: The Last Game -- 1.0
+-t-f- Seijuro Akashi -- 1.0
+-f-f- Winter Cup -- 1.0
+-t-f- Tetsuya Kuroko -- 1.0
+-t-f- Aomine Daiki -- 1.0
+-t-f- Basuke -- 1.0
+-f-f- Film Kuroko -- 1.0
+-f-f- Basuke: The Last -- 1.0
+-t-f- Shunsuke Tada -- 1.0
+-t-f- Imayoshi -- 1.0
+-t-f- Kagami Taiga -- 1.0
+-t-f- Kise Ryouta -- 1.0
+-f-f- Jersey San -- 1.0
+-f-f- San Antoni -- 1.0
+-f-f- Antoni Spurs -- 1.0
+-f-f- Seirin -- 1.0
+-f-f- San Antoni Spurs -- 1.0
+-f-f- Basket Last -- 1.0
+-f-f- Basket Last Game -- 1.0
+-f-f- Basuke: The -- 1.0
+-t-f- Akashi Seijuro -- 1.0
+-t-f- Jersey San Antoni Spurs -- 1.0
+-f-f- Basket : Last Game -- 0.0
+-f-f- Basuke : The Last Game -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+

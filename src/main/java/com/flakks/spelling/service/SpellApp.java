@@ -45,7 +45,7 @@ public class SpellApp {
 	public static Set<String> indoStopDict;
 	
 	
-	public static String getRedirect(String word) {
+	public static String checkRedirect(String word) {
 		if(redirectDict.containsKey(word.toLowerCase())) {
 			return redirectDict.get(word.toLowerCase());
 		}
@@ -89,7 +89,7 @@ public class SpellApp {
 	}
 	
 	
-	public static void initTag(String... tagDict) {
+	public static void initEntity(String... tagDict) {
 		//trieDict = Tries.forInsensitiveStrings(Boolean.FALSE);
 		exactTag = new HashSet<String>();
 		
@@ -140,7 +140,7 @@ public class SpellApp {
 		return r;
 	}
 	
-	public static int countExact(String word) {
+	public static int checkEntity(String word) {
 //		Set<String> keys = trieDict.keySet(word, TrieMatch.EXACT);
 //		if(keys == null)
 //			return 0;
@@ -177,19 +177,21 @@ public class SpellApp {
 		}
 	}
 	
-	public static boolean checkCorrect(String word) {
+	public static boolean checkNormal(String word) {
 		return indoDict.containsKey(word.toLowerCase());
 	}
 	
-	public static void initDict(String indoDictPath) {
+	public static void initNormal(String indoDictPath) {
 		indoDict = new HashMap<String, Integer>();
 		
 		List<String> lines = TextfileIO.readFile(indoDictPath);
 		for(String line : lines) {
 			try {
+				
 				String[] tokens = line.split(" ");
 				indoDict.put(tokens[0], Integer.parseInt(tokens[1]));
 			} catch (Exception e) {
+				System.out.println(" --- " + line);
 				e.printStackTrace();
 			}
 		}

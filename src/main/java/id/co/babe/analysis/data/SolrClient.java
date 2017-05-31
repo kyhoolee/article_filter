@@ -374,16 +374,20 @@ public class SolrClient {
 		System.out.println(tL);
 	}
 	
-	public static void allCandidate(int... catId) {
+	public static void allCatCandidate(int... catId) {
 		CneDetector.init();
 		for(int c : catId) {
 			allCandidate(c);
 		}
 	}
 	public static void allCandidate(int catId) {
+		allCandidate(catId, 200);
+	}
+	
+	public static void allCandidate(int catId, int size) {
 		List<String> result = new ArrayList<String>();
 		
-		List<Article> as = getBabeArticleByCat(catId, 0, 200);
+		List<Article> as = getBabeArticleByCat(catId, 0, size);
 				//getBabeArticleById(
 						//11588577);
 						//11880499);
@@ -400,34 +404,36 @@ public class SolrClient {
 				//getBabeArticle(0, 200); 
 				
 		
-		
+		String sign = "-*-";
 		for(Article a : as) {
 			String content = htmlText(a.content);
 			
-			result.add(a.content);
+			result.add(sign + a.content);
 			result.add("\n");
-			result.add(a.articleId + "");
-			result.add(a.url+ "\n\n--------------------\n\n");
+			result.add(sign + a.articleId + "");
+			result.add(sign + a.url+ "\n\n--------------------\n\n");
+			
 			
 			long start = System.currentTimeMillis();
 			List<List<String>> candidate = CneDetector.genCanScore(content);
 			long value = System.currentTimeMillis() - start;
 			System.out.println("id: " + a.articleId + " -- time: " + (value * 0.001) + "\n\n");
 			result.addAll(candidate.get(0));
-			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
+			result.add(sign + " -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
 			
 			System.out.println("Time: " + (value * 0.001));
 			result.addAll(candidate.get(1));
-			result.add(" -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
+			result.add(sign + " -- time: " + (value * 0.001) + "\n\n--------------------\n\n");
+			
 		}
 		
-		TextfileIO.writeFile("sample_result/root_score_can." + catId + ".24.5.txt", result);
+		TextfileIO.writeFile("sample_result/check_result/entity_sample." + catId + ".30.5.txt", result);
 		
 	}
 	
 	
 	public static void allEntity() {
-		List<Article> as = getBabeArticleById(10663746);
+		List<Article> as = getBabeArticleById(10662651);
 		
 		long start = System.currentTimeMillis();
 		CneDetector.init();
@@ -510,8 +516,51 @@ public class SolrClient {
 	public static void testRedirect() {
 		CneDetector.init();
 		//SpellApp.printRedirect();
-		System.out.println(SpellApp.getRedirect("ahok"));
+		System.out.println(SpellApp.checkRedirect("ahok"));
 		
+	}
+	
+	public static void allCategoryCandidate() {
+		List<Category> cats = SqlClient.getEnabledCategory();
+		int count = 0;
+		CneDetector.init();
+		for(Category c : cats) {
+			count ++;
+			System.out.println(count + " :: " + c.catId + " " + c.catName);
+			allCandidate(c.catId, 20);
+		}
+	}
+	
+	
+	
+	public static void estimateResult(String filePath) {
+		List<String> lines = TextfileIO.readFile(filePath);
+		
+		double tp = 0;
+		double fp = 0;
+		double fn = 0;
+		for(String l: lines) { 
+			if(l.startsWith("-t-t-")) {
+				tp ++;
+			} else if(l.startsWith("-t-f")) {
+				fn ++;
+			} else if(l.startsWith("-f-t-")) {
+				fp ++;
+			}
+		}
+		
+		double precision = (tp + 1) / (tp + fp + 1);
+		double recall = (tp + 1) / (tp + fn + 1);
+		System.out.println("tp: " + tp);
+		System.out.println("fp: " + fp);
+		System.out.println("fn: " + fn);
+		System.out.println("precision: " + precision);
+		System.out.println("recall: " + recall);
+	}
+	
+	public static void sampleEstimate() {
+		String path = "sample_result/verify_result/entity_sample.verify.11.30.5.txt";
+		estimateResult(path);
 	}
 	
 	public static void main(String[] args) {
@@ -520,6 +569,8 @@ public class SolrClient {
 		//test();
 		//printCategory();
 		allEntity();
+		//sampleEstimate();
+		//allCategoryCandidate();
 		//allCandidate(45, 50, 26, 27, 28);
 		//averageDocLen();
 		//freqSample();

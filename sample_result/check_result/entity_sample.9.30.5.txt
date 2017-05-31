@@ -1,0 +1,1508 @@
+-*-<img src="[BASEURL]/e552782c325233f83da4dc8d563b6a53.jpeg" data:w="724" data:h="468">  
+<p><strong>Gilabola.com – Jurgen Klopp</strong> mengakui salah sudah marah-marah ke wasit. Apa yang ia sampaikan memang cukup menarik untuk dicermati.</p> 
+<p>Jurgen Klopp, Pelatih Liverpool, memang sudah mengakui bahwa dirinya telah berbuat salah dengan marah kepada wasit keempat. Klopp mengatakan bahwa kemarahannya itu hanya bagian dari gairah besarnya di pinggir lapangan saja.</p> 
+<p>Jurgen Klopp memang sudah terlihat marah-marah di pinggir lapangan kepada asisten keempat waktu melihat Diego Costa dijatuhkan Joel Matip di kotak penalti. Wasit wajar jika tanpa ragu langsung menunjuk titik putih di lapangan.</p> 
+<p>Namun setelah Simon Mignolet menggagalkan penalti dari Costa itu, sang pelatih Liverpool malah terlihat berteriak-teriak kepada wasit keempat, Neil Swarbrick, sebelum akhirnya mau meminta maaf atas tindakan agresif tersebut.</p>    
+<p><span>BACA JUGA</span>&nbsp; <span>Ramsey Perburuk Krisis Pemain di Arsenal</span></p>    
+<p>“Kejadian itu adalah pelanggaran sebelumnya kepada Dejan Lovren, menurut pendapat saya yaa. Itulah yang membuat saya jadi sedikit marah. Tak ada yang bisa mengalahkan Liverpool, itulah apa yang saya katakan pada Swarbrick. Jelas itu tak benar, tapi itu rasanya bagi kami pada saat itu loo,” ujar Klopp.</p> 
+<p>“Saya benar-benar telah salah mengatakan semua itu. Saya juga sudah berkata maaf karena saya agak bersemangat. Dia sudah mengatakan, ‘Tidak masalah mbah, saya suka dengan gairah gila Anda'” pungkasnya memastikan sudah dapat dimaafkan.</p>
+
+
+-*-10663216
+-*-http://gilabola.com/berita-bola/inggris/jurgen-klopp-liverpool-wasit-liga-inggris/
+
+--------------------
+
+
+-t-t- Jurgen Klopp -- 8.181367780949808
+-t-t- Liverpool -- 3.2009178784270014
+-t-t- Diego Costa -- 2.5081545736480484
+-t-t- Neil Swarbrick -- 2.274348310677879
+-t-t- Joel Matip -- 2.219430919059938
+-t-t- Simon Mignolet -- 2.1293531240937518
+-t-t- Dejan Lovren -- 1.9017156230210848
+-t-t- Arsenal -- 0.9721259003421884
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Pelatih Liverpool -- 1.0
+-f-f- Perburuk Krisis -- 1.0
+-f-f- Kejadian -- 1.0
+-f-f- Ramsey Perburuk Krisis -- 1.0
+-f-f- Perburuk Krisis Pemain -- 1.0
+-f-f- BACA JUGA -- 1.0
+-f-f- Ramsey Perburuk -- 1.0
+-f-f- Ramsey Perburuk Krisis Pemain -- 1.0
+-f-f- Krisis Pemain -- 1.0
+-f-f- BACA JUGA Ramsey Perburuk Krisis Pemain -- 0.0
+-f-f- JUGA Ramsey Perburuk Krisis -- 0.0
+-f-f- JUGA Ramsey Perburuk Krisis Pemain -- 0.0
+-f-f- JUGA Ramsey -- 0.0
+-f-f- BACA JUGA Ramsey Perburuk -- 0.0
+-f-f- BACA JUGA Ramsey Perburuk Krisis -- 0.0
+-f-f- JUGA Ramsey Perburuk -- 0.0
+-f-f- BACA JUGA Ramsey -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img width="601" height="382" src="[BASEURL]/0669d55c099a2ee24e4c1831cf96ec80.jpeg" alt="Lucas Silva Real Madrid" data:w="601" data:h="382">    
+<p><strong>Sepakbola.com, Madrid</strong> – Klub raksasa La Liga, Real Madrid telah mengumumkan melalui situs resmi mereka bahwa gelandangnya, Lucas Silva telah menyelesaikan proses peminjaman ke klub Brasil, Cruzeiro.</p> 
+<p>Pemain berusia 23 tahun itu sebetulnya telah pindah dari klub Brasil tersebut ke Real Madrid pada bulan Januari 2015 lalu dengan banderol sebesar 13 juta euro. Namun Silva telah gagal untuk memberikan penampilan mengesankan selama dua tahun karirnya di Santiago Bernabeu setelah hanya bermain di sembilan pertandingan dengan Los Merengues di semua kompetisi.</p> 
+<p>Pemain asal Brasil tersebut telah kembali ke klub lamanya dengan status pinjaman dan akan tetap berada di negara asalnya itu hingga tahun 2018 mendatang. Real Madrid telah mengonfirmasi proses peminjaman Silva dengan pengumuman resmi yang diterbitkan di situs resmi klub dan media sosial mereka.</p> 
+<p>Ini bukan pertama kalinya bahwa Lucas Silva meninggalkan Real Madrid dengan status pinjaman. Pada kampanye sebelumnya ia pernah juga pindah ke Marseille dalam kesepakatan sementara, di mana ia sempat tampil di 33 pertandingan di Liga Perancis.</p> 
+<p>Pada bulan Januari 2015, Lucas Silva sebetulnya sempat menjadi target transfer dari Arsenal, tapi pemain asal Brasil tersebut menolak untuk pindah ke The Gunners dan lebih memilih untuk pindah ke Santiago Bernabeu sebagai gantinya.</p> 
+<p>Cruzeiro sendiri merupakan tempat di mana Silva pernah memberikan kontribusinya sebagai pemain junior dan juga menjadi klub profesional pertamanya di mana ia sukses membuat 58 penampilan di liga dengan raihan 3 gol selama karirnya pada tahun 2012 hingga 2015.</p> 
+<p>Penulis: Vincent Asido<br>Sumber: Calciomercato</p>        Laga Lawan Inter Milan Jadi Langkah Penting Juventus Dalam Berburu Scudetto?
+
+
+-*-10663215
+-*-http://www.sepakbola.com/2017/02/gelandang-tak-terpakai-real-madrid/
+
+--------------------
+
+
+-t-t- Real Madrid -- 9.19686841751432
+-t-t- Lucas Silva -- 7.276565933237897
+-t-t- Brasil -- 4.516410030507457
+-t-t- Santiago Bernabeu -- 4.121477908807463
+-t-t- La Liga -- 2.608538983710412
+-t-t- Los Merengues -- 2.265096131649162
+-t-t- Cruzeiro -- 2.1426543247220295
+-t-t- The Gunners -- 1.833086813331028
+-t-t- Inter Milan -- 1.6301834115525264
+-t-t- Klub -- 1.3091536870494265
+-t-t- Marseille -- 0.9862673129671541
+-t-t- Arsenal -- 0.9341021968641305
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Milan Jadi -- 1.0
+-f-f- Langkah Penting Juventus -- 1.0
+-f-f- Liga Perancis -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi -- 1.0
+-f-f- Jadi Langkah -- 1.0
+-f-f- Penting Juventus Dalam -- 1.0
+-f-f- Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah Penting -- 1.0
+-f-f- Milan Jadi Langkah -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah Penting Juventus Dalam -- 1.0
+-f-f- Lawan Inter -- 1.0
+-f-f- Inter Milan Jadi Langkah Penting -- 1.0
+-f-f- Jadi Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Inter Milan Jadi -- 1.0
+-f-f- Inter Milan Jadi Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Langkah Penting Juventus Dalam -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah Penting Juventus -- 1.0
+-f-f- Inter Milan Jadi Langkah Penting Juventus Dalam -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah Penting Juventus Dalam -- 1.0
+-f-f- Lawan Inter Milan Jadi -- 1.0
+-f-f- Langkah Penting -- 1.0
+-f-f- Penting Juventus -- 1.0
+-f-f- Laga Lawan Inter Milan -- 1.0
+-f-f- Laga Lawan Inter -- 1.0
+-f-f- Inter Milan Jadi Langkah -- 1.0
+-f-f- Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Milan Jadi Langkah Penting Juventus -- 1.0
+-f-f- Juventus Dalam Berburu -- 1.0
+-f-f- Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Dalam Berburu Scudetto -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Berburu Scudetto -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah -- 1.0
+-f-f- Namun Silva -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah Penting Juventus -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Milan Jadi Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Jadi Langkah Penting Juventus Dalam -- 1.0
+-f-f- Jadi Langkah Penting -- 1.0
+-f-f- Dalam Berburu -- 1.0
+-f-f- Lawan Inter Milan Jadi Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Lawan Inter Milan -- 1.0
+-f-f- Jadi Langkah Penting Juventus -- 1.0
+-f-f- Inter Milan Jadi Langkah Penting Juventus Dalam Berburu -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Jadi Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Penting Juventus Dalam Berburu -- 1.0
+-f-f- Juventus Dalam -- 1.0
+-f-f- Laga Lawan Inter Milan Jadi Langkah Penting -- 1.0
+-f-f- Laga Lawan -- 1.0
+-f-f- Inter Milan Jadi Langkah Penting Juventus -- 1.0
+-f-f- Milan Jadi Langkah Penting -- 1.0
+-f-f- Milan Jadi Langkah Penting Juventus Dalam Berburu Scudetto -- 1.0
+-f-f- Milan Jadi Langkah Penting Juventus Dalam -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8068fe89e88ae01003f2fea586949f94.jpeg" width="700" height="393" alt="Luis Milla Setuju PSSI Cari Pemain Asing untuk Dinaturalisasi" data:w="700" data:h="393">  
+<p><strong>Laporan Wartawan SuperBall.id, Mochamad Hary Prasetya</strong></p> 
+<p><strong>SUPERBALL.ID, JAKARTA -</strong> Pelatih Timnas Indonesia Luis Milla tidak mempermasalahkan pemain naturalisasi dalam&nbsp;skuadnya.</p> 
+<p>Bahkan, pelatih asal Spanyol itu yang meminta PSSI bergerak mencari bibit-bibit keturunan Indonesia di luar negeri.</p> 
+<p>Kesepahaman&nbsp;Milla dengan federasi sepak bola Indonesia itu diucapkan langsung oleh Ketua Umum (Ketum) PSSI, Edy Rahmayadi.</p> 
+<p>Untuk itu, PSSI langsung bergerak cepat mencari pemain keturunan Indonesia untuk dinaturalisasikan.</p> 
+<p>"Luis Milla setuju. Dia yang memilih pemainnya dan kita yang harus menyiapkannya segera," kata Edy di Kantor PSSI, Kuningan, Jakarta Selatan, Rabu (1/2/2017)</p> 
+<strong>Baca: <a href="http://superball.tribunnews.com/2017/01/03/wow-ini-lima-pemain-naturalisasi-tersukses-saat-main-di-timnas-indonesia" rel="nofollow">Ini Empat Pemain Naturalisasi Tersukses Saat Main di Timnas Indonesia</a></strong> 
+<p>Setelah disiapkan siapa saja pemain untuk dinaturalisasi, kata Edy, Milla langsung bergerak memantaunya secara langsung.</p> 
+<p>Jika pemain itu menarik perhatian Milla, maka proses naturalisasi itu langsung segera dilakukan.</p> 
+<strong>Baca: <a href="http://superball.tribunnews.com/2017/01/03/inilah-deretan-pemain-naturalisasi-yang-gagal-bersama-timnas-indonesia" rel="nofollow">Inilah Deretan Pemain Naturalisasi yang Gagal Bersama Timnas Indonesia</a></strong> 
+<p>"Milla memilih pemain untuk Timnas Indonesia. Ini kita lakukan sesuai dengan arahannya dia," ucap Edy.</p> 
+<p>Sebelumnya sudah ada beberapa nama pemain yang akan dinaturalisasikan oleh PSSI selain Ezra Walian.</p> 
+<p>PSSI saat ini fokus mencari pemain di posisi stopper untuk memperkuat tembok pertahanan Timnas Indonesia.</p>
+
+
+-*-10663207
+-*-http://superball.tribunnews.com/2017/02/01/luis-milla-setuju-adanya-pemain-naturalisasi-di-timnas-indonesia
+
+--------------------
+
+
+-t-t- Timnas Indonesia -- 10.79901779340503
+-t-t- Luis Milla -- 5.507166018724165
+-t-t- Baca: Ini -- 3.9013266520701095
+-t-t- Pemain Naturalisasi -- 3.8756961853805425
+-t-t- Kantor PSSI -- 2.8745149115106226
+-t-t- Edy Rahmayadi -- 2.7803406329096543
+-t-t- Ketua Umum -- 2.296655046870775
+-t-t- Jakarta Selatan -- 2.082280707885436
+-t-t- Ezra Walian -- 1.6728217727661467
+-t-t- Spanyol -- 1.2258484169467887
+-t-t- Kuningan -- 1.0448841124257457
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Ketum -- 1.0
+-f-f- Pemain Naturalisasi Tersukses Saat Main -- 1.0
+-f-f- Baca: Inilah Deretan Pemain Naturalisasi -- 1.0
+-f-f- Empat Pemain Naturalisasi Tersukses Saat Main -- 1.0
+-f-f- Pemain Naturalisasi Tersukses Saat -- 1.0
+-f-f- Baca: Ini Empat Pemain -- 1.0
+-f-f- Ini Empat Pemain -- 1.0
+-f-f- Deretan Pemain Naturalisasi -- 1.0
+-f-f- Timnas Indonesia Luis Milla -- 1.0
+-f-f- Pelatih Timnas Indonesia Luis -- 1.0
+-f-f- Baca: Inilah -- 1.0
+-f-f- Pelatih Timnas -- 1.0
+-f-f- Inilah Deretan -- 1.0
+-f-f- Baca: Ini Empat -- 1.0
+-f-f- Baca: Inilah Deretan Pemain -- 1.0
+-f-f- Indonesia Luis -- 1.0
+-f-f- Inilah Deretan Pemain -- 1.0
+-f-f- Inilah Deretan Pemain Naturalisasi -- 1.0
+-f-f- Pemain Naturalisasi Tersukses -- 1.0
+-f-f- Pelatih Timnas Indonesia -- 1.0
+-f-f- Ini Empat -- 1.0
+-f-f- Deretan Pemain -- 1.0
+-f-f- Tersukses Saat -- 1.0
+-f-f- Naturalisasi Tersukses -- 1.0
+-f-f- Empat Pemain Naturalisasi -- 1.0
+-f-f- Indonesia Luis Milla -- 1.0
+-f-f- Timnas Indonesia Luis -- 1.0
+-f-f- Tersukses Saat Main -- 1.0
+-f-f- Ini Empat Pemain Naturalisasi Tersukses -- 1.0
+-f-f- Mochamad Hary -- 1.0
+-f-f- Ini Empat Pemain Naturalisasi Tersukses Saat Main -- 1.0
+-f-f- Baca: Ini Empat Pemain Naturalisasi Tersukses -- 1.0
+-f-f- Bersama Timnas -- 1.0
+-f-f- Gagal Bersama Timnas -- 1.0
+-f-f- Baca: Ini Empat Pemain Naturalisasi -- 1.0
+-f-f- Bersama Timnas Indonesia -- 1.0
+-f-f- Empat Pemain -- 1.0
+-f-f- Ini Empat Pemain Naturalisasi -- 1.0
+-f-f- Naturalisasi Tersukses Saat Main -- 1.0
+-f-f- Gagal Bersama Timnas Indonesia -- 1.0
+-f-f- Saat Main -- 1.0
+-f-f- Baca: Ini Empat Pemain Naturalisasi Tersukses Saat -- 1.0
+-f-f- Pelatih Timnas Indonesia Luis Milla -- 1.0
+-f-f- Empat Pemain Naturalisasi Tersukses Saat -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Empat Pemain Naturalisasi Tersukses -- 1.0
+-f-f- Baca: Ini Empat Pemain Naturalisasi Tersukses Saat Main -- 1.0
+-f-f- Naturalisasi Tersukses Saat -- 1.0
+-f-f- Ini Empat Pemain Naturalisasi Tersukses Saat -- 1.0
+-f-f- Baca: Inilah Deretan -- 1.0
+-f-f- Mochamad Hary Prasetya -- 1.0
+-f-f- Gagal Bersama -- 1.0
+-f-f- Hary Prasetya -- 1.0
+-f-f- Kesepahaman Milla -- 0.0
+-f-f- Baca : Inilah Deretan Pemain Naturalisasi -- 0.0
+-f-f- Baca : Ini Empat Pemain Naturalisasi Tersukses Saat Main -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/36728a71c056b2c9b1bd29b5b75adf19.jpeg" width="700" height="393" alt="Persija Kedatangan Pemain Asing dari Hasil Seleksi Sore Ini" data:w="700" data:h="393">  
+<p><strong>Laporan Wartawan SuperBall.id, Mochamad Hary Prasetya</strong></p> 
+<p><strong>SUPERBALL.ID, JAKARTA</strong> - Proses seleksi pemain masih terus dilakukan <a href="http://superball.tribunnews.com/tag/persija-jakarta" rel="nofollow">Persija Jakarta</a> untuk persiapannya menyambut Piala Presiden dan Liga 1 2017.</p> 
+<p>Rencananya, tim berjuluk Macan Kemayoran itu akan kedatangan satu pemain asing seleksi pada sesi latihan Rabu (1/2/2017) sore WIB di Lapangan POR Sawangan, Depok, Jawa Barat.</p> 
+<p>Kepastian kehadiran pemain itu diucapkan langsung oleh Media Officer Persija, <a href="http://superball.tribunnews.com/tag/mozes-sosa" rel="nofollow">Mozes Sosa</a>.</p> 
+<p>Kata Mozes, pemain tersebut berposisi penyerang dan asalnya dari Brasil.</p> 
+<p>Kendati demikian, Mozes enggan menyebutkan siapa nama pemain asing seleksi tersebut.</p> 
+<p>Hanya saja, pemain yang dimaksud itu masih berusia muda.</p> 
+<p>"Iya benar nanti sore dia hadir. Dia baru berusia 26 tahun dan sempat bermain di Liga Polandia," kata Mozes kepada SuperBall.id, Rabu (1/2/2017).</p> 
+<p>Pemain yang dimaksud Mozes itu menjadi nama kedua legiun asing yang seleksi di Persija.</p> 
+<p>Sebelumnya, tim asuhan <a href="http://superball.tribunnews.com/tag/stefano-cugurra-teco" rel="nofollow">Stefano Cugurra Teco</a> menyeleksi Carlos Eduardo de Souza Floresta ketika Trofeo Bhayangkara.</p> 
+<p>Namun, selama dua pertandingan menghadapi Arema FC dan Bhayangkara FC,</p> 
+<p>Carlos tidak menunjukan ketajamannya sebagai penyerang. Untuk itu tim pelatih Persija mencoretnya dari proses seleksi pemain. (*)</p>
+
+
+-*-10663208
+-*-http://superball.tribunnews.com/2017/02/01/persija-kedatangan-pemain-asing-dari-hasil-seleksi-sore-ini
+
+--------------------
+
+
+-t-t- Carlos Eduardo de Souza Floresta -- 4.756965125013054
+-t-t- Persija Jakarta -- 3.0198132033043024
+-t-t- Stefano Cugurra Teco -- 2.8513488064725725
+-t-t- Mozes Sosa -- 2.839544352048601
+-t-t- Piala Presiden -- 2.465053868477739
+-t-t- Liga 1 -- 2.4467693445812926
+-t-t- Jawa Barat -- 2.2801371716644816
+-t-t- SuperBall -- 2.2642091495051253
+-t-t- Arema FC -- 1.7061970596010791
+-t-t- Bhayangkara FC -- 1.6975277166530027
+-t-t- Proses -- 1.276269140942187
+-t-t- Depok -- 1.1432000259304784
+-t-t- Brasil -- 1.064510166603088
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Mochamad Hary -- 1.0
+-f-f- Liga Polandia -- 1.0
+-f-f- Lapangan POR -- 1.0
+-f-f- Media Officer -- 1.0
+-f-f- Lapangan POR Sawangan -- 1.0
+-f-f- Liga 1 2017 -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Kata Mozes -- 1.0
+-f-f- Media Officer Persija -- 1.0
+-f-f- Trofeo Bhayangkara -- 1.0
+-f-f- POR Sawangan -- 1.0
+-f-f- Macan Kemayoran -- 1.0
+-f-f- Officer Persija -- 1.0
+-f-f- Mochamad Hary Prasetya -- 1.0
+-f-f- Hary Prasetya -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img width="758" height="429" src="[BASEURL]/6683e22617eda9102463c89aaa81f1fd.jpeg" alt="allenatore inter milan" data:w="758" data:h="429">    
+<p><strong>Sepakbola.com, Milan –</strong> Inter Milan harus menghentikan rekor apik sembilan kemenangan beruntun setelah kalah 1-2 dari Lazio dalam babak delapan besar Coppa Italia di kandang sendiri, Giuseppe Meazza, Rabu (1/2) dini hari WIB. Selain kemenangan terhenti, Inter juga harus menerima kenyataan tersingkir dari kompetisi domestik itu.</p> 
+<p>Inter lebih dulu ketinggalan lewat gol Felipe Anderson. Namun kondisi itu diperparah karena Joao Miranda harus diusir oleh wasit pada awal babak kedua karena melakukan pelanggaran kepada pemain Lazio. Tim tamu mendapat hadiah tendangan penalti dan dikonversi dengan apik oleh Lucas Biglia.</p> 
+<p>Namun Inter memperkecil ketinggalan mereka lewat sundulan Marcelo Brozovic menit-menit akhir pertandingan.</p> 
+<p><em>Allenatore</em> Inter, Stefano Pioli mengaku puas dengan kinerja anak asuhnya meski mereka tersingkir. Ia sama sekali tak menyesal melihat perjuangan pemainnya yang sudah berjuang keras selama 90 menit.</p> 
+<p>“Kami memulai pertandingan dengan sangat baik dan punya peluang bagus melalui Ivan Perisic, lalu Geoffrey Kondogbia mengenai tiang gawang,” ucap Pioli kepada<em>&nbsp;Rai Sport.</em></p> 
+<p>“Kami benar-benar mendominasi selama 18 menit pertama, tapi kami kemudian lengah dan harus membayar mahal. Jika kami tetap bermain dengan 11 orang, saya pikir kami akan punya peluang untuk kembali ke permainan. Saya ingin mengucapkan selamat kepada para pemain saya karena mereka telah memberikan segalanya yang mereka miliki meski kalah jumlah,” katanya.</p> 
+<p>Kemenangan ini sebenarnya cukup merugikan bagi Inter karena akhir pekan ini akan berhadapan dengan Juventus di Serie A.</p> 
+<p>“Anda selalu akan kalah, tapi tim-tim hebat langsung bangkit dan saya yakin kami adalah tim hebat. Kami tidak ingin kalah pada laga ini karena Coppa Italia adalah salah satu target kami. Namun, kami sekarang akan bekerja lebih keras daripada sebelumnya untuk memastikan kami siap untuk laga-laga berikutnya,” kata dia.&nbsp;(Football Italia)</p>      [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia      
+<p>Penulis: Rizky Kurniawan Suhyar/Editor: Setyo Bagus Kiswanto</p>
+
+
+-*-10663214
+-*-http://www.sepakbola.com/2017/02/allenatore-inter-milan/
+
+--------------------
+
+
+-t-t- Coppa Italia -- 5.913766965484277
+-t-t- Inter Milan -- 3.590701933508011
+-t-t- Lazio -- 3.2664136609652665
+-t-t- Giuseppe Meazza -- 2.5244584735272246
+-t-t- Stefano Pioli -- 2.465275918669142
+-t-t- Felipe Anderson -- 2.412384033186729
+-t-t- Joao Miranda -- 2.38201836286553
+-t-t- Lucas Biglia -- 2.279534201405595
+-t-t- Marcelo Brozovic -- 2.2385015441632183
+-t-t- Ivan Perisic -- 2.0672470164749632
+-t-t- Geoffrey Kondogbia -- 2.0578807052865917
+-t-t- Rai Sport -- 2.0280957923384584
+-t-t- Serie A -- 1.8056859218998385
+-t-t- Football Italia -- 1.6675435603211317
+-t-t- Juventus -- 0.9054360935717759
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Internazionale 1-2 Lazio: Nerazzurri Gagal -- 1.0
+-f-f- [VIDEO] CUPLIKAN -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- CUPLIKAN GOL Internazionale -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- Internazionale 1-2 Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- Nerazzurri Gagal -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- GOL Internazionale 1-2 -- 1.0
+-f-f- Gagal Ke Semifinal -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- CUPLIKAN GOL -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri Gagal -- 1.0
+-f-f- Internazionale 1-2 Lazio -- 1.0
+-f-f- Ke Semifinal Coppa Italia -- 1.0
+-f-f- Internazionale 1-2 Lazio: Nerazzurri -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal -- 1.0
+-f-f- Lazio: Nerazzurri Gagal -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- Allenatore Inter -- 1.0
+-f-f- Semifinal Coppa -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri -- 1.0
+-f-f- Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- Namun Inter -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri -- 1.0
+-f-f- Lazio: Nerazzurri -- 1.0
+-f-f- Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri -- 1.0
+-f-f- Gagal Ke Semifinal Coppa -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri -- 1.0
+-f-f- Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal -- 1.0
+-f-f- Ke Semifinal Coppa -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 -- 1.0
+-f-f- Internazionale 1-2 -- 1.0
+-f-f- Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- Nerazzurri Gagal Ke -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- CUPLIKAN GOL Internazionale 1-2 Lazio -- 1.0
+-f-f- Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- Semifinal Coppa Italia -- 1.0
+-f-f- GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke -- 1.0
+-f-f- Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa -- 1.0
+-f-f- 1-2 Lazio: Nerazzurri Gagal -- 1.0
+-f-f- Gagal Ke -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- GOL Internazionale -- 1.0
+-f-f- 1-2 Lazio -- 1.0
+-f-f- Lazio: Nerazzurri Gagal Ke Semifinal Coppa Italia -- 1.0
+-f-f- Ke Semifinal -- 1.0
+-f-f- Lazio: Nerazzurri Gagal Ke Semifinal -- 1.0
+-f-f- [VIDEO] CUPLIKAN GOL Internazionale 1-2 Lazio : Nerazzurri Gagal Ke Semifinal Coppa Italia -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b2a94e469b08b49e53450a38368ddcc0.jpeg" width="700" height="393" alt="PSSI Ingin Pelatih Timnas Indonesia Tampil Kece di Pinggir Lapangan" data:w="700" data:h="393">  
+<p><strong>Laporan Wartawan SuperBall.id, Mochamad Hary Prasetya</strong></p> 
+<p><strong>SUPERBALL.ID, JAKARTA</strong> - Pelatih-pelatih klub ataupun timnas disebuah negara memiliki gaya trendi ketika mendampingi timnya saat bertanding.</p> 
+<p>Tak jarang, pelatih-pelatih sekelas Pep Guardiola, Jose Mourinho, dan Carlo Ancelotti menggunakan jas ataupun kemeja ketika berada di pinggir lapangan.</p> 
+<p>Hal itu mengidentifikasikan bahwa klub-klub tersebut sangat maju karena sekelas pelatihnya saja bisa bergaya semenarik mungkin.</p> 
+<p>Cara berpakaian seperti itu yang nantinya akan ditiru oleh PSSI kepada pelatih-pelatih Timnas Indonesia.</p> 
+<p>"Kami ingin memunculkan PSSI yang berbeda dari sebelumnya. Jadi nanti pelatih-pelatih harus memakai jas kalau mendampingi Timnas Indonesia bertanding," kata Direktur Hubungan Internasional dan Media PSSI, Hanif Thamrin, di Kantor PSSI, Kuningan, Jakarta Selatan.</p> 
+<p>Sebenarnya cara berpakaian menggunakan jas atau kemeja cukup jarang diikuti oleh pelatih di Indonesia.</p> 
+<p>Mungkin salah satu alasannya karena iklim di Indonesia yang cukup panas dan berbeda dengan Eropa.</p> 
+<p>Namun, PSSI berpikir bahwa sudah waktunya ada hal yang menarik di pinggir lapangan untuk Pelatih Timnas Indonesia.</p> 
+<p>Untuk itu, PSSI mengklaim sudah bekerja sama dengan beberapa perusahaan untuk mensupport gaya penampilan sang pelatih.</p> 
+<p>Bukan hanya pelatihnya saja yang akan memakai jas ketika pasukannya bertanding.</p> 
+<p>Tetapi juga para pemain-pemainnya sesaat ingin berangkat dari Indonesia menuju lokasi pertandingan Internasional.</p> 
+<p>"PSSI akan mendapatkan sejumlah sponsor untuk menunjang gaya berpakaian Pelatih Timnas nanti," kata Hanif yang enggan menyebutkan siapa perusahaan tersebut.</p>  
+<img src="[BASEURL]/f6dc961b189ea8b7dbee4c6da7622c32.jpeg" alt="sadsadasda" width="717" height="403" data:w="717" data:h="403">  Timnas Thailand menggunakan setelan jas ketika akan melakukan pertandingan internasional.   
+<p>Sebenarnya cara berpakaian rapi dengan menggunakan jas sudah dilakukan oleh Singapura dan Thailand.</p> 
+<p>Federasi sepak bola dari kedua negara itu sudah menerapkan berpakaian jas ketika ingin hadir ke Filipina untuk Piala AFF 2016. (*)</p>
+
+
+-*-10663211
+-*-http://superball.tribunnews.com/2017/02/01/pssi-ingin-pelatih-timnas-indonesia-tampil-kece-di-pinggir-lapangan
+
+--------------------
+
+
+-t-t- Timnas Indonesia -- 7.2314138357005815
+-t-t- Pelatih Timnas -- 3.747400000881762
+-t-t- Kantor PSSI -- 3.063417892142366
+-t-t- Piala AFF 2016 -- 2.546514991574614
+-t-t- Pep Guardiola -- 2.484925484719015
+-t-t- Jose Mourinho -- 2.475661451161504
+-t-t- Carlo Ancelotti -- 2.4639765722539906
+-t-t- Jakarta Selatan -- 2.1363467728131047
+-t-t- Internasional -- 1.9946479659192289
+-t-t- Hanif -- 1.9600627270689164
+-t-t- Timnas Thailand -- 1.9481855140138844
+-t-t- Kuningan -- 1.070836494942585
+-t-t- Eropa -- 1.0114836381570635
+-t-t- Singapura -- 0.8325159369194286
+-t-t- Filipina -- 0.8072035533464741
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Mochamad Hary -- 1.0
+-f-f- Direktur Hubungan -- 1.0
+-f-f- Hanif Thamrin -- 1.0
+-f-f- Pelatih-pelatih -- 1.0
+-f-f- Media PSSI -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Pelatih Timnas Indonesia -- 1.0
+-f-f- Hubungan Internasional -- 1.0
+-f-f- Mochamad Hary Prasetya -- 1.0
+-f-f- Hary Prasetya -- 1.0
+-f-f- Direktur Hubungan Internasional -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8d47e66335c5ff8cb4a8e3c3d7b8ab10.jpeg" width="700" height="393" alt="Beginilah Rasanya Duel Panas Liverpool Vs Chelsea di Lapangan" data:w="700" data:h="393">  
+<p><strong>Laporan Wartawan SuperBall.id, Aulli Reza Atmam</strong></p> 
+<p><strong>SUPERBALL.ID, LIVERPOOL</strong> - Bagi legenda <a href="http://superball.tribunnews.com/tag/liverpool" rel="nofollow">Liverpool</a> <a href="http://superball.tribunnews.com/tag/steven-gerrard" rel="nofollow">Steven Gerrard</a>, laga antara eks timnya menghadapi <a href="http://superball.tribunnews.com/tag/chelsea" rel="nofollow">Chelsea</a> merupakan sebuah duel panas.</p> 
+<p>Gerrard menyebut rivalitas kedua tim sebenarnya lebih besar dari yang dibayangkan sebelumnya.&nbsp;</p> 
+<p>Pria berusia 36 tahun itu bisa merasakan hasrat besar <a href="http://superball.tribunnews.com/tag/liverpool" rel="nofollow">Liverpool</a> menyingkirkan <a href="http://superball.tribunnews.com/tag/chelsea" rel="nofollow">Chelsea</a>.&nbsp;</p> 
+<p>"Menurut saya rivalitas antara <a href="http://superball.tribunnews.com/tag/liverpool" rel="nofollow">Liverpool</a> dan <a href="http://superball.tribunnews.com/tag/chelsea" rel="nofollow">Chelsea</a> lebih besar daripada yang dipikirkan orang-orang," ujar Gerrard seperti dikutip SuperBall.id dari ESPN FC, Rabu (1/2/2017).</p> 
+<p>"Bagi saya selaku pemain sekaligus pendukung <a href="http://superball.tribunnews.com/tag/liverpool" rel="nofollow">Liverpool</a>, untuk meraih sukses maka kami harus menyingkirkan <a href="http://superball.tribunnews.com/tag/chelsea" rel="nofollow">Chelsea</a>."</p> 
+<p>Karena tensinya yang tinggi, duel <a href="http://superball.tribunnews.com/tag/liverpool" rel="nofollow">Liverpool</a> dan <a href="http://superball.tribunnews.com/tag/chelsea" rel="nofollow">Chelsea</a> pun tak ubahnya seperti kebencian sesaat.</p> 
+<p>"Itu hampir seperti kebencian selama 90 menit, tubuh jadi terasa aneh (saat bertanding) namun setelah peluit panjang dibunyikan anda perlu kembali normal lagi agar ada rasa saling menghormati," pungkasnya.</p> 
+<p>Kedua tim baru saja berhadapan dalam laga lanjutan Liga Inggris pada Rabu (1/2/2017) dini hari WIB.</p> 
+<p>Dalam pertandingan yang digelar di Stadion Anfield itu, kedua tim bermain imbang 1-1. (*)</p>
+
+
+-*-10663212
+-*-http://superball.tribunnews.com/2017/02/01/beginilah-rasanya-duel-panas-liverpool-vs-chelsea-di-lapangan
+
+--------------------
+
+
+-t-t- Chelsea -- 5.432476068504686
+-t-t- Steven Gerrard -- 2.9699802485058884
+-t-t- SuperBall -- 2.370093788197817
+-t-t- ESPN FC -- 2.1071996249183544
+-t-t- Liga Inggris -- 1.6995366972543788
+-t-t- Stadion Anfield -- 1.6379965387450683
+-t-t- LIVERPOOL -- 1.2819173255869503
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Liverpool -- 5.0
+-f-f- Aulli Reza -- 1.0
+-f-f- Liverpool Steven Gerrard -- 1.0
+-f-f- Reza Atmam -- 1.0
+-f-f- Aulli Reza Atmam -- 1.0
+-f-f- Liverpool Steven -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<p><strong>Laporan Wartawan SuperBall.id, Ndaru Guntur</strong></p> 
+<p><strong>SUPERBALL.ID, MANCHESTER --</strong>&nbsp;Manchester United akan kembali beraksi melawan Hull City di Old Trafford Kamis (2/2/2017) pukul 03.00 WIB di ajang Liga Inggris.</p> 
+<p>Setan Merah yang saat ini berada di posisi ke-6 klasemen sementara Liga Inggris sepertinya akan menarik keuntungan dari laga ini untuk mengejar rekan satu kotanya, Manchester City.</p> 
+<p>Selain persiapan latihan fisik, ternyata <a href="http://superball.tribunnews.com/tag/paul-pogba" rel="nofollow">Paul Pogba</a> dan <a href="http://superball.tribunnews.com/tag/jesse-lingard" rel="nofollow">Jesse Lingard</a> juga mempersiapkan selebrasi baru.</p> 
+<p>Selebrasi dab yang lama menjadi viral akan berganti selebrasi baru dari Pogba dan Lingard.</p> 
+<p>Penasaran seperti apa gerakannya? Simak video yang diunggah di akun resmi <a href="http://superball.tribunnews.com/tag/paul-pogba" rel="nofollow">Paul Pogba</a>. (*)</p>
+
+
+-*-10663213
+-*-http://superball.tribunnews.com/2017/02/01/videoselebrasi-terbaru-pogba-dan-lingard-untuk-laga-dini-hari-nanti
+
+--------------------
+
+
+-t-t- Liga Inggris -- 4.4513988031959455
+-t-t- Paul Pogba -- 3.871841046765258
+-t-t- Manchester United -- 2.493191675668614
+-t-t- Hull City -- 2.4098271045172144
+-t-t- Old Trafford -- 2.387264970964011
+-t-t- Setan Merah -- 2.2644374235046176
+-t-t- Jesse Lingard -- 2.128247331174757
+-t-t- Manchester City -- 2.0110515685582766
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Ndaru Guntur -- 1.0
+-f-f- Trafford Kamis -- 1.0
+-f-f- Old Trafford Kamis -- 1.0
+-f-f- MANCHESTER -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/22882c8228d9cce0d248bb3786a5b20d.jpeg" alt="Tumbang di Tangan Watford, Arsenal Dinilai Ceroboh" data:w="620" data:h="354">   
+<p>Penyerang Watford Troy Deeney melakukan selebrasi setelah mencetak gol ke gawang Arsenal pada pertandingan Liga Inggris di stadion Emirates, London, 1 Februari 2017. AP/Frank Augstein</p>    
+<p><span><strong>TEMPO.CO</strong></span>, <span><strong>Jakarta</strong></span> - Mantan pemain tim nasional Inggris, Danny Murphy, cukup terkejut dengan kekalahan Arsenal dari Watford pada laga pekan ke-23 Liga Primer Inggris, Rabu dini hari tadi, 1 Februari 2017. Menurut dia, Arsenal bermain ceroboh sehingga bisa kebobolan 2 gol di awal pertandingan. </p> 
+<p>"Saya cukup terkejut dengan Arsenal. Anda tak bisa memulai pertandingan seperti yang mereka lakukan hari ini. Itu sama saja bunuh diri, ceroboh dan mereka terlihat tak seperti tim yang siap mengejar gelar juara," ujarnya. </p> 
+<p>Murphy bahkan menilai Arsenal cukup beruntung karena hanya kebobolan 2 gol pada laga itu. Menurut dia, pada 25 menit pertama pertandingan Watford berhasil mendikte Arsenal.</p> 
+<p>"Pada 25 menit awal mereka beruntung hanya ketinggalan 2-0. Watford selalu berbahaya ketika memegang bola," kata mantan punggawa Liverpool itu. </p> 
+<p>Meskipun mampu bermain baik pada babak kedua, menurut Murphy, hal itu cukup berat karena harus mengejar defisit 2 gol. Murphy pun mengkritik lini belakang Arsenal yang secara kualtias menurut dia sangat jauh ketimbang Chelsea yang merupakan pimpinan klasemen sekaligus rival sekota Arsenal. </p> 
+<p>"Mereka bermain baik di babak kedua tetapi anda tak bisa membuat sendiri gunung yang harus anda daki melawan tim berkualitas seperti itu dan berharap untuk menang. Anda tak akan bisa memenangkan gelar juara dengan cara itu," katanya. </p> 
+<p>"Meskipun mereka memiliki amunisi tambahan di lini belakang, saya kira mereka sangat jauh dari Chelsea," lanjutnya. </p> 
+<p>Sebaliknya, Murphy memuji performa Watford pada laga itu. Menurut dia, Watford tampak tak terbebani dengan rekor buruk tak pernah menang dalam 7 laga terakhir. Hebatnya lagi hal itu dilakukan pasukan Lebah, sebutan Watford, di kandang Arsenal, Stadion Emirates. </p> 
+<p>"Saya harus memberikan pujian kepada Watford karena mereka tak tampak seperti tim yang tak pernah menang dalam 7 laga. Mereka tak terlihat kurang percaya diri saat menyerang. Mereka memiliki skema permainan yang baik dan selalu terlihat berbahaya saat melakukan serangan balik," ujarnya.</p> 
+<p>"Etienne Capoue merupakan kekuatan utama Watford pada laga ini. Dia mengawali musim ini dengan cukup baik kemudian sempat meredup, tetapi dia mampu menunjukan performa terbaiknya hari ini. Penampilan dia luar biasa," kata Murphy.</p> 
+<p>Arsenal ditumbangkan Watford melalui 2 gol cepat pada awal babak pertama. Bek Watford, Younes Kaboul, mencetak gol pada menit ke-10 melalui tendangan bebas. Bola sepakan Kaboul sempat membentur kaki Aaron Ramsey sehingga mengecoh penjaga gawang Petr Cech.</p> 
+<p>Tiga menit berselang, Watford menambah keunggulan melalui kaki Troy Deeney memanfaatkan bola setelah Petr Cech menggagalkan sepakan Etienne Capoue.</p> 
+<p>Arsenal baru bisa memperkecil kedudukan 5 menit sebelum laga berakhir melalui Alex Iwobi. Penyerang muda Inggris itu menanduk umpan lambung yang dilepaskan Alexis Sanchez dari sisi kiri pertahanan Watford. </p>
+
+
+-*-10662641
+-*-https://www.tempo.co/read/news/2017/02/01/099841855/Tumbang-di-Tangan-Watford-Arsenal-Dinilai-Ceroboh
+
+--------------------
+
+
+-t-t- Watford -- 13.083454930225017
+-t-t- Arsenal -- 12.15811762528002
+-t-t- Liga Primer Inggris -- 4.342539510245339
+-t-t- Troy Deeney -- 4.307651923799449
+-t-t- Etienne Capoue -- 3.495159127363266
+-t-t- Petr Cech -- 3.367361129477262
+-t-t- Danny Murphy -- 3.351767759593157
+-t-t- Stadion Emirates -- 2.2130509909907086
+-t-t- Chelsea -- 2.085599254571501
+-t-t- Younes Kaboul -- 1.95959246505791
+-t-t- Aaron Ramsey -- 1.7120678148851252
+-t-t- Alex Iwobi -- 1.6336171489170224
+-t-t- Alexis Sanchez -- 1.6132070144185875
+-t-t- London -- 1.2889227645815662
+-t-t- Jakarta -- 1.2771348651601775
+-t-t- Liverpool -- 1.1191926498135316
+-t-t- Lebah -- 0.9724399981144851
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Frank Augstein -- 1.0
+-f-f- Watford Troy Deeney -- 1.0
+-f-f- Mantan -- 1.0
+-f-f- Watford Troy -- 1.0
+-f-f- Penyerang Watford Troy -- 1.0
+-f-f- Bek Watford -- 1.0
+-f-f- Liga Inggris -- 1.0
+-f-f- Penyerang Watford -- 1.0
+-f-f- Penyerang Watford Troy Deeney -- 1.0
+-f-f- Pada 25 -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img alt="" src="[BASEURL]/f57ae13cf95760d6e021db58c3214bac.jpeg" data:w="768" data:h="432">  
+<em>(Foto: Bola.net)</em>   
+<p>Selangkah lagi pemain asal Argentina Esteban Vizcarra bakal mendapatkan status sebagai Warga Negara Indonesia (WNI).</p> 
+<p>Arema FC pun senang dengan kabar ini, karena mereka memiliki kesempatan untuk menambah kuota pemain asing.</p> 
+<p>Viscara sejak tahun lalu terus berhasrat untuk menjadi pemain naturalisasi, dimana dirinya sudah tinggal selama delapan tahun di Indonesia. Dimana hal itu adalah salah satu syarat yang sudah dia penuhi (lima tahun tinggal berturut).</p> 
+<p><strong><a href="https://bolalob.com/read/46329/akan-dinaturalisasi-pemain-argentina-ini-sangat-cinta-indonesia" rel="nofollow">BACA JUGA: Esteban Viscarra Cinta Indonesia</a></strong></p> 
+<p>"Ya, proses itu (naturalisasi WNI) tinggal menunggu tiga atau empat bulan lagi kalau tidak salah,’’ kata Vizcarra seperti dilansir dari Radar Malang.</p> 
+<p>Vizcarra juga memiliki istri wanita Indonesia. Harusnya setelah menetap lima tahun di Indonesia, dia bisa dapat paspor WNI.</p> 
+<p>Pemain berusia 30 tahun itu punya hasrat besar jadi WNI sejak memperkuat Semen Padang beberapa tahun lalu. Namun, proses panjang harus dilaluinya.</p> 
+<p><strong><a href="https://bolalob.com/read/46301/sudah-kembali-berlatih-el-loco-dan-viscara-belum-dapat-kontrak-baru" rel="nofollow">BACA JUGA: Sudah Kembali Berlatih, El Loco dan Viscara Belum Dapat Kontrak Baru</a></strong></p> 
+<p>Bak gayung bersambut, manajemen Arema ikut membantu prosesnya. Sebab, jika sudah jadi pemain lokal, Arema juga diuntungkan.</p> 
+<p>Saat ini di skuat Arema sudah ada pemain naturalisasi dalam diri Christian Gonzales.</p> 
+<p>PSSI memiliki regulasi baru dalam kuota pemain asing pada tahun ini yaiu dua pemain asing non Asia dan satu pemain dari Asia.</p>
+
+
+-*-10662633
+-*-http://bolalob.com/read/46307/sebentar-lagi-pemain-argentina-ini-jadi-wni?utm_campaign=Content_distribution%26utm_medium=Babe%26utm_source=Feed_General%26utm_content=General%26utm_term=
+
+--------------------
+
+
+-t-t- Indonesia -- 5.5257151342493955
+-t-t- WNI -- 4.289572663876669
+-t-t- BACA JUGA -- 4.080067781248167
+-t-t- Esteban Vizcarra -- 3.0066126330374816
+-t-t- Arema FC -- 2.9941280278144706
+-t-t- Viscara -- 2.122531573377333
+-t-t- Semen Padang -- 1.9176605727869622
+-t-t- El Loco -- 1.8416505052919494
+-t-t- Christian Gonzales -- 1.6888503143400353
+-t-t- Asia -- 1.6115116471095314
+-t-t- PSSI -- 0.8372027481558963
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Esteban Viscarra Cinta -- 1.0
+-f-f- Belum Dapat -- 1.0
+-f-f- Viscarra Cinta Indonesia -- 1.0
+-f-f- Belum Dapat Kontrak -- 1.0
+-f-f- BACA JUGA: Esteban -- 1.0
+-f-f- Viscara Belum -- 1.0
+-f-f- Dapat Kontrak -- 1.0
+-f-f- BACA JUGA: Sudah -- 1.0
+-f-f- Viscara Belum Dapat Kontrak Baru -- 1.0
+-f-f- Dapat Kontrak Baru -- 1.0
+-f-f- Warga Negara Indonesia -- 1.0
+-f-f- BACA JUGA: Esteban Viscarra Cinta Indonesia -- 1.0
+-f-f- Sudah Kembali -- 1.0
+-f-f- JUGA: Sudah Kembali Berlatih -- 1.0
+-f-f- BACA JUGA: Esteban Viscarra Cinta -- 1.0
+-f-f- JUGA: Esteban Viscarra Cinta -- 1.0
+-f-f- Kembali Berlatih -- 1.0
+-f-f- Warga Negara -- 1.0
+-f-f- BACA JUGA: Sudah Kembali -- 1.0
+-f-f- Radar Malang -- 1.0
+-f-f- JUGA: Esteban -- 1.0
+-f-f- Cinta Indonesia -- 1.0
+-f-f- JUGA: Esteban Viscarra Cinta Indonesia -- 1.0
+-f-f- Argentina Esteban Vizcarra -- 1.0
+-f-f- Sudah Kembali Berlatih -- 1.0
+-f-f- Esteban Viscarra Cinta Indonesia -- 1.0
+-f-f- Negara Indonesia -- 1.0
+-f-f- JUGA: Esteban Viscarra -- 1.0
+-f-f- Viscara Belum Dapat Kontrak -- 1.0
+-f-f- BACA JUGA: Sudah Kembali Berlatih -- 1.0
+-f-f- BACA JUGA: Esteban Viscarra -- 1.0
+-f-f- Belum Dapat Kontrak Baru -- 1.0
+-f-f- Argentina Esteban -- 1.0
+-f-f- JUGA: Sudah Kembali -- 1.0
+-f-f- Viscara Belum Dapat -- 1.0
+-f-f- JUGA: Sudah -- 1.0
+-f-f- Kontrak Baru -- 1.0
+-f-f- Viscarra Cinta -- 1.0
+-f-f- Esteban Viscarra -- 1.0
+-f-f- BACA JUGA : Sudah Kembali Berlatih -- 0.0
+-f-f- BACA JUGA : Esteban Viscarra Cinta Indonesia -- 0.0
+-f-f- Foto  -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img alt="" src="[BASEURL]/3acccc3f0ee69386585acc0e1c76f4a0.jpeg" data:w="768" data:h="432">  
+<em>(Foto: Bolalob)</em>   
+<p>Kamiada FC yang telah merger dengan Pelindo IV Makassar dan telah mendaftarkan 18 pemain untuk berlaga di Pro Futsal League (PFL) 2017.</p> 
+<p>Tim promosi ini pun akan mengusung nama Kamiada Pelindo IV dengan pelatih kepala Prawindu Nugroho. Tim ini berisikan mayoritas pemain Bekasi dan Makassar. Tentunya sebagai tim promosi, Kamiada ingin bertahan dimusim perdananya ini.</p> 
+<p><a href="https://bolalob.com/read/45642/persiapan-pfl-2017-kamiada-fc-pelindo-iv-lakukan-tc-di-makassar" rel="nofollow">BACA JUGA: Persiapan PFL 2017, Kamiada FC Pelindo IV Lakukan TC Di Makassar</a></p> 
+<p>Berikut skuat Kamiada Pelindo IV untuk berlaga di PFL 2017.</p> 
+<p>1. GALUH PRABU<br>2. TAUFIK<br>3. FEBRIAND<br>4. AlFINDRIO<br>5. ANDI FARDIANSAH<br>6. PETRUZ ALVAREZ<br>7. AHMAD FADILLAH<br>8.&nbsp;MAYCEL AlFREDS JACOB<br>9. REZKHAWAN<br>10. AZWAR<br>11. ERWIN MANZIL<br>12. HALIK<br>13. EKO NUGROHO<br>14. NUR ALAM<br>15.&nbsp;RENALDY<br>16. WAHYU SUBANGKIT<br>17. M. MUJEPS WAHIDIN<br>18. FARID PADANG</p>
+
+
+-*-10662634
+-*-http://bolalob.com/read/45954/inilah-18-pemain-kamiada-pelindo-iv-yang-akan-berlaga-di-pro-futsal-league-2017?utm_campaign=Content_distribution%26utm_medium=Babe%26utm_source=Feed_General%26utm_content=General%26utm_term=
+
+--------------------
+
+
+-t-t- Kamiada Pelindo IV -- 7.451404565459532
+-t-t- Kamiada FC -- 5.335872780113093
+-t-t- PFL 2017 -- 4.360597597904111
+-t-t- Makassar -- 3.3586634479591155
+-t-t- NUR ALAM -- 1.681211444878396
+-t-t- Bekasi -- 1.103373539957866
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- EKO NUGROHO -- 1.0
+-f-f- Lakukan TC -- 1.0
+-f-f- Pro Futsal League -- 1.0
+-f-f- 7. AHMAD FADILLAH 8 -- 1.0
+-f-f- Foto: Bolalob -- 1.0
+-f-f- 2. TAUFIK 3. FEBRIAND 4 -- 1.0
+-f-f- TAUFIK 3 -- 1.0
+-f-f- FC Pelindo -- 1.0
+-f-f- MAYCEL AlFREDS -- 1.0
+-f-f- GALUH PRABU 2. TAUFIK 3 -- 1.0
+-f-f- 2. TAUFIK 3 -- 1.0
+-f-f- AlFREDS JACOB 9 -- 1.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH -- 1.0
+-f-f- FC Pelindo IV Lakukan -- 1.0
+-f-f- FC Pelindo IV Lakukan TC Di Makassar -- 1.0
+-f-f- BACA JUGA -- 1.0
+-f-f- GALUH PRABU 2. TAUFIK 3. FEBRIAND 4 -- 1.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD -- 1.0
+-f-f- 7. AHMAD -- 1.0
+-f-f- ERWIN MANZIL 12 -- 1.0
+-f-f- Di Makassar -- 1.0
+-f-f- Futsal League -- 1.0
+-f-f- 7. AHMAD FADILLAH -- 1.0
+-f-f- JUGA: Persiapan -- 1.0
+-f-f- PRABU 2 -- 1.0
+-f-f- Persiapan PFL -- 1.0
+-f-f- AHMAD FADILLAH 8 -- 1.0
+-f-f- PRABU 2. TAUFIK 3. FEBRIAND 4 -- 1.0
+-f-f- ALVAREZ 7. AHMAD -- 1.0
+-f-f- M. MUJEPS WAHIDIN 18 -- 1.0
+-f-f- Kamiada FC Pelindo IV Lakukan TC -- 1.0
+-f-f- AlFREDS JACOB -- 1.0
+-f-f- TC Di -- 1.0
+-f-f- TC Di Makassar -- 1.0
+-f-f- FC Pelindo IV Lakukan TC -- 1.0
+-f-f- AHMAD FADILLAH -- 1.0
+-f-f- PRABU 2. TAUFIK -- 1.0
+-f-f- FC Pelindo IV Lakukan TC Di -- 1.0
+-f-f- JACOB 9 -- 1.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH -- 1.0
+-f-f- Pelindo IV Lakukan TC Di -- 1.0
+-f-f- Kamiada FC Pelindo IV Lakukan TC Di -- 1.0
+-f-f- GALUH PRABU 2. TAUFIK 3. FEBRIAND -- 1.0
+-f-f- PRABU 2. TAUFIK 3. FEBRIAND -- 1.0
+-f-f- Lakukan TC Di -- 1.0
+-f-f- NUR ALAM 15 -- 1.0
+-f-f- Persiapan PFL 2017 -- 1.0
+-f-f- 2. TAUFIK -- 1.0
+-f-f- NUGROHO 14 -- 1.0
+-f-f- PETRUZ ALVAREZ -- 1.0
+-f-f- 3. FEBRIAND 4 -- 1.0
+-f-f- TAUFIK 3. FEBRIAND -- 1.0
+-f-f- MANZIL 12 -- 1.0
+-f-f- BACA JUGA: Persiapan PFL -- 1.0
+-f-f- TAUFIK 3. FEBRIAND 4 -- 1.0
+-f-f- FARID PADANG -- 1.0
+-f-f- Pelindo IV Lakukan TC Di Makassar -- 1.0
+-f-f- IV Lakukan TC Di -- 1.0
+-f-f- WAHYU SUBANGKIT 17 -- 1.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH 8 -- 1.0
+-f-f- ALAM 15 -- 1.0
+-f-f- Pelindo IV Lakukan TC -- 1.0
+-f-f- FADILLAH 8 -- 1.0
+-f-f- Kamiada FC Pelindo IV -- 1.0
+-f-f- SUBANGKIT 17 -- 1.0
+-f-f- Lakukan TC Di Makassar -- 1.0
+-f-f- IV Makassar -- 1.0
+-f-f- PETRUZ ALVAREZ 7 -- 1.0
+-f-f- ALVAREZ 7 -- 1.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH 8 -- 1.0
+-f-f- M. MUJEPS -- 1.0
+-f-f- Pelindo IV Makassar -- 1.0
+-f-f- ANDI FARDIANSAH 6 -- 1.0
+-f-f- REZKHAWAN 10 -- 1.0
+-f-f- M. MUJEPS WAHIDIN -- 1.0
+-f-f- Prawindu Nugroho -- 1.0
+-f-f- Pro Futsal -- 1.0
+-f-f- Kamiada FC Pelindo -- 1.0
+-f-f- AZWAR 11 -- 1.0
+-f-f- EKO NUGROHO 14 -- 1.0
+-f-f- ANDI FARDIANSAH -- 1.0
+-f-f- AlFINDRIO 5 -- 1.0
+-f-f- IV Lakukan -- 1.0
+-f-f- ERWIN MANZIL -- 1.0
+-f-f- WAHIDIN 18 -- 1.0
+-f-f- RENALDY 16 -- 1.0
+-f-f- MAYCEL AlFREDS JACOB 9 -- 1.0
+-f-f- FARDIANSAH 6 -- 1.0
+-f-f- Kamiada FC Pelindo IV Lakukan TC Di Makassar -- 1.0
+-f-f- Pelindo IV Lakukan -- 1.0
+-f-f- WAHYU SUBANGKIT -- 1.0
+-f-f- GALUH PRABU 2. TAUFIK -- 1.0
+-f-f- IV Lakukan TC -- 1.0
+-f-f- MUJEPS WAHIDIN 18 -- 1.0
+-f-f- JUGA: Persiapan PFL -- 1.0
+-f-f- 2. TAUFIK 3. FEBRIAND -- 1.0
+-f-f- MAYCEL AlFREDS JACOB -- 1.0
+-f-f- GALUH PRABU -- 1.0
+-f-f- JUGA: Persiapan PFL 2017 -- 1.0
+-f-f- BACA JUGA: Persiapan PFL 2017 -- 1.0
+-f-f- FEBRIAND 4 -- 1.0
+-f-f- HALIK 13 -- 1.0
+-f-f- IV Lakukan TC Di Makassar -- 1.0
+-f-f- 3. FEBRIAND -- 1.0
+-f-f- GALUH PRABU 2 -- 1.0
+-f-f- PRABU 2. TAUFIK 3 -- 1.0
+-f-f- MUJEPS WAHIDIN -- 1.0
+-f-f- FC Pelindo IV -- 1.0
+-f-f- BACA JUGA: Persiapan -- 1.0
+-f-f- Kamiada FC Pelindo IV Lakukan -- 1.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS -- 0.0
+-f-f- FADILLAH 8. MAYCEL AlFREDS -- 0.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL -- 0.0
+-f-f- FADILLAH 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- 7. AHMAD FADILLAH 8. MAYCEL -- 0.0
+-f-f- 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- FADILLAH 8. MAYCEL -- 0.0
+-f-f- 8. MAYCEL -- 0.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL -- 0.0
+-f-f- 8. MAYCEL AlFREDS -- 0.0
+-f-f- AHMAD FADILLAH 8. MAYCEL AlFREDS -- 0.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- Foto : Bolalob -- 0.0
+-f-f- AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- 7. AHMAD FADILLAH 8. MAYCEL AlFREDS JACOB 9 -- 0.0
+-f-f- FADILLAH 8. MAYCEL AlFREDS JACOB -- 0.0
+-f-f- BACA JUGA : Persiapan PFL 2017 -- 0.0
+-f-f- PETRUZ ALVAREZ 7. AHMAD FADILLAH 8. MAYCEL AlFREDS -- 0.0
+-f-f- 7. AHMAD FADILLAH 8. MAYCEL AlFREDS -- 0.0
+-f-f- AHMAD FADILLAH 8. MAYCEL -- 0.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img alt="" src="[BASEURL]/17375c78122eca75001a23d0c99d7f37.jpeg" data:w="768" data:h="432">  
+<em>(Foto: Bolalob)</em>   
+<p>Tim Pro Futsal League (PFL) asal Lampung, Giga FC Kota Metro telah mengontrak 18 pemain untuk berlaga di Pro Futsal League (PFL) 2017.</p> 
+<p>Giga FC yang ditangani oleh Yolla Hendro Sugeni sebagai pelatih kepala dan Apri Afdalah sebagai asisten pelatih pun telah menggojlok para talenta muda di Giga FC, seperti Raka Febianta, Eko Puji Saputro, Farhan Muhajiddin, dan yang lainnya untuk berlaga di PFL 2017 nanti.</p> 
+<p><a href="https://bolalob.com/read/46264/inilah-18-pemain-giga-fc-kota-metro-yang-akan--berlaga-di-pro-futsal-league-2017" rel="nofollow">BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017</a></p> 
+<p>"Alhamdulillah (persiapan) berjalan baik. Pastinya target untuk Seri 1 poin penuh," ungkap Coach Yolla kepada <em>Bolalob</em>.</p> 
+<p>"Akan tetapi, yang paling penting kita mau memulai setiap pertandingan dengan baik," pungkasnya.</p>
+
+
+-*-10662632
+-*-http://bolalob.com/read/46308/giga-fc-kota-metro-targetkan-poin-penuh-di-seri-1-pfl-2017?utm_campaign=Content_distribution%26utm_medium=Babe%26utm_source=Feed_General%26utm_content=General%26utm_term=
+
+--------------------
+
+
+-t-t- Pro Futsal League -- 10.95190523239236
+-t-t- Giga FC Kota Metro -- 9.784888377018824
+-t-t- PFL -- 3.4841119268933185
+-t-t- Bolalob -- 2.1742815747588278
+-t-t- Seri 1 -- 1.7765446962958018
+-t-t- Lampung -- 1.2748855994787878
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Pemain Giga -- 1.0
+-f-f- Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- Foto: Bolalob -- 1.0
+-f-f- 18 Pemain -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang -- 1.0
+-f-f- Giga FC Kota Metro Yang -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Inilah 18 -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang -- 1.0
+-f-f- Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- BACA JUGA -- 1.0
+-f-f- BACA JUGA: Inilah -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang -- 1.0
+-f-f- Tim Pro -- 1.0
+-f-f- Di Pro Futsal League -- 1.0
+-f-f- Inilah 18 Pemain Giga FC -- 1.0
+-f-f- Apri Afdalah -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- 18 Pemain Giga -- 1.0
+-f-f- Coach Yolla -- 1.0
+-f-f- Berlaga Di Pro -- 1.0
+-f-f- Inilah 18 Pemain -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Raka Febianta -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- Eko Puji -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- Futsal League 2017 -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Yang Akan Berlaga Di -- 1.0
+-f-f- Metro Yang -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- Tim Pro Futsal -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga -- 1.0
+-f-f- Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Yang Akan Berlaga Di Pro -- 1.0
+-f-f- Metro Yang Akan -- 1.0
+-f-f- FC Kota Metro Yang Akan -- 1.0
+-f-f- Di Pro -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- PFL 2017 -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- Yang Akan -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Akan Berlaga Di -- 1.0
+-f-f- FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- Farhan Muhajiddin -- 1.0
+-f-f- Kota Metro Yang -- 1.0
+-f-f- Inilah 18 Pemain Giga -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro -- 1.0
+-f-f- Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Di Pro Futsal League 2017 -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Akan Berlaga -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- Di Pro Futsal -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Yolla Hendro -- 1.0
+-f-f- FC Kota Metro Yang -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Hendro Sugeni -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro -- 1.0
+-f-f- Pro Futsal League 2017 -- 1.0
+-f-f- JUGA: Inilah 18 -- 1.0
+-f-f- Yolla Hendro Sugeni -- 1.0
+-f-f- Pemain Giga FC Kota -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Berlaga Di -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Akan Berlaga Di Pro -- 1.0
+-f-f- Pemain Giga FC Kota Metro -- 1.0
+-f-f- Kota Metro Yang Akan -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- League 2017 -- 1.0
+-f-f- Berlaga Di Pro Futsal -- 1.0
+-f-f- Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- Yang Akan Berlaga -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- Puji Saputro -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC -- 1.0
+-f-f- Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- BACA JUGA: Inilah 18 -- 1.0
+-f-f- Berlaga Di Pro Futsal League -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro -- 1.0
+-f-f- 18 Pemain Giga FC Kota Metro -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- JUGA: Inilah 18 Pemain -- 1.0
+-f-f- Metro Yang Akan Berlaga -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang -- 1.0
+-f-f- Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal -- 1.0
+-f-f- Yang Akan Berlaga Di Pro Futsal League 2017 -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro -- 1.0
+-f-f- Pemain Giga FC Kota Metro Yang Akan Berlaga -- 1.0
+-f-f- 18 Pemain Giga FC Kota -- 1.0
+-f-f- Pemain Giga FC -- 1.0
+-f-f- 18 Pemain Giga FC -- 1.0
+-f-f- JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League -- 1.0
+-f-f- BACA JUGA: Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di -- 1.0
+-f-f- JUGA: Inilah -- 1.0
+-f-f- Eko Puji Saputro -- 1.0
+-f-f- Tim Pro Futsal League -- 1.0
+-f-f- BACA JUGA : Inilah 18 Pemain Giga FC Kota Metro Yang Akan Berlaga Di Pro Futsal League 2017 -- 0.0
+-f-f- Foto : Bolalob -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img width="680" height="382" src="[BASEURL]/48af8743f20482235bb120534e87cc39.jpeg" alt="" data:w="680" data:h="382">   
+<p><strong>Offside.co.id –</strong> Persija Jakarta sempat menegaskan akan menggunakan Stadion Patriot Chandrabaga, Bekasi sebagai <em>home base</em> mereka di ajang Liga 1 20<strong>1</strong>7. Belum juga terwujud keinginan itu, kini Bhayangkara FC juga melontarkan ada kemungkinan juga akan menggunakan stadion tersebut sebagai <em>home base.</em> Lantas, siapa sejatinya yang punya peluang besar menggunakan stadion tersebut?</p> 
+<p>Manajemen Persija bersikukuh bahwa mereka telah intens untuk terus berkomunikasi dengan pengelola stadion. Pasalnya, manajemen Macan Kemoyoran meyakini jika berkandang di stadion yang renovasinya saja membutuhkan dana hingga Rp 450 miliar tersebut, maka laga kandang Macan Kemayoran akan kembali dijubeli penonton. Maklum, jarak Jakarta-Bekasi tak berjauhan.</p> 
+<p>Sementara itu, Bhayangkara FC juga menyiratkan keinginan yang sama. Mereka membatalkan keinginan untuk berkandang di Sidoarjo. Namun memillih hengkang di Bekasi. Hanya saja, sampai saat ini belum jelas soal stadion yang dipakai. Stadion Patriot atau dan Stadion Wibawa Mukti yang terletak di Kabupaten Bekasi.</p> 
+<p>“Memang benar. Kalau tidak salah rencananya akan pindah di Bekasi, apakah nanti di Stadion Patriot atau Stadion Wibawa Mukti,” ucap Kapolri Jenderal Tito Karnavian.</p> 
+<p>Kepala Dinas Pemuda dan Olahraga Kota Bekasi, M Ridwan menuturkan, sampai saat ini penunjukkan Stadion Patriot sebagai <em>home base</em> Persija masih dalam proses. Itu artinya, masih ada kans dibajak tim lain. “Belum ada pembicaraan lanjutan. Kami masih menunggu pihak manajemen Persija. Jadi siapa pun bisa menggunakannya selama mengikuti prosedur,” kata Ridwan.</p> 
+<p>Soal siapa yang akan memakai stadion Patriot, rasanya belum bisa dipastikan dalam waktu dekat ini. Kemungkinan baru terungkap di akhir bulan ini atau menjelang bergulirnya kompetisi Liga 2017, awal Maret . Namun yang jelas, harga sewa stadion tersebut relatif mahal, sekitar Rp 79 juta per pertandingan. (HM)</p> 
+<pre>
+Editor: Hanif Marjuni
+</pre>     
+<a href="http://click.accesstrade.co.id/adv.php?rk=0002j10008rp" rel="nofollow"><img src="[BASEURL]/76c3cd3c66bf7042d2881e0f8808c149.png" data:w="468" data:h="60"></a>
+
+
+-*-10660577
+-*-http://offside.co.id/bola-indonesia/stadion-patriot-kandang-persija-atau-bhayangkara-fc/
+
+--------------------
+
+
+-t-t- Stadion Patriot -- 9.105084943983593
+-t-t- Stadion Wibawa Mukti -- 6.307582949683176
+-t-t- Bhayangkara FC -- 4.674429566434241
+-t-t- Persija Jakarta -- 3.1660961330866613
+-t-t- Jenderal Tito Karnavian -- 3.0576835553937203
+-t-t- Kabupaten Bekasi -- 2.8099317202483345
+-t-t- Kota Bekasi -- 2.6958408155060853
+-t-t- Liga 1 -- 2.544221109585908
+-t-t- M Ridwan -- 2.1216578806974886
+-t-t- Sidoarjo -- 1.0541707284921433
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Dinas -- 1.0
+-f-f- Macan Kemoyoran -- 1.0
+-f-f- Stadion Patriot Chandrabaga -- 1.0
+-f-f- Liga 2017 -- 1.0
+-f-f- Kapolri Jenderal Tito Karnavian -- 1.0
+-f-f- HM -- 1.0
+-f-f- Jakarta-Bekasi -- 1.0
+-f-f- Liga 1 2017 -- 1.0
+-f-f- Kepala Dinas Pemuda -- 1.0
+-f-f- Manajemen Persija -- 1.0
+-f-f- Dinas Pemuda -- 1.0
+-f-f- Patriot Chandrabaga -- 1.0
+-f-f- Kapolri Jenderal Tito -- 1.0
+-f-f- Macan Kemayoran -- 1.0
+-f-f- Olahraga Kota Bekasi -- 1.0
+-f-f- Kapolri Jenderal -- 1.0
+-f-f- Olahraga Kota -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/6c5f119d9266fd503a0e5c71a19f10de.jpeg" alt="Dukungan Bek Nice untuk Guardiola di Man City" width="600" height="300" data:w="600" data:h="300"> 
+<p><strong>INILAHCOM, Nice - Pelatih Pep Guardiola tengah menjadi sorotan menyusul rangkaian hasil buruk yang menimpa tim asuhannya, Manchester City beberapa waktu terakhir ini.</strong></p> 
+<p>Sempat membawa City melaju kencang di awal musim, performa Sergio Aguero cs. justru terus menurun hingga akhirnya mereka tengah terdampar di posisi kelima klasemen sementara Liga Premier Inggris.</p> 
+<p>Hal inilah yang menarik perhatian bek Nice, Dante untuk buka suara. Pemain asal Brasil tersebut melayangkan dukungannya kepada Pep dan menyatakan sang pelatih akan meraih kesuksesan besar di musim keduanya menangani City.</p> 
+<p>"Pep adalah pelatih yang komitmen 100 persen bekerja dengan filosofinya, sehingga pemain harus memahami filosofinya 100 persen, dan tentu saja, di Inggris, cara mereka bermain sedikit lebih keras dan sangat atletis," ujar Dante seperti dikutip <em><a href="http://%20www.fourfourtwo.com/news/guardiola-will-get-it-right-manchester-city-dante" rel="nofollow">FourFourTwo</a></em></p> 
+<p>"Mungkin di tahun pertama dia merasa sulit, tetapi ketika para pemain telah beradaptasi dengan filosofi dan caranya berpikir, mereka akan terus berkembang."</p> 
+<p>"Tahun depan, segalanya akan terjadi seusai dengan apa yang ia inginkan," pungkasnya.</p> 
+<p>Dante dan Pep sebelumnya pernah bekerja bersama ketika keduanya masih bersama-sama di Bayern Muenchen pada periode 2013-2015 silam. Kerja sama keduanya sukses membuahkan dua gelar Bundesliga bagi klub berjuluk FC Hollywood tersebut.</p>
+
+
+-*-10660092
+-*-http://bola.inilah.com/read/detail/2356736/dukungan-bek-nice-untuk-guardiola-di-man-city
+
+--------------------
+
+
+-t-t- Liga Premier Inggris -- 3.850160016140098
+-t-t- Pep Guardiola -- 3.151247712048647
+-t-t- Dante -- 2.9740340670331253
+-t-t- Manchester City -- 2.9619872201388104
+-t-t- Nice -- 2.4445779859062826
+-t-t- Sergio Aguero -- 2.4198222944725916
+-t-t- Bayern Muenchen -- 1.6905656093912633
+-t-t- FC Hollywood -- 1.614349680028421
+-t-t- Brasil -- 1.1144150662193215
+-t-t- FourFourTwo -- 0.963907809018741
+-t-t- Bundesliga -- 0.8162339467989823
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Pelatih Pep -- 1.0
+-f-f- Pelatih Pep Guardiola -- 1.0
+-f-f- INILAHCOM -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/194b656e1afaf20cd67191bad0cede06.jpeg" alt="Stefano Pioli: Inter Milan Ceroboh" width="620" height="430" data:w="620" data:h="430">   
+<p>Pioli menegaskan kesiapan memperbaiki kesalahan Inter sebelum duel lawan Juventus.</p>       
+<p>Pelatih Inter Milan Stefano Pioli mengakui timnya ceroboh hingga dipaksa menelan kekalahan 2-1 dan terlempar dari Coppa Italia.</p> 
+<p>Meladeni Biancoceleste, Inter sempat tertinggal 2-0 terlebih dahulu sebelum menipiskan kedudukan melalui Marcelo Brozovic namun hal tersebut gagal menghindarkan tim dari kekalahan.</p> 
+<p><a href="http://www.goal.com/id-ID/news/1353/sepakbola-italia/2017/02/01/32185682/simone-inzaghi-lazio-tahu-cara-kalahkan-inter-milan" rel="nofollow"><strong>Simone Inzaghi: Lazio Tahu Cara Kalahkan Inter Milan</strong></a></p> 
+<p>"Inter memulai pertandingan dengan baik tetapi setelah tertinggal situasi menjadi sulit," ujarnya.</p> 
+<p>"Inter ceroboh sementara Lazio bagus saat melakukan serangan balik. Mungkin dengan pemain lengkap Inter bisa membalikkan situasi."</p> 
+<p>"Meski demikian Inter tidak mengendurkan semangat, secara fisik kami menikmati pertandingan yang bagus dan akan memperbaiki kesalahan sepanjang pekan ini."</p> 
+<p>  <a href="http://www.asroma.com/id" rel="nofollow"><img alt="" src="[BASEURL]/ddad860a10a62db47fb1a20ad4d8d922.jpeg" data:w="620" data:h="150"></a> </p>
+
+
+-*-10658558
+-*-http://www.goal.com/id-ID/news/1071/internasional/2017/02/01/32185662/stefano-pioli-inter-milan-ceroboh
+
+--------------------
+
+
+-t-t- Inter Milan -- 5.580924803312028
+-t-t- Stefano Pioli -- 2.795067554475761
+-t-t- Coppa Italia -- 2.3449268544794934
+-t-t- Simone Inzaghi -- 2.2141996897834875
+-t-t- Marcelo Brozovic -- 2.183455037158533
+-t-t- Lazio -- 1.9687736325576362
+-t-t- Juventus -- 1.2628271387547327
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Simone Inzaghi: Lazio Tahu Cara -- 1.0
+-f-f- Pelatih Inter Milan Stefano Pioli -- 1.0
+-f-f- Milan Stefano -- 1.0
+-f-f- Kalahkan Inter -- 1.0
+-f-f- Inzaghi: Lazio Tahu Cara Kalahkan Inter -- 1.0
+-f-f- Inzaghi: Lazio Tahu -- 1.0
+-f-f- Lazio Tahu Cara Kalahkan Inter Milan -- 1.0
+-f-f- Inter Milan Stefano Pioli -- 1.0
+-f-f- Lazio Tahu Cara -- 1.0
+-f-f- Simone Inzaghi: Lazio -- 1.0
+-f-f- Inzaghi: Lazio Tahu Cara Kalahkan Inter Milan -- 1.0
+-f-f- Pelatih Inter Milan -- 1.0
+-f-f- Lazio Tahu -- 1.0
+-f-f- Inzaghi: Lazio Tahu Cara Kalahkan -- 1.0
+-f-f- Milan Stefano Pioli -- 1.0
+-f-f- Inzaghi: Lazio Tahu Cara -- 1.0
+-f-f- Kalahkan Inter Milan -- 1.0
+-f-f- Inter Milan Stefano -- 1.0
+-f-f- Cara Kalahkan Inter Milan -- 1.0
+-f-f- Tahu Cara -- 1.0
+-f-f- Pelatih Inter Milan Stefano -- 1.0
+-f-f- Tahu Cara Kalahkan -- 1.0
+-f-f- Tahu Cara Kalahkan Inter -- 1.0
+-f-f- Pelatih Inter -- 1.0
+-f-f- Cara Kalahkan -- 1.0
+-f-f- Simone Inzaghi: Lazio Tahu Cara Kalahkan Inter Milan -- 1.0
+-f-f- Meladeni Biancoceleste -- 1.0
+-f-f- Lazio Tahu Cara Kalahkan -- 1.0
+-f-f- Simone Inzaghi: Lazio Tahu Cara Kalahkan Inter -- 1.0
+-f-f- Lazio Tahu Cara Kalahkan Inter -- 1.0
+-f-f- Inzaghi: Lazio -- 1.0
+-f-f- Cara Kalahkan Inter -- 1.0
+-f-f- Simone Inzaghi: Lazio Tahu -- 1.0
+-f-f- Simone Inzaghi: Lazio Tahu Cara Kalahkan -- 1.0
+-f-f- Tahu Cara Kalahkan Inter Milan -- 1.0
+-f-f- Simone Inzaghi : Lazio Tahu Cara Kalahkan Inter Milan -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/bc8cb424db6c9832b14082614ea4fcc5.jpeg" alt="Djanur bakal terapkan ilmu yang didapatkan dari kursus lisensi A AFC." width="620" height="430" data:w="620" data:h="430">   
+<p>Djanur akan kembali memimpin latihan tim Maung Bandung, petang ini, setelah selesai menjalani kursus lisensi A AFC di Bangkok.</p>       
+<p>Pelatih Persib Bandung Djadjang Nurdjaman telah menyelesaikan kursus lisensi A AFC di Bangkok, Thailand. Pelatih yang akrab disapa Djanur itu pun telah tiba di Bandung, Selasa (31/1) malam.</p> 
+<p>Menurutnya, banyak ilmu baru yang didapatkannya selama mengikuti kursus tersebut. Dia pun berencana untuk menerapkan hal itu ketika kembali melatih tim Maung Bandung.</p> 
+<p>"Banyak ilmu dan pengetahuan baru dari sana. Saya setuju dengan apa yang disampaikan instrukur (kursus pelatih AFC) katanya kalau ilmu sepakbola itu selalu berkembang. Dan memang betul, banyak hal baru yang saya dapatkan," ucap Djanur, seperti dikutip laman resmi Persib.</p> 
+<p></p> 
+<p>Salah satu hal baru yang diperoleh Djanur adalah terkait situasi permainan. Itu sudah harus diterapkan dalam setiap latihan, jadi bukan hanya dalam situasi tertentu saja seperti dulu.</p> 
+<p></p> 
+<p>"Karena sepakbola berkembang terus, untuk menambah wawasan kita kursus itu penting. Tentunya ini akan saya terapkan secara bertahap, seperti setelah pulang dari Italia dulu," jelasnya.</p> 
+<p>Rencananya, Djanur sudah kembali memimpin latihan Persib, petang ini. Kendati begitu, dia tak akan mengulang program latihan dari nol. Menyusul, dia terus menjalin komunikasi dengan asisten pelatih Persib selama mengikuti kursus di Thailand.</p> 
+<p>"Saya mengikuti terus apa yang diberikan asisten. Hari ini saya tinggal melanjutkan, dan lebih ke taktik pertandingan. Menerapkan hasil kursus," tambahnya.</p> 
+<p>Pelatih yang membawa Persib juara Indonesia Super League 2014 itu pun mengaku tak akan mengalami kesulitan dalam meramu timnya kali ini. Meski ada beberapa perubahan pemain di beberapa posisi.</p> 
+<p>"Ya skuat baru insya Allah tidak akan sulit lagi. Posisi tengah ke belakang kan skuat juara. Hanya posisi depan saja. Tapi kami punya banyak pemain berkualitas," pungkasnya.</p>
+
+
+-*-10658557
+-*-http://www.goal.com/id-ID/news/1387/nasional/2017/02/01/32186142/djadjang-nurdjaman-bakal-terapkan-ilmu-baru-di-persib
+
+--------------------
+
+
+-t-t- Djanur -- 5.688156060572777
+-t-t- Maung Bandung -- 5.559804308654676
+-t-t- A AFC -- 5.51931920860109
+-t-t- Persib Bandung -- 3.8042129486268346
+-t-t- Indonesia Super League -- 2.764103737404107
+-t-t- Djadjang Nurdjaman -- 2.5338380596951646
+-t-t- Bangkok -- 2.5252297091825184
+-t-t- Thailand -- 2.164674320652764
+-t-t- Italia -- 0.9850234213828941
+-t-t- Allah -- 0.8324423096890033
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- League 2014 -- 1.0
+-f-f- Persib Bandung Djadjang Nurdjaman -- 1.0
+-f-f- Indonesia Super League 2014 -- 1.0
+-f-f- Bandung Djadjang Nurdjaman -- 1.0
+-f-f- Super League 2014 -- 1.0
+-f-f- Pelatih Persib -- 1.0
+-f-f- Pelatih Persib Bandung Djadjang -- 1.0
+-f-f- Persib Bandung Djadjang -- 1.0
+-f-f- Pelatih Persib Bandung -- 1.0
+-f-f- Bandung Djadjang -- 1.0
+-f-f- Pelatih Persib Bandung Djadjang Nurdjaman -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/f60a12a5796e5ce429d3a44012652ca8.jpeg" alt="PSSI Sepakat Tambah Hosting Fee" width="760" height="420" data:w="760" data:h="420">   
+<em>Lima tuan rumah mendapat Rp 800 juta.</em>  Jakarta (HN) - Pengurus Persatuan Sepak Bola Seluruh Indonesia (PSSI) akhirnya memenuhi protes tuan rumah penyelenggara Piala Presiden 2017 terkait besaran 
+<em>hosting fee</em>. Mereka sepakat memberikan Rp 800 juta bagi masing-masing tuan rumah, PSS Sleman, Arema FC, Persib Bandung, Bali United, dan Madura United. 
+<p>Ketua Panitia Pelaksana Piala Presiden 2017 Iwan Budianto mengatakan, dana itu harus dimaksimalkan. Pasalnya, tuan rumah harus menyediakan keperluan tim tamu selama 14 hari menjalani kompetisi.</p> 
+<p>"Hotel minimal bintang tiga. Tuan rumah juga harus menyediakan lapangan latihan di luar <em>official training</em> (stadion). Makanan juga harus sesuai standar asupan gizi atlet," kata Iwan usai rapat bersama perwakilan tuan rumah Piala Presiden di Kantor PSSI, Kuningan, Jakarta, Selasa (31/4).</p> 
+<p>Sebelumnya, PSSI menyatakan hanya memberikan Rp 500 juta sebagai hosting fee. Namun, jumlah itu menuai protes dari beberapa tim tuan rumah. Mereka menilai anggaran itu tak cukup untuk membiayai keperluan tim tamu. Sebagai informasi, tahun lalu setiap tuan rumah mendapat bantuan dana sebesar Rp 600 juta - Rp 800 juta.</p> 
+<p>Kabar ini disambut baik tim-tim tuan rumah. Madura United misalnya, tim yang selama ini selalu mempermasalahkan hosting fee, merasa lega setelah ada keputusan ini. Hal itu diungkapkan Manajer Madura United Haruna Soemitro.<br>"Ya kami senang. Artinya PSSI mau mendengar keluhan, saran, dan masukan dari berbagai pihak. Kami sangat mengapresiasi," ujar Haruna.</p> 
+<p>Haruna optimistis Madura United dapat menjadi tuan rumah yang sukses, termasuk dalam hal menyiapkan kebutuhan tim tamu. Ia mengungkapkan bahwa pihaknya segera bergerak menentukan hotel dan lapangan latihan.</p> 
+<p>"Besok (hari ini) panitia lokal sudah mulai bergerak mencari semua yang diperlukan. Selain target juara, kami juga ingin jadi tuan rumah yang baik. Semoga tidak ada kendala berarti," kata Haruna.</p> 
+<p>Senada, CEO Bali United Yabes Tanuri yakin tak akan menemui kesulitan sebagai tuan rumah. "Kami ingin semuanya berjalan lancar. Sebenarnya tanpa tambahan dana pun kami sanggup, kalau ditambah berarti makin sanggup. Bali ini sudah biasa menampung ribuan orang setiap harinya, jadi tak ada masalah," tutur Yabes.</p> 
+<p>Tak sekadar tambahan hosting fee, PSSI juga akan menyiapkan dana transportasi kepada semua tim tamu sebesar Rp 100 juta. Khusus Persipura Jayapura dan Perseru Serui, demikian Iwan, mendapat 25 persen lebih banyak yaitu sebesar Rp 125 juta dengan pertimbangan jarak tempuh mereka lebih jauh.</p> 
+<p>"Dari Papua ke Pulau Jawa itu sangat jauh. Kami rasa ini cukup fair. Kami juga sudah berbicara dengan klub peserta lainnya, dan mereka tidak ada masalah," tambah Iwan.</p> 
+<p>Terkait match fee, panitia menyiapkan Rp 125 juta untuk pemenang dan 75 juta bagi tim yang kalah. Jika pertandingan berakhir imbang, maka masing-masing akan mendapat Rp 100 juta. "Itu akan berlaku dari babak grup sampai perempat final. Kalau tim-tim yang masuk semifinal, kan sudah dipastikan dapat hadiah," ujarnya.</p> 
+<p>Pembukaan acara pembukaan Piala Presiden musim ini pun dipastikan tidak berlangsung meriah seperti tahun lalu. Minimnya persiapan membuat panitia kesulitan. Panitia sendiri tengah menunggu konfirmasi kehadiran Presiden RI Joko Widodo.</p> 
+<p>"Salah satu penyebab diundurnya Piala Presiden dari 31 januari ke 4 Februari adalah menyesuaikan dengan jadwal presiden. Nah sekarang posisinya kami masih menunggu," tandas Iwan.</p> 
+<br>  Reportase : Annas Furqon Hakim   Editor : Admin
+
+
+-*-10658134
+-*-http://www.harnas.co/2017/02/01/pssi-sepakat-tambah-hosting-fee
+
+--------------------
+
+
+-t-t- Madura United -- 9.029167075647974
+-t-t- Piala Presiden 2017 -- 8.281965278469416
+-t-t- Persatuan Sepak Bola Seluruh Indonesia -- 7.1242627326495525
+-t-t- Bali United -- 4.520522768407889
+-t-t- Presiden RI Joko Widodo -- 3.5777736946795042
+-t-t- Iwan Budianto -- 3.1283484728206563
+-t-t- Kantor PSSI -- 3.0673694439509145
+-t-t- Haruna Soemitro -- 2.6968276601914045
+-t-t- PSS Sleman -- 2.535967086083772
+-t-t- Arema FC -- 2.53162343812677
+-t-t- Persib Bandung -- 2.528009415274685
+-t-t- Jakarta -- 2.486856080591898
+-t-t- Yabes Tanuri -- 2.2393314307356467
+-t-t- Persipura Jayapura -- 1.878959027966123
+-t-t- Perseru Serui -- 1.8727954368904218
+-t-t- Pulau Jawa -- 1.8307357128845412
+-t-t- Kuningan -- 1.1766996246976984
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- CEO Bali -- 1.0
+-f-f- HN -- 1.0
+-f-f- United Haruna Soemitro -- 1.0
+-f-f- Piala Presiden 2017 Iwan Budianto -- 1.0
+-f-f- Pengurus Persatuan Sepak Bola -- 1.0
+-f-f- Ketua Panitia Pelaksana Piala -- 1.0
+-f-f- Piala Presiden 2017 Iwan -- 1.0
+-f-f- Presiden 2017 Iwan -- 1.0
+-f-f- Pelaksana Piala Presiden 2017 Iwan Budianto -- 1.0
+-f-f- United Yabes -- 1.0
+-f-f- Bali United Yabes -- 1.0
+-f-f- Panitia Pelaksana Piala Presiden 2017 Iwan -- 1.0
+-f-f- Madura United Haruna Soemitro -- 1.0
+-f-f- Pelaksana Piala Presiden 2017 Iwan -- 1.0
+-f-f- Ketua Panitia Pelaksana Piala Presiden -- 1.0
+-f-f- United Yabes Tanuri -- 1.0
+-f-f- Pelaksana Piala Presiden 2017 -- 1.0
+-f-f- Panitia Pelaksana Piala -- 1.0
+-f-f- Pelaksana Piala Presiden -- 1.0
+-f-f- CEO Bali United -- 1.0
+-f-f- Bali United Yabes Tanuri -- 1.0
+-f-f- Manajer Madura -- 1.0
+-f-f- Pengurus Persatuan Sepak Bola Seluruh -- 1.0
+-f-f- Ketua Panitia Pelaksana Piala Presiden 2017 -- 1.0
+-f-f- Manajer Madura United -- 1.0
+-f-f- Ketua Panitia Pelaksana Piala Presiden 2017 Iwan -- 1.0
+-f-f- Pelaksana Piala -- 1.0
+-f-f- Artinya PSSI -- 1.0
+-f-f- Pengurus Persatuan -- 1.0
+-f-f- Khusus Persipura -- 1.0
+-f-f- Khusus Persipura Jayapura -- 1.0
+-f-f- Pengurus Persatuan Sepak -- 1.0
+-f-f- Ketua Panitia -- 1.0
+-f-f- 2017 Iwan -- 1.0
+-f-f- Pengurus Persatuan Sepak Bola Seluruh Indonesia -- 1.0
+-f-f- CEO Bali United Yabes -- 1.0
+-f-f- Manajer Madura United Haruna -- 1.0
+-f-f- Manajer Madura United Haruna Soemitro -- 1.0
+-f-f- United Haruna -- 1.0
+-f-f- 2017 Iwan Budianto -- 1.0
+-f-f- Madura United Haruna -- 1.0
+-f-f- Ketua Panitia Pelaksana Piala Presiden 2017 Iwan Budianto -- 1.0
+-f-f- CEO Bali United Yabes Tanuri -- 1.0
+-f-f- Presiden 2017 Iwan Budianto -- 1.0
+-f-f- Panitia Pelaksana -- 1.0
+-f-f- Ketua Panitia Pelaksana -- 1.0
+-f-f- Panitia Pelaksana Piala Presiden 2017 Iwan Budianto -- 1.0
+-f-f- Dari Papua -- 1.0
+-f-f- Panitia Pelaksana Piala Presiden -- 1.0
+-f-f- Panitia Pelaksana Piala Presiden 2017 -- 1.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img src="[BASEURL]/36c41fcf1cb07a0701d2044f73a428f6.jpeg" alt="Tambahan Asisten Tunggu Izin Milla" width="760" height="420" data:w="760" data:h="420">  
+<span><strong>JAKARTA (HN)</strong> -</span> PSSI berencana menambah satu asisten lokal yang akan mendampingi pelatih Timnas Indonesia U-22 Luis Milla. Kendati demikian, konsep ini harus melalui persetujuan Milla yang akan datang ke Tanah Air pada 8 Februari 2017. 
+<p>Awalnya, Milla berencana didampingi tiga asisten, salah satunya Bima Sakti yang baru ditunjuk PSSI akhir pekan lalu. Dua lainnya merupakan pilihan Milla yang juga berasal dari Spanyol yakni Miguel Gandis dan Eduardo. Kendati demikian, beredar wacana Nil Maizar akan dimasukkan ke tim pelatih.</p> 
+<p>"Sampai saat ini belum ada penambahan untuk asisten pelatih lokal. Nanti setelah dia (Milla) tiba di Jakarta, kami akan sodorkan beberapa nama. Coach Nil Maizar juga belum pasti. Milla punya wewenang sepenuhnya untuk memilih asisten pelatih," kata Sekjen PSSI Ade Wellington, Senin (31/1).</p> 
+<br>  Reportase : Annas Furqon Hakim   Editor : Admin
+
+
+-*-10658133
+-*-http://www.harnas.co/2017/02/01/tambahan-asisten-tunggu-izin-milla
+
+--------------------
+
+
+-t-t- Timnas Indonesia U-22 -- 3.9705863187333525
+-t-t- Nil Maizar -- 3.775907156276813
+-t-t- Luis Milla -- 3.2802173303113533
+-t-t- PSSI -- 3.236954164846023
+-t-t- Tanah Air -- 2.347781660873152
+-t-t- Bima Sakti -- 2.2193486070387816
+-t-t- Spanyol -- 1.0405741592062014
+-t-t- Eduardo -- 1.0216336328795668
+-t-t- Jakarta -- 0.9160657957377997
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- PSSI Ade -- 1.0
+-f-f- Sekjen PSSI Ade Wellington -- 1.0
+-f-f- U-22 Luis -- 1.0
+-f-f- HN -- 1.0
+-f-f- Coach Nil -- 1.0
+-f-f- Indonesia U-22 Luis -- 1.0
+-f-f- Ade Wellington -- 1.0
+-f-f- Sekjen PSSI -- 1.0
+-f-f- Miguel Gandis -- 1.0
+-f-f- U-22 Luis Milla -- 1.0
+-f-f- Sekjen PSSI Ade -- 1.0
+-f-f- Coach Nil Maizar -- 1.0
+-f-f- Timnas Indonesia U-22 Luis Milla -- 1.0
+-f-f- PSSI Ade Wellington -- 1.0
+-f-f- Timnas Indonesia U-22 Luis -- 1.0
+-f-f- Indonesia U-22 Luis Milla -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img width="741" height="486" src="[BASEURL]/4798f202acf0e2bdaf09a2a96ac2534d.jpeg" alt="" title="Bauza MArca" data:w="741" data:h="486">Pelatih timnas Argentina, Edgardo Bauza. (Marca)  
+<p><strong>Football5star.com</strong>, Indonesia —&nbsp; Argentina, Edgardo Bauza, berandai-andai mengenai kiprah di Piala Dunia 2018. Dia berambisi menjadi juara bersama <a href="https://www.football5star.com/player/lionel-messi/" rel="nofollow">Lionel Messi</a>.</p> 
+<p>Kendati dipenuhi dengan banyak pemain bintang, Argentina belum mampu menjadi juara di turnamen besar. Di tiga ajang terakhir, mereka selalu dinis di posisi kedua.</p> 
+<p>Tiga ajang itu adalah Piala Dunia 2014, Copa America 2015, dan Copa America Centenario tahun lalu. Usai Copa America yang terakhir, Messi bahkan sempat memutuskan untuk pensiun.</p> 
+<p>La Pulga akhirnya batal gantung sepatu dari timnas setelah dibujuk oleh banyak orang. Kini, Messi sedang berusaha untul meloloskan Albiceleste ke Rusia tahun depan.</p> 
+<p>Argentina kini belum tampil meyakinkan di Kualifikasi Piala Dunia zona Conmebol, mereka masih tertahan di posisi lima dengan raihan 19 poin. Kendati demikian, Bauza sudah mengumbar ambisi menjadi juara dunia.</p> 
+<p>“Bersama Messi, yang saya pikirkan adalah memenangi Piala Dunia 2018,” tegas Bauza di Marca.</p> 
+<p>Bauza terus memanggil pemain yang sama kendati Argentina belum tampil impresif. Dia melakukan pembelaan.</p> 
+<p>“Lucas Biglia dan Javier Mascherano akan bermain di tengah dengan Angel Di Maria. <a href="https://www.football5star.com/player/gonzalo-higuain/" rel="nofollow">Gonzalo Higuain</a> dan Lionel Messi di depan,” kata Bauza.</p> 
+<p>“Tak benar bahwa saya selalu memanggil pemain yang sama, saya hanya memanggil pemain terbaik,” imbuhnya.</p>   
+<span>BERITA TERKINI</span>
+
+
+-*-10658051
+-*-https://www.football5star.com/international/argentina-misi-edgardo-bauza-bareng-lionel-messi-di-piala-dunia-2018/
+
+--------------------
+
+
+-t-t- Piala Dunia 2018 -- 7.084613482707716
+-t-t- Edgardo Bauza -- 5.941518300889678
+-t-t- Argentina -- 5.710570316791344
+-t-t- Lionel Messi -- 4.799129823579109
+-t-t- Piala Dunia 2014 -- 3.8858849664063597
+-t-t- Copa America 2015 -- 3.784473619849044
+-t-t- Copa America Centenario -- 3.7561170130796477
+-t-t- Angel Di Maria -- 2.715813473439403
+-t-t- Marca -- 2.215483478183395
+-t-t- La Pulga -- 2.161300973706758
+-t-t- Lucas Biglia -- 1.755200568697635
+-t-t- Javier Mascherano -- 1.7446885658050353
+-t-t- Gonzalo Higuain -- 1.70567551102162
+-t-t- Indonesia -- 1.2867523249057422
+-t-t- Albiceleste -- 1.0317675607056906
+-t-t- Rusia -- 1.0263132955872107
+-t-t- Conmebol -- 0.9927836723947577
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Usai Copa America -- 1.0
+-f-f- Bersama Messi -- 1.0
+-f-f- BERITA TERKINI -- 1.0
+-f-f- Kualifikasi Piala Dunia -- 1.0
+-f-f- Usai Copa -- 1.0
+-f-f- Kualifikasi Piala -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3cd840fb0f7ee531580b8f47cdcc4b7d.jpeg" alt="Arsenal Dikalahkan Watford, Wenger: Karena Masalah Mental" data:w="620" data:h="354">   
+<p>Pemain Watford Younes Kaboul, melakukan selebrasi setelah mencetak gol ke gawang Arsenal pada pertandingan Liga Inggris di stadion Emirates, London, 1 Februari 2017. AP/Frank Augstein</p>    
+<p><span><strong>TEMPO.CO</strong></span>, <span><strong>Jakarta</strong></span> - Manajer Arsenal, Arsene Wenger, menilai timnya tak memiliki mental yang cukup kuat saat ditekuk Watford 1-2 di kandang sendiri, Stadion Emirates, Rabu dini hari tadi. Menurut dia, Arsenal baru menunjukan mentalnya pada babak kedua. </p> 
+<p>"Jelas sekali kami kalah dan kami tak cukup tajam. Sepertinya itu lebih karena faktor mental bahwa kami tak siap menghadapi tandangan ini," ujarnya.</p> 
+<p>"Kami tak beruntung kemasukan gol pertama dari Watford melalui tendangan bebas pelan yang sempat membentur pemain belakang kami."</p> 
+<p>"Butuh beberapa saat bagi kami untuk menunjukan permainan. Pada babak kedua kami bermain seperti biasanya dan kami tak beruntuk karena tak mendapatkan apa-apa dari laga itu," lanjutnya. </p> 
+<p>Arsenal ditumbangkan Watford melalui 2 gol cepat pada awal babak pertama. Bek Watford, Younes Kaboul, mencetak gol pada menit ke-10 melalui tendangan bebas. Bola sepakan Kaboul sempat membentur kaki Aaron Ramsey sehingga mengecoh penjaga gawang Petr Cech.</p> 
+<p>Tiga menit berselang, Watford menambah keunggulan melalui kaki Troy Deeney memanfaatkan bola setelah Petr Cech menggagalkan sepakan Etienne Capoue.</p> 
+<p>Arsenal baru bisa memperkecil kedudukan 5 menit sebelum laga berakhir melalui Alex Iwobi. Penyerang muda Inggris itu menanduk umpan lambung yang dilepaskan Alexis Sanchez dari sisi kiri pertahanan Watford. </p>
+
+
+-*-10657152
+-*-https://www.tempo.co/read/news/2017/02/01/099841846/Arsenal-Dikalahkan-Watford-Wenger-Karena-Masalah-Mental
+
+--------------------
+
+
+-t-t- Watford -- 7.198787932460132
+-t-t- Arsenal -- 5.50856859933777
+-t-t- Younes Kaboul -- 4.922518280109921
+-t-t- Petr Cech -- 3.545899899907812
+-t-t- Liga Inggris -- 2.808598941689854
+-t-t- Stadion Emirates -- 2.6694073390069804
+-t-t- Arsene Wenger -- 2.450759367303588
+-t-t- Aaron Ramsey -- 1.8334334289220218
+-t-t- Troy Deeney -- 1.7611779535711098
+-t-t- Etienne Capoue -- 1.7222116986687768
+-t-t- Alex Iwobi -- 1.6683455104109421
+-t-t- Alexis Sanchez -- 1.6266791319088112
+-t-t- London -- 1.2592144773778666
+-t-t- Jakarta -- 1.236154814479204
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Frank Augstein -- 1.0
+-f-f- Watford Younes Kaboul -- 1.0
+-f-f- Watford 1-2 -- 1.0
+-f-f- Bek Watford -- 1.0
+-f-f- Watford Younes -- 1.0
+-f-f- Pemain Watford Younes Kaboul -- 1.0
+-f-f- Pemain Watford Younes -- 1.0
+-f-f- Manajer Arsenal -- 1.0
+-f-f- Pemain Watford -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+

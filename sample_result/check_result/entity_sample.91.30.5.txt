@@ -1,0 +1,1212 @@
+-*-<img src="[BASEURL]/9ad4b616677f4cc3d380b81c762abe13.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Tim SAR gabungan menemukan nelayan yang dinyatakan hilang di Perairan Kolaka Utara, atas nama Muhamadiah (48) dalam keadaan meninggal, Sabtu. 
+<p>Kepala Humas Basarnas Kendari, Wahyudi di Kendari, Sabtu, mengatakan tim SAR gabungan berhasil menemukan korban sekitar pukul 09.00 Wita.</p> 
+<p>"Jenazah ditemukan diantara perairan Wotu dan perairan Tolala," katanya.</p> 
+<p>Saat ini, katanya, korban sudah dievakuasi ke Kecamatan Wotu Kabupaten Luwuk Timur dan langsung diserahkan kepada pihak keluarga.</p> 
+<p>"Dengan ditemukannya korban maka Operasi terhadap satu orang nelayan hilang di perairan tolala dinyatakan selesai dan ditutup," katanya.</p> 
+<p>Unsur yang terlibat dalam pencarian Polsek Wotu, Polsek Tolala, BPBD Luwuk Timur, BPBD Wotu, SAR Malili, SAR USN Kolaka, Kapal Nelayan Setempat.</p> 
+<p>Sebelumnya pada (16/5) Basarnas terima info dari Kantor SAR Makassar yang mendapat informadi dari bapak Salim anggota PMI Luwuk Timur bahwa pada pukul 04.00 Wita dua orang nelayan dgn menggunakan longboat atas nama Muhamadiah (Ayah/48) dan Rafli (Anak/Laki/23) dalam perjalanan pulang melaut di perairan Tolala Kolaka Utara dan Rafli tertidur di perahu ketika terbangun ayahnya sudah tidak berada di atas perahu mereka.</p> 
+<p>Sehubungan dengan lokasi kejadian musibah memasuki wilayah kerja Kantor SAR Kendari, pada pukul 20.30 wita tim Rescue Pos SAR Kolaka diberangkatkan menuju TKM dengan membawa 1 unit Rescue car, 1 unit rubber Boat dan perlengkapan pendukung lainnya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309463
+-*-http://sultra.antaranews.com/berita/288401/jenazah-nelayan-hilang-di-kolaka-utara-ditemukan
+
+--------------------
+
+
+-t-t- Luwuk Timur -- 6.303144241411146
+-t-t- Kendari -- 4.652388133414969
+-t-t- Kantor SAR -- 4.638567780929176
+-t-t- Kolaka Utara -- 4.3908001403974195
+-t-t- Tim SAR -- 3.527725001191912
+-t-t- Tolala -- 3.1349395455221307
+-t-t- Kecamatan Wotu -- 2.842021655949244
+-t-t- Basarnas -- 2.2494571518986484
+-t-t- Muhamadiah -- 2.2144367028067538
+-t-t- Wita -- 2.1597853394032436
+-t-t- Kapal Nelayan -- 2.046146609894975
+-t-t- Rafli -- 1.8498209044835967
+-t-t- Rescue -- 1.68622948299587
+-t-t- Wahyudi -- 1.235910450051927
+-t-t- Operasi -- 1.1017735213630073
+-t-t- Salim -- 0.980289536681588
+-t-t- Ayah -- 0.9420347357633491
+-t-t- Anak -- 0.9359571134559155
+-t-t- Laki -- 0.9344438444027201
+-t-t- TKM -- 0.8406087155572184
+-t-t- Boat -- 0.8265809138053952
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- USN Kolaka -- 1.0
+-f-f- Humas Basarnas -- 1.0
+-f-f- SAR Kolaka -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Perairan Kolaka Utara -- 1.0
+-f-f- Wotu Kabupaten Luwuk Timur -- 1.0
+-f-f- PMI Luwuk -- 1.0
+-f-f- Pos SAR -- 1.0
+-f-f- Kantor SAR Kendari -- 1.0
+-f-f- Rescue Pos SAR -- 1.0
+-f-f- Kapal Nelayan Setempat -- 1.0
+-f-f- Wotu Kabupaten -- 1.0
+-f-f- Polsek Wotu -- 1.0
+-f-f- Polsek Tolala -- 1.0
+-f-f- Perairan Kolaka -- 1.0
+-f-f- Rescue Pos SAR Kolaka -- 1.0
+-f-f- SAR Kendari -- 1.0
+-f-f- Kecamatan Wotu Kabupaten Luwuk Timur -- 1.0
+-f-f- Kepala Humas Basarnas -- 1.0
+-f-f- SAR Makassar -- 1.0
+-f-f- Pos SAR Kolaka -- 1.0
+-f-f- SAR USN -- 1.0
+-f-f- Rescue Pos -- 1.0
+-f-f- Kantor SAR Makassar -- 1.0
+-f-f- Basarnas Kendari -- 1.0
+-f-f- Kepala Humas -- 1.0
+-f-f- SAR Malili -- 1.0
+-f-f- Wotu Kabupaten Luwuk -- 1.0
+-f-f- Tolala Kolaka Utara -- 1.0
+-f-f- Kabupaten Luwuk -- 1.0
+-f-f- Kecamatan Wotu Kabupaten Luwuk -- 1.0
+-f-f- Humas Basarnas Kendari -- 1.0
+-f-f- Kecamatan Wotu Kabupaten -- 1.0
+-f-f- BPBD Wotu -- 1.0
+-f-f- BPBD Luwuk Timur -- 1.0
+-f-f- Tolala Kolaka -- 1.0
+-f-f- Kabupaten Luwuk Timur -- 1.0
+-f-f- PMI Luwuk Timur -- 1.0
+-f-f- Kepala Humas Basarnas Kendari -- 1.0
+-f-f- SAR USN Kolaka -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- BPBD Luwuk -- 1.0
+-f-f- Nelayan Setempat -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0b7fda29dca7ac9884d64a9c8774d671.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Perseroan Terbatas Asuransi Jasa Indonesia Cabang Kendari, mengasuransikan ternak sapi betina di Kabupaten Konawe Selatan dan Kabupaten Kolaka. 
+<p>Jumlah sapi betina yang diasuransikan sebanyak 107 ekor di Konawe Selatan dan 80 ekor di Kabupaten Kolaka, kata Pimpinan PT Jasa Asuransi Indonesia (Jasindo) Cabang Kendari Yogi Nursetyo di Kendari, Sabtu.</p> 
+<p>Menurut Yogi Nursetyo, jumlah tersebut masih sementara karena pendataan terus dilakukan.<br>Distribusi asuransi ternak sapi pada tahun 2016, kata Yogi, belum maskimal karena beberapa kendala, antara lain, program tersebut berjalan di akhir tahun 2016.<br>Ia mengharapkan koordinasi dengan pihak terkait, yakni dinas pertanian dan peternakan tingkat provinsi maupun tingkat kabupaten/kota berjalan baik.</p> 
+<p>Ternak sapi yang menjadi sasaran asuransi yang dibiayai pemerintah adalah sapi betina, sedangkan sapi jantan tidak mendapat subsidi dari negara.</p> 
+<p>Peternak menyetor premi asuransi sapi betina sebanyak Rp40 ribu, sedangkan subsidi dari pemerintah sebanyak Rp160 ribu.<br>Sapi jantan sepenuhnya menjadi tanggungan pemilik atau tidak ada subsidi dari pemerintah.<br>Jasindo mengasuransikan ternak sapi berdasarkan data yang diterima dari dinas pertanian dan peternakan tingkat kabupaten/kota.</p> 
+<p>"Realisasi asuransi ternak sapi masih terhitung rendah daripada populasi sapi yang mencapai puluhan ribu ekor," ujarnya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309473
+-*-http://sultra.antaranews.com/berita/288402/jasindo-asuransikan-ternak-sapi-betina-konawe-selatan
+
+--------------------
+
+
+-t-t- Cabang Kendari -- 5.548954429722904
+-t-t- Yogi Nursetyo -- 5.077957644469615
+-t-t- Kabupaten Kolaka -- 4.915116299584224
+-t-t- Kabupaten Konawe Selatan -- 4.104939373078788
+-t-t- Perseroan Terbatas -- 2.6144735983368013
+-t-t- Jasindo -- 2.071735492021394
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Perseroan Terbatas Asuransi Jasa Indonesia Cabang Kendari -- 1.0
+-f-f- Asuransi Indonesia -- 1.0
+-f-f- PT Jasa Asuransi Indonesia -- 1.0
+-f-f- Terbatas Asuransi Jasa Indonesia Cabang -- 1.0
+-f-f- Jasa Asuransi -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Kendari Yogi -- 1.0
+-f-f- Asuransi Jasa Indonesia Cabang Kendari -- 1.0
+-f-f- Terbatas Asuransi Jasa Indonesia Cabang Kendari -- 1.0
+-f-f- Indonesia Cabang -- 1.0
+-f-f- Terbatas Asuransi Jasa -- 1.0
+-f-f- Terbatas Asuransi Jasa Indonesia -- 1.0
+-f-f- Perseroan Terbatas Asuransi Jasa -- 1.0
+-f-f- Pimpinan PT Jasa Asuransi Indonesia -- 1.0
+-f-f- Menurut Yogi -- 1.0
+-f-f- Jasa Asuransi Indonesia -- 1.0
+-f-f- Terbatas Asuransi -- 1.0
+-f-f- Cabang Kendari Yogi Nursetyo -- 1.0
+-f-f- Menurut Yogi Nursetyo -- 1.0
+-f-f- Indonesia Cabang Kendari -- 1.0
+-f-f- Jasa Indonesia Cabang Kendari -- 1.0
+-f-f- Asuransi Jasa Indonesia -- 1.0
+-f-f- Pimpinan PT Jasa -- 1.0
+-f-f- Pimpinan PT Jasa Asuransi -- 1.0
+-f-f- Asuransi Jasa -- 1.0
+-f-f- Jasa Indonesia -- 1.0
+-f-f- Perseroan Terbatas Asuransi -- 1.0
+-f-f- Cabang Kendari Yogi -- 1.0
+-f-f- Asuransi Jasa Indonesia Cabang -- 1.0
+-f-f- PT Jasa -- 1.0
+-f-f- Perseroan Terbatas Asuransi Jasa Indonesia Cabang -- 1.0
+-f-f- Kendari Yogi Nursetyo -- 1.0
+-f-f- Perseroan Terbatas Asuransi Jasa Indonesia -- 1.0
+-f-f- Jasa Indonesia Cabang -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Pimpinan PT -- 1.0
+-f-f- PT Jasa Asuransi -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/52c21d7515e84b90dc80ee8d9fbb1d18.jpeg" data:w="600" data:h="400" />   Unaaha, Antara Sultra - Pemerintah Kabupaten Konawe, Sulawesi Tenggara, berkomitmen untuk mendaftarkan seluruh honorer atau tenaga kerja non-PNS lingkup Pemda Konawe menjadi peserta Badan Penyelenggara Jaminan Sosial (BPJS) Ketenagakerjaan. 
+<p>Komitmen Pemda Konawe tersebut tertuang dalam penandatangan kerja sama antara Pemda Konawe dengan BPJS Ketenagakerjaan Kendari yang dilakukan Sekda Konawe, Ridwan Lamuru dan Kepala BPJS Ketenagakerjaan Kendari, La Uno, di Unaaha, yang dirangkaikan Rakor bersama, Jumat.</p> 
+<p>Ridwan Lamuru menginstruksikan seluruh kepala satuan kerja perangkat daerah (SKPD) dan camat untuk melakukan pendataan tenaga honorer yang secara riil bekerja di lingkup instansinya.</p> 
+<p>"Data riil itu selanjutnya nanti akan didaftarkan untuk mendapatkan perlindungan BPJS Ketenagakerjaan," katanya.</p> 
+<p>Sekda juga menjelaskan bahwa seluruh sektor pekerja harus mendapatkan perlindungan pekerja, baik yang penerima upah, bukan penerima upah, maupun pekerja konstruksi.</p> 
+<p>"Termasuk para pekerja harian lepas, juga selayaknya mendapatkan perlindungan jaminan sosial," katanya.</p> 
+<p>Sementara itu, La Uno dalam sambutannya sangat mengapresiasi perhatian Pemkab Konawe terhadap perlindungan jaminan sosial ketenagakerjaan bagi tenaga honorer di daerah itu.</p> 
+<p>"Karena jaminan itu merupakan hak setiap tenaga kerja untuk mendapatkan perlindungan," katanya.</p> 
+<p>Dikatakan, tenaga honorer nantinya akan didaftarkan dua program yaitu jaminan kecelakaan kerja dan jaminan kematian.</p> 
+<p>"Kepesertaan BPJS Ketenagakerjaan menjadi penting agar para pegawai honorer bisa mendapatkan Jaminan Kecelakaan Kerja ataupun Jaminan Kematian," katanya.</p> 
+<p>Dijelaskan, ketentuan kewajiban menjadi peserta itu diatur dalam Peraturan Presiden Nomor 109 Tahun 2013 tentang Tahapan Kepesertaan Program Jaminan Sosial. Perpres tersebut merupakan amanat dari Undang-Undang Nomor 40 Tahun 2004 tentang Sistem Jaminan Sosial Nasional dan Undang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara Jaminan Sosial.</p> 
+<p>Antusias peserta rakor rersebut terlihat pada sesi diskusi, banyak SKPD yang sangat tertarik program BPJS Ketenagakerjaan. Bahkan para camat juga menginginkan agar para kepala desa dan aparat desa bisa juga mendapatkan perlindungan. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309486
+-*-http://sultra.antaranews.com/berita/288395/pemda-konawe-daftarkan-honorer-kepesertaan-bpjs-ketenagakerjaan
+
+--------------------
+
+
+-t-t- Badan Penyelenggara Jaminan Sosial -- 9.285870267257492
+-t-t- BPJS Ketenagakerjaan Kendari -- 9.025484075139232
+-t-t- Pemda Konawe -- 7.5094722145388175
+-t-t- Ridwan Lamuru -- 4.7767204121766005
+-t-t- La Uno -- 4.461707428545864
+-t-t- Undang-Undang Nomor -- 3.500826135243778
+-t-t- Kabupaten Konawe -- 2.6179761150861722
+-t-t- Sulawesi Tenggara -- 2.6077607432752314
+-t-t- Unaaha -- 2.5112449472995544
+-t-t- Sekda -- 2.3167171478847677
+-t-t- SKPD -- 1.9995753157340403
+-t-t- Kecelakaan Kerja -- 1.8647581087394351
+-t-t- Perpres -- 0.8900326274474573
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Peraturan Presiden -- 1.0
+-f-f- Undang-Undang Nomor 40 Tahun -- 1.0
+-f-f- Nomor 109 Tahun -- 1.0
+-f-f- Kepesertaan Program Jaminan -- 1.0
+-f-f- Sekda Konawe -- 1.0
+-f-f- Nomor 109 Tahun 2013 -- 1.0
+-f-f- Presiden Nomor 109 Tahun -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Presiden Nomor 109 Tahun 2013 -- 1.0
+-f-f- Tahapan Kepesertaan Program Jaminan Sosial -- 1.0
+-f-f- Sistem Jaminan Sosial Nasional -- 1.0
+-f-f- Nomor 40 Tahun 2004 -- 1.0
+-f-f- Program Jaminan -- 1.0
+-f-f- Peraturan Presiden Nomor 109 Tahun 2013 -- 1.0
+-f-f- Undang-Undang Nomor 40 Tahun 2004 -- 1.0
+-f-f- Kepala BPJS Ketenagakerjaan -- 1.0
+-f-f- Pemerintah Kabupaten -- 1.0
+-f-f- Nomor 109 -- 1.0
+-f-f- Jaminan Kecelakaan Kerja -- 1.0
+-f-f- Tahapan Kepesertaan Program -- 1.0
+-f-f- Jaminan Kecelakaan -- 1.0
+-f-f- Nomor 24 -- 1.0
+-f-f- Undang-Undang Nomor 24 Tahun -- 1.0
+-f-f- Undang-Undang Nomor 40 -- 1.0
+-f-f- Kepala BPJS Ketenagakerjaan Kendari -- 1.0
+-f-f- Peraturan Presiden Nomor 109 Tahun -- 1.0
+-f-f- Sistem Jaminan -- 1.0
+-f-f- Kepesertaan Program -- 1.0
+-f-f- Sosial Nasional -- 1.0
+-f-f- Sistem Jaminan Sosial -- 1.0
+-f-f- Kepesertaan BPJS -- 1.0
+-f-f- Komitmen Pemda -- 1.0
+-f-f- Nomor 24 Tahun 2011 -- 1.0
+-f-f- Undang-Undang Nomor 24 Tahun 2011 -- 1.0
+-f-f- Peraturan Presiden Nomor -- 1.0
+-f-f- Kepala BPJS -- 1.0
+-f-f- Kepesertaan Program Jaminan Sosial -- 1.0
+-f-f- Presiden Nomor 109 -- 1.0
+-f-f- Jaminan Sosial Nasional -- 1.0
+-f-f- Pemkab Konawe -- 1.0
+-f-f- Tahapan Kepesertaan Program Jaminan -- 1.0
+-f-f- Pemerintah Kabupaten Konawe -- 1.0
+-f-f- Tahapan Kepesertaan -- 1.0
+-f-f- Nomor 40 Tahun -- 1.0
+-f-f- Peraturan Presiden Nomor 109 -- 1.0
+-f-f- Jaminan Kematian -- 1.0
+-f-f- Kepesertaan BPJS Ketenagakerjaan -- 1.0
+-f-f- Nomor 40 -- 1.0
+-f-f- non-PNS -- 1.0
+-f-f- Rakor -- 1.0
+-f-f- Presiden Nomor -- 1.0
+-f-f- Undang-Undang Nomor 24 -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Program Jaminan Sosial -- 1.0
+-f-f- Komitmen Pemda Konawe -- 1.0
+-f-f- Nomor 24 Tahun -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/530a1296928905b91402b0043c69f758.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Perum Bulog Divisi Regional (Divre) Sulawesi Tenggara (Sultra), mengimbau kepada masyarakat di daerah itu untuk ikut berpatisipasi membantu gerakan stabilisasi pangan yang dilaksanakan pemerintah. 
+<p>Kepala Divre Bulog Sultra La ode Amijaya Kamaluddin di Kendari, Jumat, mengatakan gerakan itu tujuannya menekan lonjakan harga pangan di pasaran.</p> 
+<p>"Harapan kita gerakan ini bisa menekan harga utamanya menjelang bulan puasa Ramadhan hingga lebaran Idul Fitri," katanya.</p> 
+<p>Ia mengaku, dalam gerakan ini pihaknya melibatkan masyarakat melalui rumah pangan kita (RPK) yang tersebar di seluruh Sultra yang berjumlah 267 unit.</p> 
+<p>"Beberapa komoditas yang dijual diantaranya adalah beras jenis medium dan premium, gula pasir, minyak goreng, tepung terigu, bawang merah dan bawang putih," katanya.</p> 
+<p>Terkait stok pangan yang dimiliki bulog kata Amijaya, khusus untuk beras mampu bertahan hingga Januari 2018 untuk kebutuhan penyaluran beras sejahtera.</p> 
+<p>"Gula dan minyak goreng juga kita memiliki stok yang banyak bisa bertahan hinga lebaran idul adha," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309487
+-*-http://sultra.antaranews.com/berita/288400/bulog-sultra-imbau-masyarakat-dukung-stabilisasi-pangan
+
+--------------------
+
+
+-t-t- Sultra -- 4.777141096005198
+-t-t- Perum Bulog -- 2.608301599660229
+-t-t- Kendari -- 2.486771973290886
+-t-t- Divre -- 2.480232809512105
+-t-t- Idul Fitri -- 2.1457344401483787
+-t-t- Amijaya -- 2.082586300263706
+-t-t- Ramadhan -- 1.0841209693842204
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Sultra La -- 1.0
+-f-f- Divre Bulog -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Divre Bulog Sultra -- 1.0
+-f-f- Bulog Divisi -- 1.0
+-f-f- Amijaya Kamaluddin -- 1.0
+-f-f- Bulog Sultra La -- 1.0
+-f-f- Perum Bulog Divisi -- 1.0
+-f-f- Kepala Divre Bulog Sultra La -- 1.0
+-f-f- Bulog Sultra -- 1.0
+-f-f- Perum Bulog Divisi Regional -- 1.0
+-f-f- Kepala Divre Bulog Sultra -- 1.0
+-f-f- Divisi Regional -- 1.0
+-f-f- Kepala Divre Bulog -- 1.0
+-f-f- Sulawesi Tenggara -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Divre Bulog Sultra La -- 1.0
+-f-f- Bulog Divisi Regional -- 1.0
+-f-f- Kepala Divre -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a0f2c5cde416331866a9c4a7486d0d2d.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Pemerintah Provinsi Sulawesi Tenggata (Sultra), bersemangat melakulam promosikan hasil kerajinan anyaman di daerah itu agar lebih dikenal luas. 
+<p>Kepala Dinas Perindag Sultra, Sitti Saleha, di Kendari, Sabtu, mengatakan bentuk kerajinan anyaman memerlukan dukungan promosi karena tidak banyak dikenal atau kurang populer di kalangan konsumen pecinta seni kerajinan.</p> 
+<p>"Promosi dilakukan dengan mengikuti berbagai pameran pembangunan baik skala daerah, regional dan nasional," katanya.</p> 
+<p>Dikatakan, anyaman adalah salah satu bentuk kerajinan tertua yang dapat diketemukan di hampir seluruh daerah, ini harus dilestarikan dan dikembangkan oleh berbagai komunitas perajin.</p> 
+<p>Menurut dia, kerajinan ini memiliki daya tarik yang tinggi karena memiliki bahan baku yang khas ditemukan di daerah asal perajin, memiliki nilai artistik terkait motif dan warna.</p> 
+<p>"Industri kerajinan anyaman memiliki prospek ekonomi yang menjanjikan terutama dalam menghadapi pemberlakuan masyarakat ekonomi ASEAN.</p> 
+<p>Ia mengatakan, produk anyaman yang berkualitas nantinya akan menjadi souvenir bagi pengunjung daerah ini, baik pengunjung domestik maupun pengunjung mancanegara </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309495
+-*-http://sultra.antaranews.com/berita/288404/pemprov-sultra-promosikan-kerajinan-anyaman
+
+--------------------
+
+
+-t-t- Sultra -- 3.8158546371675883
+-t-t- Kendari -- 2.5270731812745617
+-t-t- ASEAN -- 0.877989806344634
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Dinas -- 1.0
+-f-f- Perindag Sultra -- 1.0
+-f-f- Pemerintah Provinsi Sulawesi Tenggata -- 1.0
+-f-f- Dinas Perindag -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Provinsi Sulawesi -- 1.0
+-f-f- Kepala Dinas Perindag -- 1.0
+-f-f- Kepala Dinas Perindag Sultra -- 1.0
+-f-f- Sitti Saleha -- 1.0
+-f-f- Dinas Perindag Sultra -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Provinsi Sulawesi Tenggata -- 1.0
+-f-f- Pemerintah Provinsi Sulawesi -- 1.0
+-f-f- Pemerintah Provinsi -- 1.0
+-f-f- Sulawesi Tenggata -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/1883a915e398820175f9265eba11cd62.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Kepala Stasiun Badan Metereologi, Klimatologi dan Geofisika Kendari, Sulawesi Tenggara, Rosa Amelia merilis terjadi gempa dengan kekuatan 4,1 SR terjadi di barat laut Lasusua kabupaten Kolaka Utara. 
+<p>Kejadian gempa pada Sabtu pukul 11:11:26 Wita mengguncang wilayah Barat Laut Lasusua dan sekitarnya.</p> 
+<p>Hasil analisis BMKG menunjukan bahwa gempa terjadi pada pukul 11 lebih 11 menit dengan kekuatan M=4.1 dengan episenter pada koordinat 3.45 LS - 120.77 BT sekitar 36.7 KM Barat laut Lasusua Sultra pada kedalaman 20 Km.</p> 
+<p>Peta tingkat goncangan (Shakemap) BMKG menunjukan bahwa dampak gempa bumi berupa goncangan kuat dirasakan di Lasusua dalam skala intensitas II SIG-BMKG (III-IV MMI) .</p> 
+<p>Sampai berita ini disampaikan, belum ada laporan gempa bumi dirasakan. Di daerah ini goncangan gempabumi dilaporkan dirasakan oleh beberapa orang, dan belum ada informasi adanya kerusakan akibat gempa bumi tersebut.</p> 
+<p>Mengenai dengan peristiwa gempa bumi di wilayah Barat Laut Lasusua ini, hingga laporan ini disusun pada pukul 14:20 Wita belum terjadi aktivitas gempa bumi susulan.</p> 
+<p>Masyarakat diimbau tetap tenang dan melakukan aktivitas seperti biasa dengan terus mengikuti arahan BPBD dan BMKG. Gempa bumi yang terjadi tidak berpotensi tsunami.</p> 
+<p>Ditinjau dari kedalamannya, gempabumi ini merupakan gempabumi dangkal akibat aktivitas sesar Kolaka yang melalui Barat Laut Lasusua. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309437
+-*-http://sultra.antaranews.com/berita/288403/gempa-41-sr-guncang-lasusua-kolaka-utara
+
+--------------------
+
+
+-t-t- Barat Laut Lasusua -- 9.896973566038959
+-t-t- BMKG -- 4.165229616354272
+-t-t- Kolaka Utara -- 2.712926395398313
+-t-t- Sulawesi Tenggara -- 2.5544119929657394
+-t-t- Wita -- 2.1252625906187954
+-t-t- Shakemap -- 1.0844326973747027
+-t-t- BPBD -- 0.8742488977972789
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Km -- 1.0
+-f-f- Stasiun Badan Metereologi -- 1.0
+-f-f- Lasusua Sultra -- 1.0
+-f-f- LS -- 1.0
+-f-f- Kepala Stasiun Badan -- 1.0
+-f-f- KM Barat -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Kepala Stasiun -- 1.0
+-f-f- BT -- 1.0
+-f-f- Stasiun Badan -- 1.0
+-f-f- Klimatologi -- 1.0
+-f-f- III-IV MMI -- 1.0
+-f-f- II SIG-BMKG -- 1.0
+-f-f- SR -- 1.0
+-f-f- Kepala Stasiun Badan Metereologi -- 1.0
+-f-f- Rosa Amelia -- 1.0
+-f-f- Badan Metereologi -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Geofisika Kendari -- 1.0
+-f-f- M=4.1 -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8bca6dd99a547bbab4f9fcaaa09206ad.jpeg" data:w="600" data:h="400" />   Kendari, Antara Sultra - Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan Cabang Kendari, Sulawesi Tenggara, mencatat jumlah peserta JKN-KIS di wilayahnya mencapai 1.099.188 jiwa. 
+<p>Kepala BPJS Kesehatan Cabang Kendari, Dina Diana Permata, di Kendari, Minggu, mengatakan wilayah kerja BPJS Kendari meliputi Kota Kendari, Kabupaten Konawe, Konawe Utara, Konawe Selatan, Konawe Kepulauan, Kolaka Timur, Kolaka Utara, Bombana dan Kolaka.</p> 
+<p>"BPJS Kesehatan Kantor Cabang Kendari juga bekerja sama dengan 214 Fasilitas Kesehatan Tingkat Pertama (FKTP)," kata Dina Diana.</p> 
+<p>Disebutkan, fasilitas kesehatan tingkat pertama itu terdiri atas 149 puskesmas, 10 klinik pratama, 32 dokter praktik perorangan.</p> 
+<p>"Selanjutnya ada enam dokter gigi praktik perorangan, RS TNI, RS Polri, dan 2 RS Tipe D Pratama," katanya.</p> 
+<p>Selain itu lanjut Dina, BPJS Kesehatan Kantor Cabang Kendari juga telah bermitra dengan 28 fasilitas kesehatan rujukan.</p> 
+<p>"Fasilitas kesehatan rawat tingkat lanjutan (FKRTL) yang mencakup 16 Rumah Sakit (termasuk di dalamnya Klinik Utama), lima Apotek dan tujuh optik yang tersebar di seluruh wilayah kerja Kantor Cabang Kendari," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309452
+-*-http://sultra.antaranews.com/berita/288410/bpjs-kesehatan-peserta-jkn-kis-kendari-1099188-jiwa
+
+--------------------
+
+
+-t-t- BPJS Kesehatan Kantor Cabang Kendari -- 12.186552573560682
+-t-t- Kesehatan Cabang Kendari -- 8.9996133317185
+-t-t- Badan Penyelenggara Jaminan Sosial -- 5.629087561564679
+-t-t- Dina Diana -- 4.904609998005149
+-t-t- Kolaka Utara -- 2.654246726446017
+-t-t- Sulawesi Tenggara -- 2.539380341332943
+-t-t- Kabupaten Konawe -- 2.3101801224204754
+-t-t- Konawe Utara -- 2.293214371860814
+-t-t- RS Polri -- 1.9245425707740969
+-t-t- Rumah Sakit -- 1.7429676646753998
+-t-t- Apotek -- 0.8524242007603622
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- RS Tipe -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Tipe D Pratama -- 1.0
+-f-f- Kepala BPJS Kesehatan Cabang Kendari -- 1.0
+-f-f- FKRTL -- 1.0
+-f-f- Kepala BPJS Kesehatan Cabang -- 1.0
+-f-f- Kolaka Timur -- 1.0
+-f-f- Bombana -- 1.0
+-f-f- FKTP -- 1.0
+-f-f- Konawe Kepulauan -- 1.0
+-f-f- Fasilitas Kesehatan Tingkat -- 1.0
+-f-f- RS Tipe D -- 1.0
+-f-f- Tingkat Pertama -- 1.0
+-f-f- Tipe D -- 1.0
+-f-f- RS TNI -- 1.0
+-f-f- D Pratama -- 1.0
+-f-f- BPJS Kendari -- 1.0
+-f-f- Kepala BPJS Kesehatan -- 1.0
+-f-f- BPJS Kesehatan Cabang Kendari -- 1.0
+-f-f- Kesehatan Tingkat -- 1.0
+-f-f- Dina Diana Permata -- 1.0
+-f-f- Konawe Selatan -- 1.0
+-f-f- Kepala BPJS -- 1.0
+-f-f- BPJS Kesehatan Cabang -- 1.0
+-f-f- Diana Permata -- 1.0
+-f-f- Kesehatan Tingkat Pertama -- 1.0
+-f-f- Klinik Utama -- 1.0
+-f-f- Kota Kendari -- 1.0
+-f-f- Fasilitas Kesehatan -- 1.0
+-f-f- RS Tipe D Pratama -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Fasilitas Kesehatan Tingkat Pertama -- 1.0
+-f-f- JKN-KIS -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3da5ff6e0a9a81291987328eb23485b0.jpeg" data:w="600" data:h="400" />   Kendari, Antara Sultra - Sebanyak tiga pasangan bupati dan wakil bupati hasil pemilihan kepala daerah (pilkada) Februari di Sulawsi Tenggara akan dilantik secara bersamaan Senin (22/5) di kantor Gubernur Sultra. 
+<p>Tiga bupati itu adalah yakni Bupati dan Wakil Buton Tengah (Buteng) Samahudin dan La Ntau, Bupati dan Wakil Bupati Buton Selatan (Busel) Agus Feisal Hidayat dan La Ode Arusani serta Bupati dan Wakil Bupati Muna Barat (Mubar) LM Rajiun Tumada dan Ahmad Lamani.</p> 
+<p>Kepala Biro Pemerintahan Sultra, La Ode Ali Akbar, di Kendari, Minggu, mengatakan pelantikan tersebut digelar berdasarkan Surat Keputusan (SK) Menteri Dalam Negeri (Mendagri).</p> 
+<p>"Untuk pasangan Bupati dan Wakil Bupati Buton Tengah, SK Nomor 131.74-3084 tahun 2017 tentang Pengangkatan Bupati Buton Tengah dan SK Nomor 132.74-3085 tahun 2017 tentang pengangkatan Wakil Bupati Buton Tengah. Masing-masing SK tertanggal 16 Mei 2017," katanya.</p> 
+<p>Selanjutnya untuk pasangan Bupati dan Wakil Bupati Buton Selatan, SK Nomor 131.74 3087 Tahun 2017 tentang pengangkatan Bupati Buton Selatan dan SK Nomor 132.74-3088 Tahun 2017 tentang pengangkatan Wakil Bupati Buton Selatan, masing-masing tertanggal 16 Mei 2017.</p> 
+<p>Kemudian untuk pasangan Bupati dan Wakil Bupati Muna Barat, SK Nomor 131.74-3042 Tahun 2017 tentang pengangkatan Bupati Muna Barat dan SK Nomor 132.74.3042 tentang pengangkatan Wakil Bupati Muna Barat Sultra, masing-masing tertanggal 10 Mei 2017.</p> 
+<p>"Hari ini baru saja dilakukan gladi bersih pelantikan. Pelantikan besok akan dilakukan Gubenrur Sultra, Nur Alam, tas naman Mendagri," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309453
+-*-http://sultra.antaranews.com/berita/288411/tiga-bupati-hasil-pilkada-sultra-dilantik-senin
+
+--------------------
+
+
+-t-t- Wakil Bupati Buton Selatan -- 15.381348595641443
+-t-t- Wakil Bupati Muna Barat -- 14.291413332779657
+-t-t- Wakil Bupati Buton Tengah -- 11.22459130076396
+-t-t- SK Nomor 131.74 -- 10.211553181566819
+-t-t- La Ode -- 4.612617490971553
+-t-t- Menteri Dalam Negeri -- 3.4584930454123426
+-t-t- Gubernur Sultra -- 2.486234013866061
+-t-t- Kendari -- 2.441133830800256
+-t-t- Ali Akbar -- 2.2538784209743095
+-t-t- Mendagri -- 1.9046298163997406
+-t-t- Nur Alam -- 1.6493483985785504
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- La Ntau -- 1.0
+-f-f- Pemerintahan Sultra -- 1.0
+-f-f- Feisal Hidayat -- 1.0
+-f-f- Wakil Bupati Muna Barat Sultra -- 1.0
+-f-f- Wakil Buton Tengah -- 1.0
+-f-f- La Ode Arusani -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- SK Nomor 131.74-3084 -- 1.0
+-f-f- Kepala Biro Pemerintahan -- 1.0
+-f-f- Wakil Buton -- 1.0
+-f-f- SK Nomor 131.74-3042 -- 1.0
+-f-f- Ahmad Lamani -- 1.0
+-f-f- Nomor 131.74 3087 Tahun -- 1.0
+-f-f- SK Nomor 131.74 3087 Tahun 2017 -- 1.0
+-f-f- Muna Barat Sultra -- 1.0
+-f-f- La Ode Ali Akbar -- 1.0
+-f-f- Buteng -- 1.0
+-f-f- Masing-masing SK -- 1.0
+-f-f- Barat Sultra -- 1.0
+-f-f- Ode Ali -- 1.0
+-f-f- Kepala Biro -- 1.0
+-f-f- Biro Pemerintahan -- 1.0
+-f-f- Biro Pemerintahan Sultra -- 1.0
+-f-f- LM Rajiun -- 1.0
+-f-f- Pengangkatan Bupati Buton Tengah -- 1.0
+-f-f- Ode Arusani -- 1.0
+-f-f- Sulawsi Tenggara -- 1.0
+-f-f- Mubar -- 1.0
+-f-f- Nomor 131.74-3084 -- 1.0
+-f-f- Nomor 131.74-3042 -- 1.0
+-f-f- Ode Ali Akbar -- 1.0
+-f-f- LM Rajiun Tumada -- 1.0
+-f-f- SK Nomor 132.74.3042 -- 1.0
+-f-f- SK Nomor 131.74 3087 -- 1.0
+-f-f- SK Nomor 132.74-3088 -- 1.0
+-f-f- Nomor 131.74 3087 Tahun 2017 -- 1.0
+-f-f- La Ode Ali -- 1.0
+-f-f- Pengangkatan Bupati -- 1.0
+-f-f- Pengangkatan Bupati Buton -- 1.0
+-f-f- Kepala Biro Pemerintahan Sultra -- 1.0
+-f-f- SK Nomor 132.74-3085 -- 1.0
+-f-f- SK Nomor 131.74 3087 Tahun -- 1.0
+-f-f- Busel -- 1.0
+-f-f- Samahudin -- 1.0
+-f-f- Nomor 131.74 3087 -- 1.0
+-f-f- Rajiun Tumada -- 1.0
+-f-f- Bupati Muna Barat Sultra -- 1.0
+-f-f- Nomor 132.74.3042 -- 1.0
+-f-f- Gubenrur Sultra -- 1.0
+-f-f- Agus Feisal Hidayat -- 1.0
+-f-f- Surat Keputusan -- 1.0
+-f-f- Agus Feisal -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Nomor 132.74-3088 -- 1.0
+-f-f- Nomor 132.74-3085 -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/7e8ce5438c3490f3999a3a6e8d7165c6.jpeg" data:w="600" data:h="400" />   Kendari, Antara Sultra - Badan Sar Nasional (Basarnas) Kendari, Sulawesi Tenggara (Sultra), merilis bahwa pihaknya telah menemukan Kapal Motor (KM) Bintang Terang yang mengalami mati mesin di Perairan Taliabo. 
+<p>"Pada Sabtu (20/5) pukul 16.20 wita, tim Sar yamg menggunakan kapal jenis RB 210 berhasil menemukan KM Bintang Terang yang mati mesin pada Posisi koordinat 02 45` 476"S - 124 40` 292"E," kata Humas Basarnas Kendari, Wahyudi, di Kendari, Minggu.</p> 
+<p>Ia mengatakan, saat menemukan kapal tersebut, kondisi cuaca pada saat itu mendung dengan ketinggian ombak 0,5 - 1,5 meter.</p> 
+<p>"Minggu (21/5) pukul 13.15 wita, RB 210 bersama dengan 10 orang penumpang KM Bintang Terang tiba di dermaga Kawasan Timur Basarnas Kendari dalam keadaan selamat," katanya.</p> 
+<p>Sementara ke-6 orang penumpang lainnya kata Wahyudi, masih bertahan di kapal bersama dengan KM Inka Mina di sebuah Rompong pada titik koordinat 02 57` 857"S - 124 25` 99"E menunggu bantuan dari pemilik kapal.</p> 
+<p>"Dengan demikian operasi SAR terhadap Kapal KM Bintang Terang yang mati mesin di perairan Taliabo dinyatakan selesai dan ditutup," katanya.</p> 
+<p>Wahyudi juga meralat daftar penumpang KM Bintang Terang yang dinformasikan sebelumnya yang menyatakan jumlah POB 17 orang dimana fakta di lapangan setelah didata berjumlah 16 orang. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309530
+-*-http://sultra.antaranews.com/berita/288409/basarnas-temukan-kapal-mati-mesin-perairan-taliabo
+
+--------------------
+
+
+-t-t- KM Bintang Terang -- 13.22338720018714
+-t-t- Basarnas Kendari -- 5.468533438424197
+-t-t- RB 210 -- 4.475761118621146
+-t-t- Badan Sar Nasional -- 4.347235886350751
+-t-t- Wahyudi -- 2.9822364432944943
+-t-t- Sultra -- 2.590680711078171
+-t-t- Taliabo -- 2.1169808210113352
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Timur Basarnas -- 1.0
+-f-f- Humas Basarnas -- 1.0
+-f-f- SAR -- 1.0
+-f-f- Kawasan Timur Basarnas Kendari -- 1.0
+-f-f- Perairan Taliabo -- 1.0
+-f-f- Kapal KM Bintang -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Pada Sabtu -- 1.0
+-f-f- Humas Basarnas Kendari -- 1.0
+-f-f- Kapal KM Bintang Terang -- 1.0
+-f-f- Kapal Motor -- 1.0
+-f-f- Posisi -- 1.0
+-f-f- Kapal KM -- 1.0
+-f-f- KM Inka Mina -- 1.0
+-f-f- KM Inka -- 1.0
+-f-f- Kawasan Timur Basarnas -- 1.0
+-f-f- Kawasan Timur -- 1.0
+-f-f- Timur Basarnas Kendari -- 1.0
+-f-f- Sulawesi Tenggara -- 1.0
+-f-f- Rompong -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- POB 17 -- 1.0
+-f-f- Inka Mina -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/643101050b59b9ccd1d833fafce326a8.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Badan SAR Nasional (Basarnas) Kendari, pada pukul 11.41 Wita melalui Tim Rescue Pos SAR Wakatobi berhasil menemukan longboat yang mengalami kerusakan mesin akibat propeller jatuh kelaut di Perairan Wanci. 
+<p>Humas Basarnas Kendari, Wahyudi di Kendari, Jumat, mengatakan seluruh korban dievakuasi ke RIB Pos SAR Wakatobi.</p> 
+<p>"Pada pukul 12.30 Wita Tim Rescue Pos SAR Wakatobi beserta para korban tiba di Pelabuhan Numana Wanci dengan selamat," katanya.</p> 
+<p>Dengan demikian, kata Wahyudi, operasi penyelamatan kapal berpenumpang sebanyak lima orang tersebut dinyatakan selesai dan ditutup.</p> 
+<p>Adapun nama-nama penumpang kapal tersebut, yakni La Hafidah, La Ane, La Roni, Harianto dan Haiku.</p> 
+<p>Sebelumnya, Basarnas Kendari menerima info pada pukul 09.52 Wita dari Ibu Wamia bahwa pada pukul 09.50 Wita, satu buah longboat rute Karang Kaledupa-Wanci mengalami masalah di mesin, yaitu propeler longboat tersebut jatuh ke laut di Perairan Wanci.</p> 
+<p>Selanjutnya pada pukul 10.13 Wita Tim Rescue Pos SAR Wakatobi diberangkatkan menggunakan RIB menuju tempat kejadian musibah atau TKM untuk melakukan pertolongan. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309537
+-*-http://sultra.antaranews.com/berita/288397/basarnas-evakuasi-kapal-rusak-mesin-di-wakatobi
+
+--------------------
+
+
+-t-t- Wita Tim Rescue Pos SAR Wakatobi -- 14.035960920472805
+-t-t- Basarnas Kendari -- 5.504075923181526
+-t-t- Perairan Wanci -- 4.181503785802385
+-t-t- Badan SAR Nasional -- 4.1312966373463125
+-t-t- Wahyudi -- 2.2527081105269797
+-t-t- RIB -- 1.9975412796221215
+-t-t- Harianto -- 0.9857456289860518
+-t-t- Haiku -- 0.9803983885655877
+-t-t- TKM -- 0.8317433016618884
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Humas Basarnas -- 1.0
+-f-f- La Roni -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Numana Wanci -- 1.0
+-f-f- La Hafidah -- 1.0
+-f-f- Ibu Wamia -- 1.0
+-f-f- Humas Basarnas Kendari -- 1.0
+-f-f- Pelabuhan Numana -- 1.0
+-f-f- RIB Pos SAR -- 1.0
+-f-f- Pelabuhan Numana Wanci -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Karang Kaledupa-Wanci -- 1.0
+-f-f- RIB Pos SAR Wakatobi -- 1.0
+-f-f- La Ane -- 1.0
+-f-f- RIB Pos -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/94c5f5465e4adf9326e92d15df9201a8.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Kepala Dinas Perindistrian dan Perdagangan (Disperindag) Sulawesi Tenggara (Sultra) Sitti Saleha mengatakan, kerajinan rotan menjadi industri kerajinan primadona di daerah itu. 
+<p>"Kerajinan rotan memiliki prospek ekonomi yang sangat menjanjikan di daerah ini, sehingga kami senantiasa mendorong para pengrajin di daerah itu untuk mengembangkan produksi kerajinan rotan," kata Saleha, di Kendari, Sabtu.</p> 
+<p>Menurut dia, kerajinan rotan ini bisa meningkatkan kesejahteraan anggota kelompok pengrajin di daerah ini.</p> 
+<p>"Asalkan ada saling dukung antara masyarakat pengrajin dan pemerintah. Pemerintah memasarkan sedangkan pengrajin fokus tingkatkan produksi," katanya.</p> 
+<p>Ia menyebutkan, hasil produk industri kerajinan rotan yang banyak diminati selama ini seperti rak piring, meja, kursi, almari, dan beberapa bentuk produk lainnya.</p> 
+<p>Dijelaskan, agar hasil produksi pengrajin bisa bersaing dengan produk daerah lain, katanya, maka pihaknya juga terus gencar melakukan pembinaan dan pelatihan terhadap kelompok usaha kerajinan rotan di daerah ini, agar hasil produksi mereka bisa meiliki kualitas yang baik.</p> 
+<p>"Kalau kualitas produksi kita baik, pasti akan bayak pengusaha besar untuk membeli produk kita, dan pemasarannya juga mudah sebab bisa bersaing dengan produksi dari daerah lain," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12309540
+-*-http://sultra.antaranews.com/berita/288405/pemprov-sultra-industri-kerajinan-rotan-jadi-primadona
+
+--------------------
+
+
+-t-t- Sultra -- 2.5828675277978825
+-t-t- Kendari -- 2.4558656901976677
+-t-t- Saleha -- 2.4064690680971554
+-t-t- Perdagangan -- 1.2922086053331931
+-t-t- Disperindag -- 1.2861800098446607
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Sulawesi Tenggara -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Sitti Saleha -- 1.0
+-f-f- Dinas Perindistrian -- 1.0
+-f-f- Kepala Dinas Perindistrian -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e17ea4b7f5b95a2fa7319d526c03641f.jpeg" data:w="600" data:h="400" />   Kolaka, Antara Sultra - Pemerintah Kabupaten Kolaka, Sultra, akan melakukan penanaman pohon di lokasi tambang emas Kelurahan Ulunggolaka daerah setempat setelah dikeluarkannya surat perintah pengosongan daerah tambang tersebut. 
+<p>Kepala Bagian Humas Setda Kolaka, Amri Jamaluddin, Jumat, mengatakan Pemkab bekerja sama dengan KSDA Sultra beserta jajaran lainnya akan melakukan penghijauan di lokasi itu pada Minggu (21/5).</p> 
+<p>&nbsp;"Dalam penghijauan lokasi tambang emas itu kita melibatkan semua unsur mengingat wilayah itu merupakan taman wisata alam air panas Mangolo," katanya.</p> 
+<p>Menurutnya dalam penanaman pohon itu pihak KSDS serta pemerintah kabupaten telah menyiapkan sekita 500 bibit pohon kayu keras dari berbagai jenis.</p> 
+<p>Langkah ini dilakukan, kata Amri, untuk memulihkan kondisi alam itu usai warga masyarakat melakukan penambangan emas di dalam areal kawasan konservasi.</p> 
+<p>Amri juga berharap lokasi itu tidak ditambang lagi karena akan merusak tatanan alam serta mempengaruhi aliran sungai yang rencananya akan dijadikan sebagai sumber air baku PDAM Kolaka.</p> 
+<p>"Kita berharap warga tidak lagi melakukan penambangan emas di lokasi itu karena nanti akan berdampak hukum mengingat wilayah itu masuk dalam wilayah konservasi sesuai undang-undang, </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12273247
+-*-http://sultra.antaranews.com/berita/288393/pemkab-kolaka-hijaukan-lokasi-tambang-emas
+
+--------------------
+
+
+-t-t- Sultra -- 3.76781796926715
+-t-t- Kabupaten Kolaka -- 3.1899041960336243
+-t-t- Amri -- 3.123995301479065
+-t-t- Pemkab -- 1.1777417962109669
+-t-t- KSDS -- 1.040929458827911
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Bagian Humas -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Humas Setda -- 1.0
+-f-f- Kepala Bagian -- 1.0
+-f-f- Bagian Humas Setda Kolaka -- 1.0
+-f-f- Mangolo -- 1.0
+-f-f- Kepala Bagian Humas Setda -- 1.0
+-f-f- KSDA Sultra -- 1.0
+-f-f- Pemerintah Kabupaten -- 1.0
+-f-f- PDAM Kolaka -- 1.0
+-f-f- Setda Kolaka -- 1.0
+-f-f- Pemerintah Kabupaten Kolaka -- 1.0
+-f-f- Bagian Humas Setda -- 1.0
+-f-f- Kepala Bagian Humas Setda Kolaka -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Amri Jamaluddin -- 1.0
+-f-f- Kelurahan Ulunggolaka -- 1.0
+-f-f- Bagian Humas -- 1.0
+-f-f- Humas Setda Kolaka -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0ecad8050d2633fec32b580c2d6d661f.jpeg" data:w="600" data:h="400" />   Kolaka, Antara Sultra - Bupati Kolaka Ahmad Safei memberikan apresiasi kepada pengadilan negeri setempat atas naiknya status menjadi kelas I B yang sebelumnya hanya kelas II. 
+<p>Menurut Ahmad Safei di Kolaka, Jumat, dengan naiknya status menjadi kelas I B tidak mengendurkan semangat dalam melakukan penegakan supremasi hukum di Kabupaten Kolaka dapat ditingkatkan.</p> 
+<p>"Dengan naiknya status Pengadilan Negeri Kolaka berarti supremasi hukum berjalan dengan baik," katanya.</p> 
+<p>Safei juga berharap seluruh jajaran pengadilan negeri untuk bekerja lebih keras dan lebih giat karena dengan status seperti itu tantangan semakin berat dalam penegakan hukum.</p> 
+<p>Sementara Ketua Pengadilan Tinggi Sultra H. Gatot Suharnoto kagum dengan kemajuan pembangunan di Kabupaten Kolaka yang berbeda dengan beberapa tahun silam.</p> 
+<p>"Saya masih ingat 25 tahun lalu pernah bertugas di PN Kolaka dan kemajuan pembangunannya sangat jauh berbeda," katanya.</p> 
+<p>Apalagi kata dia dengan penegakan supremasi hukum di Bumi Mekongga mengalami kemajuan dari tahun ke tahun sehingga wajar kalau pengadilan negeri setempat bisa naik status.</p> 
+<p>Dalam Tasyakuran itu selain dihadiri Bupati dan ketua PT Sultra juga dihadiri ketua pengadilan negeri yang ada di daerah itu serta jajaran pejabat Kolaka,ketua DPRD serta anggota dan tokoh masyarakat. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12273232
+-*-http://sultra.antaranews.com/berita/288394/bupati-apresiasi-pn-kolaka-naik-status-i-b
+
+--------------------
+
+
+-t-t- Kabupaten Kolaka -- 5.46718031424444
+-t-t- Ahmad Safei -- 5.068375435364238
+-t-t- I B -- 4.916276486700873
+-t-t- Pengadilan Negeri -- 2.2879705739465823
+-t-t- Bupati -- 2.1753210544606034
+-t-t- Pengadilan Tinggi -- 2.0667863534149946
+-t-t- DPRD -- 0.8298837713764702
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kolaka Ahmad -- 1.0
+-f-f- H. Gatot -- 1.0
+-f-f- Pengadilan Tinggi Sultra H. Gatot Suharnoto -- 1.0
+-f-f- PT Sultra -- 1.0
+-f-f- Sultra H. Gatot -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Tinggi Sultra H. Gatot -- 1.0
+-f-f- Sementara Ketua Pengadilan Tinggi Sultra H. Gatot Suharnoto -- 1.0
+-f-f- Pengadilan Tinggi Sultra -- 1.0
+-f-f- Tinggi Sultra H. Gatot Suharnoto -- 1.0
+-f-f- Pengadilan Tinggi Sultra H -- 1.0
+-f-f- Negeri Kolaka -- 1.0
+-f-f- Sementara Ketua Pengadilan Tinggi Sultra H -- 1.0
+-f-f- Sementara Ketua Pengadilan -- 1.0
+-f-f- Gatot Suharnoto -- 1.0
+-f-f- Bupati Kolaka Ahmad Safei -- 1.0
+-f-f- Ketua Pengadilan Tinggi Sultra H. Gatot Suharnoto -- 1.0
+-f-f- Bupati Kolaka Ahmad -- 1.0
+-f-f- Ketua Pengadilan Tinggi Sultra H. Gatot -- 1.0
+-f-f- Sultra H -- 1.0
+-f-f- Sultra H. Gatot Suharnoto -- 1.0
+-f-f- Bupati Kolaka -- 1.0
+-f-f- Pengadilan Negeri Kolaka -- 1.0
+-f-f- Ketua Pengadilan Tinggi -- 1.0
+-f-f- Sementara Ketua -- 1.0
+-f-f- Kolaka Ahmad Safei -- 1.0
+-f-f- Sementara Ketua Pengadilan Tinggi Sultra H. Gatot -- 1.0
+-f-f- Menurut Ahmad -- 1.0
+-f-f- Pengadilan Tinggi Sultra H. Gatot -- 1.0
+-f-f- H. Gatot Suharnoto -- 1.0
+-f-f- Bumi Mekongga -- 1.0
+-f-f- Tinggi Sultra H -- 1.0
+-f-f- Sementara Ketua Pengadilan Tinggi -- 1.0
+-f-f- Ketua Pengadilan Tinggi Sultra H -- 1.0
+-f-f- Sementara Ketua Pengadilan Tinggi Sultra -- 1.0
+-f-f- Tinggi Sultra -- 1.0
+-f-f- Menurut Ahmad Safei -- 1.0
+-f-f- Ketua Pengadilan Tinggi Sultra -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Ketua Pengadilan -- 1.0
+-f-f- PN Kolaka -- 1.0
+-f-f- Dalam Tasyakuran -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b13484510c7ae414ff28486cae060db4.jpeg" data:w="600" data:h="400" />   Kendari, Antara Sultra - BPJS Kesehatan Cabang Kendari bersama Cabang Baubau Provinsi Sulawesi Tenggara tengah melakukan pemutakhiran data peserta Penerima Bantuan Iuran (PBI) baik melalui APBN maupun APBD dinilai datanya banyak yang ganda. 
+<p>"Kegiatan sinkronisasi pemutakhiran data ganda PBI ini, dengan mengundang sejumlah kadis kabupaten kota di Sultra, dan melibatkan Badan Pengawasan Keuangan Provinsi (BPKP) untuk memberi sosialisasi terkait adanya pemutahiran data yang diharapkan tidak ganda," ujar Kepala Unit Kepesertaan dan Pelayanan Peserta BPJS Kesehatan Kendari, Alamsyah di Kendari, Jumat.</p> 
+<p>Menurut Alamsyah, berdasarkan data ganda PBI yang dibawa pengawasan BPJS Kesehatan pada sembilan kabupaten dan satu kota itu data ganda yang iurannya APBD dengan APBN ada ada sebanyak 1.400 ditemukan data ganda PBI sedangkan data APBD dengan APBD hanya 43 orang pada enam kabupaten kota.</p> 
+<p>Dari data ganda PBI itu terbesar di Kabupaten Konawe Selatan 648 orang, menyusul Kota Kendari 399 orang peserta, Kolaka 331 orang, Kolaka Timur 43 orang, Konawe Utara 20 orang dan kabupaten Konawe Kepulaua 1 orang.</p> 
+<p>Sedangkan tiga kabupaten lainnya yakni Konawe, Bombana dan Kolaka Utara datanya masih dalam proses oleh tim verifikasi dari BPJS kesehatan.</p> 
+<p>"Upaya yang sudah dilakukan, setelah sinkronisasi data dengan Dirjen Dukcapil, maka diketahui adanyan indikasi kepesertaan ganda sebanyak 1.400 oang serta. Disamping melakukan mutasi terhadap data ganda tersebut," ujaranya.</p> 
+<p>Pada rangkaian rapat koordinasi pemutahiran data peserta PIB antara BPJS Kesehatan dengan pemerintah Kabupaten kota, kata Alamsyah, awalnya akan dilakukan penandatangan bersama, namun karena hampir seluruh daerah kabupaten kota yang belum menerima terkait data ganda itu sehingga ditunda untuk sementara sambil mencocokan data yang sebenarnya dilapangan.</p> 
+<p>Beberapa pejabat yang diundang dalam kegiatan rakor BPJS kesehatan tersebut diantaranya para kepala dinas Capil, dinas Sosial dan Kesehatan se kabupaten di Sultra. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12265232
+-*-http://sultra.antaranews.com/berita/288390/bpjs-kesehatan-mutakhirkan-data-ganda-pbi
+
+--------------------
+
+
+-t-t- BPJS Kesehatan -- 10.433175000621343
+-t-t- Kendari -- 5.957090688987144
+-t-t- PBI -- 5.763000250644254
+-t-t- APBD -- 4.506675907675899
+-t-t- Kabupaten Konawe Selatan -- 3.8348379634286576
+-t-t- Sultra -- 3.339462940983625
+-t-t- Alamsyah -- 3.178080445861182
+-t-t- Konawe Utara -- 2.55604462229979
+-t-t- APBN -- 2.3554664303695847
+-t-t- Kolaka Utara -- 1.9853659282787004
+-t-t- BPKP -- 1.195243230629665
+-t-t- PIB -- 0.9080483827578725
+-t-t- Capil -- 0.8230621927780973
+-t-t- Sosial -- 0.8204891977609823
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Pelayanan Peserta BPJS Kesehatan Kendari -- 1.0
+-f-f- Utara 20 -- 1.0
+-f-f- Kabupaten Konawe Selatan 648 -- 1.0
+-f-f- Penerima Bantuan Iuran -- 1.0
+-f-f- Cabang Baubau Provinsi Sulawesi Tenggara -- 1.0
+-f-f- Dirjen Dukcapil -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Provinsi Sulawesi -- 1.0
+-f-f- Konawe Kepulaua 1 -- 1.0
+-f-f- Kesehatan Cabang -- 1.0
+-f-f- Pelayanan Peserta BPJS -- 1.0
+-f-f- Peserta BPJS Kesehatan Kendari -- 1.0
+-f-f- Keuangan Provinsi -- 1.0
+-f-f- Pelayanan Peserta BPJS Kesehatan -- 1.0
+-f-f- Timur 43 -- 1.0
+-f-f- Cabang Kendari -- 1.0
+-f-f- Bombana -- 1.0
+-f-f- Kolaka Timur -- 1.0
+-f-f- Kolaka 331 -- 1.0
+-f-f- Unit Kepesertaan -- 1.0
+-f-f- Kolaka Timur 43 -- 1.0
+-f-f- Pelayanan Peserta -- 1.0
+-f-f- Selatan 648 -- 1.0
+-f-f- Peserta BPJS Kesehatan -- 1.0
+-f-f- Badan Pengawasan Keuangan Provinsi -- 1.0
+-f-f- Badan Pengawasan -- 1.0
+-f-f- Kesehatan Kendari -- 1.0
+-f-f- Baubau Provinsi -- 1.0
+-f-f- BPJS Kesehatan Cabang Kendari -- 1.0
+-f-f- Kota Kendari 399 -- 1.0
+-f-f- Kepulaua 1 -- 1.0
+-f-f- Badan Pengawasan Keuangan -- 1.0
+-f-f- Konawe Kepulaua -- 1.0
+-f-f- Bantuan Iuran -- 1.0
+-f-f- Kesehatan Cabang Kendari -- 1.0
+-f-f- BPJS Kesehatan Cabang -- 1.0
+-f-f- Cabang Baubau Provinsi Sulawesi -- 1.0
+-f-f- Penerima Bantuan -- 1.0
+-f-f- Kepala Unit Kepesertaan -- 1.0
+-f-f- Kota Kendari -- 1.0
+-f-f- Peserta BPJS -- 1.0
+-f-f- Konawe Selatan 648 -- 1.0
+-f-f- Cabang Baubau Provinsi -- 1.0
+-f-f- Pengawasan Keuangan -- 1.0
+-f-f- Kendari 399 -- 1.0
+-f-f- Baubau Provinsi Sulawesi Tenggara -- 1.0
+-f-f- Kepala Unit -- 1.0
+-f-f- Menurut Alamsyah -- 1.0
+-f-f- Pengawasan Keuangan Provinsi -- 1.0
+-f-f- Sulawesi Tenggara -- 1.0
+-f-f- Baubau Provinsi Sulawesi -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Cabang Baubau -- 1.0
+-f-f- BPJS Kesehatan Kendari -- 1.0
+-f-f- Konawe Utara 20 -- 1.0
+-f-f- Provinsi Sulawesi Tenggara -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8ccedd8179e43ecf2758fda2dc81b147.jpeg" data:w="600" data:h="400" />   Kendari, Antara Sultra - Kabupaten Konawe, Sulawesi Tenggara, mendapatkan bantuan penambahan atau penempatan tenaga kesehatan melalui program Nusantara Sehat 2017. 
+<p>Bupati Konawe Kery Konggoasa di Kendari, Jumat, mengatakan bantuan tenaga kesehatan tersebut untuk tiga puskesmas di Kecamatan Latoma.</p> 
+<p>"Tiga Puskesmas yang mendapatkan penempatan tenaga kesehatan yakni Puskesmas Routa, Asinua, dan Laosu, masing-masing puskesmas bakal ditempatkan 6 tenaga kesehatan," katanya.</p> 
+<p>Kery mengaku bersyukur karena tidak semua daerah di Sultra mendapatkan program Nusantara Sehat.</p> 
+<p>"Hanya dua kabupaten di Sultra yang dapat program Nusantara Sehat 2017, selain Konawe ada juga Kabupaten Buton Selatan," katanya.</p> 
+<p>Untuk mendapatkan program itu kata Kery, semua daerah mengusulkan ke pusat, setelah itu pusat melakukan survei untuk mendapatkan daerah yang layak.</p> 
+<p>"Alhamdulillah, kami mendapatkan penambahan atau penempatan tenaga kesehatan untuk tiga puskesmas, sedangkan Buton Selatan hanya untuk satu puskesmas," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12263882
+-*-http://sultra.antaranews.com/berita/288389/konawe-peroleh-bantuan-program-nusantara-sehat-2017
+
+--------------------
+
+
+-t-t- Nusantara Sehat 2017 -- 7.121243438458052
+-t-t- Buton Selatan -- 3.6079474065003723
+-t-t- Sultra -- 3.3392576949809425
+-t-t- Kery -- 3.2051585109765472
+-t-t- Kabupaten Konawe -- 3.0441270853540514
+-t-t- Kendari -- 2.5235366016169394
+-t-t- Laosu -- 1.0975496418685162
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Tiga Puskesmas -- 1.0
+-f-f- Kabupaten Buton -- 1.0
+-f-f- Kery Konggoasa -- 1.0
+-f-f- Bupati Konawe Kery -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Kabupaten Buton Selatan -- 1.0
+-f-f- Kecamatan Latoma -- 1.0
+-f-f- Bupati Konawe -- 1.0
+-f-f- Konawe Kery -- 1.0
+-f-f- Puskesmas Routa -- 1.0
+-f-f- Sulawesi Tenggara -- 1.0
+-f-f- Asinua -- 1.0
+-f-f- Konawe Kery Konggoasa -- 1.0
+-f-f- Bupati Konawe Kery Konggoasa -- 1.0
+-f-f- Antara Sultra -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/42058a2191f3b000423112511b98ae68.jpeg" data:w="600" data:h="400" />   Kendari, SE Sulawesi, May 19 (Antara Sultra) - The food security service of Southeast Sulawesi Tenggara said it had a surplus of 38,000 tons of corn grain last year. 
+<p>Head of the food security service Amal Jaya said the province recorded an increase in corn production mainly in in the regencies of Muna, Konawe, Konawe Selatan, Buton and Kolaka.</p> 
+<p>The government has continued to encourage the farmers to expand their corn plantations to increase production, Amal said here on Friday.</p> 
+<p>"This year our production is expected to increase especially to follow the program of corn growing launched by the Agriculture Minister in Konawe Utara," he said.</p> 
+<p>Every regency in Southeast Sulawesi is called on by the Minister to have at least 500 hectares of corn fields. Some of the regencies have up to 30,000 hectares of corn fields.</p> 
+<p>Amal said the government has guaranteed the government through the Board of Logistics (Bulog) would buy any surplus of corn grain of the farmers.</p> 
+<p>The country still needs to import corn grain to feed its animal feed industry and self sufficiency in corn supply is one of the targets set for the agriculture ministry by the government. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12262526
+-*-http://sultra.antaranews.com/berita/288387/southeast-sulawesi-has-a-surplus-of-38000-tons-of-corn-grain
+
+--------------------
+
+
+-t-t- Southeast Sulawesi -- 4.5650879098093515
+-t-t- Amal -- 3.249172259413328
+-t-t- Sulawesi Tenggara -- 2.5479017777720445
+-t-t- Konawe Utara -- 2.4623523389986954
+-t-t- Agriculture Minister -- 2.3154083158784426
+-t-t- Muna -- 1.168467758365053
+-t-t- Buton -- 1.1543956561985014
+-t-t- Kolaka -- 1.1497427175036783
+-t-t- Friday -- 1.0860980525427146
+-t-t- Bulog -- 0.9070681122573515
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- The -- 3.0
+-f-f- Head of the -- 1.0
+-f-f- Amal Jaya -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Konawe Selatan -- 1.0
+-f-f- Southeast Sulawesi Tenggara -- 1.0
+-f-f- Some of -- 1.0
+-f-f- Some of the -- 1.0
+-f-f- Board of Logistics -- 1.0
+-f-f- Head of -- 1.0
+-f-f- Board of -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- SE Sulawesi -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/78830511a0a4355114e74576b205ed2a.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Tim dari Badan Search And Rescue Nasional (Basarnas) Provinsi Sulawesi Tenggara siaga mengantisipasi musibah banjir karena curah hujan tinggi. 
+<p>Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Sultra Yauri di Kendari, Kamis, mengatakan, tim penolong gabungan dari instansi terkait menyiapkan peralatan penyelamatan dan personel sesuai kebutuhan atau kondisi lapangan.</p> 
+<p>"Curah hujan tinggi mengakibatkan banjir merendam rumah warga di Kota Kendari dan sejumlah titik di Kabupaten Konawe dan Konawe Selatan," katanya.</p> 
+<p>Tim penolong dari Basarnas bersama Badan Penanggulangan Bencana Daerah (BPBD), Dinas Sosial, Kepolisian dan TNI siaga membantu warga.</p> 
+<p>"Sarana yang diturunkan di lokasi banjir, antara lain, mobil serbaguna untuk dapur umum, perahu karet, dan gergaji rantai," katanya.</p> 
+<p>Tim gabungan tidak hanya konsentrasi di satu wilayah yang menjadi korban banjir tetapi memantau wilayah-wilayah yang termasuk zona merah rawan musibah banjir.</p> 
+<p>Ia mengatakan, pemerintah sudah mendistribusikan bantuan bagi korban banjir di Kabupaten Konawe, Kota Kendari, Kolaka Utara dan Konawe.</p> 
+<p>"Bantuan berupa sarung, selimut dan makanan siap saji sudah diturunkan. BPBD Kabupaten Konawe dan Konawe Selatan terus mengevaluasi kebutuhan korban banjir setempat," kata Yauri. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12262533
+-*-http://sultra.antaranews.com/berita/288385/tim-penolong-antisipasi-musibah-banjir
+
+--------------------
+
+
+-t-t- Badan Penanggulangan Bencana Daerah -- 9.908946310358774
+-t-t- Kabupaten Konawe -- 6.382042268308029
+-t-t- Konawe Selatan -- 4.567517763177612
+-t-t- Kota Kendari -- 4.561903419258245
+-t-t- Search And Rescue -- 4.114540728771611
+-t-t- Tim -- 3.358692030093274
+-t-t- BPBD -- 3.117546373068683
+-t-t- Sulawesi Tenggara -- 2.5546970837304466
+-t-t- Basarnas -- 2.3566289821183797
+-t-t- Dinas Sosial -- 2.0937444515118138
+-t-t- Yauri -- 2.031818140304496
+-t-t- Kolaka Utara -- 1.764154021819694
+-t-t- Kepolisian -- 1.041544643259071
+-t-t- TNI -- 1.0358666018815184
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- BPBD Kabupaten -- 1.0
+-f-f- Sekretaris Badan -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Provinsi Sulawesi -- 1.0
+-f-f- Sultra Yauri -- 1.0
+-f-f- Badan Search And Rescue Nasional -- 1.0
+-f-f- Sekretaris Badan Penanggulangan Bencana Daerah -- 1.0
+-f-f- And Rescue Nasional -- 1.0
+-f-f- Badan Search -- 1.0
+-f-f- Badan Search And Rescue -- 1.0
+-f-f- Rescue Nasional -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Sekretaris Badan Penanggulangan Bencana -- 1.0
+-f-f- Search And Rescue Nasional -- 1.0
+-f-f- BPBD Kabupaten Konawe -- 1.0
+-f-f- Sekretaris Badan Penanggulangan -- 1.0
+-f-f- Provinsi Sulawesi Tenggara -- 1.0
+-f-f- Badan Search And -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/fbcf76f58c5549988b91acaad7cdca75.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Para petani di Kabupaten Buton, saat ini membutuhkan jalan usaha tani yang bisa memudahkan para petani mengangkut hasil panen tanaman pertanian maupun produksi perkebunan. 
+<p>Anggota DPRD Kabupaten Buton, Farid Bachmid di Kendari, Jumat mengatakan belum adanya jalan usaha tani di kabupaten itu, menyebabkan para petani di Buton masih kesulitan mengangkut hasil-hasil panen pertanian maupun perkebunan dari lokasi kebun ke rumah-rumah mereka.</p> 
+<p>"Para petani di Buton mengangkut hasil panen dari lokasi kebun dengan cara dipikul dan berjalan kaki dengan jarak tempu yang cukup jauh, hingga mencapai beberapa kilometer," katanya.</p> 
+<p>Dengan tersedianya jalan usaha tani di setiap wilayah desa kata dia, para petani sudah bisa mengangkut hasil panen dengan menggunakan sepeda atau gerobak.</p> 
+<p>"Diharapkan jalan usaha tani yang menjadi kebutuhan masyarakat desa, dapat dibangun oleh para kepala desa dengan menggunakan dana desa yang diberikan oleh Pemerintah Pusat melalui APBN 2017," katanya.</p> 
+<p>Menurut Farid, wilayah Kabupaten Buton terdiri dari tujuh wilayah kecamatan, 183 desa dan 24 wilayah kelurahan.</p> 
+<p>Setiap desa di Buton kata dia, menerima dana desa dari Pemerintah Pusat melalui APBN 2017 rata-rata senilai kurang lebih Rp900 juta.</p> 
+<p>"Selain bisa digunakan membangun infrastruktur desa seperti jalan usaha tani, dana desa juga dapat digunakan membantu memberdayakan ekonomi masyarakat melalui pengembangan ekonomi produktif seperti peternakan atau budi daya rumput laut," katanya.</p> 
+<p>Ia mengatakan, dana desa yang diporsikan untuk membantu pemberdayaan ekonomi masyarakat desa, sebesar 30 persen dari total dana desa yang diterima setiap desa.</p> 
+<p>"Dana desa juga dapat digunakan Pemerintah Desa untuk membentuk atau mendirikan badan usaha milik desa atau BUMDes," katanya. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12262540
+-*-http://sultra.antaranews.com/berita/288386/petani-buton-membutuhkan-jalan-usaha-tani
+
+--------------------
+
+
+-t-t- Kabupaten Buton -- 7.956933963290773
+-t-t- Pemerintah Pusat -- 3.954912585198345
+-t-t- APBN 2017 -- 3.9286621005498263
+-t-t- Kendari -- 2.553963425281042
+-t-t- Anggota DPRD -- 2.5010912188582233
+-t-t- BUMDes -- 0.8167961592450178
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Anggota DPRD Kabupaten Buton -- 1.0
+-f-f- Anggota DPRD Kabupaten -- 1.0
+-f-f- Menurut Farid -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Pemerintah Desa -- 1.0
+-f-f- DPRD Kabupaten -- 1.0
+-f-f- DPRD Kabupaten Buton -- 1.0
+-f-f- Farid Bachmid -- 1.0
+-f-f- Antara Sultra -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/7fc932f766759a6607408d7239e8bb94.jpeg" data:w="600" data:h="400" />   Kendari (Antara Sultra) - Anggota DPD RI asal Sulawesi Tenggara, Yusran A Silondae melakukan reses ke beberapa desa di Kecamatan Kapoiala, Kabupaten Konawe dengan sasaran melakukan peninjauan terkait pengadaan air bersih dan perpipaan di daerah tersebut. 
+<p>"Kunjungan kali ini untuk melihat langsung lokasi di mana pengadaan air bersih dan perpipaan yang dibiayai melalui Alokasi Dana Desa (ADD) dan telah berhasil dengan menjangkau sejumlah desa di sekitarnya," katanya di Kendari, Jumat.</p> 
+<p>Kunjungan di desa Labotoy Kecamatan Kapoiala dengan berdilaog dengan masyarakat dipimpin dengan camat setempat Achmar Nurdin, didampingi anggota forum komunikasi pimpinan kecamatan, dan dihadiri para pimpinan UPTD, para kepala desa/lurah dan tokoh masyarakat.</p> 
+<p>Pada acara pertemuan dalam rangka reses tersebut senator Yusran A Silondae menyampaikan keberadaan DPD RI dalam struktur ketatanegaraan Indonesia antara lain untuk memperkuat ikatan daerah-daerah dalam wadah Negara Kesatuan Republik Indonesia (NKRI) dan memperteguh persatuan kebangsaan seluruh daerah.</p> 
+<p>"Ini tujuannya untuk menyerap aspirasi dan kepentingan daerah-daerah dalam perumusan kebijaksanaan nasional yang berkaitan dengan negara dan daerah. Mendorong percepatan peningkatan kualitas demokrasi yang berdasarkan Pancasila dan hukum, pembangunan dan kemajuan daerah secara serasi dan seimbang," ujaranya.</p> 
+<p>Mantan wakil Gubernur Sultra itu mengatakan, keberadaan DPD RI memperkuat ikatan daerah-daerah otonom berjalan dengan keberagaman daerah dalam rangka kemajuan bangsa dan negara Indonesia.</p> 
+<p>Problema yang dihadapi dalam kehidupan bermasyarakat, berbangsa dan bernegara Indonesia sekarang mengalami pergeseran disemua sendi kehidupan yang sangat mengkhawatirkan disintegrasi bangsa seperti masih lemahnya penghayatan dan pengamalan ajaran agama.</p> 
+<p>Disamping itu, kurang berkembangnya pemahaman dan penghargaan atas kebhinekaan dan kemajemukan, dan kurangnya keteladanan dalam sikap dan perilaku pemimpin dan tokoh bangsa serta kebebasan tanpa harus merujuk kepada nilai dasar / karakter bangsa Indonesia adalah Pancasila.</p> 
+<p>Sebagai senataor dalam kunjungan kerja reses melaksanakan tugas pengawasan terutama pelaksanaan UU nomor 6 tahun 2014 tentang Pemerintahan Desa terkait pelaksanaan dana desa dalam rangka percepatan pembangunan untuk mewujudkan kesejahteraan masyarakat. </p> 
+<p>Editor: <span>Hernawan Wahyudono</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12259885
+-*-http://sultra.antaranews.com/berita/288383/anggota-dpd-dorong-pengadaan-air-bersih-sultra
+
+--------------------
+
+
+-t-t- Yusran A Silondae -- 7.650221034033753
+-t-t- DPD RI -- 6.790486899876905
+-t-t- Kecamatan Kapoiala -- 4.943117518635737
+-t-t- Alokasi Dana Desa -- 3.8675954852596233
+-t-t- Republik Indonesia -- 2.7691480945564084
+-t-t- Sulawesi Tenggara -- 2.61300133387375
+-t-t- Kabupaten Konawe -- 2.563272137381752
+-t-t- Kendari -- 2.514905149715761
+-t-t- Gubernur Sultra -- 1.9786213681121883
+-t-t- Pancasila -- 1.8679375075459461
+-t-t- ADD -- 1.2166136768682512
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Negara Kesatuan -- 1.0
+-f-f- Achmar Nurdin -- 1.0
+-f-f- Anggota DPD -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Anggota DPD RI -- 1.0
+-f-f- NKRI -- 1.0
+-f-f- Negara Kesatuan Republik Indonesia -- 1.0
+-f-f- Labotoy Kecamatan Kapoiala -- 1.0
+-f-f- Pemerintahan Desa -- 1.0
+-f-f- Kesatuan Republik -- 1.0
+-f-f- Kesatuan Republik Indonesia -- 1.0
+-f-f- UU -- 1.0
+-f-f- UPTD -- 1.0
+-f-f- Negara Kesatuan Republik -- 1.0
+-f-f- Antara Sultra -- 1.0
+-f-f- Labotoy Kecamatan -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+

@@ -1,0 +1,2348 @@
+-*-Siswanto | Dwi Bowo Raharjo   Rabu, 01 Februari 2017 | 14:58 WIB     Persidangan kedelapan perkara dugaan penistaan agama dengan terdakwa Basuki Tjahaja Purnama atau Ahok di di Gedung Kementerian Pertanian (Kementan), Jakarta, Selasa (31/1).    "Kalau kita sudah sampaikan di pengadilan pada majelis hakim, kita akan sampaikan pada pers," kata Humphrey .         
+<strong>Suara.com</strong> - Calon gubernur Jakarta yang kini menjadi terdakwa kasus dugaan penodaan agama Basuki Tjahaja Purnama (Ahok) mengatakan bukti dugaan adanya percakapan antara Ketua Umum Partai Demokrat Susilo Bambang Yudhoyono dan Ketua Umum Majelis Ulama Indonesia Ma'ruf Amin pada Kamis 6 Oktober 2016, ada pada pengacara.   
+<br>"Itu (soal telepon SBY dan Ma'ruf) pengacara yang tahu, tanya sama pengacara," ujar Ahok usai kampanye di Marunda, Cilincing, Jakarta Utara, Rabu (1/2/2017). 
+<p>Ketika diminta menjelaskan darimana sumber pengacara mendapatkan bukti tersebut, Ahok mengatakan dari pemberitaan di media massa yang memberitakan adanya pertemuan antara pasangan calon nomor urut satu Agus Harimurti Yudhoyono - Sylviana Murni dan Ketua Umum PBNU Said Aqil Siradj serta Ma'ruf di kantor PBNU, Jalan Kramat Raya, Jakarta Pusat, pada Jumat (7/10/2016).</p> 
+<p>"Itu bukan dari saya (buktinya). Itu kayaknya sudah ada di Tempo. Kan pengacara yang ngomong, di media Tempo 4 November itu sudah naik. Pengacara yang ngomong bukan saya lho," kata Ahok.</p> 
+<p>Semalam, setelah sidang, tim pengacara Ahok konferensi pers. Pengacara belum bersedia menunjukkan bukti sambungan telepon antara SBY dan Ma'ruf kepada wartawan.</p> 
+<p>"Soal buktinya nanti kita akan melalui proses hukum di pengadilan ya, kita nggak bisa kemukakan di sini. Karena tidak boleh mendahului proses di pengadilan," ujar Humphrey.</p> 
+<p>Humphrey memastikan dirinya tidak asal menuduh mengenai sambungan telepon Yudhoyono ke Ma'ruf. Dia memiliki bukti lengkap sambungan telepon yang dilakukan pukul 10.16 WIB.</p> 
+<p>"Kalau kita sudah sampaikan di pengadilan pada majelis hakim, kita akan sampaikan pada pers," kata Humphrey .</p> 
+<p>Ma'ruf tidak membantah adanya pertemuan dengan Agus dan Sylviana di kantor PBNU. Namun, dia membantah kalau dirinya ditelepon Yudhoyono untuk mengatur pertemuan tersebut, apalagi ada pesanan untuk mengeluarkan pendapat dan sikap keagamaan MUI yang menyatakan Ahok menodai Al Quran dan ulama.</p>
+
+
+-*-10665619
+-*-http://www.suara.com/news/2017/02/01/145851/mana-bukti-percakapan-sby-dan-maruf-ahok-sebut-pengacaranya
+
+--------------------
+
+
+-t-t- Ahok -- 7.428431798001565
+-t-t- Ma'ruf -- 6.021321767428725
+-t-t- Susilo Bambang Yudhoyono -- 4.0435587863200215
+-t-t- Humphrey -- 3.899565347009304
+-t-t- Agus Harimurti Yudhoyono -- 3.8321870733046177
+-t-t- Ketua Umum PBNU -- 3.750435015144741
+-t-t- Majelis Ulama Indonesia -- 3.6828240104069465
+-t-t- Said Aqil Siradj -- 3.3005825061903433
+-t-t- Jalan Kramat Raya -- 3.2679062584378293
+-t-t- Jakarta Utara -- 2.8003648105949024
+-t-t- Jakarta Pusat -- 2.6325693684315583
+-t-t- Kementerian Pertanian -- 2.5383784264231233
+-t-t- Partai Demokrat -- 2.3544295866947813
+-t-t- Sylviana Murni -- 2.3370058115529884
+-t-t- SBY -- 2.0878958098694054
+-t-t- Tempo -- 2.001206695242425
+-t-t- Al Quran -- 1.607279805474506
+-t-t- Siswanto -- 1.3189770165601027
+-t-t- Kementan -- 1.262894595007894
+-t-t- Calon -- 1.2207528712156115
+-t-t- Marunda -- 1.1164899400688717
+-t-t- Cilincing -- 1.1143198922783073
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Tjahaja Purnama -- 2.0
+-f-f- Basuki Tjahaja Purnama -- 2.0
+-f-f- Basuki Tjahaja -- 2.0
+-f-f- Umum Partai Demokrat Susilo Bambang -- 1.0
+-f-f- Umum Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Bowo Raharjo -- 1.0
+-f-f- Demokrat Susilo Bambang -- 1.0
+-f-f- Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Ketua Umum Partai Demokrat -- 1.0
+-f-f- Ketua Umum PBNU Said -- 1.0
+-f-f- Ulama Indonesia Ma'ruf Amin -- 1.0
+-f-f- Demokrat Susilo -- 1.0
+-f-f- Gedung Kementerian -- 1.0
+-f-f- Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Ketua Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Ma'ruf Amin -- 1.0
+-f-f- PBNU Said -- 1.0
+-f-f- Ketua Umum Majelis -- 1.0
+-f-f- Majelis Ulama Indonesia Ma'ruf Amin -- 1.0
+-f-f- MUI -- 1.0
+-f-f- Gedung Kementerian Pertanian -- 1.0
+-f-f- Umum Partai Demokrat Susilo -- 1.0
+-f-f- Partai Demokrat Susilo Bambang -- 1.0
+-f-f- Dwi Bowo Raharjo Rabu -- 1.0
+-f-f- Dwi Bowo -- 1.0
+-f-f- Majelis Ulama Indonesia Ma'ruf -- 1.0
+-f-f- Umum Partai Demokrat -- 1.0
+-f-f- Ketua Umum Majelis Ulama Indonesia Ma'ruf -- 1.0
+-f-f- Umum Majelis Ulama -- 1.0
+-f-f- Umum Majelis Ulama Indonesia Ma'ruf -- 1.0
+-f-f- Ketua Umum Majelis Ulama Indonesia Ma'ruf Amin -- 1.0
+-f-f- Umum Majelis Ulama Indonesia Ma'ruf Amin -- 1.0
+-f-f- Indonesia Ma'ruf Amin -- 1.0
+-f-f- Bowo Raharjo Rabu -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo -- 1.0
+-f-f- Umum PBNU Said Aqil Siradj -- 1.0
+-f-f- Partai Demokrat Susilo -- 1.0
+-f-f- Ulama Indonesia Ma'ruf -- 1.0
+-f-f- PBNU Said Aqil -- 1.0
+-f-f- Ketua Umum PBNU Said Aqil -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo Bambang -- 1.0
+-f-f- Tempo 4 November -- 1.0
+-f-f- Tempo 4 -- 1.0
+-f-f- Ketua Umum Partai -- 1.0
+-f-f- Ketua Umum PBNU Said Aqil Siradj -- 1.0
+-f-f- PBNU Said Aqil Siradj -- 1.0
+-f-f- Ketua Umum Majelis Ulama -- 1.0
+-f-f- Raharjo Rabu -- 1.0
+-f-f- Dwi Bowo Raharjo -- 1.0
+-f-f- Umum PBNU Said Aqil -- 1.0
+-f-f- Indonesia Ma'ruf -- 1.0
+-f-f- Umum Majelis -- 1.0
+-f-f- Umum PBNU Said -- 1.0
+-f-f- Umum Partai -- 1.0
+-f-f- WIB Persidangan -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<span> </span>   
+<a href="http://mediaindonesia.com/files/news/2017/02/1.jpg" rel="nofollow"><img src="[BASEURL]/6f76822ef6bfea9aedbcb98bf3a7936f.jpeg" alt="" data:w="600" data:h="400"></a> 
+<p>MI/SUSANTO</p>   
+<p>KOMISI Pemberantasan Korupsi (KPK) menuntut terdakwa suap kuota gula impor sekaligus mantan Ketua DPD RI, Irman Gusman, dipenjara 7 tahun, didenda Rp 200 juta, dan dicabut hak politiknya.</p> 
+<p>Dasarnya karena Irman telah terbukti menerima suap dan menyalahgunakan kewenangannya. "Meminta majelis hakim menjatuhkan pidana pejara 7 tahun dikurangi masa tahanan dan denda 200 juta sub 5 bulan kurungan kepada terdakwa," ujar Jaksa Penuntut Umum KPK, Arif Suhermanto, saat membacakan surat tuntutan, di Pengadilan Tipikor Jakarta, Rabu (1/2).</p> 
+<p>Dia menilai, tuntutan kepada Irman didasarkan pada bukti secara sah dan meyakinkan atas perbuatannya yang telah menerima suap sebesar Rp 100 juta dari Direktur CV Semesta Berjaya Xaveriandy Sutanto dan Memi. Suap diterima Irman sebagai upeti pengaturan kuota gula impor dari Perum Bulog kepada perusahaan milik Xaveriandy.</p> 
+<p>Menurutnya, pengaturan itu dilakukan dengan memanfaatkan posisinya sebagai Ketua DPD. Selain hukuman badan, Irman juga harus dicabut hak politiknya hingga 3 tahun setelah selesai menjalani pidana pokok.</p> 
+<p>Dalam pertimbangannya, dia menjelaskan, jabatan Irman Gusman sebagai senator dari dapil Sumatra Barat yang diharapkan terwakili orang yang bebas dari korupsi. Namun perbuatan terdakwa tersebut mencederai harapan itu dan tatanan demokrasi.</p> 
+<p>"Terdakwa juga sebagai Ketua DPD yang merupakan jabatan strategis. Maka perbuatan terdakwa telah menciderai tatanan demokrasi dan kepercayaan publik," kata Arif.</p> 
+<p>Dalam persidangan jaksa KPK sempat memperdengarkan rekaman pembicaraan antara Irman dan Dirut Perum Bulog Djarot Kusumayakti. Dalam rekaman tersebut, Irman meminta agar Djarot menyetujui Xaveriandy dan Memi sebagai distributor gula Bulog di Sumbar.</p> 
+<p>Sebelumnya, KPK menetapkan Irman sebagai tersangka pada 17/9/2016 setelah menangkap tangan sehari sebelumnya. Dia ditetapkan sebagai tersangka oleh KPK atas dugaan suap terkait pengurusan kuota gula impor. (OL-4)</p>
+
+
+-*-10662921
+-*-http://mediaindonesia.com/news/read/90172/kpk-tuntut-irman-gusman-7-tahun-penjara/2017-02-01
+
+--------------------
+
+
+-t-t- Irman Gusman -- 5.699085291248057
+-t-t- KPK -- 5.02836918545204
+-t-t- Perum Bulog -- 4.2425521999711
+-t-t- Ketua DPD RI -- 4.226524632957036
+-t-t- KOMISI Pemberantasan Korupsi -- 4.158574341885465
+-t-t- Jaksa Penuntut Umum -- 3.7369580379453478
+-t-t- CV Semesta Berjaya -- 3.4796646654324332
+-t-t- Memi -- 3.1663635209139223
+-t-t- Xaveriandy Sutanto -- 2.5634055997814036
+-t-t- Pengadilan Tipikor -- 2.314576156569563
+-t-t- Arif -- 2.0756860633358905
+-t-t- Djarot Kusumayakti -- 1.9710678868470926
+-t-t- Sumatra Barat -- 1.9544429243479957
+-t-t- SUSANTO -- 1.3173034004714332
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- CV Semesta Berjaya Xaveriandy Sutanto -- 1.0
+-f-f- Semesta Berjaya Xaveriandy Sutanto -- 1.0
+-f-f- Penuntut Umum KPK -- 1.0
+-f-f- Bulog Djarot Kusumayakti -- 1.0
+-f-f- Arif Suhermanto -- 1.0
+-f-f- Direktur CV Semesta Berjaya Xaveriandy Sutanto -- 1.0
+-f-f- Dirut Perum Bulog Djarot -- 1.0
+-f-f- Direktur CV Semesta -- 1.0
+-f-f- Umum KPK -- 1.0
+-f-f- Berjaya Xaveriandy -- 1.0
+-f-f- Perum Bulog Djarot Kusumayakti -- 1.0
+-f-f- Dirut Perum -- 1.0
+-f-f- Jaksa Penuntut Umum KPK -- 1.0
+-f-f- Berjaya Xaveriandy Sutanto -- 1.0
+-f-f- Pengadilan Tipikor Jakarta -- 1.0
+-f-f- Sumbar -- 1.0
+-f-f- Direktur CV Semesta Berjaya Xaveriandy -- 1.0
+-f-f- Direktur CV Semesta Berjaya -- 1.0
+-f-f- OL-4 -- 1.0
+-f-f- CV Semesta Berjaya Xaveriandy -- 1.0
+-f-f- Tipikor Jakarta -- 1.0
+-f-f- Bulog Djarot -- 1.0
+-f-f- Direktur CV -- 1.0
+-f-f- Semesta Berjaya Xaveriandy -- 1.0
+-f-f- Perum Bulog Djarot -- 1.0
+-f-f- Dirut Perum Bulog Djarot Kusumayakti -- 1.0
+-f-f- Dirut Perum Bulog -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a0a7d682e2e9cb415e764500c31189bb.jpeg" data:w="683" data:h="468"> Dok. Presiden RI ke-6 Susilo Bambang Yudhoyono memberikan penjelasan terkait hilangnya berkas pembunuhan aktivis Munir di Puri Cikeas, Kabupaten Bogor, Jawa Barat, Selasa (25/10). SBY melalui mantan Mensesneg Sudi Silalahi mengakui naskah asli Tim Pencari Fakta (TPF) kasus pembunuhan Munir hilang, dan pihaknya hingga kini masih mencarinya. ANTARAFOTO/Yulius Satria Wijaya/ama/16  
+<p><strong>Arah -&nbsp;</strong> Pengamat <a href="https://www.arah.com/tags/13490/politik.html" rel="nofollow">politik</a> dari Universitas Jayabaya Igor Dirgantara menilai <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> RI keenam sekaligus <a href="https://www.arah.com/tags/9345/Ketua-Umum-Partai-Demokrat.html" rel="nofollow">Ketua Umum Partai Demokrat</a> <a href="https://www.arah.com/tags/21107/Susilo-Bambang-Yudhoyono.html" rel="nofollow">Susilo Bambang Yudhoyono</a> perlu mengklarifikasi pernyataan kuasa hukum <a href="https://www.arah.com/tags/18975/Basuki-Tjahaja-Purnama.html" rel="nofollow">Basuki Tjahaja Purnama</a> (Ahok) yang mengaitkannya dengan Fatwa MUI.</p> 
+<p>"SBY perlu berbicara mengenai hal ini kepada publik, karena hal ini adalah serangan pribadi atau fitnah kepada SBY yang bisa merusak <a href="https://www.arah.com/tags/11446/nama.html" rel="nofollow">nama</a> baiknya," ujar Igor dihubungi di Jakarta, Rabu.</p> 
+<p>Igor mengatakan tudingan keterkaitan SBY dengan <a href="https://www.arah.com/tags/18867/Fatwa-MUI.html" rel="nofollow">Fatwa MUI</a> terkait kasus <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> berdampak pada preferensi publik terhadap <a href="https://www.arah.com/tags/1083/Agus-Yudhoyono.html" rel="nofollow">Agus Yudhoyono</a> yang kini tengah berkontestasi di Pilkada DKI Jakarta.</p> 
+<p>Menurut dia, dengan mengklarifikasi tudingan itu SBY dapat menjelaskan informasi terkait seluk-beluk keluarnya <a href="https://www.arah.com/tags/18867/Fatwa-MUI.html" rel="nofollow">Fatwa MUI</a> itu, apakah karena desakan masyarakat atau karena intervensi SBY.</p> 
+<p>"Dalam klarifikasinya SBY bisa memberi penjelasan yang terang benderang," ujar dia. seperti dikutip dari <em>antara</em></p> 
+<p><strong>Baca Juga:</strong> <a href="http://www.arah.com/article/21802/pengadilan-belum-terima-surat-praperadilan-kasus-rizieq.html" rel="nofollow">Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq<br></a><a href="http://www.arah.com/article/21803/begini-kondisi-istri-indra-bekti-usai-melahirkan.html" rel="nofollow">Begini Kondisi Istri Indra Bekti Usai Melahirkan<br></a></p> 
+<p>Sebelumnya, Ketua Umum <a href="https://www.arah.com/tags/18865/MUI.html" rel="nofollow">MUI</a> <a href="https://www.arah.com/tags/25180/Maruf-Amin.html" rel="nofollow">Ma'ruf Amin</a> <a href="https://www.arah.com/tags/26299/hadir.html" rel="nofollow">hadir</a> sebagai saksi dalam sidang lanjutan kasus dugaan penistaan agama oleh <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> di auditorium Kementan, <a href="https://www.arah.com/tags/8079/Jakarta.html" rel="nofollow">Jakarta</a> Selatan, Selasa (31/1).</p> 
+<p>Pada kesempatan tersebut tim kuasa hukum <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> menanyakan kepada Ma'ruf Amin, ihwal dasar dikeluarkannya <a href="https://www.arah.com/tags/18867/Fatwa-MUI.html" rel="nofollow">Fatwa MUI</a> terkait kasus Ahok.</p> 
+<p>Tim kuasa hukum <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> sempat pula menanyakan latar belakang Ma'ruf yang pernah menjabat sebagai anggota Dewan Pertimbangan <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> era <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> SBY. Pengacara <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> kemudian menanyakan soal bantuan hibah yang diperoleh <a href="https://www.arah.com/tags/18865/MUI.html" rel="nofollow">MUI</a> saat <a href="https://www.arah.com/tags/25180/Maruf-Amin.html" rel="nofollow">Ma'ruf Amin</a> menjabat Wantimpres.</p> 
+<p>Kuasa hukum <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> lantas menanyakan kepada Ma'ruf terkait kemungkinan <a href="https://www.arah.com/tags/18867/Fatwa-MUI.html" rel="nofollow">Fatwa MUI</a> mengandung kepentingan tertentu, dan mengaku memiliki bukti percakapan SBY dengan <a href="https://www.arah.com/tags/25180/Maruf-Amin.html" rel="nofollow">Ma'ruf Amin</a> terkait Fatwa MUI.</p> 
+<p>Menyusul pernyataan tim kuasa hukum <a href="https://www.arah.com/tags/1278/Ahok.html" rel="nofollow">Ahok</a> itu, SBY dikabarkan akan menggelar konferensi pers di DPP Partai Demokrat, <a href="https://www.arah.com/tags/17735/Wisma.html" rel="nofollow">Wisma</a> Proklamasi, <a href="https://www.arah.com/tags/8079/Jakarta.html" rel="nofollow">Jakarta</a> Pusat, Rabu.</p> 
+<p><strong>Video Trending Pilihan Redaksi:</strong></p> 
+<p><strong>Terkait:</strong><a href="https://www.arah.com/article/21791/ditanya-bukti-sby-telepon-ketua-mui-ini-jawaban-pengacara-ahok.html" rel="nofollow">Ditanya Bukti SBY Telepon Ketua MUI, Ini Jawaban Pengacara Ahok<br></a><a href="https://www.arah.com/article/21684/ini-kesaksian-ketua-mui-ma-ruf-amin-dalam-sidang-ahok.html" rel="nofollow">Ini Kesaksian Ketua MUI Ma'ruf Amin dalam Sidang Ahok<br></a><a href="https://www.arah.com/article/21124/pengacara-ahok-minta-sidang-ditunda-jpu-tidak-mendasar.html" rel="nofollow">Pengacara Ahok Minta Sidang Ditunda, JPU: Tidak Mendasar<br></a><a href="https://www.arah.com/article/21674/5-saksi-akan-dihadirkan-di-sidang-ahok-satu-orang-dari-mui.html" rel="nofollow">5 Saksi akan Dihadirkan di Sidang Ahok, Satu Orang dari MUI<br></a><a href="https://www.arah.com/article/21679/pengacara-ahok-ketua-mui-berafiliasi-dengan-paslon-nomor-satu.html" rel="nofollow">Pengacara Ahok: Ketua MUI Berafiliasi dengan Paslon Nomor Satu<br></a><a href="https://www.arah.com/gallery/258/foto-cerita-di-balik-abyab-binsari-gua-jepang-di-pulau-biak.html" rel="nofollow">FOTO: Cerita di Balik Abyab Binsari, Gua Jepang di Pulau Biak<br></a><a href="https://www.arah.com/gallery/257/deretan-tersangka-penyuap-patrialis-akbar.html" rel="nofollow">Deretan Tersangka Penyuap Patrialis Akbar<br></a><a href="https://www.arah.com/gallery/256/foto-pasar-senen-diamuk-si-jago-merah.html" rel="nofollow">FOTO: Pasar Senen Diamuk Si Jago Merah<br></a></p> 
+<p><a href="https://www.arah.com/tags/8079/jakarta.html" rel="nofollow">#Jakarta</a> <a href="https://www.arah.com/tags/24133/soesilo-bambang-yudhoyono-sby.html" rel="nofollow">#Soesilo Bambang Yudhoyono (SBY)</a> <a href="https://www.arah.com/tags/24564/penistaan-agama.html" rel="nofollow">#Penistaan Agama</a> <a href="https://www.arah.com/tags/25374/sidang-ahok.html" rel="nofollow">#Sidang Ahok</a> <a href="https://www.arah.com/tags/25556/kuasa-hukum-ahok.html" rel="nofollow">#Kuasa Hukum Ahok</a> <a href="https://www.arah.com/tags/25946/saksi-sidang-ahok.html" rel="nofollow">#saksi sidang ahok</a> <a href="https://www.arah.com/tags/26274/telepon.html" rel="nofollow">#telepon</a> <a href="https://www.arah.com/tags/26455/ketua-mui-ma-ruf-amin.html" rel="nofollow">#Ketua MUI Ma'ruf Amin</a></p>
+
+
+-*-10662650
+-*-https://www.arah.com/article/21809/pengamat-pernyataan-kuasa-hukum-ahok-itu-serangan-untuk-sby.html
+
+--------------------
+
+
+-t-t- Fatwa MUI -- 14.056869168008824
+-t-t- Pengacara Ahok -- 8.969346659554473
+-t-t- Ketua MUI Ma'ruf Amin -- 8.94037106692185
+-t-t- Susilo Bambang Yudhoyono -- 8.066864781277593
+-t-t- Sidang Ahok -- 6.9369759531233175
+-t-t- Presiden RI -- 5.081895001858359
+-t-t- Ketua Umum -- 4.5023103376970495
+-t-t- Partai Demokrat -- 4.223086019031036
+-t-t- Pilkada DKI Jakarta -- 3.949833047974103
+-t-t- Basuki Tjahaja Purnama -- 3.793280803920808
+-t-t- Presiden SBY -- 3.48504564512219
+-t-t- Igor Dirgantara -- 2.8970437269969973
+-t-t- Jakarta Selatan -- 2.6467047830876878
+-t-t- Si Jago Merah -- 2.6010090656736686
+-t-t- Puri Cikeas -- 2.585429200053145
+-t-t- Kabupaten Bogor -- 2.5798943187438903
+-t-t- Jawa Barat -- 2.5726742718670277
+-t-t- Munir -- 2.5530745074982066
+-t-t- Sudi Silalahi -- 2.5486130101479327
+-t-t- Universitas Jayabaya -- 2.464328174156418
+-t-t- Jakarta Pusat -- 2.4060871309608616
+-t-t- Agus Yudhoyono -- 2.2503484407149523
+-t-t- Indra Bekti -- 2.0829160899001558
+-t-t- Wisma Proklamasi -- 1.788030509986982
+-t-t- Gua Jepang -- 1.6678688203202836
+-t-t- Patrialis Akbar -- 1.6539049672658237
+-t-t- Pasar Senen -- 1.6479174949162005
+-t-t- Penistaan Agama -- 1.6263270099300255
+-t-t- Kuasa Hukum -- 1.6183037060165504
+-t-t- TPF -- 1.263012873224455
+-t-t- Pengamat -- 1.2366409789276729
+-t-t- Kementan -- 1.0133443040311207
+-t-t- Wantimpres -- 0.9436871617868798
+-t-t- JPU -- 0.8590510457828796
+-*- -- time: 0.011
+
+--------------------
+
+
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- Tim Pencari Fakta -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Surat Praperadilan -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Deretan Tersangka -- 1.0
+-f-f- Biak Deretan -- 1.0
+-f-f- MUI Pengacara Ahok: Ketua -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Umum MUI Ma'ruf Amin -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI -- 1.0
+-f-f- Akbar FOTO -- 1.0
+-f-f- 5 Saksi -- 1.0
+-f-f- Video Trending -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Ahok Minta Sidang -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Redaksi -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat -- 1.0
+-f-f- Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Begini Kondisi Istri Indra -- 1.0
+-f-f- FOTO: Pasar Senen -- 1.0
+-f-f- Video Trending Pilihan Redaksi -- 1.0
+-f-f- Partai Demokrat Susilo -- 1.0
+-f-f- :Ditanya Bukti SBY Telepon Ketua MUI -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Belum Terima Surat -- 1.0
+-f-f- MUI Pengacara -- 1.0
+-f-f- Sidang Ahok Pengacara Ahok Minta -- 1.0
+-f-f- Istri Indra Bekti -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Senen Diamuk -- 1.0
+-f-f- JPU: Tidak Mendasar 5 -- 1.0
+-f-f- Pengadilan Belum Terima -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- :Ditanya Bukti -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Sidang Ahok Pengacara -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini Kesaksian -- 1.0
+-f-f- Juga: Pengadilan Belum Terima -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Bukti SBY Telepon Ketua MUI -- 1.0
+-f-f- :Ditanya Bukti SBY Telepon -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Kesaksian Ketua -- 1.0
+-f-f- Rizieq Begini Kondisi -- 1.0
+-f-f- Ahok Ini Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Rizieq Begini -- 1.0
+-f-f- Bukti SBY Telepon -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Kondisi Istri -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Terima Surat Praperadilan Kasus -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Pengadilan Belum Terima Surat -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Indra Bekti Usai -- 1.0
+-f-f- SBY Telepon Ketua MUI -- 1.0
+-f-f- :Ditanya Bukti SBY -- 1.0
+-f-f- Pengacara Ahok: Ketua -- 1.0
+-f-f- Patrialis Akbar FOTO -- 1.0
+-f-f- Sidang Ditunda -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini Kesaksian -- 1.0
+-f-f- Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- MUI Pengacara Ahok: Ketua MUI Berafiliasi -- 1.0
+-f-f- Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Umum MUI Ma'ruf -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Satu FOTO: Cerita -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Ahok Ini Kesaksian Ketua MUI -- 1.0
+-f-f- Minta Sidang -- 1.0
+-f-f- ANTARAFOTO -- 1.0
+-f-f- Minta Sidang Ditunda -- 1.0
+-f-f- Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini Kesaksian Ketua -- 1.0
+-f-f- Nomor Satu FOTO -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap -- 1.0
+-f-f- Ini Kesaksian Ketua -- 1.0
+-f-f- Tidak Mendasar 5 -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Akbar FOTO: Pasar -- 1.0
+-f-f- Ketua Umum MUI Ma'ruf -- 1.0
+-f-f- Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- Pengacara Ahok Ini Kesaksian Ketua MUI -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Pulau Biak Deretan -- 1.0
+-f-f- JPU: Tidak -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Ini Jawaban Pengacara -- 1.0
+-f-f- Ahok: Ketua MUI -- 1.0
+-f-f- Soesilo Bambang -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- Ahok Pengacara Ahok Minta -- 1.0
+-f-f- Kasus Rizieq -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Sidang Ahok Pengacara Ahok Minta Sidang Ditunda -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Satu FOTO -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Jawaban Pengacara -- 1.0
+-f-f- SBY Telepon Ketua -- 1.0
+-f-f- Pasar Senen Diamuk Si -- 1.0
+-f-f- Belum Terima -- 1.0
+-f-f- Kasus Rizieq Begini -- 1.0
+-f-f- Trending Pilihan Redaksi -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Sidang Ahok Pengacara Ahok -- 1.0
+-f-f- Video Trending Pilihan -- 1.0
+-f-f- Ini Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Juga: Pengadilan Belum -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Balik Abyab -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan -- 1.0
+-f-f- Universitas Jayabaya Igor -- 1.0
+-f-f- Pengacara Ahok: Ketua MUI -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Jayabaya Igor Dirgantara -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- Bukti SBY Telepon Ketua -- 1.0
+-f-f- Sidang Ahok Pengacara Ahok Minta Sidang -- 1.0
+-f-f- Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Senen Diamuk Si Jago -- 1.0
+-f-f- Nomor Satu FOTO: Cerita -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Umum Partai Demokrat Susilo -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Trending Pilihan -- 1.0
+-f-f- Begini Kondisi Istri -- 1.0
+-f-f- Pengacara Ahok Minta -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Pulau Biak Deretan Tersangka -- 1.0
+-f-f- Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini Kesaksian Ketua -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo -- 1.0
+-f-f- Telepon Ketua MUI -- 1.0
+-f-f- Tidak Mendasar 5 Saksi -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Istri Indra -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Ini Kesaksian -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Kesaksian Ketua MUI -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- MUI Pengacara Ahok -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Paslon Nomor Satu FOTO: Cerita -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Ahok Minta Sidang Ditunda -- 1.0
+-f-f- Dewan Pertimbangan Presiden -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Jayabaya Igor -- 1.0
+-f-f- Praperadilan Kasus -- 1.0
+-f-f- Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Yulius Satria -- 1.0
+-f-f- Ketua MUI Berafiliasi -- 1.0
+-f-f- Bekti Usai Melahirkan -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- MUI Berafiliasi -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Paslon Nomor Satu FOTO -- 1.0
+-f-f- Diamuk Si -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- FOTO: Pasar -- 1.0
+-f-f- Senen Diamuk Si -- 1.0
+-f-f- Satria Wijaya -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Istri Indra Bekti Usai -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo Bambang -- 1.0
+-f-f- FOTO: Cerita -- 1.0
+-f-f- Nomor Satu -- 1.0
+-f-f- :Ditanya Bukti SBY Telepon Ketua -- 1.0
+-f-f- Usai Melahirkan -- 1.0
+-f-f- JPU: Tidak Mendasar -- 1.0
+-f-f- Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Pengadilan Belum -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini -- 1.0
+-f-f- Juga: Pengadilan -- 1.0
+-f-f- Pengacara Ahok: Ketua MUI Berafiliasi -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- DPP Partai Demokrat -- 1.0
+-f-f- Biak Deretan Tersangka -- 1.0
+-f-f- Pengacara Ahok Ini -- 1.0
+-f-f- Hukum Ahok -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Baca Juga: Pengadilan -- 1.0
+-f-f- Mensesneg Sudi -- 1.0
+-f-f- Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Ini Jawaban -- 1.0
+-f-f- Umum Partai -- 1.0
+-f-f- Deretan Tersangka Penyuap -- 1.0
+-f-f- Ahok Minta -- 1.0
+-f-f- Surat Praperadilan Kasus -- 1.0
+-f-f- Penyuap Patrialis -- 1.0
+-f-f- Demokrat Susilo Bambang -- 1.0
+-f-f- Paslon Nomor -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Baca Juga -- 1.0
+-f-f- Belum Terima Surat Praperadilan -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Baca Juga: Pengadilan Belum -- 1.0
+-f-f- Partai Demokrat Susilo Bambang -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Umum Partai Demokrat -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Ahok Pengacara Ahok -- 1.0
+-f-f- Ketua Umum MUI Ma'ruf Amin -- 1.0
+-f-f- Bekti Usai -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Pengacara Ahok Minta Sidang -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- JPU: Tidak Mendasar 5 Saksi -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Ahok: Ketua -- 1.0
+-f-f- Dihadirkan -- 1.0
+-f-f- Begini Kondisi -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- Diamuk Si Jago -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Ahok Pengacara Ahok Minta Sidang -- 1.0
+-f-f- Dewan Pertimbangan -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Umum Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- SBY Telepon -- 1.0
+-f-f- Pengacara Ahok Minta Sidang Ditunda -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq -- 1.0
+-f-f- MUI Pengacara Ahok: Ketua MUI -- 1.0
+-f-f- Ketua Umum Partai Demokrat -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Ahok Ini Kesaksian Ketua -- 1.0
+-f-f- Demokrat Susilo -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus -- 1.0
+-f-f- Ahok Ini Kesaksian -- 1.0
+-f-f- Tim Pencari -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI Ma'ruf -- 1.0
+-f-f- Mensesneg Sudi Silalahi -- 1.0
+-f-f- Satu Orang -- 1.0
+-f-f- Jawaban Pengacara Ahok -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Ahok Pengacara Ahok Minta Sidang Ditunda -- 1.0
+-f-f- Mendasar 5 Saksi -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Paslon Nomor Satu -- 1.0
+-f-f- Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Balik Abyab Binsari -- 1.0
+-f-f- Yulius Satria Wijaya -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Begini Kondisi Istri Indra Bekti -- 1.0
+-f-f- Umum MUI -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Ketua Umum Partai -- 1.0
+-f-f- Telepon Ketua -- 1.0
+-f-f- Kuasa Hukum Ahok -- 1.0
+-f-f- Ahok Pengacara -- 1.0
+-f-f- Pertimbangan Presiden -- 1.0
+-f-f- Ahok: Ketua MUI Berafiliasi -- 1.0
+-f-f- Universitas Jayabaya Igor Dirgantara -- 1.0
+-f-f- Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri -- 1.0
+-f-f- Ahok Ini Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Tidak Mendasar -- 1.0
+-f-f- Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Praperadilan Kasus Rizieq -- 1.0
+-f-f- Umum Partai Demokrat Susilo Bambang -- 1.0
+-f-f- Bukti SBY -- 1.0
+-f-f- Pulau Biak -- 1.0
+-f-f- Tersangka Penyuap Patrialis -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Abyab Binsari -- 1.0
+-f-f- Terima Surat -- 1.0
+-f-f- Ahok Ini -- 1.0
+-f-f- Ini Kesaksian Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- Kondisi Istri Indra -- 1.0
+-f-f- Pengacara Ahok Ini Kesaksian Ketua -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Pencari Fakta -- 1.0
+-f-f- Soesilo Bambang Yudhoyono -- 1.0
+-f-f- Penyuap Patrialis Akbar -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Ini Kesaksian Ketua MUI -- 1.0
+-f-f- Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai -- 1.0
+-f-f- Ketua Umum Partai Demokrat Susilo Bambang Yudhoyono -- 1.0
+-f-f- DPP Partai -- 1.0
+-f-f- Terima Surat Praperadilan -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Surat Praperadilan Kasus Rizieq Begini Kondisi -- 1.0
+-f-f- Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Pasar Senen Diamuk -- 1.0
+-f-f- Ini Jawaban Pengacara Ahok Ini Kesaksian Ketua MUI -- 1.0
+-f-f- Kondisi Istri Indra Bekti -- 1.0
+-f-f- Mendasar 5 -- 1.0
+-f-f- Diamuk Si Jago Merah -- 1.0
+-f-f- Juga: Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini -- 1.0
+-f-f- Pilihan Redaksi -- 1.0
+-f-f- Pengacara Ahok Ini Kesaksian -- 1.0
+-f-f- Tersangka Penyuap -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 1.0
+-f-f- Ketua Umum MUI -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Baca Juga: Pengadilan Belum Terima -- 1.0
+-f-f- Video Trending Pilihan Redaksi  -- 0.0
+-f-f- Baca Juga : Pengadilan Belum Terima Surat Praperadilan Kasus Rizieq Begini Kondisi Istri Indra Bekti Usai Melahirkan -- 0.0
+-f-f- MUI Pengacara Ahok : Ketua MUI Berafiliasi -- 0.0
+-f-f- Paslon Nomor Satu FOTO : Cerita -- 0.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO : Pasar Senen Diamuk Si Jago Merah -- 0.0
+-f-f- JPU : Tidak Mendasar 5 Saksi -- 0.0
+-*- -- time: 0.011
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3c8780e2958dc73cbc6b16b8899608d5.jpeg" data:w="683" data:h="468"> Antasari Azhar hadir dalam debat kedua Pilgub DKI di Gedung Bidakara, Jakarta Selatan, Jumat (27/1). (Foto: Arah.com/ Restu)  
+<p><strong>Arah -</strong> <span>Ketua Badan Hukum Partai <a href="https://www.arah.com/tags/24813/Demokrasi-Indonesia.html" rel="nofollow">Demokrasi Indonesia</a> Perjuangan <a href="https://www.arah.com/tags/8588/Junimart-Girsang.html" rel="nofollow">Junimart Girsang</a> menilai mantan Ketua <a href="https://www.arah.com/tags/19799/Komisi-Pemberantasan-Korupsi-KPK.html" rel="nofollow">Komisi</a> <a href="https://www.arah.com/tags/19234/Pemberantasan-Korupsi.html" rel="nofollow">Pemberantasan Korupsi</a> <a href="https://www.arah.com/tags/19799/Komisi-Pemberantasan-Korupsi-KPK.html" rel="nofollow">(KPK)</a> <a href="https://www.arah.com/tags/24789/Antasari-Azhar.html" rel="nofollow">Antasari Azhar</a> mampu dan layak menjadi Jaksa Agung karena memiliki kemampuan serta pengalaman.</span></p> 
+<p><span>"Saya kira layak, tidak ada hambatan, tidak ada larangan seseorang terpidana menjadi pembantu presiden, tidak ada larangan. Itu menjadi hak prerogatif <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> apalagi beliau sudah mendapatkan grasi," kata Junimart di <a href="https://www.arah.com/tags/6993/Gedung-Nusantara.html" rel="nofollow">Gedung Nusantara</a> II, Jakarta, Rabu (1/2/2017).</span></p> 
+<p><span>Junimart menilai, Antasari secara profesi dibesarkan di lingkungan Kejaksanan dan juga pernah menjadi Direktur Penyidikan Umum di Kejaksaan Agung.</span></p> 
+<p><strong>Baca Juga:</strong> <a href="http://www.arah.com/article/21518/hasto-antasari-azhar-akan-bergabung-dengan-pdi-perjuangan.html" rel="nofollow">Hasto: Antasari Azhar akan Bergabung dengan PDI Perjuangan<br></a><a href="http://www.arah.com/article/21426/presiden-jokowi-enggan-bocorkan-pembicaraan-dengan-antasari.html" rel="nofollow">Presiden Jokowi Enggan Bocorkan Pembicaraan dengan Antasari<br></a></p> 
+<p><span>Namun, dia menyerahkan keputusan tersebut kepada <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> Joko Widodo, karena <a href="https://www.arah.com/tags/24165/Presiden.html" rel="nofollow">Presiden</a> yang menentukan apakah Antasari dibutuhkan kerjanya dalam kabinet atau tidak.</span></p> 
+<p><span>"Tapi semua kembali ke Pak Presiden. Apakah presiden membutuhkan sosok antasari sebagai pembantu presiden, kita tunggu saja," ujarnya.</span></p> 
+<p><span>Anggota Komisi III <a href="https://www.arah.com/tags/5722/DPR.html" rel="nofollow">DPR</a> itu mengatakan Antasari sudah menyatakan diri akan bergabung dengan <a href="https://www.arah.com/tags/19290/PDI-Perjuangan.html" rel="nofollow">PDI Perjuangan</a> karena alasan memiliki visi-misi dan ideologi yang sama.</span></p> 
+<p><span>PDI Perjuangan menurut dia, terbuka dan gembira untuk menerima Antasari karena masuknya Antasari bisa memberikan masukan untuk tukar pikiran dan sinergitas tentang masalah penegakan hukum di Indonesia.</span></p> 
+<p><span>"Kami harap nanti Pak <a href="https://www.arah.com/tags/24789/Antasari-Azhar.html" rel="nofollow">Antasari Azhar</a> menjadi bagian dari aset di bantuan hukum PDI Perjuangan," ucapnya.</span></p> 
+<p><span>Menurut dia, <a href="https://www.arah.com/tags/19290/PDI-Perjuangan.html" rel="nofollow">PDI Perjuangan</a> juga akan membantu pengungkapan kejanggalan kasus <a href="https://www.arah.com/tags/18807/pembunuhan.html" rel="nofollow">pembunuhan</a> Bos PT Rajawali Putra Banjaran Nasrudin Zulkarnain yang memenjarakan Antasari.</span></p> 
+<p><span>Dia mengatakan selama kasus itu terkait penegakan hukum dan peradilan, maka <a href="https://www.arah.com/tags/19290/PDI-Perjuangan.html" rel="nofollow">PDI Perjuangan</a> tidak akan diam.</span></p> 
+<p><span>"Jadi sepanjang itu masalah penegakan hukum, masalah peradilan, <a href="https://www.arah.com/tags/19290/PDI-Perjuangan.html" rel="nofollow">PDI Perjuangan</a> tidak akan diam. Kami akan jalan, apapun yang terjadi. Apalagi kalau ada istilah dizolimi, kita akan kaji betul itu," tuturnya.</span></p> 
+<p><span>Sebelumnya mantan Ketua Komisi <a href="https://www.arah.com/tags/19234/Pemberantasan-Korupsi.html" rel="nofollow">Pemberantasan Korupsi</a> <a href="https://www.arah.com/tags/24789/Antasari-Azhar.html" rel="nofollow">Antasari Azhar</a> mengatakan dalam waktu dekat akan bergabung dengan salah satu parpol <a href="https://www.arah.com/tags/4506/bulan.html" rel="nofollow">bulan</a> depan.</span></p> 
+<p><span>"Saya memang akan bergabung dengan satu <a href="https://www.arah.com/tags/12291/partai.html" rel="nofollow">partai</a> <a href="https://www.arah.com/tags/13490/politik.html" rel="nofollow">politik</a> tertentu. <a href="https://www.arah.com/tags/2059/Alasan.html" rel="nofollow">Alasan</a> saya bergabung dengan parpol itu karena ada kesamaan dan secara historis kami memiliki satu ideologi," kata Antasari saat diwawancarai Kompas TV di kediamannya, Sabtu (28/1).</span></p> 
+<p><span>Antasari mengatakan parpol yang akan dimasukinya adalah PDIP, karena dirinya pernah menjadi <a href="https://www.arah.com/tags/1937/aktivis.html" rel="nofollow">aktivis</a> Gerakan <a href="https://www.arah.com/tags/20341/Mahasiswa.html" rel="nofollow">Mahasiswa</a> Nasional <a href="https://www.arah.com/tags/21329/Indonesia.html" rel="nofollow">Indonesia</a> (GMNI) dan sebagian besar kader organisasi itu ada di PDIP.</span></p> 
+<p><strong>Terkait:</strong><a href="https://www.arah.com/article/21183/jokowi-kabulkan-grasi-antasari-azhar.html" rel="nofollow">Jokowi Kabulkan Grasi Antasari Azhar<br></a><a href="https://www.arah.com/article/21806/datangi-polda-metro-jaya-antasari-tagih-janji.html" rel="nofollow">Datangi Polda Metro Jaya, Antasari Tagih Janji<br></a><a href="https://www.arah.com/article/21282/komisi-iii-dpr-sebut-grasi-antasari-azhar-tidak-istimewa.html" rel="nofollow">Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa<br></a><a href="https://www.arah.com/article/20802/benarkah-pertemuan-dengan-rizieq-dongkrak-elektabilitas-anies.html" rel="nofollow">Benarkah Pertemuan dengan Rizieq Dongkrak Elektabilitas Anies?<br></a><a href="https://www.arah.com/article/20944/ini-curahan-hati-pedagang-korban-kebakaran-pasar-senen.html" rel="nofollow">Ini Curahan Hati Pedagang, Korban Kebakaran Pasar Senen<br></a><a href="https://www.arah.com/gallery/258/foto-cerita-di-balik-abyab-binsari-gua-jepang-di-pulau-biak.html" rel="nofollow">FOTO: Cerita di Balik Abyab Binsari, Gua Jepang di Pulau Biak<br></a><a href="https://www.arah.com/gallery/257/deretan-tersangka-penyuap-patrialis-akbar.html" rel="nofollow">Deretan Tersangka Penyuap Patrialis Akbar<br></a><a href="https://www.arah.com/gallery/256/foto-pasar-senen-diamuk-si-jago-merah.html" rel="nofollow">FOTO: Pasar Senen Diamuk Si Jago Merah<br></a></p> 
+<p><a href="https://www.arah.com/tags/8079/jakarta.html" rel="nofollow">#Jakarta</a> <a href="https://www.arah.com/tags/19290/pdi-perjuangan.html" rel="nofollow">#PDI Perjuangan</a> <a href="https://www.arah.com/tags/24789/antasari-azhar.html" rel="nofollow">#Antasari Azhar</a> <a href="https://www.arah.com/tags/24802/antasari-azhar-bebas.html" rel="nofollow">#Antasari Azhar Bebas</a></p>
+
+
+-*-10662648
+-*-https://www.arah.com/article/21811/pdi-perjuangan-antasari-layak-jadi-jaksa-agung.html
+
+--------------------
+
+
+-t-t- Ketua Komisi Pemberantasan Korupsi -- 9.556789159279655
+-t-t- Grasi Antasari Azhar -- 7.6147837415955655
+-t-t- Komisi III DPR -- 6.149606992103876
+-t-t- Partai Demokrasi Indonesia Perjuangan -- 5.757194456517025
+-t-t- PT Rajawali Putra Banjaran -- 4.3258017416142485
+-t-t- Presiden Joko Widodo -- 4.183195159220919
+-t-t- Gedung Nusantara II -- 3.823838450851018
+-t-t- Anggota Komisi III -- 3.53760491509016
+-t-t- Presiden Jokowi -- 3.3250009549849073
+-t-t- Pasar Senen -- 3.2800016175113273
+-t-t- Jakarta Selatan -- 3.0245578756621505
+-t-t- Junimart Girsang -- 3.0239545684520475
+-t-t- Polda Metro Jaya -- 2.7029192545685667
+-t-t- Si Jago Merah -- 2.565109389022491
+-t-t- Jaksa Agung -- 2.51947640307794
+-t-t- Kejaksaan Agung -- 2.3495160023266206
+-t-t- Kompas TV -- 1.7863384439283903
+-t-t- Korban Kebakaran -- 1.659509692621844
+-t-t- Gua Jepang -- 1.6429272968917752
+-t-t- Patrialis Akbar -- 1.6302272024192819
+-t-t- KPK -- 1.2682005333144748
+-*- -- time: 0.01
+
+--------------------
+
+
+-f-f- PDI Perjuangan -- 8.0
+-f-f- PDIP -- 2.0
+-f-f- Pak Antasari Azhar -- 1.0
+-f-f- Partai Demokrasi Indonesia Perjuangan Junimart -- 1.0
+-f-f- Bocorkan Pembicaraan -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari Azhar -- 1.0
+-f-f- Komisi III DPR Sebut Grasi -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- Rizieq Dongkrak -- 1.0
+-f-f- Senen FOTO: Cerita -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Deretan Tersangka -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Biak Deretan -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Putra Banjaran Nasrudin Zulkarnain -- 1.0
+-f-f- Hati Pedagang -- 1.0
+-f-f- Badan Hukum Partai Demokrasi Indonesia Perjuangan -- 1.0
+-f-f- DPR Sebut Grasi Antasari -- 1.0
+-f-f- Akbar FOTO -- 1.0
+-f-f- III DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Janji Komisi -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Azhar Datangi Polda Metro -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- FOTO: Pasar Senen -- 1.0
+-f-f- Bos PT Rajawali Putra Banjaran Nasrudin Zulkarnain -- 1.0
+-f-f- Bos PT -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- Pasar Senen FOTO: Cerita -- 1.0
+-f-f- Janji Komisi III DPR -- 1.0
+-f-f- Antasari Tagih Janji Komisi III -- 1.0
+-f-f- Pak Antasari -- 1.0
+-f-f- Senen Diamuk -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Kabulkan Grasi Antasari Azhar Datangi Polda -- 1.0
+-f-f- PDI Perjuangan Presiden Jokowi Enggan -- 1.0
+-f-f- Komisi III DPR Sebut -- 1.0
+-f-f- Penyidikan Umum -- 1.0
+-f-f- Jokowi Enggan Bocorkan -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap -- 1.0
+-f-f- Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- #PDI Perjuangan -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Hukum Partai Demokrasi Indonesia Perjuangan Junimart -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Ketua Badan Hukum Partai -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari -- 1.0
+-f-f- Korban Kebakaran Pasar -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Perjuangan Presiden -- 1.0
+-f-f- Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Badan Hukum Partai Demokrasi Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- Tagih Janji Komisi -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Hukum Partai -- 1.0
+-f-f- Kabulkan Grasi Antasari Azhar Datangi -- 1.0
+-f-f- Patrialis Akbar FOTO -- 1.0
+-f-f- III DPR Sebut Grasi Antasari -- 1.0
+-f-f- Antasari Azhar Datangi -- 1.0
+-f-f- Presiden Jokowi Enggan Bocorkan -- 1.0
+-f-f- Janji Komisi III DPR Sebut -- 1.0
+-f-f- Kabulkan Grasi -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari -- 1.0
+-f-f- Sebut Grasi Antasari -- 1.0
+-f-f- Grasi Antasari Azhar Datangi Polda Metro Jaya -- 1.0
+-f-f- Badan Hukum Partai Demokrasi Indonesia Perjuangan Junimart -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Gerakan Mahasiswa Nasional -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap -- 1.0
+-f-f- Korupsi Antasari Azhar -- 1.0
+-f-f- GMNI -- 1.0
+-f-f- Nasrudin Zulkarnain -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Hukum Partai Demokrasi -- 1.0
+-f-f- PDI Perjuangan Presiden Jokowi Enggan Bocorkan -- 1.0
+-f-f- Benarkah Pertemuan -- 1.0
+-f-f- Perjuangan Junimart -- 1.0
+-f-f- Banjaran Nasrudin Zulkarnain -- 1.0
+-f-f- Bos PT Rajawali -- 1.0
+-f-f- Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- Akbar FOTO: Pasar -- 1.0
+-f-f- Enggan Bocorkan Pembicaraan -- 1.0
+-f-f- Pilgub DKI -- 1.0
+-f-f- Kabulkan Grasi Antasari Azhar Datangi Polda Metro Jaya -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Pulau Biak Deretan -- 1.0
+-f-f- Kebakaran Pasar Senen FOTO -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Ketua Badan Hukum Partai Demokrasi Indonesia Perjuangan -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Gerakan Mahasiswa Nasional Indonesia -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi -- 1.0
+-f-f- Pasar Senen Diamuk Si -- 1.0
+-f-f- Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Ketua Komisi Pemberantasan Korupsi Antasari Azhar -- 1.0
+-f-f- PT Rajawali Putra Banjaran Nasrudin -- 1.0
+-f-f- Presiden Jokowi Enggan -- 1.0
+-f-f- Badan Hukum Partai Demokrasi Indonesia -- 1.0
+-f-f- III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Presiden Jokowi Enggan Bocorkan Pembicaraan -- 1.0
+-f-f- Balik Abyab -- 1.0
+-f-f- Direktur Penyidikan -- 1.0
+-f-f- Antasari Azhar Tidak -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- Juga: Hasto -- 1.0
+-f-f- Istimewa Benarkah -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Antasari Azhar Datangi Polda -- 1.0
+-f-f- Perjuangan Presiden Jokowi -- 1.0
+-f-f- Baca Juga: Hasto -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Senen Diamuk Si Jago -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- Kabulkan Grasi Antasari Azhar -- 1.0
+-f-f- Jokowi Enggan Bocorkan Pembicaraan -- 1.0
+-f-f- Azhar Datangi Polda -- 1.0
+-f-f- Komisi Pemberantasan Korupsi Antasari -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Hukum Partai Demokrasi Indonesia Perjuangan -- 1.0
+-f-f- DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Pulau Biak Deretan Tersangka -- 1.0
+-f-f- Jokowi Enggan -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Ketua Komisi Pemberantasan Korupsi Antasari -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- III DPR Sebut Grasi -- 1.0
+-f-f- Ketua Badan Hukum -- 1.0
+-f-f- Rajawali Putra Banjaran Nasrudin -- 1.0
+-f-f- Nasional Indonesia -- 1.0
+-f-f- Tidak Istimewa -- 1.0
+-f-f- Tagih Janji Komisi III DPR -- 1.0
+-f-f- Baca Juga: Hasto: Antasari Azhar -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- :Jokowi Kabulkan -- 1.0
+-f-f- Partai Demokrasi Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- Badan Hukum Partai Demokrasi -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Kejaksanan -- 1.0
+-f-f- Grasi Antasari Azhar Datangi -- 1.0
+-f-f- Juga: Hasto: Antasari Azhar -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Grasi Antasari Azhar Datangi Polda -- 1.0
+-f-f- Grasi Antasari Azhar Datangi Polda Metro -- 1.0
+-f-f- Antasari Tagih -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Direktur Penyidikan Umum -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Rajawali Putra Banjaran Nasrudin Zulkarnain -- 1.0
+-f-f- :Jokowi Kabulkan Grasi -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- Diamuk Si -- 1.0
+-f-f- Mahasiswa Nasional -- 1.0
+-f-f- Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- III DPR Sebut -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar -- 1.0
+-f-f- FOTO: Pasar -- 1.0
+-f-f- Senen Diamuk Si -- 1.0
+-f-f- Ini Curahan Hati -- 1.0
+-f-f- Korban Kebakaran Pasar Senen -- 1.0
+-f-f- Enggan Bocorkan -- 1.0
+-f-f- Rizieq Dongkrak Elektabilitas Anies -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Hasto -- 1.0
+-f-f- FOTO: Cerita -- 1.0
+-f-f- Anggota Komisi III DPR -- 1.0
+-f-f- Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Demokrasi Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR Sebut Grasi -- 1.0
+-f-f- PDI Perjuangan Presiden -- 1.0
+-f-f- Biak Deretan Tersangka -- 1.0
+-f-f- Kabulkan Grasi Antasari -- 1.0
+-f-f- Sebut Grasi Antasari Azhar -- 1.0
+-f-f- Ketua Badan Hukum Partai Demokrasi -- 1.0
+-f-f- Bos PT Rajawali Putra Banjaran Nasrudin -- 1.0
+-f-f- Azhar Bebas -- 1.0
+-f-f- Antasari Azhar Datangi Polda Metro -- 1.0
+-f-f- Antasari Azhar Bebas -- 1.0
+-f-f- Deretan Tersangka Penyuap -- 1.0
+-f-f- Kabulkan Grasi Antasari Azhar Datangi Polda Metro -- 1.0
+-f-f- Antasari Tagih Janji Komisi III DPR -- 1.0
+-f-f- Pemberantasan Korupsi Antasari Azhar -- 1.0
+-f-f- Penyuap Patrialis -- 1.0
+-f-f- Gedung Bidakara -- 1.0
+-f-f- Tagih Janji -- 1.0
+-f-f- Istimewa Benarkah Pertemuan -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari Azhar Datangi Polda Metro -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Dongkrak Elektabilitas Anies -- 1.0
+-f-f- Bos PT Rajawali Putra Banjaran -- 1.0
+-f-f- Baca Juga -- 1.0
+-f-f- Badan Hukum -- 1.0
+-f-f- Tagih Janji Komisi III -- 1.0
+-f-f- Ketua Badan Hukum Partai Demokrasi Indonesia Perjuangan Junimart -- 1.0
+-f-f- Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari Azhar Datangi -- 1.0
+-f-f- Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Ketua Badan Hukum Partai Demokrasi Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari Azhar Datangi Polda -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi -- 1.0
+-f-f- III DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Pemberantasan Korupsi Antasari -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO -- 1.0
+-f-f- Komisi Pemberantasan Korupsi Antasari Azhar -- 1.0
+-f-f- Sebut Grasi -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Demokrasi Indonesia Perjuangan Junimart -- 1.0
+-f-f- PT Rajawali Putra Banjaran Nasrudin Zulkarnain -- 1.0
+-f-f- Antasari Tagih Janji -- 1.0
+-f-f- III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- PDI Perjuangan Presiden Jokowi -- 1.0
+-f-f- Datangi Polda Metro Jaya -- 1.0
+-f-f- Rizieq Dongkrak Elektabilitas -- 1.0
+-f-f- Curahan Hati Pedagang -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis -- 1.0
+-f-f- DPR Sebut -- 1.0
+-f-f- Perjuangan Junimart Girsang -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Ini Curahan Hati Pedagang -- 1.0
+-f-f- Azhar Datangi Polda Metro Jaya -- 1.0
+-f-f- Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- Diamuk Si Jago -- 1.0
+-f-f- Korban Kebakaran Pasar Senen FOTO -- 1.0
+-f-f- Ketua Badan -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Ini Curahan -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- Pak Presiden -- 1.0
+-f-f- Baca Juga: Hasto: Antasari -- 1.0
+-f-f- Kebakaran Pasar -- 1.0
+-f-f- Bergabung -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Indonesia Perjuangan Junimart -- 1.0
+-f-f- DPR Sebut Grasi -- 1.0
+-f-f- Hasto: Antasari Azhar -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Balik Abyab Binsari -- 1.0
+-f-f- DPR Sebut Grasi Antasari Azhar Tidak Istimewa Benarkah -- 1.0
+-f-f- III DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- DPR Sebut Grasi Antasari Azhar -- 1.0
+-f-f- DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Grasi Antasari Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Putra Banjaran Nasrudin -- 1.0
+-f-f- Hukum Partai Demokrasi Indonesia -- 1.0
+-f-f- Sebut Grasi Antasari Azhar Tidak Istimewa -- 1.0
+-f-f- Gerakan Mahasiswa -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Korban Kebakaran Pasar Senen FOTO: Cerita -- 1.0
+-f-f- Azhar Tidak -- 1.0
+-f-f- Antasari Azhar Datangi Polda Metro Jaya -- 1.0
+-f-f- Badan Hukum Partai -- 1.0
+-f-f- Janji Komisi III DPR Sebut Grasi Antasari Azhar Tidak -- 1.0
+-f-f- Perjuangan Presiden Jokowi Enggan Bocorkan -- 1.0
+-f-f- Pulau Biak -- 1.0
+-f-f- Tersangka Penyuap Patrialis -- 1.0
+-f-f- Janji Komisi III -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Abyab Binsari -- 1.0
+-f-f- Azhar Tidak Istimewa Benarkah Pertemuan -- 1.0
+-f-f- Hukum Partai Demokrasi Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- Senen FOTO -- 1.0
+-f-f- Tersangka Penyuap Patrialis Akbar FOTO: Pasar -- 1.0
+-f-f- Azhar Tidak Istimewa -- 1.0
+-f-f- Dongkrak Elektabilitas -- 1.0
+-f-f- Datangi Polda -- 1.0
+-f-f- Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si Jago Merah -- 1.0
+-f-f- Antasari Tagih Janji Komisi -- 1.0
+-f-f- :Jokowi Kabulkan Grasi Antasari Azhar Datangi Polda Metro Jaya -- 1.0
+-f-f- Penyuap Patrialis Akbar -- 1.0
+-f-f- Tidak Istimewa Benarkah -- 1.0
+-f-f- Azhar Datangi -- 1.0
+-f-f- Kebakaran Pasar Senen FOTO: Cerita -- 1.0
+-f-f- Juga: Hasto: Antasari -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Curahan Hati -- 1.0
+-f-f- Datangi Polda Metro -- 1.0
+-f-f- Hasto: Antasari -- 1.0
+-f-f- FOTO: Pasar Senen Diamuk Si Jago -- 1.0
+-f-f- Mahasiswa Nasional Indonesia -- 1.0
+-f-f- Pasar Senen FOTO -- 1.0
+-f-f- Indonesia Perjuangan Junimart Girsang -- 1.0
+-f-f- Ketua Badan Hukum Partai Demokrasi Indonesia -- 1.0
+-f-f- Korupsi Antasari -- 1.0
+-f-f- Perjuangan Presiden Jokowi Enggan -- 1.0
+-f-f- Pasar Senen Diamuk -- 1.0
+-f-f- Kebakaran Pasar Senen -- 1.0
+-f-f- PDI Perjuangan Presiden Jokowi Enggan Bocorkan Pembicaraan -- 1.0
+-f-f- Tagih Janji Komisi III DPR Sebut -- 1.0
+-f-f- Banjaran Nasrudin -- 1.0
+-f-f- Perjuangan Presiden Jokowi Enggan Bocorkan Pembicaraan -- 1.0
+-f-f- Diamuk Si Jago Merah -- 1.0
+-f-f- Bos PT Rajawali Putra -- 1.0
+-f-f- Tersangka Penyuap -- 1.0
+-f-f- Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk -- 1.0
+-f-f- Deretan Tersangka Penyuap Patrialis Akbar FOTO: Pasar Senen Diamuk Si -- 1.0
+-f-f- Elektabilitas Anies -- 1.0
+-f-f- Baca Juga : Hasto : Antasari Azhar -- 0.0
+-f-f- Pulau Biak Deretan Tersangka Penyuap Patrialis Akbar FOTO : Pasar Senen Diamuk Si Jago Merah -- 0.0
+-f-f- Foto  -- 0.0
+-f-f- Korban Kebakaran Pasar Senen FOTO : Cerita -- 0.0
+-*- -- time: 0.01
+
+--------------------
+
+
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
+<p><strong>JAKARTA</strong> - Pasangan calon (paslon) gubernur dan wakil gubernur DKI Jakarta Anies Baswedan-Sandiaga Salahuddin Uno menggelar program 'Rabu Bersama' di Prisma Sport Club, Jalan Perjuangkan, Perum Taman Kedoya Permai, Kelurahan Kedoya, Kecamatan Kebon Jeruk, Jakarta Barat.</p> 
+<p>Kegiatan tersebut rutin dilakukan setiap dua pekan sekali untuk memaparkan visi dan misi paslon yang diusung Partai Gerindra dan PKS ini. Meski sering dilakukan, 'Rabu Bersama' kali ini diramaikan Ketua Umum Partai Gerindra Prabowo Subianto yang ikut menyapa muda mudi Jakarta.</p> 
+<p>Pantauan <strong>Okezone</strong> di lokasi, Rabu (1/2/2017), tamu undangan yang mayoritas anak muda Jakarta ini antusias menanti kedatangan Anies-Sandi. Ketika paslon nomor urut tiga itu memasuki ruangan yang telah disiapkan, pengunjung pun sontak berdiri dari bertepuk tangan.</p> 
+<p>Sambil menunggu kedatangan Prabowo, paslon yang setia mengenakan pakaian kemeja putih dengan celana warna coklat muda itu pun mengajak anak muda berdiskusi tentang persoalan yang ada di Ibu Kota.</p> 
+<p>Sandiaga memaparkan program unggulannya bersama pasangannya Anies. Pertama, adalah program ekonomi. Ia menilai pertumbuhan ekonomi di Jakarta tinggi, tapi minim lapangan pekerjaan.</p> 
+<p>Anies-Sandi pun menawarkan program OK OCE (One Kecamatan One Center for Enterpreneurship). Satu kecamatan akan ada pusat kewirausahaan. Selain itu, cagub yang diusung Partai Gerindra-PKS itu berkomitmen untuk menekan harga kebutuhan barang pokok atau yang dikenal dengan sembako.</p>
+
+
+-*-10660100
+-*-http://news.okezone.com/read/2017/02/01/338/1606602/prabowo-subianto-ramaikan-rabu-bersama-anies-sandi
+
+--------------------
+
+
+-t-t- Partai Gerindra -- 6.218630481782699
+-t-t- Rabu Bersama -- 4.793354286353566
+-t-t- DKI Jakarta -- 3.2723949991138883
+-t-t- Jakarta Barat -- 3.1111040559883936
+-t-t- Anies-Sandi -- 2.9592560555692193
+-t-t- Sport Club -- 2.4987403921832505
+-t-t- Prabowo Subianto -- 2.4916261228941012
+-t-t- Kebon Jeruk -- 2.4278472708241754
+-t-t- Ketua Umum -- 2.2487287915681686
+-t-t- Sandiaga -- 2.2127222104712736
+-t-t- PKS -- 1.9769190324194295
+-t-t- Ibu Kota -- 1.878824282437265
+-t-t- Pasangan -- 1.3119330973432373
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Perum Taman Kedoya Permai -- 1.0
+-f-f- Perum Taman Kedoya -- 1.0
+-f-f- Umum Partai Gerindra Prabowo Subianto -- 1.0
+-f-f- Kedoya Permai -- 1.0
+-f-f- One Kecamatan One -- 1.0
+-f-f- Taman Kedoya Permai -- 1.0
+-f-f- Ketua Umum Partai Gerindra -- 1.0
+-f-f- One Kecamatan -- 1.0
+-f-f- Prisma Sport -- 1.0
+-f-f- Kelurahan Kedoya -- 1.0
+-f-f- Partai Gerindra-PKS -- 1.0
+-f-f- Baswedan-Sandiaga Salahuddin Uno -- 1.0
+-f-f- Jakarta Anies -- 1.0
+-f-f- Gerindra Prabowo -- 1.0
+-f-f- Partai Gerindra Prabowo Subianto -- 1.0
+-f-f- Jalan Perjuangkan -- 1.0
+-f-f- Umum Partai Gerindra Prabowo -- 1.0
+-f-f- Jakarta Anies Baswedan-Sandiaga Salahuddin Uno -- 1.0
+-f-f- Jakarta Anies Baswedan-Sandiaga Salahuddin -- 1.0
+-f-f- Anies Baswedan-Sandiaga -- 1.0
+-f-f- Taman Kedoya -- 1.0
+-f-f- One Center -- 1.0
+-f-f- DKI Jakarta Anies Baswedan-Sandiaga Salahuddin Uno -- 1.0
+-f-f- OK OCE -- 1.0
+-f-f- Baswedan-Sandiaga Salahuddin -- 1.0
+-f-f- Ketua Umum Partai -- 1.0
+-f-f- Umum Partai Gerindra -- 1.0
+-f-f- One Kecamatan One Center -- 1.0
+-f-f- Kecamatan One Center -- 1.0
+-f-f- Enterpreneurship -- 1.0
+-f-f- Partai Gerindra Prabowo -- 1.0
+-f-f- Gerindra Prabowo Subianto -- 1.0
+-f-f- Ketua Umum Partai Gerindra Prabowo Subianto -- 1.0
+-f-f- Ketua Umum Partai Gerindra Prabowo -- 1.0
+-f-f- Perum Taman -- 1.0
+-f-f- Pantauan Okezone -- 1.0
+-f-f- Jakarta Anies Baswedan-Sandiaga -- 1.0
+-f-f- Kecamatan One -- 1.0
+-f-f- DKI Jakarta Anies Baswedan-Sandiaga Salahuddin -- 1.0
+-f-f- Kecamatan Kebon Jeruk -- 1.0
+-f-f- Anies Baswedan-Sandiaga Salahuddin Uno -- 1.0
+-f-f- Salahuddin Uno -- 1.0
+-f-f- Kecamatan Kebon -- 1.0
+-f-f- Umum Partai -- 1.0
+-f-f- Prisma Sport Club -- 1.0
+-f-f- DKI Jakarta Anies -- 1.0
+-f-f- Anies Baswedan-Sandiaga Salahuddin -- 1.0
+-f-f- DKI Jakarta Anies Baswedan-Sandiaga -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> &nbsp; 
+<p><strong>JAKARTA</strong> - Ratuan massa Front Pembela Islam (FPI) menggelar aksi unjuk rasa mengawal pemeriksaan Habib Rizieq Shihab; Ketua GNPF-MUI, Bachtiar Nasir; dan juru bicara FPI, Munarman di depan Mapolda Metro Jaya, Jalan Jenderal Sudirman, Jakarta Selatan.</p> 
+<p>Pantauan <strong>Okezone</strong> di lokasi, Rabu (1/1/2017). Meski hujan deras terus mengguyur kawasan Sudirman, massa FPI pun tetap semangat melanjutkan aksinya. Bahkan dengan lantang di hadapan ratusan massa aksi, sang orator yang berdiri di atas mobil komando melanjutkan orasinya menyamakan aspirasi mereka.</p> 
+<p>"Hujan deras bukan alasan untuk menyurutkan semangat kita untuk mengawal imam kita, guru kita, Habib Rizieq Shihab," tutur salah satu massa aksi dalam orasinya melalui pengeras suara di depan Mapolda Metro Jaya, Jakarta Selatan, Rabu (1/1/2017).</p> 
+<p>&nbsp;<img src="[BASEURL]/652bf90727d7a9cfb96cbac989f1d7af.jpeg" alt="" data:w="640" data:h="400"></p> 
+<p>Di sela-sela orasinya, mereka yang sudah basah kuyup terus menyanyikan yel-yel dan berzikir meminta perlindungan untuk Habib Rizieq yang sedang terjerat kasus hukum.</p> 
+<p>"Tidak sejengkal pun bagi kita untuk mundur memperjuangkan agama Islam, Habib Rizieq imam kita sedang dizalimi. Takbir, Allahu Akbar," tegasnya.</p> 
+<p>Sementara itu, terlihat juga petugas kepolisian mengenakan jas hujan mengawal massa aksi yang berdiri di balik kawat berduri yang melintang tepat di pintu gerbang Mapolda.</p> 
+<p>Sekadar diketahui, Imam Besar FPI, Habib Rizieq Shihab; Sekretaris Jenderal FPI, Munarman; dan Ketua GNPF-MUI, Bachtiar Nasir sedang menjalani pemeriksaan di Mapolda Metro Jaya terkait kasus pemufakatan makar yang menjerat Sri Bintang Pamungkas.</p>
+
+
+-*-10660095
+-*-http://news.okezone.com/read/2017/02/01/338/1606612/massa-fpi-tetap-bertahan-di-polda-metro-meski-diguyur-hujan
+
+--------------------
+
+
+-t-t- Habib Rizieq Shihab -- 10.294089210425833
+-t-t- Mapolda Metro Jaya -- 10.139105020635544
+-t-t- FPI -- 5.4210574084877114
+-t-t- Jakarta Selatan -- 4.500255304511249
+-t-t- Ketua GNPF-MUI -- 4.2142345944938
+-t-t- Bachtiar Nasir -- 4.192678454430004
+-t-t- Jalan Jenderal Sudirman -- 4.097538817829604
+-t-t- Sri Bintang Pamungkas -- 2.552809581167396
+-t-t- Munarman -- 2.0895507453655924
+-t-t- Takbir -- 0.9270871972925021
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Islam -- 2.0
+-f-f- Besar FPI -- 1.0
+-f-f- Ratuan -- 1.0
+-f-f- Pembela Islam -- 1.0
+-f-f- Jenderal FPI -- 1.0
+-f-f- Front Pembela -- 1.0
+-f-f- Front Pembela Islam -- 1.0
+-f-f- Allahu Akbar -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Sekretaris Jenderal FPI -- 1.0
+-f-f- Pantauan Okezone -- 1.0
+-f-f- Imam Besar -- 1.0
+-f-f- Imam Besar FPI -- 1.0
+-f-f- Sekretaris Jenderal -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/57b4585a30d199d9ef404fc1e9325c40.jpeg" width="700" height="393" alt="Ahok: Itu Pengacara yang Ngomong, Bukan Saya Lho" data:w="700" data:h="393">       
+<p><strong>TRIBUNNEWS.COM, JAKARTA -</strong> Calon gubernur DKI Jakarta Basuki Tjahaja Purnama mengaku tidak mengetahui perihal percakapan telepon antara Ketua Umum Majelis Ulama Indonesia (MUI) Ma'ruf Amin dengan Presiden keenam Republik Indonesia Susilo Bambang Yudhoyono (SBY).</p> 
+<p>Ahok yang juga terdakwa kasus dugaan penodaan agama itu mengaku, tim kuasa hukumnya yang mengetahui informasi tersebut.'</p> 
+<p>Menurut Ahok, informasi telepon antara SBY dan Ma'ruf diketahui tim kuasa hukumnya dari pemberitaan di media.</p> 
+<p>"Itu bukan saya (yang bicara), kan pengacara yang ngomong. Itu kayaknya sudah ada di Tempo," kata Ahok, di kawasan Marunda, Cilincing, Jakarta Utara, Rabu (1/2/2017).</p> 
+<strong>Baca: <a href="http://www.tribunnews.com/nasional/2017/02/01/ahok-tuduh-maruf-amin-berkomunikasi-dengan-sby-jaksa-penuntut-umum-itu-kesimpulan-sepihak" rel="nofollow">Ahok Tuduh Maruf Amin Berkomunikasi dengan SBY, Jaksa Penuntut Umum: Itu Kesimpulan Sepihak</a></strong> 
+<p>Juru bicara tim pemenangan yang juga mendampingi Ahok blusukan ke kawasan Marunda, Raja Juli Antoni, menyebut kabar telepon antara SBY-Ma'ruf dari <em>Tempo</em> dan <em>Liputan6.com.</em></p> 
+<p>Sementara Ahok lebih banyak tak mengetahuinya.</p> 
+<p>"Saya enggak tahu, itu pengacara yang ngomong bukan saya lho. Tanya pengacara saja," kata Ahok.</p> 
+<p>Sebelumnya, dalam persidangan, kuasa hukum Ahok, Humphrey Djemat menyebut SBY menelepon Ma'ruf pada 6 Oktober 2016. Dalam percakapan telepon itu, kata Humphrey, SBY meminta Ma'ruf menerima anaknya yang juga calon gubernur nomor pemilihan satu DKI Jakarta Agus Harimurti Yudhoyono di Kantor PBNU.</p> 
+<p>Selain itu, kata Humphrey, SBY juga meminta MUI menerbitkan fatwa terkait kasus penodaan agama oleh Ahok.</p> 
+<p>Kuasa hukum Ahok baru akan menunjukkan bukti telepon antara Ma'ruf dengan SBY pada persidangan.</p> 
+<p>Di sisi lain, Ma'ruf membantah hal tersebut. Ma'ruf yang juga menjabat Rais Aam PBNU itu menolak disebut mendukung pasangan Agus dengan Sylviana Murni.</p> 
+<p><em>Penulis : Kurnia Sari Aziza</em></p>
+
+
+-*-10660081
+-*-http://www.tribunnews.com/nasional/2017/02/01/ahok-itu-pengacara-yang-ngomong-bukan-saya-lho
+
+--------------------
+
+
+-t-t- Ahok -- 10.331586330591112
+-t-t- SBY -- 8.113692802752261
+-t-t- Ma'ruf -- 7.840585815084278
+-t-t- DKI Jakarta -- 4.421005918572738
+-t-t- Majelis Ulama Indonesia -- 4.008021391142623
+-t-t- Susilo Bambang Yudhoyono -- 3.9154596149880834
+-t-t- Jaksa Penuntut Umum -- 3.4088526093889553
+-t-t- Raja Juli Antoni -- 3.2886919840030533
+-t-t- Agus Harimurti Yudhoyono -- 3.0063161143881376
+-t-t- Ketua Umum -- 2.539290069783805
+-t-t- Republik Indonesia -- 2.4861571046344424
+-t-t- Humphrey Djemat -- 2.2621810587155724
+-t-t- Jakarta Utara -- 2.2064228351135653
+-t-t- Maruf Amin -- 2.1753340964283696
+-t-t- Marunda -- 2.1505440470071706
+-t-t- Tempo -- 2.1389083071191477
+-t-t- Sylviana Murni -- 1.621963517933052
+-t-t- Calon -- 1.3087411045892317
+-t-t- Presiden -- 1.248624905890823
+-t-t- Cilincing -- 1.1065931414261863
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- MUI -- 2.0
+-f-f- Indonesia Susilo -- 1.0
+-f-f- Jakarta Basuki -- 1.0
+-f-f- Penuntut Umum: Itu Kesimpulan -- 1.0
+-f-f- Penuntut Umum: Itu Kesimpulan Sepihak -- 1.0
+-f-f- Itu Kesimpulan -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Baca: Ahok Tuduh -- 1.0
+-f-f- Aam PBNU -- 1.0
+-f-f- Rais Aam PBNU -- 1.0
+-f-f- DKI Jakarta Agus Harimurti -- 1.0
+-f-f- Ahok Tuduh Maruf Amin Berkomunikasi -- 1.0
+-f-f- Jakarta Basuki Tjahaja Purnama -- 1.0
+-f-f- Ahok Tuduh Maruf -- 1.0
+-f-f- DKI Jakarta Basuki Tjahaja -- 1.0
+-f-f- Penuntut Umum: Itu -- 1.0
+-f-f- Umum: Itu -- 1.0
+-f-f- Sementara Ahok -- 1.0
+-f-f- Jakarta Agus Harimurti Yudhoyono -- 1.0
+-f-f- Itu Kesimpulan Sepihak -- 1.0
+-f-f- Baca: Ahok Tuduh Maruf Amin Berkomunikasi -- 1.0
+-f-f- Republik Indonesia Susilo -- 1.0
+-f-f- DKI Jakarta Agus Harimurti Yudhoyono -- 1.0
+-f-f- Jaksa Penuntut Umum: Itu Kesimpulan Sepihak -- 1.0
+-f-f- Indonesia Susilo Bambang -- 1.0
+-f-f- Umum: Itu Kesimpulan -- 1.0
+-f-f- Baca: Ahok Tuduh Maruf Amin -- 1.0
+-f-f- DKI Jakarta Basuki Tjahaja Purnama -- 1.0
+-f-f- Kesimpulan Sepihak -- 1.0
+-f-f- Basuki Tjahaja Purnama -- 1.0
+-f-f- Umum Majelis -- 1.0
+-f-f- Ahok Tuduh -- 1.0
+-f-f- DKI Jakarta Agus -- 1.0
+-f-f- Republik Indonesia Susilo Bambang -- 1.0
+-f-f- Tuduh Maruf Amin Berkomunikasi -- 1.0
+-f-f- Jakarta Agus Harimurti -- 1.0
+-f-f- Kantor PBNU -- 1.0
+-f-f- Tuduh Maruf Amin -- 1.0
+-f-f- Ketua Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Ma'ruf Amin -- 1.0
+-f-f- Ketua Umum Majelis -- 1.0
+-f-f- Maruf Amin Berkomunikasi -- 1.0
+-f-f- Tuduh Maruf -- 1.0
+-f-f- Rais Aam -- 1.0
+-f-f- Indonesia Susilo Bambang Yudhoyono -- 1.0
+-f-f- Umum Majelis Ulama -- 1.0
+-f-f- Amin Berkomunikasi -- 1.0
+-f-f- Menurut Ahok -- 1.0
+-f-f- Jaksa Penuntut Umum: Itu Kesimpulan -- 1.0
+-f-f- Baca: Ahok -- 1.0
+-f-f- Jakarta Agus -- 1.0
+-f-f- Jaksa Penuntut Umum: Itu -- 1.0
+-f-f- DKI Jakarta Basuki -- 1.0
+-f-f- Ahok Tuduh Maruf Amin -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Umum: Itu Kesimpulan Sepihak -- 1.0
+-f-f- Ketua Umum Majelis Ulama -- 1.0
+-f-f- Baca: Ahok Tuduh Maruf -- 1.0
+-f-f- SBY-Ma'ruf -- 1.0
+-f-f- Basuki Tjahaja -- 1.0
+-f-f- Jakarta Basuki Tjahaja -- 1.0
+-f-f- Republik Indonesia Susilo Bambang Yudhoyono -- 1.0
+-f-f- Jaksa Penuntut Umum : Itu Kesimpulan Sepihak -- 0.0
+-f-f- Baca : Ahok Tuduh Maruf Amin Berkomunikasi -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/878e236b19466eec22af6df6dfce9343.jpeg" width="700" height="393" alt="LDNU Sayangkan Sikap Ahok dan Tim Pengacara Kepada Maruf Amin" data:w="700" data:h="393">       
+<p><strong>TRIBUNNEWS.COM, JAKARTA -</strong> Lembaga Dakwah Pengurus Besar Nahdlatul Ulama (LD PBNU) menyayangkan sikap, perilaku maupun kata-kata dari terdakwa dan Tim Pengacara Kasus Penistaan Agama oleh <a href="http://www.tribunnews.com/tag/basuki-tjahaja-purnama" rel="nofollow">Basuki Tjahaja Purnama</a> (Ahok) pada <a href="http://www.tribunnews.com/tag/selasa" rel="nofollow">Selasa</a> (31/1/2017) di Gedung Kementerian Pertanian (Kementan), Jakarta Selatan.</p> 
+<p>Atas hal itu Ketua Lembaga Dakwah Pengurus Besar Nahdlatul Ulama (LD PBNU), <a href="http://www.tribunnews.com/tag/maman-imanulhaq" rel="nofollow">Maman Imanulhaq</a> menyampaikan lima sikapnya:</p> 
+<p>1. Menghormati kehadiran KH. <a href="http://www.tribunnews.com/tag/maruf-amin" rel="nofollow">Maruf Amin</a> di Pengadilan dalam kapasitasnya sebagai Ahli Hukum Agama, bukan sebagai terdakwa.</p> 
+<p>"Kehadiran beliau sebagai sikap warga negara yang taat, menghargai dan menghormati proses hukum. Beliau dihadirkan ke persidangan untuk memberikan Keterangan sebagai seorang Ahli (vide: Pasal 184 ayat (1) jo. Pasal 186 KUHAP)," ujar Politikus PKB ini kepada Tribunnews.com, Rabu (1//2/2017).</p> 
+<p>2. Keterangan yang diberikan oleh KH. Ma’ruf Amin, berdasarkan pengamatan LDNU, sudah sesuai dengan kompetensi maupun kapasitasnya sebagai Ahli Agama Islam, baik sebagai Fuqaha.</p> 
+<p>3. Kami menyayangkan sikap, perilaku maupun kata-kata dari Terdakwa dan Tim Pengacaranya, dengan alih-alih menolak Keterangan Kyai Ma’ruf Amin sebagai Ahli.</p> 
+<p>Pertanyaan yang ditujukan kepada Kyai Ma’ruf Amin lebih merupakan sikap yang mempertontonkan Argumentum Ad Hominem - atau menyerang pribadi Kyai Ma’ruf daripada mematahkan argumen yang terkait keahlian beliau.</p> 
+<p>"Padahal ada tatacara menyampaikan keberatan yaitu di kesimpulan atau pledoi," kata Kyai Maman.</p> 
+<p>4. Kita harus menghormati dan belajar dari KH. <a href="http://www.tribunnews.com/tag/maruf-amin" rel="nofollow">Maruf Amin</a>, Beliau Rais Aam NU dan ketua umum MUI yang telah memberi contoh bagaimana cara menghormati hukum, bertanggung jawab dan berani datang sendiri tanpa pengawalan dan pengerahan masa.</p> 
+<p>5. Saat ini, Indonesia memasuki ujian terberat dalam kehidupan bernegara. Kita kehilangan jati diri bangsa. Sikap saling menghargai dan menghormati berubah jadi saling menghakimi dan saling menghabisi. Kita paceklik nilai luhur bangsa.</p> 
+<p>Karena itu, lebih lanjut ia katakan, seyogyanya kita terus saling menjaga diri jangan sampai terjebak oleh permainan kelompok yang menggiring opini publik untuk membenturkan sesama anak bangsa. Sikap kita tegas menghormati proses hukum yang adil dan beretika.</p> 
+<p>"Dan sebagai Warga Nahdliyin, kita mempunyai kewajiban menjaga Marwah Ulama dan para tokoh bangsa yang akhir-akhir ini menjadi sasaran hinaan, dan kebencian dari pihak yang rabun sejarah," ujarnya.</p>
+
+
+-*-10660083
+-*-http://www.tribunnews.com/nasional/2017/02/01/ldnu-sayangkan-sikap-ahok-dan-tim-pengacara-kepada-maruf-amin
+
+--------------------
+
+
+-t-t- Lembaga Dakwah Pengurus Besar Nahdlatul Ulama -- 16.75507833640985
+-t-t- Kyai Ma -- 8.091038516977148
+-t-t- LD PBNU -- 5.042721623274755
+-t-t- Maruf Amin -- 4.9878795661180435
+-t-t- Tim Pengacara -- 4.664926765002264
+-t-t- Ahli -- 4.437886879161417
+-t-t- Keterangan -- 3.2937076225411555
+-t-t- KH -- 3.2639792168092123
+-t-t- Argumentum Ad Hominem -- 3.2119083407051363
+-t-t- Penistaan Agama -- 2.5493272579213615
+-t-t- Kementerian Pertanian -- 2.5056270532625127
+-t-t- Jakarta Selatan -- 2.488357444221756
+-t-t- Maman Imanulhaq -- 2.4397396744986892
+-t-t- Ahok -- 1.263048874560006
+-t-t- Kementan -- 1.246965802902359
+-t-t- Pengadilan -- 1.1974965601033998
+-t-t- Fuqaha -- 1.0707438574767938
+-t-t- Terdakwa -- 1.0553906307944911
+-t-t- MUI -- 0.9515828733787954
+-t-t- Indonesia -- 0.9205485499606921
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- 186 KUHAP -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- Ahli Hukum Agama -- 1.0
+-f-f- Gedung Kementerian -- 1.0
+-f-f- Ketua Lembaga Dakwah Pengurus Besar Nahdlatul -- 1.0
+-f-f- Keterangan Kyai -- 1.0
+-f-f- Tim Pengacara Kasus Penistaan -- 1.0
+-f-f- Tim Pengacara Kasus Penistaan Agama -- 1.0
+-f-f- Pasal 186 KUHAP -- 1.0
+-f-f- Ketua Lembaga Dakwah Pengurus -- 1.0
+-f-f- LDNU -- 1.0
+-f-f- Kyai Maman -- 1.0
+-f-f- Agama Islam -- 1.0
+-f-f- Gedung Kementerian Pertanian -- 1.0
+-f-f- Kasus Penistaan Agama -- 1.0
+-f-f- Warga Nahdliyin -- 1.0
+-f-f- Rais Aam -- 1.0
+-f-f- Tim Pengacaranya -- 1.0
+-f-f- Ahli Agama -- 1.0
+-f-f- Ketua Lembaga Dakwah -- 1.0
+-f-f- Marwah Ulama -- 1.0
+-f-f- Ketua Lembaga Dakwah Pengurus Besar Nahdlatul Ulama -- 1.0
+-f-f- Pengacara Kasus Penistaan Agama -- 1.0
+-f-f- Keterangan Kyai Ma -- 1.0
+-f-f- Beliau Rais Aam NU -- 1.0
+-f-f- Hukum Agama -- 1.0
+-f-f- Pasal 184 -- 1.0
+-f-f- Pasal 186 -- 1.0
+-f-f- Pengacara Kasus -- 1.0
+-f-f- Pengacara Kasus Penistaan -- 1.0
+-f-f- Kasus Penistaan -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Rais Aam NU -- 1.0
+-f-f- Politikus PKB -- 1.0
+-f-f- Aam NU -- 1.0
+-f-f- Menghormati -- 1.0
+-f-f- Ketua Lembaga -- 1.0
+-f-f- Ketua Lembaga Dakwah Pengurus Besar -- 1.0
+-f-f- Ahli Agama Islam -- 1.0
+-f-f- Basuki Tjahaja Purnama -- 1.0
+-f-f- Beliau Rais -- 1.0
+-f-f- Ahli Hukum -- 1.0
+-f-f- Beliau Rais Aam -- 1.0
+-f-f- Tim Pengacara Kasus -- 1.0
+-f-f- Basuki Tjahaja -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a9b740e6a9077595bb9d1570241d84fa.jpeg" width="700" height="393" alt="Tudingan Ahok terhadap Kiai Maruf Merupakan Delegitimasi Ulama dan Kiai" data:w="700" data:h="393">       
+<p><strong>Khatibul Umam Wiranu</strong><br><strong>Ketua Pimpinan Pusat GP Ansor 2005 - 2010. Anggota Komisi VIII DPR RI</strong></p> 
+<p><strong>TRIBUNNERS</strong> - Saya sungguh kaget, sedih, dan saya menganggap ini sudah melampaui batas-batas kewajaran dalam kehidupan yang mendasarkan diri pada Pancasila, saat menyaksikan perlakuan Ahok dan Tim Pengacara dalam sidang kasus Penistaan Agama atas terdakwa Ahok di PN JakUt, Selasa (31/1/2017) kepada KH Ma'ruf Amin pimpinan tertinggi ormas Nahdlatul Ulama (NU) Rois 'Aam PBNU sekaligus Ketua Umum Majelis Ulama Indonesia.</p> 
+<p>Ancaman dan tudingan kepada Kiai Ma'ruf sebagai saksi palsu terhadap Kiai Ma'ruf merupakan kado pahit bagi Jamiyyah NU yang tepat pada 31 Januari kemarin genap berusia 91 tahun.</p> 
+<p>Tudingan tersebut sangat menyakitkan dan tidak patut, serta merupakan tindakan yang melampaui batas-batas kewajaran hidup sebagai suatu bangsa yang beradab, dilakukan Ahok dan Tim Pengacara.</p> 
+<p>Pernyataan Ahok tersebut semakin menegaskan tingkat rendahnya moralitas seorang pemimpin. Moralitas pemimpin merupakan syarat absolut yang harus dimiliki oleh siapapun yang didaulat menjadi pemimpin.</p> 
+<p>Berbagai ucapan Ahok selama ini, semakin menegaskan kualitas kepemimpinan Ahok. Puncaknya, ancaman dan tudingan Ahok kepada Kiai Ma'ruf merupakan bukti rendahnya moralitas Ahok.</p> 
+<p>Pernyataan tersebut tidak pantas dan patut dikeluarkan oleh pemimpin. Pernyataan tersebut merupakan pengingkaran terhadap hakikat Indonesia yang tidak bisa dipisahkan dari peran Ulama.</p> 
+<p>Ahok tidak paham sejarah Indonesia. Tudingan Ahok terhadap Kiai Ma'ruf merupakan delegitimasi ulama dan kiai.</p> 
+<p>Jika benar Ahok dan Tim Pengacara Ahok akhirnya mempolisikan KH Ma'ruf Amin, cicit dari Syeikh Nawawi Al-Bantany ini, maka saya dan saya yakin bersama jutaan santri akan membela beliau tanpa syarat.</p> 
+<p>Kita semua harus bersikap keras, tegas, dan tegakkkan kepala menghadapi orang-orang yang punya kekuasaan yang bersikap arogan.</p>
+
+
+-*-10660074
+-*-http://www.tribunnews.com/tribunners/2017/02/01/tudingan-ahok-terhadap-kiai-maruf-merupakan-delegitimasi-ulama-dan-kiai
+
+--------------------
+
+
+-t-t- Ahok -- 11.904706616703955
+-t-t- Kiai Ma'ruf -- 8.232651873256023
+-t-t- KH Ma'ruf Amin -- 6.485131096984319
+-t-t- Tim Pengacara -- 6.279100034437871
+-t-t- Komisi VIII DPR RI -- 5.578920453553171
+-t-t- Majelis Ulama Indonesia -- 4.1891824583567105
+-t-t- Khatibul Umam Wiranu -- 4.174327278859131
+-t-t- Nahdlatul Ulama -- 2.758771025178631
+-t-t- GP Ansor -- 2.607884418234126
+-t-t- Penistaan Agama -- 2.425665126558845
+-t-t- PN JakUt -- 2.4017671422358675
+-t-t- Ketua Umum -- 2.3266218980864415
+-t-t- TRIBUNNERS -- 1.286059469719704
+-t-t- Pancasila -- 1.2383783914014552
+-t-t- Rois -- 1.1709132678405998
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- NU -- 3.0
+-f-f- Wiranu Ketua Pimpinan Pusat -- 1.0
+-f-f- Pengacara Ahok -- 1.0
+-f-f- Pimpinan Pusat GP -- 1.0
+-f-f- Tudingan Ahok -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua Pimpinan Pusat -- 1.0
+-f-f- Ketua Pimpinan -- 1.0
+-f-f- Pusat GP Ansor -- 1.0
+-f-f- Umam Wiranu Ketua Pimpinan -- 1.0
+-f-f- Ketua Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Umum Majelis Ulama Indonesia -- 1.0
+-f-f- Ketua Umum Majelis -- 1.0
+-f-f- Aam PBNU -- 1.0
+-f-f- Nawawi Al-Bantany -- 1.0
+-f-f- Wiranu Ketua Pimpinan Pusat GP -- 1.0
+-f-f- Umam Wiranu Ketua -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua Pimpinan Pusat GP Ansor 2005 -- 1.0
+-f-f- Pusat GP -- 1.0
+-f-f- GP Ansor 2005 -- 1.0
+-f-f- Anggota Komisi VIII DPR -- 1.0
+-f-f- Wiranu Ketua Pimpinan Pusat GP Ansor -- 1.0
+-f-f- Umum Majelis Ulama -- 1.0
+-f-f- Pimpinan Pusat -- 1.0
+-f-f- Ansor 2005 -- 1.0
+-f-f- Ketua Pimpinan Pusat GP -- 1.0
+-f-f- Pimpinan Pusat GP Ansor -- 1.0
+-f-f- Umam Wiranu Ketua Pimpinan Pusat GP -- 1.0
+-f-f- Anggota Komisi VIII -- 1.0
+-f-f- Umam Wiranu Ketua Pimpinan Pusat -- 1.0
+-f-f- Wiranu Ketua Pimpinan Pusat GP Ansor 2005 -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua Pimpinan Pusat GP Ansor -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua Pimpinan -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua -- 1.0
+-f-f- Ketua Pimpinan Pusat GP Ansor -- 1.0
+-f-f- Pusat GP Ansor 2005 -- 1.0
+-f-f- Anggota Komisi VIII DPR RI -- 1.0
+-f-f- Umam Wiranu Ketua Pimpinan Pusat GP Ansor 2005 -- 1.0
+-f-f- Khatibul Umam Wiranu Ketua Pimpinan Pusat GP -- 1.0
+-f-f- Ketua Pimpinan Pusat GP Ansor 2005 -- 1.0
+-f-f- Umam Wiranu Ketua Pimpinan Pusat GP Ansor -- 1.0
+-f-f- Pernyataan Ahok -- 1.0
+-f-f- Ketua Pimpinan Pusat -- 1.0
+-f-f- Jamiyyah NU -- 1.0
+-f-f- Syeikh Nawawi Al-Bantany -- 1.0
+-f-f- Pimpinan Pusat GP Ansor 2005 -- 1.0
+-f-f- Ketua Umum Majelis Ulama -- 1.0
+-f-f- Wiranu Ketua Pimpinan -- 1.0
+-f-f- Umum Majelis -- 1.0
+-f-f- Syeikh Nawawi -- 1.0
+-f-f- Wiranu Ketua -- 1.0
+-f-f- Tim Pengacara Ahok -- 1.0
+-f-f- Anggota Komisi -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/4d27d42500fb5fd0ca570bacc766d2af.jpeg" width="700" height="393" alt="Posisi Aparat dalam Pilgub DKI Jakarta, Netralkah?" data:w="680" data:h="382">       
+<p><strong>TRIBUNNERS</strong> -&nbsp;Tensi politik di ibukota menjelang Pilgub Jakarta makin memanas.</p> 
+<p>Mendekati hari pencoblosan, masing-masing paslon dan pendukungnya kian massif melancarkan jurus kampanye untuk melipatgandakan elektabilitas.</p> 
+<p>Sayang, persaingan politik yang diharapkan bisa berjalan sehat, telah menjurus pada gaya berpolitik yang saling menghancurkan.</p> 
+<p>Fenomena tersebut sangat jelas terlihat di media sosial, dimana pembusukan terhadap para paslon sudah di luar toleransi.</p> 
+<p>Di tengah situasi yang berpotensi terjadinya konflik terbuka, diharapkan aparat negara yaitu Polri, TNI dan BIN berdiri di atas semua kelompok politik.</p> 
+<p>Bila perlu pimpinan lembaga tersebut membuat pernyataan bersama untuk berkomitmen menjaga netralitas dalam Pilgub.</p> 
+<p>Pengukuhan sikap netralitas aparat negara sangat penting sebagai upaya preventif menjaga kondusifitas ibukota.</p> 
+<p>Jakarta adalah parameter Indonesia, oleh karena itu sudah menjadi kewajiban aparat negara untuk menjadi pelopor terwujudnya ibukota yang kondusif.</p> 
+<p>Dan hendaknya netralitas aparat negara juga diikuti dalam tindakan di lapangan. Jangan sampai ada paslon atau pendukungnya yang meragukan netralitas aparat.</p> 
+<p>Keraguan yang tidak diinginkan itu ternyata muncul setelah Polri mengusut kasus pembangunan Masjid Al-Fauz dan dana hibah Kwarda DKI Jakarta.</p>              
+<p>Sejauh ini Polri telah memanggil Sylviana Murni untuk dimintai keterangannya. Ada yang menganggap tindakan Polri ini sebagai bentuk kriminalisasi.</p> 
+<p>Kapolri Tito Karnavian menyatakan bahwa tindakan tersebut sebagai upaya menegakkan asas 'equality before the law', karena Polri juga sudah mengusut kasus penistaan agama yang dilakukan oleh Ahok.</p> 
+<p>Menurutnya, setelah kasus Ahok diusut, maka Perkap soal penundaan kasus hukum para paslon Pilkada, dikesampingkan dulu. Konsekuensinya, seluruh kasus hukum yang menimpa kontestan Pilkada akan segera diusut.</p> 
+<p>Maka, untuk menepis tuduhan kriminalisasi dan sekaligus menegaskan sikap netralitas serta menjunjung asas equality before the law, hendaknya Kapolri segera membuktikkan pernyataannya, yaitu segera mengusut semua kasus hukum yang melibatkan paslon dalam Pilkada.</p> 
+<p>Dalam kasus Jakarta, dimana akhir-akhir ini telah dihebohkan dengan berbagai kasus korupsi seperti kasus RS Sumber Waras, Reklamasi, dana CSR, pembelian tanah Cengkareng Barat dan Kedubes Inggris, maka Polri harus segera mengusutnya. Apalagi sudah ada hasil audit BPK yang menyatakan beberapa kasus telah terbukti merugikan negara.</p> 
+<p>Memang ada sebagian kasus yang tengah ditangani KPK, namun hal tersebut tidak menjadi penghalang Polri untuk mengusutnya juga.</p> 
+<p>Kasus mantan Dirut Pelindo II RJ Lino bisa dijadikan preseden bahwa Polri dan KPK bisa mengusut secara bersamaan. Apalagi selama ini KPK terkesan tidak serius mengusut kasus-kasus yang melibatkan Ahok, sehingga peran Polri sangat dinantikan.</p> 
+<p>Dalam hal pengusutan kasus yang melibatkan Ahok harus diakui Polri selangkah lebih maju dari KPK.</p> 
+<p>Sehingga tidak berlebihan jika Kapolri pernah sesumbar bahwa Polri yang sanggup menjadikan Ahok sebagai tersangka. Publik menunggu gebrakan Polri untuk mengusut kasus-kasus korupsi yang diduga melibatkan Ahok.</p> 
+<p>Dapat disimpulkan, netralitas aparat masih menjadi pertanyaan besar di benak publik. Mudah-mudahan seluruh aparat negara dapat menjawabnya melalui tindakan nyata.</p> 
+<p>Netralitas adalah harga mati untuk mewujudkan kondusifitas selama proses pilgub, sehingga pilgub Jakarta dapat berjalan dengan lancar, damai, adil dan jujur.</p> 
+<p><strong>SYA'RONI</strong><br><strong>Ketua Presidium PRIMA</strong><br><strong>(Perhimpunan Masyarakat Madani)</strong></p>
+
+
+-*-10660084
+-*-http://www.tribunnews.com/tribunners/2017/02/01/posisi-aparat-dalam-pilgub-dki-jakarta-netralkah
+
+--------------------
+
+
+-t-t- Ahok -- 5.55624780210239
+-t-t- KPK -- 3.5977741510734598
+-t-t- Pilkada -- 3.0239264223555473
+-t-t- Kapolri -- 2.931813864687413
+-t-t- DKI Jakarta -- 2.865343652070691
+-t-t- Pilgub -- 2.4979191141485435
+-t-t- Sylviana Murni -- 2.1799347036288705
+-t-t- Tito Karnavian -- 2.141950363715739
+-t-t- Cengkareng Barat -- 1.908282086224531
+-t-t- Pelindo II -- 1.8231832037366187
+-t-t- TRIBUNNERS -- 1.318609049756363
+-t-t- Tensi -- 1.3162197664679824
+-t-t- TNI -- 1.2154376485993605
+-t-t- BIN -- 1.214081890068958
+-t-t- Indonesia -- 1.1631814776366054
+-t-t- Reklamasi -- 0.9590788905150446
+-t-t- CSR -- 0.9569404769303296
+-t-t- BPK -- 0.9402662378846154
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Polri -- 12.0
+-f-f- II RJ Lino -- 1.0
+-f-f- Pilgub Jakarta -- 1.0
+-f-f- Mudah-mudahan -- 1.0
+-f-f- Perhimpunan Masyarakat -- 1.0
+-f-f- Ketua Presidium PRIMA -- 1.0
+-f-f- Perhimpunan Masyarakat Madani -- 1.0
+-f-f- Dirut Pelindo II RJ -- 1.0
+-f-f- Kwarda DKI -- 1.0
+-f-f- SYA'RONI Ketua Presidium -- 1.0
+-f-f- Presidium PRIMA -- 1.0
+-f-f- Dirut Pelindo II -- 1.0
+-f-f- Kwarda DKI Jakarta -- 1.0
+-f-f- Kapolri Tito Karnavian -- 1.0
+-f-f- Kedubes Inggris -- 1.0
+-f-f- Pelindo II RJ Lino -- 1.0
+-f-f- II RJ -- 1.0
+-f-f- Masyarakat Madani -- 1.0
+-f-f- Dirut Pelindo II RJ Lino -- 1.0
+-f-f- RJ Lino -- 1.0
+-f-f- Pelindo II RJ -- 1.0
+-f-f- SYA'RONI Ketua -- 1.0
+-f-f- Perkap -- 1.0
+-f-f- Dirut Pelindo -- 1.0
+-f-f- SYA'RONI Ketua Presidium PRIMA -- 1.0
+-f-f- Ketua Presidium -- 1.0
+-f-f- Masjid Al-Fauz -- 1.0
+-f-f- Kapolri Tito -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/cc6a6a388cde787b936dce6b3e64e670.jpeg" width="700" height="393" alt="Antasari Layak Jabat Jaksa Agung, Ini Pernyataan Prasetyo" data:w="700" data:h="393">       
+<p><strong>TRIBUNNEWS.COM, JAKARTA -</strong> Jaksa Agung <a href="http://www.tribunnews.com/tag/hm-prasetyo" rel="nofollow">HM Prasetyo</a> enggan berandai-andai mengenai kabar <a href="http://www.tribunnews.com/tag/antasari-azhar" rel="nofollow">Antasari Azhar</a> yang disebut layak menjabat sebagai <a href="http://www.tribunnews.com/tag/jaksa-agung" rel="nofollow">Jaksa Agung</a>.</p> 
+<p>"Jangan berandai-andai lah," kata Prasetyo di Gedung DPR, Jakarta, Rabu (1/2/2017).</p> 
+<p>Prasetyo mengaku tidak dalam kapasitas setuju atau tidak setuju.</p> 
+<p>"Saya tidak ada kapasitas untuk itu," kata Prasetyo.</p> 
+<p>Sebelumnya, Politikus PDI Perjuangan <a href="http://www.tribunnews.com/tag/junimart-girsang" rel="nofollow">Junimart Girsang</a> menilai Mantan Ketua Komisi Pemberantasan Korupsi (KPK) <a href="http://www.tribunnews.com/tag/antasari-azhar" rel="nofollow">Antasari Azhar</a> layak menjabat <a href="http://www.tribunnews.com/tag/jaksa-agung" rel="nofollow">Jaksa Agung</a>.</p> 
+<p>"Saya kira layak. Tidak ada hambatan. Tidak ada larangan seseorang terpidana menjadi pembantu presiden, enggak ada larangan itu. Itu menjadi hak prerogatif presiden. Apalagi beliau sudah mendapatkan grasi," kata <a href="http://www.tribunnews.com/tag/junimart-girsang" rel="nofollow">Junimart Girsang</a> di Gedung DPR, Jakarta, Rabu (1/2/2017).</p> 
+<p>Anggota Komisi III DPR itu menilai Antasari mampu menjabat <a href="http://www.tribunnews.com/tag/jaksa-agung" rel="nofollow">Jaksa Agung</a>.</p> 
+<p>Apalagi, secara profesi Antasari dibesarkan di Kejaksaan.</p> 
+<p>Terakhir, seingat Junimart, Antasari menjabat sebagai Direktur Penyidikan Umum di Kejaksaan Agung sebelum bertugas di KPK.</p> 
+<p>"Beliau mampu untuk itu. Tapi semua kembali ke Pak Presiden. Apakah presiden membutuhkan sosok antasari sebagai pembantu presiden, kita tunggu saja," kata Junimart.</p>
+
+
+-*-10660087
+-*-http://www.tribunnews.com/nasional/2017/02/01/antasari-layak-jabat-jaksa-agung-ini-pernyataan-prasetyo
+
+--------------------
+
+
+-t-t- Jaksa Agung HM Prasetyo -- 6.129380367575268
+-t-t- Antasari Azhar -- 5.352743891172058
+-t-t- Junimart Girsang -- 4.663889772758931
+-t-t- Gedung DPR -- 4.367798414195173
+-t-t- Komisi Pemberantasan Korupsi -- 3.485465716367081
+-t-t- Anggota Komisi III -- 3.01689358719056
+-t-t- Komisi III DPR -- 3.00715427610888
+-t-t- PDI Perjuangan -- 2.2493386342004995
+-t-t- Jakarta -- 2.1732977755050635
+-t-t- Kejaksaan Agung -- 1.9651659091171831
+-t-t- KPK -- 1.9462804625468964
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- PDI Perjuangan Junimart Girsang -- 1.0
+-f-f- Direktur Penyidikan Umum -- 1.0
+-f-f- Mantan Ketua Komisi -- 1.0
+-f-f- Perjuangan Junimart -- 1.0
+-f-f- Ketua Komisi Pemberantasan Korupsi -- 1.0
+-f-f- Pak Presiden -- 1.0
+-f-f- Anggota Komisi III DPR -- 1.0
+-f-f- Perjuangan Junimart Girsang -- 1.0
+-f-f- Politikus PDI Perjuangan Junimart -- 1.0
+-f-f- Mantan Ketua -- 1.0
+-f-f- PDI Perjuangan Junimart -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Politikus PDI Perjuangan Junimart Girsang -- 1.0
+-f-f- Ketua Komisi -- 1.0
+-f-f- Mantan Ketua Komisi Pemberantasan Korupsi -- 1.0
+-f-f- Mantan Ketua Komisi Pemberantasan -- 1.0
+-f-f- Politikus PDI Perjuangan -- 1.0
+-f-f- Penyidikan Umum -- 1.0
+-f-f- Politikus PDI -- 1.0
+-f-f- Direktur Penyidikan -- 1.0
+-f-f- Ketua Komisi Pemberantasan -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/17479a63b85f579695d9ffdbc8ffade3.jpeg" alt="Junimart Yakin Pengacara Ahok tak Asal Ungkap" data:w="650" data:h="454">  Kepala Badan Bantuan Hukum dan Advokasi DPP PDI Perjuangan Junimart Girsang--Antara/Audi Alwi    
+<p><strong>Metrotvnews.com, Jakarta:</strong> Pengacara Basuki Tjahaja Purnama alias Ahok dinilai tak asal bicara dalam persidangan. Pengacara Ahok diyakini miliki bukti.</p> 
+<p>"Saya yakini para pengacara memiliki bukti itu," kata Kepala Badan Bantuan Hukum dan Advokasi DPP PDI Perjuangan Junimart Girsang di Gedung DPR, Jakarta, Selasa (1/2/2017).</p> Junimart belum mendapat laporan dari pengacara Ahok soal dugaan adanya komunikasi antara Ketua MUI Ma'ruf Amin dengan Presiden ke-6 RI Susilo Bambang Yudhoyono. Setelah mendapat laporan Junimart bakal melakukan kajian. 
+<p><strong>Baca: <a href="http://news.metrotvnews.com/hukum/GNlGaWPK-dialog-ma-ruf-sby-bakal-dibuka-usai-ditunjukkan-ke-pengadilan" rel="nofollow">Dialog Ma'ruf-SBY Bakal Dibuka usai Ditunjukkan ke Pengadilan</a></strong></p> 
+<p>Apa yang disampaikan di dalam persidangan akan menjadi keyakinan hakim dalam memutus perkara nanti. Jadi, tak ada keharusan rekaman yang dimiliki pengacara dibuka.</p> 
+<p>"Itu bukan perkara korupsi, pembuktian terbalik. Silakan saja kalau memang pihak yang merasa tidak melakukan itu silakan ia lakukan upaya hukum," tambah Junimart.</p> 
+<p><strong>Baca: <a href="http://news.metrotvnews.com/hukum/VNnz8O7N-jubir-agus-sylvi-keberatan-dengan-tudingan-tim-hukum-ahok" rel="nofollow">Jubir Agus-Sylvi Keberatan dengan Tudingan Tim Hukum Ahok</a></strong></p> 
+<p>Dalam persidangan kasus penodaan agama, pengacara mencecar Ma'ruf soal percakapannya dengan SBY. Pengacara menuding, Ma'ruf pernah bekomunikasi dengan SBY terkait pencalonan Agus-Sylvi. Saat itu, SBY minta doa restu pada Ma'aruf.</p> 
+<p>(YDH)</p>
+
+
+-*-10656831
+-*-http://news.metrotvnews.com/politik/yNLyl11b-junimart-yakin-pengacara-ahok-tak-asal-ungkap
+
+--------------------
+
+
+-t-t- Advokasi DPP PDI Perjuangan Junimart Girsang -- 16.486548047723634
+-t-t- Kepala Badan Bantuan Hukum -- 10.77252944917319
+-t-t- Ahok -- 4.446199045810656
+-t-t- Ma'ruf -- 3.8157385440430582
+-t-t- SBY -- 3.517811948557825
+-t-t- Susilo Bambang Yudhoyono -- 3.3996498107820483
+-t-t- Jakarta -- 2.406058633973967
+-t-t- Gedung DPR -- 2.2913425035933033
+-t-t- Agus-Sylvi -- 1.7119921625199752
+-t-t- Presiden -- 1.080362522847455
+-t-t- Pengadilan -- 1.0187767031274726
+-t-t- Ma'aruf -- 0.8058909896780057
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Audi Alwi -- 1.0
+-f-f- Perjuangan Junimart Girsang--Antara -- 1.0
+-f-f- Ketua MUI -- 1.0
+-f-f- Pengacara Ahok -- 1.0
+-f-f- RI Susilo Bambang Yudhoyono -- 1.0
+-f-f- Tim Hukum Ahok -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- MUI Ma'ruf -- 1.0
+-f-f- Ma'ruf-SBY Bakal -- 1.0
+-f-f- Baca: Dialog -- 1.0
+-f-f- Ketua MUI Ma'ruf -- 1.0
+-f-f- Dialog Ma'ruf-SBY Bakal Dibuka -- 1.0
+-f-f- Ma'ruf Amin -- 1.0
+-f-f- YDH -- 1.0
+-f-f- Dialog Ma'ruf-SBY Bakal -- 1.0
+-f-f- Baca: Jubir -- 1.0
+-f-f- Pengacara Basuki Tjahaja -- 1.0
+-f-f- DPP PDI Perjuangan Junimart Girsang--Antara -- 1.0
+-f-f- Ma'ruf-SBY Bakal Dibuka -- 1.0
+-f-f- Jakarta: Pengacara Basuki -- 1.0
+-f-f- Jakarta: Pengacara -- 1.0
+-f-f- Agus-Sylvi Keberatan -- 1.0
+-f-f- Baca: Dialog Ma'ruf-SBY Bakal -- 1.0
+-f-f- Dialog Ma'ruf-SBY -- 1.0
+-f-f- Tudingan Tim Hukum Ahok -- 1.0
+-f-f- PDI Perjuangan Junimart Girsang--Antara -- 1.0
+-f-f- MUI Ma'ruf Amin -- 1.0
+-f-f- Baca: Jubir Agus-Sylvi -- 1.0
+-f-f- Jubir Agus-Sylvi Keberatan -- 1.0
+-f-f- Tim Hukum -- 1.0
+-f-f- RI Susilo -- 1.0
+-f-f- Ketua MUI Ma'ruf Amin -- 1.0
+-f-f- Tudingan Tim Hukum -- 1.0
+-f-f- RI Susilo Bambang -- 1.0
+-f-f- Pengacara Basuki -- 1.0
+-f-f- Hukum Ahok -- 1.0
+-f-f- Baca: Jubir Agus-Sylvi Keberatan -- 1.0
+-f-f- Bakal Dibuka -- 1.0
+-f-f- Baca: Dialog Ma'ruf-SBY Bakal Dibuka -- 1.0
+-f-f- Jubir Agus-Sylvi -- 1.0
+-f-f- Basuki Tjahaja Purnama -- 1.0
+-f-f- Advokasi DPP PDI Perjuangan Junimart Girsang--Antara -- 1.0
+-f-f- Junimart Girsang--Antara -- 1.0
+-f-f- Tudingan Tim -- 1.0
+-f-f- Baca: Dialog Ma'ruf-SBY -- 1.0
+-f-f- Pengacara Basuki Tjahaja Purnama -- 1.0
+-f-f- Basuki Tjahaja -- 1.0
+-f-f- Jakarta: Pengacara Basuki Tjahaja Purnama -- 1.0
+-f-f- Jakarta: Pengacara Basuki Tjahaja -- 1.0
+-f-f- Jakarta : Pengacara Basuki Tjahaja Purnama -- 0.0
+-f-f- Baca : Dialog Ma'ruf-SBY Bakal Dibuka -- 0.0
+-f-f- Baca : Jubir Agus-Sylvi Keberatan -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b852e730b1c25bf656734c59c8768adb.jpeg" alt="5 Anggota KPU Lolos Seleksi Pansel" data:w="650" data:h="487">  Tim panitia seleksi calon anggota KPU dan Bawaslu di Kantor Presiden--Metrotvnews.com/Achmad Zulfikar Fazli    
+<p><strong>Metrotvnews.com, Jakarta:</strong> Tim Panitia Seleksi (Pansel) telah menyerahkan 14 nama calon anggota Komisi Pemilihan Umum (KPU) ke Presiden Joko Widodo. Dari 14 nama tersebut lima di antaranya saat ini masih menjabat sebagai komisioner KPU.</p> 
+<p>Mereka adalah Ferry Kurnia Rizkiyansyah, Arief Budiman, Ida Budhiati, Sigit Pamungkas dan Hasyim Asy'ari. Kelima nama lolos karena memenuhi lima kriteria utama.</p> Lima kriteria itu independensi calon, integritas calon, kemampuan dalam soal tata kelola pemilu, kepemimpinan dan kesehatan. 
+<p>"Jadi tidak ada istilahnya dari ini, dari ini atau tidak. Semuanya kita posisikan sebagai calon dan diperllaukan sama oleh timsel," kata Ketua Tim Pansel Saldi Isra di Kompleks Istana Kepresidenan, Jalan Veteran, Jakarta Pusat, Rabu (1/2/2017).</p> 
+<p><strong>Baca: <a href="http://news.metrotvnews.com/politik/VNnz8M1N-nama-calon-anggota-kpu-dan-bawaslu-diserahkan-ke-presiden" rel="nofollow">Nama Calon Anggota KPU dan Bawaslu Diserahkan ke Presiden</a></strong></p> 
+<p>Dari 14 nama yang lolos, juga ada yang berasal dari anggota KPU daerah, bawaslu daerah dan sebagainya. "Ini calon yang mendaftar ke kita dihasilkan di tahap akhir," ucap dia.</p> 
+<p>Dari 14 nama yang lolos ini nantinya bakal diserahkan oleh Presiden ke DPR. Mereka bakal menjalani uji kelayakan dan kepatutan di Parlemen. Kemudian, Dewan dalam hal ini Komisi II DPR RI memilih tujuh dari 14 nama dari hasil uji kelayakan dan kepatutan itu.</p> 
+<p>14 calon yang lolos seleksi menjadi anggota KPU periode 2017-2022 yaitu:</p> 
+<p>1. Amus Atkana dengan nomor pendaftaran 23<br>2. I Dewa Kade Wiarsa Raka Sandi dengan nomor pendaftaran 88<br>3. Ilham Saputra dengan nomor pendaftaran 100<br>4. Evi Novida Ginting Manik dengan nomor pendaftaran 114<br>5. Ferry Kurnia Rizkiyansyah dengan nomor pendaftaran 158<br>6. Ida Budhiati dengan nomor pendaftaran 159<br>7. Wahyu Setiawan dengan nomor pendaftaran 183<br>8. Sri Budi Eko Wardani dengan nomor pendaftaran 184<br>9. Pramono Ubaid Tantowi dengan nomor pendaftaran 187<br>10. Yessy Y. Momongan dengan nomor pendaftaran 194<br>11. Hasyim Asy'ari dengan nomor pendaftaran 210<br>12. Arief Budiman dengan nomor pendaftaran 224<br>13. Viryan dengan nomor pendaftaran 264<br>14. Sigit Pamungkas dengan nomor pendaftaran 278<br>&nbsp;<br>"Dari 14 calon ini, empat orang di antaranya adalah perempuan," pungkas dia.</p> 
+<p>(YDH)</p>
+
+
+-*-10656832
+-*-http://news.metrotvnews.com/politik/VNxJLdgk-5-anggota-kpu-lolos-seleksi-pansel
+
+--------------------
+
+
+-t-t- Dari 14 -- 8.310910291462111
+-t-t- KPU -- 6.8773867718782515
+-t-t- Ferry Kurnia Rizkiyansyah -- 6.732799221094043
+-t-t- Komisi II DPR RI -- 4.387351309856174
+-t-t- Presiden Joko Widodo -- 4.350886020839461
+-t-t- Ida Budhiati -- 4.206826409220167
+-t-t- Arief Budiman -- 4.100120566639428
+-t-t- Hasyim Asy -- 4.091984781149602
+-t-t- Sigit Pamungkas -- 4.05269412176412
+-t-t- Tim Pansel -- 2.5168726251373443
+-t-t- Jakarta Pusat -- 2.4818848253596095
+-t-t- Bawaslu -- 2.3827821235032607
+-t-t- Saldi Isra -- 2.2136666809775996
+-t-t- Istana Kepresidenan -- 2.2024508588675777
+-t-t- Jalan Veteran -- 2.1922599620238543
+-t-t- Kantor -- 1.303628462732542
+-t-t- Achmad -- 1.2941621739114728
+-t-t- Parlemen -- 0.9972665518012042
+-t-t- Dewan -- 0.9928713780064675
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Pramono Ubaid -- 1.0
+-f-f- Baca: Nama -- 1.0
+-f-f- Nama Calon Anggota -- 1.0
+-f-f- Ketua Tim Pansel -- 1.0
+-f-f- Kompleks Istana -- 1.0
+-f-f- Anggota KPU -- 1.0
+-f-f- Kade Wiarsa Raka -- 1.0
+-f-f- Baca: Nama Calon Anggota KPU -- 1.0
+-f-f- Kade Wiarsa Raka Sandi -- 1.0
+-f-f- Dewa Kade Wiarsa Raka -- 1.0
+-f-f- Pramono Ubaid Tantowi -- 1.0
+-f-f- Zulfikar Fazli -- 1.0
+-f-f- Dewa Kade -- 1.0
+-f-f- Tim Pansel Saldi -- 1.0
+-f-f- Pansel Saldi Isra -- 1.0
+-f-f- Budi Eko -- 1.0
+-f-f- Evi Novida Ginting Manik -- 1.0
+-f-f- Tim Pansel Saldi Isra -- 1.0
+-f-f- Komisi Pemilihan Umum -- 1.0
+-f-f- Ketua Tim Pansel Saldi -- 1.0
+-f-f- Momongan -- 1.0
+-f-f- I Dewa Kade Wiarsa Raka -- 1.0
+-f-f- Ketua Tim Pansel Saldi Isra -- 1.0
+-f-f- Amus Atkana -- 1.0
+-f-f- Sri Budi -- 1.0
+-f-f- Ubaid Tantowi -- 1.0
+-f-f- Dewa Kade Wiarsa -- 1.0
+-f-f- Kade Wiarsa -- 1.0
+-f-f- Raka Sandi -- 1.0
+-f-f- Eko Wardani -- 1.0
+-f-f- Novida Ginting -- 1.0
+-f-f- Pansel Saldi -- 1.0
+-f-f- Tim Panitia Seleksi -- 1.0
+-f-f- Jakarta: Tim Panitia Seleksi -- 1.0
+-f-f- Dewa Kade Wiarsa Raka Sandi -- 1.0
+-f-f- Baca: Nama Calon Anggota -- 1.0
+-f-f- Pemilihan Umum -- 1.0
+-f-f- Calon Anggota -- 1.0
+-f-f- Nama Calon Anggota KPU -- 1.0
+-f-f- Jakarta: Tim -- 1.0
+-f-f- Yessy Y -- 1.0
+-f-f- Calon Anggota KPU -- 1.0
+-f-f- Kompleks Istana Kepresidenan -- 1.0
+-f-f- Baca: Nama Calon -- 1.0
+-f-f- Komisi Pemilihan -- 1.0
+-f-f- Bawaslu Diserahkan -- 1.0
+-f-f- YDH -- 1.0
+-f-f- Wiarsa Raka -- 1.0
+-f-f- Panitia Seleksi -- 1.0
+-f-f- Nama Calon -- 1.0
+-f-f- Evi Novida Ginting -- 1.0
+-f-f- Viryan -- 1.0
+-f-f- Ilham Saputra -- 1.0
+-f-f- Jakarta: Tim Panitia -- 1.0
+-f-f- I Dewa Kade Wiarsa -- 1.0
+-f-f- I Dewa -- 1.0
+-f-f- Ketua Tim -- 1.0
+-f-f- Evi Novida -- 1.0
+-f-f- Ginting Manik -- 1.0
+-f-f- Novida Ginting Manik -- 1.0
+-f-f- I Dewa Kade -- 1.0
+-f-f- Tim Panitia -- 1.0
+-f-f- I Dewa Kade Wiarsa Raka Sandi -- 1.0
+-f-f- Sri Budi Eko Wardani -- 1.0
+-f-f- Wahyu Setiawan -- 1.0
+-f-f- Sri Budi Eko -- 1.0
+-f-f- Budi Eko Wardani -- 1.0
+-f-f- Wiarsa Raka Sandi -- 1.0
+-f-f- Jakarta : Tim Panitia Seleksi -- 0.0
+-f-f- Baca : Nama Calon Anggota KPU -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/52291c67b87c9ec55ac27c23756df7c7.jpeg" data:w="700" data:h="393">  
+<p><strong>Rimanews</strong> - Hujan deras tak menyurutkan semangat ribuan orang dari berbagi ormas Islam yang berdemo membela imam besar FPI Habib Rizieq Shihab yang sedang menjalani pemeriksaan di Mapolda Metro Jaya, hari ini.</p> 
+<p>Pantauan Rimanews di lokasi, mereka juga melaksanakan salat zuhur secara berjamah di jalan di tengah guyuran gerimis.</p> 
+<p>Sebelum salat berjamaah, seorang orator aksi berpidato menegaskan bahwa mereka tidak akan pernah lelah membela kebenaran. "Apakah kita lelah membela pemimpin agama?" tanya orator. Peserta aksi serempak menjawab, "tidak". &nbsp;</p> 
+<p>Habib Rizieq bersama jubir FPI Munarman dan Ketua Gerakan Nasional Pengawal Fatwa MUI Bachtiar Nasir hari ini menjalani pemeriksaan terkait pertemuan di Universitas Bung Karno sebelum Aksi Bela Islam 4 November 2016 lalu, yang disinyalir membahas rencana makar.</p> 
+<p>Sebelum diperiksa, Habib rizieq, mengaku tidak takut dikriminalisasi karena berani bersuara menentang Gubernur DKI Jakarta nonaktif Basuki Tjahaja Purnama alias Ahok yang dikenal dekat dengan Presiden Jokowi.</p> 
+<p>Rizieq pun meminta polisi untuk tidak takut kepada Ahok. "Apakah jika Ahok dihukum, negeri ini merugi, apakah jika ahok mati, jabatan kalian akan hilang, ingat Pak, jabatan itu tidak lama," katanya.</p>
+
+
+-*-10656743
+-*-http://rimanews.com/nasional/politik/read/20170201/315375/Massa-pendukung-Rizieq-salat-berjamah-di-tengah-hujan?utm_source=Babe&utm_medium=Nasional&utm_campaign=newsagregator
+
+--------------------
+
+
+-t-t- Habib Rizieq Shihab -- 4.595136816024413
+-t-t- Mapolda Metro Jaya -- 3.8831383630807013
+-t-t- Universitas Bung Karno -- 3.1298782462815864
+-t-t- Gubernur DKI Jakarta -- 2.8706584230139502
+-t-t- Ahok -- 2.577708732495044
+-t-t- Rimanews -- 2.5232444808112593
+-t-t- Islam -- 2.248519373735301
+-t-t- Bachtiar Nasir -- 2.031022639947603
+-t-t- Presiden Jokowi -- 1.7487503673845433
+-t-t- Hujan -- 1.3120977137542242
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Bela Islam 4 -- 1.0
+-f-f- Pengawal Fatwa -- 1.0
+-f-f- Ketua Gerakan Nasional -- 1.0
+-f-f- Ketua Gerakan Nasional Pengawal -- 1.0
+-f-f- Fatwa MUI Bachtiar Nasir -- 1.0
+-f-f- FPI Habib Rizieq Shihab -- 1.0
+-f-f- Bela Islam -- 1.0
+-f-f- Aksi Bela Islam 4 -- 1.0
+-f-f- Nasional Pengawal Fatwa MUI -- 1.0
+-f-f- Islam 4 November -- 1.0
+-f-f- MUI Bachtiar -- 1.0
+-f-f- Bela Islam 4 November 2016 -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- FPI Habib Rizieq -- 1.0
+-f-f- Nasional Pengawal -- 1.0
+-f-f- Islam 4 -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa MUI Bachtiar Nasir -- 1.0
+-f-f- Ketua Gerakan Nasional Pengawal Fatwa -- 1.0
+-f-f- Gerakan Nasional -- 1.0
+-f-f- Ketua Gerakan Nasional Pengawal Fatwa MUI Bachtiar Nasir -- 1.0
+-f-f- Aksi Bela Islam -- 1.0
+-f-f- Nasional Pengawal Fatwa -- 1.0
+-f-f- Islam 4 November 2016 -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa MUI Bachtiar -- 1.0
+-f-f- Fatwa MUI Bachtiar -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa MUI -- 1.0
+-f-f- MUI Bachtiar Nasir -- 1.0
+-f-f- Bela Islam 4 November -- 1.0
+-f-f- Fatwa MUI -- 1.0
+-f-f- Ketua Gerakan -- 1.0
+-f-f- FPI Habib -- 1.0
+-f-f- FPI Munarman -- 1.0
+-f-f- Pengawal Fatwa MUI -- 1.0
+-f-f- Ketua Gerakan Nasional Pengawal Fatwa MUI Bachtiar -- 1.0
+-f-f- Aksi Bela -- 1.0
+-f-f- Aksi Bela Islam 4 November 2016 -- 1.0
+-f-f- Pengawal Fatwa MUI Bachtiar -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa -- 1.0
+-f-f- Basuki Tjahaja Purnama -- 1.0
+-f-f- Pantauan Rimanews -- 1.0
+-f-f- Aksi Bela Islam 4 November -- 1.0
+-f-f- Gerakan Nasional Pengawal -- 1.0
+-f-f- Nasional Pengawal Fatwa MUI Bachtiar -- 1.0
+-f-f- Ketua Gerakan Nasional Pengawal Fatwa MUI -- 1.0
+-f-f- Nasional Pengawal Fatwa MUI Bachtiar Nasir -- 1.0
+-f-f- Pengawal Fatwa MUI Bachtiar Nasir -- 1.0
+-f-f- Basuki Tjahaja -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
+<p><strong>JAKARTA</strong> - Genderang perang melawan ulama yang dilakukan pihak Basuki Tjahaja Purnama (Ahok) dalam sidang penistaan agama membuat kuasa hukum segera melakukan klarifikasi.</p> 
+<p>Humphrey Djemat, selaku tim Kuasa Ahok menegaskan bahwa pihaknya tidak rencana mereka melaporkan Ketua Majelis Ulama Indonesia (MUI) Ma'ruf Amin yang dihadirkan sebagai saksi di pengadilan, kemarin.</p> 
+<p>Humphrey Djemat mengklaim pernyataan Ahok di sidang ke delapan tersebut sejatinya ditujukan kepada saksi-saksi sebelumnya yang diduga memberikan keterangan palsu, yakni Habib Novel Bamukmin dan Habib Muchsin. "Jadi tak mungkin kami mau melaporkan Pak KH Ma'ruf Amin yang menjadi saksi karena menjelaskan soal pendapat dan sikap keagamaan MUI," katanya, Rabu (1/2/2017).</p> 
+<p>Humprey melanjutkan, komentar Ahok soal ancaman proses hukum hanya bersifat umum. Oleh karena itu, dia sangat menyayangkan pemberitaan menyesatkan seolah-olah Ahok mau melaporkan Ma'ruf Amin dalam kapasitasnya sebagai <a href="http://www.jawapos.com/read/2017/02/01/106431/humphrey-tak-mungkin-kami-mau-melaporkan-maruf-amin" rel="nofollow"><span><strong>Ketua Umum MUI</strong></span></a>. "Kami menyayangkan adanya pihak-pihak yang memancing di air keruh memanfaatkan ucapan Pak Ahok," ucapnya seperti dikutip dari JawaPos.com.</p> 
+<p>Sebelumnya dalam persidangan kemarin, <a href="http://www.jawapos.com/read/2017/02/01/106431/humphrey-tak-mungkin-kami-mau-melaporkan-maruf-amin" rel="nofollow"><span><strong>Ahok sempat melontarkan ancaman</strong></span></a> proses hukum kepada saksi di pengadilan. "Dan saya berterima kasih, saudara saksi ngotot depan hakim bahwa saksi tidak berbohong, kami akan proses secara hukum saksi," kata Ahok waktu itu.</p>
+
+
+-*-10653847
+-*-http://news.okezone.com/read/2017/02/01/338/1606587/kuasa-hukum-ahok-kami-tak-ingin-laporkan-kh-ma-ruf-amin
+
+--------------------
+
+
+-t-t- Ma'ruf Amin -- 6.341327873089213
+-t-t- Humphrey Djemat -- 4.771009573773713
+-t-t- Basuki Tjahaja Purnama -- 4.075923122117962
+-t-t- Majelis Ulama Indonesia -- 3.7722381223232833
+-t-t- Pak Ahok -- 2.8102277245041707
+-t-t- Ketua Umum -- 1.8592679606537001
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- MUI -- 3.0
+-f-f- Pak KH -- 1.0
+-f-f- Humprey -- 1.0
+-f-f- Habib Novel -- 1.0
+-f-f- Kuasa Ahok -- 1.0
+-f-f- Umum MUI -- 1.0
+-f-f- Pak KH Ma'ruf -- 1.0
+-f-f- Ketua Majelis Ulama -- 1.0
+-f-f- Habib Muchsin -- 1.0
+-f-f- KH Ma'ruf Amin -- 1.0
+-f-f- Pak KH Ma'ruf Amin -- 1.0
+-f-f- Habib Novel Bamukmin -- 1.0
+-f-f- Novel Bamukmin -- 1.0
+-f-f- Ketua Majelis -- 1.0
+-f-f- KH Ma'ruf -- 1.0
+-f-f- Genderang -- 1.0
+-f-f- Ketua Majelis Ulama Indonesia -- 1.0
+-f-f- Ketua Umum MUI -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e0c01a2970b18086778df65222c37d3f.jpeg" width="700" height="393" alt="Hasil Survei Charta Politika: Agus-Sylvi 25,9%, Ahok-Djarot 36,8%, Anies-Sandi 27%" data:w="700" data:h="393">       
+<p><strong>TRIBUNNEWS.COM, JAKARTA</strong> - Hasil survei yang dilakukan <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a> memperlihatkan bahwa cagub-cawagub DKI Jakarta nomor pemilihan satu, <a href="http://www.tribunnews.com/tag/agus-harimurti-yudhoyono-sylviana-murni" rel="nofollow">Agus Harimurti Yudhoyono-Sylviana Murni</a>, memiliki elektabilitas 25,9 persen.</p> 
+<p>Kemudian, cagub-cawagub nomor pemilihan dua, <a href="http://www.tribunnews.com/tag/basuki-tjahaja-purnama" rel="nofollow">Basuki Tjahaja Purnama</a> (Ahok)-Djarot Saiful Hidayat, memiliki elektabilitas 36,8 persen, dan pasangan nomor pemilihan tiga, <a href="http://www.tribunnews.com/tag/anies-baswedan-sandiaga-uno" rel="nofollow">Anies Baswedan-Sandiaga Uno</a>, memiliki elektabilitas 27,0 persen.</p> 
+<p>Responden yang belum menentukan pilihannya (undecided voters) sebanyak 10,3 persen.</p> 
+<p>Survei ini dilakukan pada 17-24 Januari 2017.</p> 
+<p>"Ahok-Djarot di peringkat pertama, nomor dua ada Anies-Sandi, dan nomor tiga Agus-Sylvi. Selisih antara Anies dan Agus masih dalam margin of error, belum bisa disimpulkan siapa yang unggul," ujar Direktur Eksekutif <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a> Yunarto Wijaya.</p> 
+<p>Yunarto menjelaskan hal tersebut saat merilis hasil survei di Kantor <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a>, Kebayoran Baru, Jakarta Selatan, Rabu (1/2/2017).</p> 
+<p>Elektabilitas ketiga pasangan cagub-cawagub DKI Jakarta dalam survei teranyar <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a> ini berbanding lurus dengan elektabilitas ketiga calon gubernur, tanpa cawagubnya.</p> 
+<p>Elektabilitas Agus sebesar 22,5 persen, Ahok 31,0 persen, dan Anies 23,5 persen.</p> 
+<p>Bila dibandingkan dengan survei pada November 2016 yang dilakukan <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a>, Yunarto menyebut ada penurunan elektabilitas Agus-Sylvi dan peningkatan elektabilitas Ahok-Djarot.</p> 
+<p>Dalam survei <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a> pada November 2016 itu, elektabilitas Agus-Sylvi 29,5 persen, Ahok-Djarot 28,9 persen, dan Anies-Sandi 26,7 persen.</p> 
+<p>"Kita lihat ada penurunan tajam Agus-Sylvi, Ahok-Djarot ada peningkatan tajam, Anies-Sandi sebetulnya stagnan. Tapi karena penurunan cukup tajam dari Agus-Sylvi, jadi Agus-Sylvi dari peringkat satu jadi peringkat tiga, Anies-Sandi dari tiga menjadi dua," kata Yunarto.</p> 
+<p>Survei <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a> ini dilakukan dengan wawancara tatap muka terhadap 767 responden di enam wilayah di Jakarta.</p> 
+<p>Metode penelitian yang digunakan yakni multistage random sampling dengan margin of error lebih kurang 3,5 persen pada tingkat kepercayaan 95 persen.</p> 
+<p>Survei ini dibiayai menggunakan dana internal <a href="http://www.tribunnews.com/tag/charta-politika" rel="nofollow">Charta Politika</a>.(Nursita Sari)</p>
+
+
+-*-10653838
+-*-http://www.tribunnews.com/metropolitan/2017/02/01/hasil-survei-charta-politika-agus-sylvi-259-ahok-djarot-368-anies-sandi-27
+
+--------------------
+
+
+-t-t- Charta Politika -- 16.215355812139673
+-t-t- Agus-Sylvi -- 8.012202969683626
+-t-t- Anies-Sandi -- 5.64317554816008
+-t-t- Ahok-Djarot -- 5.501568207788688
+-t-t- DKI Jakarta -- 5.193946996544803
+-t-t- Anies Baswedan-Sandiaga Uno -- 4.421951167713849
+-t-t- Basuki Tjahaja Purnama -- 3.932189071094672
+-t-t- -Djarot Saiful Hidayat -- 3.906497220483792
+-t-t- Yunarto Wijaya -- 2.6908302838333484
+-t-t- Jakarta Selatan -- 2.65802032617699
+-t-t- Kebayoran Baru -- 2.13581295849531
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Ahok 31 -- 1.0
+-f-f- Harimurti Yudhoyono-Sylviana Murni -- 1.0
+-f-f- Direktur Eksekutif Charta -- 1.0
+-f-f- Charta Politika Yunarto -- 1.0
+-f-f- Ahok-Djarot 28 -- 1.0
+-f-f- Agus-Sylvi 29 -- 1.0
+-f-f- Yudhoyono-Sylviana Murni -- 1.0
+-f-f- Politika Yunarto Wijaya -- 1.0
+-f-f- Direktur Eksekutif -- 1.0
+-f-f- Agus Harimurti Yudhoyono-Sylviana -- 1.0
+-f-f- Kantor Charta -- 1.0
+-f-f- Direktur Eksekutif Charta Politika -- 1.0
+-f-f- Hasil -- 1.0
+-f-f- Anies 23 -- 1.0
+-f-f- Kantor Charta Politika -- 1.0
+-f-f- Eksekutif Charta Politika Yunarto Wijaya -- 1.0
+-f-f- Harimurti Yudhoyono-Sylviana -- 1.0
+-f-f- Survei Charta Politika -- 1.0
+-f-f- Direktur Eksekutif Charta Politika Yunarto Wijaya -- 1.0
+-f-f- Charta Politika Yunarto Wijaya -- 1.0
+-f-f- Anies-Sandi 26 -- 1.0
+-f-f- Elektabilitas Agus -- 1.0
+-f-f- Eksekutif Charta Politika Yunarto -- 1.0
+-f-f- Politika Yunarto -- 1.0
+-f-f- Survei Charta -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Eksekutif Charta Politika -- 1.0
+-f-f- Eksekutif Charta -- 1.0
+-f-f- Nursita -- 1.0
+-f-f- Agus Harimurti Yudhoyono-Sylviana Murni -- 1.0
+-f-f- Agus Harimurti -- 1.0
+-f-f- Direktur Eksekutif Charta Politika Yunarto -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<a href="http://kriminalitas.com/wp-content/uploads/2016/09/SBY.jpg" rel="nofollow"><img src="[BASEURL]/97c767308576c0dac1953ac3357a66d5.jpeg" alt="" width="489" height="327" data:w="489" data:h="327"></a>Presiden Republik Indonesia keenam, Susilo Bambang Yudhoyono (Net) 
+<p><strong>KRIMINALITAS.COM, Jakarta</strong> – Anggota Komisi III DPR RI, Nasir Djamil meminta Majelis Ulama Indonesia (MUI) melaporkan Basuki T. Purnama (Ahok) dan tim kuasa hukumnya ke Badan Reserse Kriminal (Bareskrim) Polri.</p> 
+<p>Hal itu apabila tim kuasa hukum Ahok memang menyadap percakapan antara Susilo Bambang Yudhoyono (SBY) dengan Ketua Umum MUI KH Ma’ruf Amin.</p> 
+<p>“Menurut saya ini harus diusut karena ini masalah serius,” kata Nasir saat dihubungi <strong>Kriminalitas.com</strong>, Rabu (1/2/2017).</p> 
+<p>Nasir pun heran mengapa tim kuasa hukum Ahok berani mengklaim jika pihaknya memiliki bukti percakapan telepon antara SBY dan Maruf pada 6 Oktober 2016 lalu di pukul 10.16 WIB.</p> 
+<p>“Kok bisa dia berani dalam persidangan di depan majelis hakim mengungkapkan itu,” kata Nasir.</p> 
+<p>Pasalnya, kata Nasir, apabila ucapan mereka soal bukti percakapan itu tak terbukti maka Ahok akan dikenakan unsur pidana baru lantaran melakukan kebohongan di pengadilan.</p> 
+<p>Sementara jika memang terbukti mereka mendapatkan bukti percakapan tersebut dari cara melakukan penyadapan, maka dianggap melakukan penyadapan tanpa izin.</p> 
+<p>“Sebuah blunder bagi mereka sendiri, jadi bisa double pidananya,” pungkasnya.</p> 
+<p>Diketahui, di persidangan kemarin tim hukum Ahok, Humprey Djemat menanyakan kepada Ma’ruf Amin apakah ia mendapat telepon dari SBY pada 6 Oktober 2016 pukul 10.16 WIB.</p> 
+<p>“Dimana SBY menyatakan bahwa ada dua hal. Pertama tolong terima Agus-Sylvi di kantor PBNU. Kedua, tolong buatkan fatwa mengenai penistaan agama terhadap saudara Ahok,” tegasnya.</p> Azairus and Elga Hikari Putra
+
+
+-*-10652140
+-*-http://kriminalitas.com/dugaan-ahok-sadap-sby-dpr-harus-diusut-ini-masalah-serius/
+
+--------------------
+
+
+-t-t- Susilo Bambang Yudhoyono -- 7.876299916408591
+-t-t- Ahok -- 6.229535375906192
+-t-t- Komisi III DPR RI -- 5.506752892438085
+-t-t- Majelis Ulama Indonesia -- 4.358725902916741
+-t-t- Presiden Republik Indonesia -- 4.1764567808659665
+-t-t- Anggota Komisi III -- 4.053754547051609
+-t-t- SBY -- 3.963571681860828
+-t-t- Nasir Djamil -- 3.234297571279871
+-t-t- Ketua Umum -- 2.3383894515453125
+-t-t- Maruf -- 2.1645173321013713
+-t-t- Amin -- 2.0351282509773614
+-t-t- Net -- 1.2940686639917032
+-t-t- Jakarta -- 1.2841585528317283
+-t-t- Bareskrim -- 1.2172547838287908
+-t-t- Polri -- 1.213144334135152
+-t-t- PBNU -- 0.8310933382721434
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- MUI -- 2.0
+-f-f- Azairus -- 1.0
+-f-f- MUI KH -- 1.0
+-f-f- KH Ma -- 1.0
+-f-f- Badan Reserse -- 1.0
+-f-f- Basuki T. Purnama -- 1.0
+-f-f- Elga Hikari Putra -- 1.0
+-f-f- Anggota Komisi III DPR RI -- 1.0
+-f-f- Humprey Djemat -- 1.0
+-f-f- Agus-Sylvi -- 1.0
+-f-f- T. Purnama -- 1.0
+-f-f- Badan Reserse Kriminal -- 1.0
+-f-f- Basuki T -- 1.0
+-f-f- Hikari Putra -- 1.0
+-f-f- Umum MUI KH Ma -- 1.0
+-f-f- MUI KH Ma -- 1.0
+-f-f- Umum MUI -- 1.0
+-f-f- Elga Hikari -- 1.0
+-f-f- Anggota Komisi III DPR -- 1.0
+-f-f- Umum MUI KH -- 1.0
+-f-f- Reserse Kriminal -- 1.0
+-f-f- Ketua Umum MUI -- 1.0
+-f-f- Ketua Umum MUI KH Ma -- 1.0
+-f-f- Ketua Umum MUI KH -- 1.0
+-f-f- Dimana SBY -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
+<p><strong>JAKARTA</strong> - Pakar hukum tata negara Refli Harun menduga ada keterlibatan hakim Mahkamah Konstitusi (MK) yang lain dalam skandal suap yang menjerat Patrialis Akbar terkait uji materi Undang-Undang Nomor 21 Tahun 2014 tentang Peternakan dan Kesehatan Hewan.</p> 
+<p>Menurut Refli, kasus suap yang terjadi di lembaga penegak konstitusi itu dilakukan secara sistemik. "Dugaan saya akan ada hakim lain yang akan terlibat dalam kasus Patrialis," ujarnya saat menghadiri diskusi publik yang bertajuk 'Membasuh Konstitusi yang Kumuh' di Cikini, Jakarta Pusat, Rabu (1/2/2017).&nbsp;</p> 
+<p>Refli menambahkan, kasus suap yang menyeret mantan Mentri Hukum dan HAM era Presiden Susilo Bambang Yudhoyono (SBY) itu terkait dengan uji materi Undang-Undang. Sehingga, ada kemungkinan kerja sama dengan hakim lain.&nbsp;</p> 
+<p>"Keputusan UU kan keputusan bersama dari sembilan hakim MK lainnya. KPK harus segera mendalami kasus itu untuk mengetahui tersangka lainnya," tegasnya.&nbsp;</p> 
+<p>Sekedar diketahui,&nbsp;KPK resmi menetapkan Patrialis Akbar sebagai tersangka suap terkait uji materi Undang-Undang Nomor 41 Tahun 2014 tentang perubahan atas Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan. Patrialis pun telah ditahan.</p> 
+<p>Patrialis diduga menerima suap sebesar USD20 ribu dan SGD200 ribu atau senilai Rp2,15 miliar dari pengusaha impor daging Basuki Hariman. Pemberian ke Patrialis tersebut sudah ketiga kalinya. Uang suap diberikan agar Patrialis membantu mengabulkan gugatannya.</p>
+
+
+-*-10652131
+-*-http://news.okezone.com/read/2017/02/01/337/1606578/refli-harun-ada-dugaan-keterlibatan-hakim-mk-yang-lain-di-kasus-patrialis
+
+--------------------
+
+
+-t-t- Undang-Undang Nomor -- 6.648708628048595
+-t-t- Patrialis Akbar -- 5.232275645888148
+-t-t- Presiden Susilo Bambang Yudhoyono -- 4.562490088438894
+-t-t- Kesehatan Hewan -- 4.206654632234178
+-t-t- Refli Harun -- 3.0511483640763593
+-t-t- MK -- 2.2614016843089324
+-t-t- Jakarta Pusat -- 2.198927476786228
+-t-t- Peternakan -- 2.114049437304076
+-t-t- KPK -- 1.9328289700240942
+-t-t- Pakar -- 1.31184260794904
+-t-t- Cikini -- 1.102449381471652
+-t-t- HAM -- 1.0610185362667965
+-t-t- SBY -- 1.0456650127525364
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Nomor 21 Tahun -- 1.0
+-f-f- Basuki Hariman -- 1.0
+-f-f- Nomor 41 Tahun -- 1.0
+-f-f- Membasuh Konstitusi -- 1.0
+-f-f- Undang-Undang Nomor 41 Tahun 2014 -- 1.0
+-f-f- Keputusan UU -- 1.0
+-f-f- Nomor 18 -- 1.0
+-f-f- Menurut Refli -- 1.0
+-f-f- Undang-Undang Nomor 18 Tahun -- 1.0
+-f-f- Undang-Undang Nomor 21 Tahun 2014 -- 1.0
+-f-f- Undang-Undang Nomor 18 -- 1.0
+-f-f- Nomor 18 Tahun -- 1.0
+-f-f- Kumuh -- 1.0
+-f-f- Undang-Undang Nomor 18 Tahun 2009 -- 1.0
+-f-f- Nomor 18 Tahun 2009 -- 1.0
+-f-f- SGD200 -- 1.0
+-f-f- Undang-Undang Nomor 41 Tahun -- 1.0
+-f-f- Mahkamah Konstitusi -- 1.0
+-f-f- Undang-Undang Nomor 21 Tahun -- 1.0
+-f-f- Nomor 41 -- 1.0
+-f-f- Nomor 21 -- 1.0
+-f-f- Undang-Undang Nomor 21 -- 1.0
+-f-f- Nomor 41 Tahun 2014 -- 1.0
+-f-f- Undang-Undang Nomor 41 -- 1.0
+-f-f- Nomor 21 Tahun 2014 -- 1.0
+-f-f- Mentri Hukum -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/83ec6c010b7f4ab996cb67780fd2bcdd.jpeg" alt="Surat Suara Pilgub Aceh Telah Didistribusikan ke 23 Kabupaten/Kota" data:w="650" data:h="431">  Pekerja melipat surat suara Pemilihan cabup/cawabup Aceh Utara di kantor KIP Aceh Utara, Aceh -- ANT/Rahmad    
+<p><strong>Metrotvnews.com, Banda Aceh:</strong> Dua pekan menjelang pemungutan suara, Komisi Independen Pemilih (KIP) Aceh telah mendistribusikan surat suara gubernur dan wakil gubernur ke 23 kabupaten/kota di Aceh. Saat ini, surat suara dalam proses penyortiran dan pelipatan di kabupaten/kota.</p> 
+<p>"Begitu juga dengan alat kelengkapan pemilu, akan dikirim ke TPS seluruh Aceh," ujar Wakil Ketua KIP Aceh Basri M. Sabi pada Metrotvnews.com, Rabu (1/2/2017).</p> Menurut Basri, hingga kini belum ada laporan jumlah surat suara yang rusak. Namun, pihaknya meminta agar KIP kabupaten/kota segera melaporkan jika ada kertas suara yang kurang atau rusak. Sehingga, dapat dicetak surat suara pengganti. 
+<p>Basri memastikan, seluruh kebutuhan Pilkada Aceh akan terpenuhi dan tiba di TPS sesuai waktu yang ditetapkan.</p> 
+<p>KIP Aceh telah mencetak 3,5 juta lembar surat suara pemilihan gubernur dan wakil gubernur Aceh. Jumlah tersebut sesuai dengan total DPT Aceh, yaitu 3.431.582 ditambah 2,5 persen surat suara cadangan. Proses pencetakan dilakukan di luar Aceh dan segera didistribusikan ke 23 kabupaten/kota.</p> 
+<p>Enam pasangan calon yang maju dalam pilkada Aceh adalah Tarmizi Karim-T. Machsalmina Ali, Zakaria Saman-T. Alaidinsyah, Abdullah Puteh-Said Mustafa Usab, Zaini Abdullah-Nasaruddin, Muzakir Manaf-T.A. Khalid, dan Irwandi Yusuf-Nova Iriansyah.</p> 
+<p>(NIN)</p>
+
+
+-*-10649874
+-*-http://pilkada.metrotvnews.com/news-pilkada/xkEveorK-surat-suara-pilgub-aceh-telah-didistribusikan-ke-23-kabupaten-kota
+
+--------------------
+
+
+-t-t- KIP Aceh -- 9.356809487538097
+-t-t- Aceh Utara -- 7.076825682865591
+-t-t- Banda Aceh -- 4.441840732443717
+-t-t- Pilkada Aceh -- 3.901723230178969
+-t-t- Basri -- 3.203399943995297
+-t-t- TPS -- 2.1074269223420976
+-t-t- ANT -- 1.2755891787100961
+-t-t- Rahmad -- 1.2738309582047675
+-t-t- NIN -- 0.801656885842589
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Wakil Ketua KIP Aceh Basri M. Sabi -- 1.0
+-f-f- KIP Aceh Basri M. Sabi -- 1.0
+-f-f- Aceh Basri M. Sabi -- 1.0
+-f-f- KIP Aceh Basri -- 1.0
+-f-f- Ketua KIP Aceh Basri M. Sabi -- 1.0
+-f-f- KIP Aceh Utara -- 1.0
+-f-f- Ketua KIP Aceh Basri -- 1.0
+-f-f- Yusuf-Nova Iriansyah -- 1.0
+-f-f- Banda Aceh: Dua -- 1.0
+-f-f- Basri M. Sabi -- 1.0
+-f-f- Ketua KIP -- 1.0
+-f-f- Puteh-Said Mustafa -- 1.0
+-f-f- Komisi Independen Pemilih -- 1.0
+-f-f- Aceh: Dua -- 1.0
+-f-f- Irwandi Yusuf-Nova -- 1.0
+-f-f- Tarmizi Karim-T -- 1.0
+-f-f- Abdullah Puteh-Said Mustafa Usab -- 1.0
+-f-f- Abdullah Puteh-Said -- 1.0
+-f-f- Abdullah Puteh-Said Mustafa -- 1.0
+-f-f- Alaidinsyah -- 1.0
+-f-f- Manaf-T.A. Khalid -- 1.0
+-f-f- Pemilihan -- 1.0
+-f-f- Ketua KIP Aceh Basri M -- 1.0
+-f-f- Puteh-Said Mustafa Usab -- 1.0
+-f-f- Ketua KIP Aceh -- 1.0
+-f-f- Aceh Basri M -- 1.0
+-f-f- Independen Pemilih -- 1.0
+-f-f- Mustafa Usab -- 1.0
+-f-f- Zaini Abdullah-Nasaruddin -- 1.0
+-f-f- Muzakir Manaf-T.A. Khalid -- 1.0
+-f-f- Zakaria Saman-T -- 1.0
+-f-f- Wakil Ketua -- 1.0
+-f-f- DPT Aceh -- 1.0
+-f-f- Menurut Basri -- 1.0
+-f-f- Irwandi Yusuf-Nova Iriansyah -- 1.0
+-f-f- Muzakir Manaf-T.A -- 1.0
+-f-f- Aceh Basri -- 1.0
+-f-f- M. Sabi -- 1.0
+-f-f- Machsalmina Ali -- 1.0
+-f-f- KIP Aceh Basri M -- 1.0
+-f-f- Wakil Ketua KIP Aceh -- 1.0
+-f-f- Wakil Ketua KIP Aceh Basri -- 1.0
+-f-f- Basri M -- 1.0
+-f-f- Wakil Ketua KIP -- 1.0
+-f-f- Wakil Ketua KIP Aceh Basri M -- 1.0
+-f-f- Komisi Independen -- 1.0
+-f-f- Banda Aceh : Dua -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/cb1090c4fcccab715b8d240092d5e94b.jpeg" width="510" height="294" alt="Tudingan ke Kiai Ma'ruf Tegaskan Rendahnya Moral Ahok - JPNN.COM" title="Tudingan ke Kiai Ma'ruf Tegaskan Rendahnya Moral Ahok - JPNN.COM" data:w="510" data:h="294"> 
+<p>Anggota DPR Fraksi Demokrat Khatibul Umam Wiranu saat membahas temuan terkait persiapan haji di Pressroom DPR, Kompleks Parlemen, Senayan, Jakarta, Rabu (25/3). Foto: Ricardo/JPNN.com Ilustrasi by: Ricardo/JPNN.com</p>  
+<p><span>jpnn.com -</span>&nbsp;Calon Gubernur DKI Jakarta Basuki T Purnama mendapat kecaman dari segala penjuru karena tudingannya terhadap Rois Aam PB NU KH Ma'ruf Amin. Bagaimana tidak, pria yang akrab disapa Ahok itu menuduh Kiai Ma'ruf memberikan keterangan palsu di pengadilan. </p> 
+<p>Ketua Lajnah Ta'lif wan Nasyr Khotibul Umam Wiranu menyebut tudingan tersebut sangat tidak patut dan merupakan tindakan yang melampaui batas-batas kewajaran. </p> 
+<p>"Tudingan Ahok dan pengacaranya terhadap Kiai Ma'ruf merupakan delegitimasi ulama dan kiai," ujar Umam seperti dilansir Kantor Berita Politik RMOL, Rabu (1/2) </p> 
+<p>Umam menekankan tudingan Ahok terhadap Kiai Ma'ruf yang merupakan ketua MUI sekaligus Rois 'Aam PBNU semakin menegaskan rendahnya moralitas Ahok. </p> 
+<p>Ahok, lanjutnya, jelas-jelas menunjukkan tidak paham sejarah Indonesia. Karena itu dia dapat dengan mudah melakukan pengingkaran terhadap hakikat Indonesia yang tidak bisa dipisahkan dari peran ulama. </p> 
+<p>Jika benar Ahok dan tim pengacaranya jadi mempolisikan Ma'ruf, Umam menyatakan dirinya bersama jutaan santri akan membela cicit dari Syeikh Nawawi Al-Bantany tersebut tanpa syarat. </p> 
+<p>"Kita semua harus bersikap keras, tegas, dan tegakkkan kepala menghadapi orang-orang yang punya kekuasaan yang bersikap arogan," demikian disampaikan anggota DPR RI dari Partai Demokrat itu. <strong>(dem/rmol) &nbsp;</strong> </p>  
+<span>Sumber : RMOL.co</span>
+
+
+-*-10649868
+-*-http://www.jpnn.com/news/tudingan-ke-kiai-maruf-tegaskan-rendahnya-moral-ahok
+
+--------------------
+
+
+-t-t- Kiai Ma'ruf -- 7.093609198704506
+-t-t- Ahok -- 6.091168444189801
+-t-t- Calon Gubernur DKI Jakarta -- 5.43850602817701
+-t-t- Khatibul Umam Wiranu -- 4.677338815841683
+-t-t- Aam PB -- 4.342762851038385
+-t-t- Anggota DPR -- 2.6362796732696627
+-t-t- Fraksi Demokrat -- 2.6262558082845255
+-t-t- Ricardo -- 2.4879132501088606
+-t-t- Rois -- 2.1751455102513995
+-t-t- Indonesia -- 1.8804727646776656
+-t-t- DPR RI -- 1.6328404238111318
+-t-t- Partai Demokrat -- 1.6266319125835438
+-t-t- Senayan -- 1.2648476583947994
+-t-t- MUI -- 0.9959124446230154
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- DPR Fraksi Demokrat Khatibul -- 1.0
+-f-f- Khotibul Umam -- 1.0
+-f-f- Rois Aam PB NU KH Ma'ruf Amin -- 1.0
+-f-f- Ketua Lajnah Ta'lif -- 1.0
+-f-f- Jakarta Basuki -- 1.0
+-f-f- Tudingan Ahok -- 1.0
+-f-f- Fraksi Demokrat Khatibul Umam Wiranu -- 1.0
+-f-f- Rois Aam PB NU -- 1.0
+-f-f- Demokrat Khatibul Umam Wiranu -- 1.0
+-f-f- KH Ma'ruf Amin -- 1.0
+-f-f- Aam PBNU -- 1.0
+-f-f- NU KH -- 1.0
+-f-f- Anggota DPR Fraksi Demokrat Khatibul -- 1.0
+-f-f- Fraksi Demokrat Khatibul -- 1.0
+-f-f- KH Ma'ruf -- 1.0
+-f-f- PB NU -- 1.0
+-f-f- Gubernur DKI Jakarta Basuki T -- 1.0
+-f-f- Rois Aam PB -- 1.0
+-f-f- Anggota DPR Fraksi Demokrat Khatibul Umam -- 1.0
+-f-f- Pressroom DPR -- 1.0
+-f-f- Kantor Berita -- 1.0
+-f-f- Calon Gubernur DKI Jakarta Basuki T -- 1.0
+-f-f- NU KH Ma'ruf Amin -- 1.0
+-f-f- Calon Gubernur DKI Jakarta Basuki -- 1.0
+-f-f- Gubernur DKI Jakarta Basuki T Purnama -- 1.0
+-f-f- Demokrat Khatibul Umam -- 1.0
+-f-f- Berita Politik -- 1.0
+-f-f- Gubernur DKI Jakarta Basuki -- 1.0
+-f-f- Basuki T Purnama -- 1.0
+-f-f- Berita Politik RMOL -- 1.0
+-f-f- Jakarta Basuki T -- 1.0
+-f-f- Rois Aam -- 1.0
+-f-f- Foto: Ricardo -- 1.0
+-f-f- Aam PB NU KH Ma'ruf -- 1.0
+-f-f- DKI Jakarta Basuki T Purnama -- 1.0
+-f-f- Aam PB NU KH Ma'ruf Amin -- 1.0
+-f-f- Aam PB NU KH -- 1.0
+-f-f- Nasyr Khotibul -- 1.0
+-f-f- PB NU KH -- 1.0
+-f-f- Rois Aam PB NU KH -- 1.0
+-f-f- Anggota DPR Fraksi Demokrat -- 1.0
+-f-f- Syeikh Nawawi -- 1.0
+-f-f- Nasyr Khotibul Umam -- 1.0
+-f-f- Demokrat Khatibul -- 1.0
+-f-f- PB NU KH Ma'ruf -- 1.0
+-f-f- Jakarta Basuki T Purnama -- 1.0
+-f-f- T Purnama -- 1.0
+-f-f- Calon Gubernur DKI Jakarta Basuki T Purnama -- 1.0
+-f-f- NU KH Ma'ruf -- 1.0
+-f-f- Kompleks Parlemen -- 1.0
+-f-f- Anggota DPR Fraksi Demokrat Khatibul Umam Wiranu -- 1.0
+-f-f- Anggota DPR Fraksi -- 1.0
+-f-f- Khotibul Umam Wiranu -- 1.0
+-f-f- DPR Fraksi Demokrat Khatibul Umam -- 1.0
+-f-f- Ma'ruf Amin -- 1.0
+-f-f- Kantor Berita Politik -- 1.0
+-f-f- Nawawi Al-Bantany -- 1.0
+-f-f- Fraksi Demokrat Khatibul Umam -- 1.0
+-f-f- DPR Fraksi Demokrat -- 1.0
+-f-f- PB NU KH Ma'ruf Amin -- 1.0
+-f-f- DPR Fraksi -- 1.0
+-f-f- Basuki T -- 1.0
+-f-f- Ketua Lajnah -- 1.0
+-f-f- Lajnah Ta'lif -- 1.0
+-f-f- Politik RMOL -- 1.0
+-f-f- Aam PB NU -- 1.0
+-f-f- DKI Jakarta Basuki -- 1.0
+-f-f- Kantor Berita Politik RMOL -- 1.0
+-f-f- DPR Fraksi Demokrat Khatibul Umam Wiranu -- 1.0
+-f-f- Rois Aam PB NU KH Ma'ruf -- 1.0
+-f-f- Nasyr Khotibul Umam Wiranu -- 1.0
+-f-f- Syeikh Nawawi Al-Bantany -- 1.0
+-f-f- DKI Jakarta Basuki T -- 1.0
+-f-f- Foto : Ricardo -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+

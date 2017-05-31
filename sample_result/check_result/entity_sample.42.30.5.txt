@@ -1,0 +1,1511 @@
+-*-<img src="[BASEURL]/8121daf93fa17924c84ef48e0d08ffb6.jpeg" data:w="700" data:h="400">  
+<p>JAKARTA (Pos Kota) – Meskipun sempat diguyur hujan, massa ormas islam yang tergabung dalam Gerakan Nasional Pengawal Fatwa Majelis Ulama Indonesia (GNPF-MUI) tetap bertahan di depan gerbang utama Mapolda Metro Jaya untuk mengawal pemeriksaan Ustadz Bahtiar Nasir.</p> 
+<p>Siang ini massa masih bertahan di sepanjang Jalan Raya Jenderal Sudirman, meskipun diguyur hujan deras. Sebagian dari mereka terlihat berteduh di bawah tangga penyeberangan Bus Transjakarta dan ada pula yang masih bertahan dijalanan dengan menggunakan jas hujan.</p> 
+<p>Bahkan, massa sempat menjalankan ibadah shalat Dzuhur berjamaah dengan menggunakan tikar sebagai alas, meskipun dalam kondisi hujan-hujanan. Kepolisian yang mengawal aksi juga tetap bertahan di depan gerbang utama Polda Metro Jaya dengan menggunakan jas hujan.</p> 
+<p>Meskipun begitu, aktivitas lalu lintas di sepanjang Jalan Raya Jenderal Sudirman tetap berjalan normal, tidak ada pengalihan ataupun penutupan ruas jalan. Busway koridor 1 rute Stasiun Kota-Blok M juga tetap melayani penumpang yang akan naik di Halte Polda Metro Jaya.</p> 
+<p>Sesuai dengan arahan Kepolisian, massa berjanji akan melakukan aksi secara tertib, aman dan damai, serta akan membubarkan diri sesuai aturan yang berlaku pada pukul 18.00 WIB. (Yendhi/win)</p>
+
+
+-*-10663618
+-*-http://poskotanews.com/2017/02/01/diguyur-hujan-massa-gnpf-mui-salat-jamaah-di-jalan/
+
+--------------------
+
+
+-t-t- Jalan Raya Jenderal Sudirman -- 9.081538028071797
+-t-t- Mapolda Metro Jaya -- 4.015839561394419
+-t-t- Majelis Ulama Indonesia -- 3.9750835231058814
+-t-t- Bus Transjakarta -- 2.214230225305602
+-t-t- Kepolisian -- 1.8641756942839358
+-t-t- Busway -- 0.9035675374057445
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Polda Metro Jaya -- 2.0
+-f-f- Polda Metro -- 2.0
+-f-f- Pengawal Fatwa -- 1.0
+-f-f- Pos Kota -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa Majelis Ulama -- 1.0
+-f-f- Fatwa Majelis Ulama Indonesia -- 1.0
+-f-f- Stasiun Kota-Blok M -- 1.0
+-f-f- Nasional Pengawal -- 1.0
+-f-f- Kota-Blok M -- 1.0
+-f-f- Gerakan Nasional -- 1.0
+-f-f- Halte Polda Metro -- 1.0
+-f-f- Fatwa Majelis Ulama -- 1.0
+-f-f- Nasional Pengawal Fatwa Majelis -- 1.0
+-f-f- Pengawal Fatwa Majelis Ulama Indonesia -- 1.0
+-f-f- Nasional Pengawal Fatwa Majelis Ulama -- 1.0
+-f-f- Yendhi -- 1.0
+-f-f- Stasiun Kota-Blok -- 1.0
+-f-f- Nasional Pengawal Fatwa -- 1.0
+-f-f- Nasional Pengawal Fatwa Majelis Ulama Indonesia -- 1.0
+-f-f- Pengawal Fatwa Majelis Ulama -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa Majelis -- 1.0
+-f-f- Dzuhur -- 1.0
+-f-f- Ustadz Bahtiar -- 1.0
+-f-f- Bahtiar Nasir -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa Majelis Ulama Indonesia -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Fatwa Majelis -- 1.0
+-f-f- Gerakan Nasional Pengawal Fatwa -- 1.0
+-f-f- Halte Polda Metro Jaya -- 1.0
+-f-f- Pengawal Fatwa Majelis -- 1.0
+-f-f- Halte Polda -- 1.0
+-f-f- Gerakan Nasional Pengawal -- 1.0
+-f-f- GNPF-MUI -- 1.0
+-f-f- Ustadz Bahtiar Nasir -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b8b011bf072fd5208a2b61417ab3c49d.jpeg" data:w="700" data:h="400">  
+<p>JAKARTA (Pos Kota) – Polres Jakarta Utara menggelar rekontruksi kasus penganiayaan hingga menewaskan, Amirulloh Adityas Putra, alias Amir, 19, taruna tingkat I, di Sekolah Tinggi Ilmu Pelayaran (STIP), Marunda, Cilincing, Jakarta Utara, Rabu (1/2/2017).</p> 
+<p>Rencananya olah TKP penganiayaan dilakukan 5 tersangka taruna tingkat II, sebanyak 69 adegan. Adegan dimulai di Gedung dormitory ring 4, kamar M,205 lantai 2, STIP.</p> 
+<p>“Rencananya ada 69 adegan rekontruksi yang diperagakan para tersangka. Rekontruksi ini dilakukan untuk menyamakan keterangan para tersangka saat di BAP,” kata Wakasat Reskrim Kompol Pujiarto.</p> 
+<p>Saat dilakukan rekontruksi, kelima tersangka yang mengenakan baju tahanan mendapat pengawalan ketat dari Polres Jakarta Utara dan pihak STIP. Hingga kini rekontruksi masih berlangsung.<br><strong>(ilham/sir)</strong></p>
+
+
+-*-10663617
+-*-http://poskotanews.com/2017/02/01/dikawal-ketat-rekonstruksi-pembunuhan-taruna-stip/
+
+--------------------
+
+
+-t-t- Polres Jakarta Utara -- 6.894563033023762
+-t-t- STIP -- 3.023456123260018
+-t-t- Amir -- 2.4533335277930832
+-t-t- Rencananya -- 2.1419944296190265
+-t-t- Marunda -- 1.1652313280556195
+-t-t- Cilincing -- 1.1588774620172926
+-t-t- TKP -- 1.1153600039847453
+-t-t- BAP -- 0.9289593188484657
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Amirulloh Adityas Putra -- 1.0
+-f-f- Tinggi Ilmu -- 1.0
+-f-f- Pos Kota -- 1.0
+-f-f- Wakasat Reskrim Kompol Pujiarto -- 1.0
+-f-f- Ilmu Pelayaran -- 1.0
+-f-f- Sekolah Tinggi Ilmu -- 1.0
+-f-f- Reskrim Kompol Pujiarto -- 1.0
+-f-f- Wakasat Reskrim -- 1.0
+-f-f- Sekolah Tinggi Ilmu Pelayaran -- 1.0
+-f-f- Reskrim Kompol -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Amirulloh Adityas -- 1.0
+-f-f- Wakasat Reskrim Kompol -- 1.0
+-f-f- Gedung -- 1.0
+-f-f- Tinggi Ilmu Pelayaran -- 1.0
+-f-f- Sekolah Tinggi -- 1.0
+-f-f- Adityas Putra -- 1.0
+-f-f- Kompol Pujiarto -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<a href="http://kriminalitas.com/wp-content/uploads/2017/02/IMG-20170201-WA0003.jpg" rel="nofollow"><img src="[BASEURL]/768b16473bea0f3cd974c9460a0fe227.jpeg" width="640" height="360" data:w="640" data:h="360"></a>Pelajar SMK yang kedapatan nyambi jadi pengedar narkoba. (Ifa/Kriminalitas.com). 
+<p><strong>KRIMINALITAS.COM, Maros</strong> – Seorang pelajar SMK Makassar, AH alias Imam (16) diringkus tim Polsek Moncongloe lantaran kedapatan nyambi sebagai pengedar narkoba di Dusun Pamanjengan, Moncongloe Kabupaten Maros, Rabu (1/2/3017) dini hari.</p> 
+<p>Penggerebekan digelar di sebuah rumah gubuk berukuran 3×4 Meter milik Balang, rekan Imam. “Diduga gubuk itu digunakan sebagai tempat transaksi penjualan narkoba dan tempat pesta sabu,” ujar Kabid Humas Polda Sulsel, Kombes Dicky Sondani.</p> 
+<p>Dia menjelaskan, sekitar pukul 00.05 WITA, personel Polsek Moncongloe melakukan penggerebekan dan mendapati tiga orang di atas gubuk sedang menunggu rekan lainnya untuk melakukan transaksi.</p> 
+<p>Saat melakukan penggeledahan pada jaket Imam, salah satu pelaku lainnya, yakni Balang, melompat melalui jendela dan kabur ke arah kebun.</p> 
+<p>“Sempat dikejar tapi aparat kehilangan jejak Balang, terpaksa kami membawa tersangka Imam dan satu lagi masih berstatus saksi atas nama Culla (43),” ucapnya.</p> 
+<p>Dari penggerebekan di lokasi, polisi mengamankan barang bukti berupa 13 sachet sabu dalam bentuk serbuk kristal yang ditemukan dari jaket Imam, 65 sachet kosong, sebuah timbangan digital, ponsel milik Balang, korek api, pipet, pirex serta parang dan badik milik Balang.</p> 
+<p>“Kami tetap kenakan pasal tentang penyalahgunaan narkoba, tapi mungkin berbeda sedikit dari tersangka lainnya karena dia ada di bawah Undang-Undang Perlindungan Anak,” tutur Dicky.</p> Dinda Chairina and Ifa
+
+
+-*-10663194
+-*-http://kriminalitas.com/nyambi-jadi-pengedar-sabu-pelajar-smk-gagal-selesaikan-pendidikan/
+
+--------------------
+
+
+-t-t- Imam -- 5.283036470107568
+-t-t- Balang -- 4.871228209225081
+-t-t- Polsek Moncongloe -- 4.654451619737022
+-t-t- Kabupaten Maros -- 2.723317360051605
+-t-t- Undang-Undang Perlindungan Anak -- 2.5921005074868777
+-t-t- Polda Sulsel -- 2.2252599919711877
+-t-t- Ifa -- 2.0951511401280953
+-t-t- Dicky -- 1.913162290960382
+-t-t- Meter -- 1.1658842655302384
+-t-t- Diduga -- 1.1534593294180695
+-t-t- WITA -- 1.0851590635047936
+-t-t- Culla -- 0.9425347292264947
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kombes Dicky -- 1.0
+-f-f- Kabid Humas Polda Sulsel -- 1.0
+-f-f- Dicky Sondani -- 1.0
+-f-f- Humas Polda Sulsel -- 1.0
+-f-f- Kabid Humas Polda -- 1.0
+-f-f- Kombes Dicky Sondani -- 1.0
+-f-f- Kabid Humas -- 1.0
+-f-f- Moncongloe Kabupaten Maros -- 1.0
+-f-f- SMK Makassar -- 1.0
+-f-f- AH -- 1.0
+-f-f- Humas Polda -- 1.0
+-f-f- Dusun Pamanjengan -- 1.0
+-f-f- Pelajar SMK -- 1.0
+-f-f- Moncongloe Kabupaten -- 1.0
+-f-f- Dinda Chairina -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<a href="http://kriminalitas.com/wp-content/uploads/2015/04/gantung_diri.jpg" rel="nofollow"><img src="[BASEURL]/21d1598232eaa3532e7757d52db22375.jpeg" alt="" width="620" height="320" data:w="620" data:h="320"></a>Ilustrasi (Kriminalitas.com) 
+<p><strong>KRIMINALITAS.COM, Kediri –</strong> Diduga depresi karena menderita bisul yang tidak kunjung sembuh, ST (72) warga Kecamatan Trowulan, Kabupaten Mojokerto, ditemukan tewas gantung diri di dalam kamar di Desa Besuk Kecamatan Gurah Kabupaten Kediri, Rabu (1/2/2017).</p> 
+<p>Informasi yang dihimpun menyebutkan, kasus bunuh diri ini terungkap ketika saksi Sri Utami Rahayu, anak perempuan korban baru saja bangun tidur, sekira&nbsp;pukul 08.00 pagi.</p> 
+<p>Saat itu, saksi berjalan ke belakang kamar ibunya, tempat di mana ia mlihat ibunya sudah dalam kondisi yang sudah tergantung di sehelai kain stagen atau centing. Kain stagen tersebut, sengaja diikatkan korban di blandar kamarnya.</p> 
+<p>Mengetahui kondisi ibunya meningal dengan cara seperti itu. Saksi berlari keluar rumah untuk memberitahukan peristiwa yang baru saja dilihatnya.</p> 
+<p>Oleh perangkat desa, peritiwa itu diteruskan dilaporkan ke Polsek Gurah. Polisi bersama tim&nbsp;identifikasi bergegas bergerak&nbsp;ke lokasi kejadian.</p> 
+<p>“Dari hasil pemeriksaan tim&nbsp;medis, tidak ditemukan adanya tanda tanda kekerasan dalam tubuh korban. Disimpulkan jika bersangkutan murni meninggal dunia karena gantung diri,” jelas Kabag Humas Polres Kediri, AKP Bowo Wicaksono, Rabu (1/2/2017).</p> 
+<p>Diperkirakan korban meninggal kurang lebih dua jam, sebelum jenazahnya ditemukan. Barang bukti yang diamankan petugas berupa satu helai stagen warna hijau dengan panjang dua meter yang digunakan untuk mengakhiri hidup.</p> Andreas Pratama and Yanna
+
+
+-*-10663193
+-*-http://kriminalitas.com/akibat-bisulnya-tak-kunjung-sembuh-seorang-nenek-nekat-akhiri-hidupnya/
+
+--------------------
+
+
+-t-t- Kabupaten Kediri -- 2.847494198494844
+-t-t- AKP Bowo Wicaksono -- 2.789532557740469
+-t-t- Kabupaten Mojokerto -- 2.5024836105951604
+-t-t- Sri Utami -- 2.328181703615964
+-t-t- Polres Kediri -- 2.1943505354766333
+-t-t- Polsek Gurah -- 1.9453400717499578
+-t-t- Diduga -- 1.293536952648842
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kecamatan Gurah Kabupaten Kediri -- 1.0
+-f-f- Kabag Humas -- 1.0
+-f-f- Desa Besuk -- 1.0
+-f-f- Kabag Humas Polres -- 1.0
+-f-f- Utami Rahayu -- 1.0
+-f-f- Humas Polres -- 1.0
+-f-f- Kecamatan Gurah -- 1.0
+-f-f- Besuk Kecamatan -- 1.0
+-f-f- Humas Polres Kediri -- 1.0
+-f-f- Besuk Kecamatan Gurah Kabupaten -- 1.0
+-f-f- Kecamatan Gurah Kabupaten -- 1.0
+-f-f- ST -- 1.0
+-f-f- Besuk Kecamatan Gurah Kabupaten Kediri -- 1.0
+-f-f- Besuk Kecamatan Gurah -- 1.0
+-f-f- Kecamatan Trowulan -- 1.0
+-f-f- Desa Besuk Kecamatan Gurah Kabupaten -- 1.0
+-f-f- Yanna -- 1.0
+-f-f- Desa Besuk Kecamatan -- 1.0
+-f-f- Kabag Humas Polres Kediri -- 1.0
+-f-f- Sri Utami Rahayu -- 1.0
+-f-f- Gurah Kabupaten -- 1.0
+-f-f- Gurah Kabupaten Kediri -- 1.0
+-f-f- Desa Besuk Kecamatan Gurah -- 1.0
+-f-f- Desa Besuk Kecamatan Gurah Kabupaten Kediri -- 1.0
+-f-f- Andreas Pratama -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<a href="http://kriminalitas.com/wp-content/uploads/2017/02/Pembunuh-sujarno.jpg" rel="nofollow"><img src="[BASEURL]/80bf08b02c7a6711a4441cd81d76711d.jpeg" alt="" width="640" height="483" data:w="640" data:h="483"></a>Pelaku pembunuhan terhadap Sujarno saat diamankan bersama barang bukti 
+<br>(Yanna/Kriminalitas.com) 
+<p><strong>KRIMINALITAS.COM, Kediri –</strong> Sungguh nahas nasib dari Sujarno (55). Dirinya harus tewas secara mengenaskan dengan luka parah di bagian kepala akibat dipukul dengan sebuah potongan besi.</p> 
+<p>Tewasnya Sujarno sendiri berawal ketika&nbsp;dirinya&nbsp;pada Rabu (1/2/2017) dini hari, mengendap-endap mencoba untuk masuk ke rumah Neneng (22), tetangga dekatnya. Neneng sendiri merupakan seorang ibu rumah tangga yang sering ditinggal suaminya keluar kota.</p> 
+<p>Rupanya aksi korban diketahui keluarga Neneng. Alhasil, Sujarno pun langsung mendapatkan pukulan di bagian kepala dengan menggunakan benda tumpul.</p> 
+<p>Korban sempat melarikan diri ke rumahnya dan bersembunyi di dalam kamarnya. Tewasnya korban baru diketahui istrinya Sunarsih (50) ketika ia menengok ke dalam kamar, setelah mendengar ada beberapa orang berteriak di luar rumahnya menyuruh korban keluar.</p> 
+<p>Kabag Ops Reskrim Polres Kediri Iptu Panggayoh, saat dikonfirmasi, Rabu (1/2/2017) menyatakan, pihaknya telah mengamankan tiga pelaku yang statusnya masih saudara Neneng.</p> 
+<p>“Dari hasil pemeriksaan diketahui, ternyata korban pernah melecehkan Neneng. Sehingga pemukukan dilakukan untuk mencegah korban bertindak tidak senonoh pada saudara perempuan mereka,” jelasnya.</p> 
+<p>Dari tempat kejadian perkara, polisi menyita alat bukti berupa sebatang kayu dan skop. Barang ini diduga yang dipakai para pelaku memukuli korban.</p> 
+<p>“Motif pemukulan didasari sakit hati Neneng dan keluarganya akibat tindakan korban yang tidak terpuji sebelumnya ,” tambah Panggayoh.</p> 
+<p>Karena kasus ini melibatkan pelaku yang masih dibawah umur, maka penanganan lebih lanjut diserahkan ke unit PPA Polres Kediri.</p> Andreas Pratama and Yanna
+
+
+-*-10660483
+-*-http://kriminalitas.com/ketahuan-mau-cabuli-istri-orang-sujarno-tewas-usai-kepalanya-dihantam-besi/
+
+--------------------
+
+
+-t-t- Neneng -- 6.2197712162914955
+-t-t- Sujarno -- 4.900014106906865
+-t-t- Polres Kediri -- 4.010652342543181
+-t-t- Yanna -- 2.0934808219654912
+-t-t- Panggayoh -- 1.8367712786317907
+-t-t- Motif -- 0.8687435638131511
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Reskrim Polres Kediri Iptu Panggayoh -- 1.0
+-f-f- Reskrim Polres Kediri -- 1.0
+-f-f- Kabag Ops -- 1.0
+-f-f- Ops Reskrim -- 1.0
+-f-f- PPA Polres -- 1.0
+-f-f- Polres Kediri Iptu Panggayoh -- 1.0
+-f-f- Polres Kediri Iptu -- 1.0
+-f-f- Kabag Ops Reskrim Polres Kediri Iptu -- 1.0
+-f-f- Iptu Panggayoh -- 1.0
+-f-f- Sungguh -- 1.0
+-f-f- Reskrim Polres Kediri Iptu -- 1.0
+-f-f- Kediri Iptu -- 1.0
+-f-f- Kabag Ops Reskrim -- 1.0
+-f-f- Kabag Ops Reskrim Polres -- 1.0
+-f-f- Ops Reskrim Polres Kediri Iptu Panggayoh -- 1.0
+-f-f- Ops Reskrim Polres Kediri -- 1.0
+-f-f- Kabag Ops Reskrim Polres Kediri -- 1.0
+-f-f- Kabag Ops Reskrim Polres Kediri Iptu Panggayoh -- 1.0
+-f-f- Reskrim Polres -- 1.0
+-f-f- Sunarsih -- 1.0
+-f-f- PPA Polres Kediri -- 1.0
+-f-f- Tewasnya Sujarno -- 1.0
+-f-f- Kediri Iptu Panggayoh -- 1.0
+-f-f- Andreas Pratama -- 1.0
+-f-f- Ops Reskrim Polres -- 1.0
+-f-f- Ops Reskrim Polres Kediri Iptu -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
+<p><strong>BANDAR LAMPUNG</strong> - Sungguh tega Nukman Prayoga alias Yoga (21). Lebih dari tujuh bulan berturut-turut, buruh serabutan ini memerkosa anak tirinya yang baru berumur delapan tahun.</p> 
+<p>Atas perbuatannya itu, Yoga kini menjadi penghuni sel tahanan Polsek Natar. Yoga ditangkap pada Kamis 27 Januari lalu sekitar pukul 14.30 WIB.</p> 
+<p>Kapolsek Natar, Kompol Eko Nugroho mengatakan, Yoga adalah tersangka pemerkosaan terhadap BE (8) yang merupakan putri tirinya.</p> 
+<p>"Perkosaan itu sudah dilakukan sejak Juni 2016 sampai Januari 2017. Tersangka melakukan perkosaan itu di rumahnya," katanya, Rabu (1/2/2017).</p> 
+<p>Eko menjelaskan, perkosaan itu berawal saat korban yang baru pulang sekolah dipanggil ke dalam kamar. Kondisi rumah saat itu memang sedang sepi.</p> 
+<p>"Ibu kandung, kakek dan nenek korban sedang bekerja. Sedangkan tersangka hanya buruh serabutan. Sehingga lebih banyak tinggal di rumah," katanya.</p> 
+<p>Warga Dusun Srimulyo, Natar itu lalu menyuruh korban membuka baju dengan alasan salin pakaian sekolah. Namun, tersangka justru memerkosa begitu korban berganti baju.</p> 
+<p>"Korban diberi uang sebesar Rp10 ribu supaya tidak menceritakan perbuatannya itu kepada orang lain," katanya.</p> 
+<p>Merasa berkuasa dan korban tidak mengadu, tersangka justru mengulangi pemerkosaan tersebut berkali-kali. Sampai akhirnya korban mengadu alat kelaminnya sakit kepada sang ibu.</p>
+
+
+-*-10660096
+-*-http://news.okezone.com/read/2017/02/01/340/1606609/berawal-dari-salin-baju-sekolah-yoga-perkosa-putri-tiri-berumur-8-tahun
+
+--------------------
+
+
+-t-t- Yoga -- 4.859498953493679
+-t-t- Polsek Natar -- 2.8217699126065376
+-t-t- BANDAR LAMPUNG -- 2.6321838115084804
+-t-t- Kompol Eko -- 2.3216227513749312
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- BE -- 1.0
+-f-f- Nukman Prayoga -- 1.0
+-f-f- Warga Dusun Srimulyo -- 1.0
+-f-f- Kompol Eko Nugroho -- 1.0
+-f-f- Dusun Srimulyo -- 1.0
+-f-f- Kapolsek Natar -- 1.0
+-f-f- Sungguh -- 1.0
+-f-f- Warga Dusun -- 1.0
+-f-f- Eko Nugroho -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-Adhitya Himawan | Dian Kusumo Hapsari   Rabu, 01 Februari 2017 | 14:34 WIB     Ilustrasi pembunuhan [shutterstock]    Hakim menilai fakta persidangan berupa alat bukti, keterangan saksi, ahli, dan surat yang saling berkesesuaian.        
+<p><strong>Suara.com</strong> - Majelis hakim Pengadilan Negeri Gunung Sitoli Nias menjatuhkan hukuman penjara seumur hidup kepada Agusman Lahagu, pelaku utama pembunuhan petugas pajak Parada dan Soza dalam sidang pembacaan vonis, Selasa (31/1/2017).</p> 
+<p>“Menyatakan terdakwa Agusman Lahagu terbukti sah dan meyakinkan bersalah melakukan tindak pidana pembunuhan berencana dan memenuhi dakwaan primer yaitu Pasal 340 jo Pasal 55 ayat 1 KUHP, menjatuhkan hukuman penjara seumur hidup,” kata Ketua Majelis hakim Nelson Angkat, SH, saat membacakan putusan.</p> 
+<p>Hakim menilai fakta persidangan berupa alat bukti, keterangan saksi, ahli, dan surat yang saling berkesesuaian yang menguatkan fakta-fakta hukum yang tidak dapat disangkal kebenarannya.</p> 
+<p>Jaksa Penuntut umum sebelumnya menuntut Agusman Lahagu hukuman mati. Selain itu Hakim juga membacakan vonis kepada empat pelaku lainnya yang turut serta dalam melakukan pembunuhan tersebut, yaitu Bedali Lahagu alias Ama Yusu, Anali Zalukhu alias Ana, Desima Lahagu alias Dedi, dan Budi Rahmat Gulo alias Rama.</p> 
+<p>Beadli Lahagu yang juga merupakan adik kandung dari Agusman Lahagu dijatuhi hukuman 20 tahun pidana penjara dipotong masa tahanan. Hakim menilai terdakwa secara sah melakukan tindak pidana pembunuhan berencana sesuai dengan dakwaan primer yaitu Pasal 340 jo Pasal 55 ayat 1 KUHP. Hal yang memberatkan adalah tindakan terdakwa menyebabkan terbunuhnya petugas pajak yang sedang melaksanakan tugas dan menyebabkan penderitaan mendalam bagi keluarga korban yang ditinggalkan. Vonis ini lebih ringan dari tuntutan jaksa yang menuntutnya hukuman seumur hidup. Atas vonis ini Jaksa menyatakan banding.</p> 
+<p>Ketiga terdakwa lainnya yang merupakan anak buah Agusman Lahagu, Hakim menilai ketiganya secara sah melakukan tindak pidana pembunuhan dan memenuhi dakwaan sekunder yaitu Pasal 338 jo Pasal 55 ayat 1 KUHP. Untuk itu hakim menjatuhkan hukuman 10 Tahun pidana penjara di potong masa tahanan. Vonis ini juga lebih ringan dari tuntutan jaksa yang menuntut hukuman 15 tahun penjara. Jaksa menyatakan banding atas putusan tersebut.</p>
+
+
+-*-10657953
+-*-http://www.suara.com/news/2017/02/01/143417/pembunuh-petugas-pajak-di-nias-divonis-seumur-hidup
+
+--------------------
+
+
+-t-t- Agusman Lahagu -- 10.670066651879674
+-t-t- Pasal 55 -- 5.881704364097612
+-t-t- Hakim -- 5.29666030332707
+-t-t- Pasal 340 -- 4.206477886792536
+-t-t- KUHP -- 2.9306008558650056
+-t-t- Jaksa -- 2.764269558365092
+-t-t- Pengadilan Negeri -- 2.498425035680567
+-t-t- Gunung Sitoli -- 2.4886294371354802
+-t-t- Majelis -- 2.385394141221249
+-t-t- Ana -- 2.035922087508201
+-t-t- Parada -- 1.211885327974047
+-t-t- Soza -- 1.2089794462927577
+-t-t- Dedi -- 1.0102124776562522
+-t-t- Rama -- 1.0029629684291723
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Dian Kusumo Hapsari -- 1.0
+-f-f- Desima Lahagu -- 1.0
+-f-f- Kusumo Hapsari -- 1.0
+-f-f- Gunung Sitoli Nias -- 1.0
+-f-f- Pasal 338 -- 1.0
+-f-f- Adhitya Himawan -- 1.0
+-f-f- SH -- 1.0
+-f-f- Beadli Lahagu -- 1.0
+-f-f- Negeri Gunung Sitoli Nias -- 1.0
+-f-f- Bedali Lahagu -- 1.0
+-f-f- Dian Kusumo Hapsari Rabu -- 1.0
+-f-f- Rahmat Gulo -- 1.0
+-f-f- Sitoli Nias -- 1.0
+-f-f- Ketua Majelis -- 1.0
+-f-f- Pengadilan Negeri Gunung Sitoli Nias -- 1.0
+-f-f- Hapsari Rabu -- 1.0
+-f-f- Negeri Gunung -- 1.0
+-f-f- Anali Zalukhu -- 1.0
+-f-f- Dian Kusumo -- 1.0
+-f-f- Kusumo Hapsari Rabu -- 1.0
+-f-f- WIB Ilustrasi -- 1.0
+-f-f- Ama Yusu -- 1.0
+-f-f- Budi Rahmat Gulo -- 1.0
+-f-f- Jaksa Penuntut -- 1.0
+-f-f- Budi Rahmat -- 1.0
+-f-f- Pengadilan Negeri Gunung Sitoli -- 1.0
+-f-f- Negeri Gunung Sitoli -- 1.0
+-f-f- Pengadilan Negeri Gunung -- 1.0
+-f-f- Nelson Angkat -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a0d6ad7dbf5521c5bbe33cd7a754edcb.jpeg" alt="Pemeriksaan Sylvi Fokus pada 3 Hal" data:w="650" data:h="433">  Sylviana Murni usai diperiksa penyidik Tindak Pidana Korupsi. Antara Foto/Rivan Awal Lingga    
+<p><strong>Metrotvnews.com, Jakarta:</strong> Sylviana Murni kembali diperiksa terkait kasus dugaan korupsi dana bantuan sosial Kwartir Daerah Gerakan Pramuka DKI Jakarta. Pemeriksaan kedua ini fokus pada tiga hal.</p> 
+<p>Sylvi diperiksa sejak pagi tadi di kantor Direktorat Tindak Pidana Korupsi Badan Reserse dan Kriminal Polri, Gedung Ombudsman RI, Jalan H.R. Rasuna Said, Jakarta Selatan. Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul menyampaikan Sylvi diperiksa sebagai saksi.</p> Ada tiga hal yang didalami penyidik dari Sylvi. "Bagaimana penerimaannya, bagaimana penggunaannya, dan bagaimana pertanggungjawaban dana hibah yang disampaikan ke Kwarda," kata Martinus di Mabes Polri, Jakarta Selatan, Rabu (1/2/2017). 
+<p>Martinus menegaskan, penggunaan dana hibah mesti dipertanggungjawabkan dalam laporan keuangan. Dari laporan itu, bisa dilihat apakah penerimaan dan penggunaan dana bantuan sosial sesuai.</p> 
+<p>Penyidik perlu memintai keterangan Sylvi karena ia Ketua Kwarda Gerakan Pramuka DKI Jakarta saat itu.</p> 
+<p>"Untuk bisa mengetahui sejauh mana informasi keterangan yang bisa diberikan Bu Sylvi terhadap penerimaan, terhadap penggunaan, dan terhadap pertanggungjawaban yang ada," beber Martinus.</p> 
+<p>Pemeriksaan Sylvi juga lantaran kasus dugaan korupsi dana bantuan sosial kepada Kwarda naik statusnya dari penyelidikan ke penyidikan. Karena itu, penyidik kembali memeriksa saksi-saksi yang terkait dan terlibat dan yang mengetahui.</p> 
+<p>"Kami tidak hanya periksa Sylviana, tetapi juga memeriksa orang lain yang terkait penerimaan, penggunaan, dan pertanggungjawaban," tandasnya.</p> 
+<p>(TRK)</p>
+
+
+-*-10656847
+-*-http://news.metrotvnews.com/hukum/4KZVrM6K-pemeriksaan-sylvi-fokus-pada-3-hal
+
+--------------------
+
+
+-t-t- Gerakan Pramuka DKI Jakarta -- 9.828480983991104
+-t-t- Tindak Pidana Korupsi -- 7.904599719880459
+-t-t- Sylviana Murni -- 6.817122739058381
+-t-t- Jakarta Selatan -- 5.111803644079033
+-t-t- Kwarda -- 2.8932449270845204
+-t-t- Martinus Sitompul -- 2.7714853327612397
+-t-t- Ombudsman RI -- 2.3411035638428714
+-t-t- Rasuna Said -- 2.3240823829983337
+-t-t- Mabes Polri -- 2.0965427469938014
+-t-t- TRK -- 0.8014022783441676
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Divisi Hubungan -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan -- 1.0
+-f-f- Rivan Awal -- 1.0
+-f-f- Divisi Hubungan Masyarakat -- 1.0
+-f-f- Direktorat Tindak Pidana Korupsi Badan Reserse -- 1.0
+-f-f- Umum Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat -- 1.0
+-f-f- Umum Divisi -- 1.0
+-f-f- Umum Divisi Hubungan Masyarakat Polri -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Tindak Pidana Korupsi Badan Reserse -- 1.0
+-f-f- Jalan H.R. Rasuna -- 1.0
+-f-f- Kwarda Gerakan Pramuka DKI -- 1.0
+-f-f- Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka DKI -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan -- 1.0
+-f-f- Masyarakat Polri -- 1.0
+-f-f- Jalan H.R -- 1.0
+-f-f- Kwartir Daerah Gerakan Pramuka -- 1.0
+-f-f- Polri Kombes Martinus -- 1.0
+-f-f- Kepala Bagian Penerangan Umum -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka -- 1.0
+-f-f- Divisi Hubungan Masyarakat Polri -- 1.0
+-f-f- Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Bu Sylvi -- 1.0
+-f-f- Umum Divisi Hubungan -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan Masyarakat -- 1.0
+-f-f- Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Antara Foto -- 1.0
+-f-f- Kepala Bagian Penerangan -- 1.0
+-f-f- Divisi Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Direktorat Tindak Pidana Korupsi -- 1.0
+-f-f- Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Kwartir Daerah Gerakan Pramuka DKI -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka DKI Jakarta -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri -- 1.0
+-f-f- Direktorat Tindak Pidana Korupsi Badan -- 1.0
+-f-f- Kwartir Daerah Gerakan -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Daerah Gerakan -- 1.0
+-f-f- Ketua Kwarda Gerakan -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Divisi Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan Masyarakat -- 1.0
+-f-f- Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Tindak Pidana Korupsi Badan -- 1.0
+-f-f- Kwartir Daerah Gerakan Pramuka DKI Jakarta -- 1.0
+-f-f- Direktorat Tindak -- 1.0
+-f-f- Daerah Gerakan Pramuka DKI Jakarta -- 1.0
+-f-f- Polri Kombes -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan Masyarakat Polri -- 1.0
+-f-f- Kwarda Gerakan -- 1.0
+-f-f- Jalan H.R. Rasuna Said -- 1.0
+-f-f- Bagian Penerangan Umum -- 1.0
+-f-f- Kepala Bagian -- 1.0
+-f-f- Daerah Gerakan Pramuka DKI -- 1.0
+-f-f- Umum Divisi Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Penerangan Umum Divisi -- 1.0
+-f-f- Badan Reserse -- 1.0
+-f-f- Hubungan Masyarakat Polri -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi -- 1.0
+-f-f- Pidana Korupsi Badan -- 1.0
+-f-f- Kombes Martinus Sitompul -- 1.0
+-f-f- Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Pidana Korupsi Badan Reserse -- 1.0
+-f-f- Bagian Penerangan -- 1.0
+-f-f- Umum Divisi Hubungan Masyarakat -- 1.0
+-f-f- Korupsi Badan Reserse -- 1.0
+-f-f- Gedung Ombudsman -- 1.0
+-f-f- Ketua Kwarda -- 1.0
+-f-f- Jakarta: Sylviana Murni -- 1.0
+-f-f- Umum Divisi Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Daerah Gerakan Pramuka -- 1.0
+-f-f- Masyarakat Polri Kombes -- 1.0
+-f-f- Rivan Awal Lingga -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Kwarda Gerakan Pramuka -- 1.0
+-f-f- Jakarta: Sylviana -- 1.0
+-f-f- Gedung Ombudsman RI -- 1.0
+-f-f- Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Pemeriksaan Sylvi -- 1.0
+-f-f- Penerangan Umum -- 1.0
+-f-f- Kwarda Gerakan Pramuka DKI Jakarta -- 1.0
+-f-f- Korupsi Badan -- 1.0
+-f-f- Kepala Bagian Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan -- 1.0
+-f-f- Polri Kombes Martinus Sitompul -- 1.0
+-f-f- Kombes Martinus -- 1.0
+-f-f- Penerangan Umum Divisi Hubungan Masyarakat Polri Kombes Martinus -- 1.0
+-f-f- Direktorat Tindak Pidana -- 1.0
+-f-f- H.R. Rasuna -- 1.0
+-f-f- Kwartir Daerah -- 1.0
+-f-f- Bagian Penerangan Umum Divisi -- 1.0
+-f-f- Hubungan Masyarakat -- 1.0
+-f-f- Awal Lingga -- 1.0
+-f-f- H.R. Rasuna Said -- 1.0
+-f-f- Kriminal Polri -- 1.0
+-f-f- Jakarta : Sylviana Murni -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<p><strong>TRIBUNLAMPUNG.CO.ID, ABUNG TENGAH</strong> - Polsek Abung Tengah, menangkap Doni Arlaika (40).</p> 
+<p>Ia merupakan spesialis pencurian di rumah kosong dan seorang residivis.</p> 
+<p>Pelaku ditangkap di rumahnya di Desa Ogan Jaya, Abung Pekurun, Lampung Utara, Senin (30/1), sekitar pukul 20.00 WIB.</p> 
+<p>Penangkapan tersangka dilakukan dari hasil pengembangan salah seorang rekannya yang sudah ditangkap usai membobol rumah warga.</p> 
+<p>"Pelaku ditembak kakinya karena berusaha melarikan diri dan melawan petugas," kata Iptu Edy Samsu Kapolsek Abung Tengah.(*)</p>     Penulis: anung bayuardi   Editor: taryono    
+<span>Ikuti kami di</span>
+
+
+-*-10648583
+-*-http://lampung.tribunnews.com/2017/02/01/polsek-abung-tengah-tangkap-residivis-pencuri-rumah-kosong
+
+--------------------
+
+
+-t-t- Polsek Abung Tengah -- 4.116530618929523
+-t-t- Lampung Utara -- 2.1753340964283696
+-t-t- Ikuti -- 0.8087284073786223
+-*- -- time: 0.0
+
+--------------------
+
+
+-f-f- Doni Arlaika -- 1.0
+-f-f- Desa Ogan Jaya -- 1.0
+-f-f- Samsu Kapolsek Abung Tengah -- 1.0
+-f-f- Edy Samsu -- 1.0
+-f-f- ABUNG TENGAH -- 1.0
+-f-f- Iptu Edy Samsu -- 1.0
+-f-f- Samsu Kapolsek Abung -- 1.0
+-f-f- Iptu Edy Samsu Kapolsek Abung Tengah -- 1.0
+-f-f- Iptu Edy -- 1.0
+-f-f- Edy Samsu Kapolsek Abung -- 1.0
+-f-f- Edy Samsu Kapolsek Abung Tengah -- 1.0
+-f-f- Kapolsek Abung -- 1.0
+-f-f- Desa Ogan -- 1.0
+-f-f- Iptu Edy Samsu Kapolsek Abung -- 1.0
+-f-f- Iptu Edy Samsu Kapolsek -- 1.0
+-f-f- Samsu Kapolsek -- 1.0
+-f-f- Ogan Jaya -- 1.0
+-f-f- Abung Pekurun -- 1.0
+-f-f- Edy Samsu Kapolsek -- 1.0
+-f-f- Kapolsek Abung Tengah -- 1.0
+-*- -- time: 0.0
+
+--------------------
+
+
+-*-<p>Dnepropetrovsk Maniacs</p>    
+<img src="[BASEURL]/952319326a0ed0cdfa2885c49d09419c.jpeg" width="400px" alt="Berita Riau - Lima Pembunuh Paling Sadis di Dunia" data:w="276" data:h="182">     
+<span><strong>Pekanbaru,&nbsp;<a href="http://www.riau24.com/home/" rel="nofollow">Riau24.co</a><a href="http://www.news24xx.com/" rel="nofollow">m</a></strong> -&nbsp;<span>Jeffrey Dahmer, Ted Bundy, John Wayne Gacy, Charles Manson dan Andrei Cikatilo, merupakan nama dari para pembunuh berantai yang sudah sangat mendunia dan banyak dikenal orang.</span></span> 
+<p><span>Namun selain nama-mana di atas sebenarnya di dunia ini masih banyak pembunuh berantai yang jauh lebih sadis. Hanya saja nama-nama mereka jarang terdengar, baik itu karena kasusnya yang kurang terekspos ataupun karena rentan waktu kejadian yang sudah sangat lama hingga orang akhirnya melupakan mereka.<br>&nbsp;<br></span><span>Inilah Daftar Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui Orang</span></p> 
+<p><strong><span>1. Dr. Henry Howard Holmes<br></span></strong><span>Kisah hidup dari Dr. Henry Howard Holmes sebenarnya tak ubahnya seperti sebuah film thiller pembunuhan. Menetap di kota Chicago, Amerika, pada tahun 1983, Dr. Holmes membangun sebuah hotel yang ia siapkan dalam rangka menyambut Pameran Dunia (Worlds Fair) yang kebetulan akan diadakan di kota Chicago.</span></p> 
+<p><span>Sebenarnya membangun sebuah hotel untuk sebuah perayaan bukanlah sesuatu yang aneh. Namun karena mengingat gelarnya sebagai seorang Doktor, membuat hotel untuk persiapan guna menyambut sebuah event internasional tampaknya tidak pernah dipikirkan oleh seorang dokter yang kesehariannya berkutat dengan obat dan pasien. Namun ternyata itu hanyalah kedok dari dari Dr. Holmes, karena sebenarnya ia sedang membangun sebuah tempat pembantaian.<br></span></p> 
+<p><span>Ia merancang hotel tersebut dengan banyak sekali ruang tersembunyi tanpa jendela, pintu rahasia di tembok dan bahkan juga tangga yang bisa mengarah kemanapun. Tak cukup sampai disitu, ruangan-ruangan rahasia tersebut juga ia lengkapi dengan pipa-pipa besi yang ia gunakan untuk meracuni semua korbannya. Semua pipa ini terhubung langsung dengan ruangan kedap suara yang ia gunakan untuk menyekap para korbanya sebelum diracun hingga mati.</span></p> 
+<p><span>Korban dari Dr. Holmes sendiri biasanya adalah para tamu yang menginap di hotelnya, bahkan ia juga membunuh karyawan wanita. Ia tak pandang bulu saat ingin membunuh. Tak cukup hanya membunuh, setelah para korbannya mati, Dr. Holmes juga akan membedah tubuh para korbannya untuk diambil organ dalamnya yang kemudian akan dijual kepada para mahasiswa kedokteran.</span></p> 
+<p>Dan&nbsp;<span>untuk menghilangkan sisa-sisa mayat, biasanya jasad para korbannya akan dilarutkan dengan zat asam untuk menghilangkan jejak.</span></p> 
+<p><span>Aksi Holmes baru berakhir setelah ia ditangkap karena banyaknya orang yang hilang disekitar hotel miliknya. Dalam peradilannya, Holmes dinyatakan bersalah setelah mengaku telah melakukan pembunuhan berantai atas 27 orang.<br>Holmes akhirnya dijatuhi hukuman mati atas perbuatannya itu dan harus mengakhiri hidupnya di tiang gantungan. Meskipun begitu masih banyak orang yang meragukan jumlah korban yang disebutkan oleh Holmes dan meyakini jika korban dari Dokter berdarah dingin ini sebenarnya mencapai 230 lebih.</span></p> 
+<p><strong><span>2. Fred dan Rosemary West<br></span></strong><span>Fred dan Rosemary West bisa dibilang sebagai pasangan paling kejam yang pernah hidup ditanah Britania Raya (Inggris).&nbsp;</span><span>Pertemuan kedua orang ini pun seperti sudah ditakdirkan sebagai sebuah bencana sejak awalnya.</span></p> 
+<p><span>Bagaimana tidak baik itu Fred maupun Rosemary sejak muda menang sudah melalui sisi gelap dunia, sejak masih berusia 13 tahun.<br>Diusia tersebut, Fred sudah terkenal suka memperkosa gadis-gadis muda dilingkungan tempat tinggalnya.&nbsp;</span><span>Sedangkan Rosemary sendiri sudah terjerumus dalam dunia prostitusi. Dan pertemuan keduanya sampai akhirnya mereka menikah telah menciptakan sebuah kombinasi monster mengerikan yang menebar teror mengerikan selama tak kurang dari 20 tahun.</span></p> 
+<p><span>Sejak awal tahun 1970-an hingga 1980-an keduanya diketahui sering menculik gadis-gadis muda dan menyekap mereka di ruang bawah tanah. Para korban ini kemudian disiksa baik secara fisik maupun mental sebelum akhirnya dibunuh dan dimutilasi.</span></p> 
+<p><span>Semuan korban yang telah mereka bantai ini kemudian dikubur di sekitar area rumah mereka. Kebobrokan pasangan ini tak hanya sampai disitu saja, karena hasrat membunuh mereka yang tak mengenal batas, pasangan ini diketahui bahkan juga membunuh putri mereka sendiri, setelah sebelumnya menyekap darah daging mereka tersebut dan menyiksanya sampai mati.</span></p> 
+<p><span>Kekejian keduanya baru terhenti setelah kebusukan mereka akhirnya terungkap dan keduanya berhasi ditangkap oleh polisi.</span></p> 
+<p><span>Dalam persidangannya Fred didakwa atas 12 pembunuhan, sementara istrinya Rosemary didakwa atas 10 pembunuhan. Rosemary sendriri akhirnya dihukum dengan hukuman 10 kali hukuman seumur hidup. Sementara Fred, memilih untuk bunuh diri sebelum dijatuhi hukuman, setelah sebelumnya ia memberi pernyataan bahwa selain 12 mayat korban yang ditemukan polisi dirumah mereka, masih ada 20 mayat lagi yang tak akan pernah mereka temukan.<br>&nbsp;</span></p> 
+<p><strong><span>3. Robert Pickton<br></span></strong><span>Bagi orang Kanada nama Robert Pickton, tak ubahnya seperti sebuah perwujudan dari teror tersendiri. P</span><span>ria yang dikenal sebagai seorang mantan jutawan asal British Colombia, sebuah daerah yang berbatasan langsung dengan Vancover Kanada ini merupakan seorang pembunuh berantai yang telah melenyapkan tak kurang dari 49 korban.<br>Di peternakan babi yang ia dimiliki pria botak ini, ia menghabisi seluruh korbannya yang kebanyakan merupakan para tunawisma, Pekerja Seks Komersial (PSK) dan juga pecandu narkoba.</span></p> 
+<p>Pickton biasanya akan mencari mangsanya di sekitar area pesisir timur kota Vancouver yang merupakan daerah kumuh. Dengan iming-iming uang dan narkoba gratis sebagai imbalan atas jasa seks yang ia terima. Pickton kemudian akan membawa para korbannya ini ke peternakan yang ia miliki dan membunuh mereka dengan berbagai cara, mulai dari menembak, mencekik atau memukuli mereka hingga mati. Setelah itu ia biasanya akan memotong-motong jasad para korbannya dan menyebarkannya di sekitar peternakan miliknya agar dimakan oleh babi-babi yang ia pelihara.<br>&nbsp;</p> 
+<p><span>Picton sendiri sebenarnya sempat ditahan oleh polisi pada tahun 1997, karena laporan seorang PSK yang mengaku hampir dibunuh oleh Pickton di peternakan miliknya. Namun sayangnya karena kurangnya bukti serta dianggap emosi yang kurang stabil dari korban dalam memberikan kesaksian, Pickton akhirnya dibebaskan.</span></p> 
+<p>Baru lima tahun kemudian, setelah terus menaruh kecurigaan pada Picton pihak kepolisian akhirnya memutuskan untuk menggeledah rumah dan peternakan babinya.<br>Dan benar saja saat menyusuri peternakan milik pria botak ini, polisi menemukan puluhan sisa dari tulang belulang dan juga tengkorak manusia yang berserakan di sekitar kandang babi.<br>Tak hanya itu di rumah Picton juga ditemukan sisa-sisa daging manusia yang ia simpan dalam lemari pendingin. Temuan ini kian menguatkan dugaan polisi kalau Pickton menjadikan mayat para korbannya sebagai makan hewan ternak miliknya.<br>Dengan ditemukannya bukti ini, Pickton akhirnya dijebloskan ke penjara dengan hukuman seumur hidup (25 tahun). Hukuman paling maksimal bagi seorang penjahat mengingat negara Kanada tak memberlakukan hukuman mati. Sebagai catatan jumlah korban Picton diperkirakan berjumlah 49 orang meski hanya ada sekitar 24 yang bisa di identivikasi.</p> 
+<p><strong><span>4. Mohamed Bijeh<br></span></strong><span>Dikenal dengan julukan Desert Vampire (Vampir Gurun Pasir), sesuai dengan lokasi dimana ia membantai seluruh korbannya, Mohamed Bijeh merupakan seorang pembunuh berantai sekaligus seorang pemerkosa yang berasal dari negara Iran.</span></p> 
+<p>Di negara yang berada di antara Irak dan Afganistan ini, Bijeh memiliki kecenderungan seks yang menyimpang. &nbsp;</p> 
+<p>Ia juga diketahui membunuh pria dewasa beberapa kali. Para korban Bijeh biasanya akan diculik sebelum akhirnya diperkosa di tengah gurun pasir dan akhirnya dihabisi. Keseluruhan korbannya dihabisi hanya dalam kurun waktu satu tahun saja, karena sejak ia memulai kisah pembunuhan berantainya pada usia ke 20 tahun, setahun kemudia ia berhasil ditangkap dan mengaku di pengadilan atas pembunuhan dan pemerkosaan atas 16 remaja.</p> 
+<p><span>Setelah itu ia dijatuhi hukuman mati, ia dihukum cambuk sebanyak seratus kali di tengah gurun tempat ia biasa membantai para korbanya.<br>Hukuman cambuk ini sendiri diadakan secara terbuka dimana ada ribuan orang yang datang untuk menyaksikan akhir hidup dari pembunuh berantai yang telah menghebohkan Iran ini.<br>Beberapa keluarga korban juga ikut datang dalam acara ini dan ditengah riuhnya kerumunan yang berisi tak kurang dari 5.000 orang tersebut seorang ibu yang anaknya menjadi korban <span>Bijeh&nbsp;</span>berhasil menembus kerumunan dan menikam punggung <span>Bijeh&nbsp;</span>dengan pisau.<br>Tak hanya sampai disitu seorang ibu dari korban lain ternyata juga berhasil menembus kerumunan sebelum akhirnya mengalungkan tambang plastik pada Bijeh dan menariknya ke udara setinggi 10 meter menggunakan mesin crane, dimana secara perlahan Bijeh meregang nyawanya sambil disaksikan oleh ribuan orang yang datang ke tempat tersebut.</span></p> 
+<p><strong><span>5. Dnepropetrovsk Maniacs<br></span></strong><span>Viktor Sayenko dan Igor Suprunyuck juga memiliki cita-cita untuk dapat meraih popularitas dan kekayaan dari dunia maya. Sayangnya ide keduanya untuk meraih segala kesuksesan itu sangatlah tak wajar dan jauh diluar akal sehat manusia.</span></p> 
+<p>Entah mendapat bisikan dari mana tapi kedua remaja tanggung ini memutuskan untuk membuat sebuah film pendek yang rencananya akan mereka unggah dan dijual di dunia maya.</p> 
+<p>Yang jadi masalah adalah isi dari film pendek tersenbut merupakan adegan dari tiap pembunuhan berantai yang mereka lakukan. Dalam video berdurasi sekitar 15 menit tersebut, kedua remaja ini terlihat secara acak memilih korbannya sebelum akhirnya membantai para korbannya dengan menghantamkan palu ataupun menikam mereka.</p> 
+<p>Video pertama ini memang berhasil memberikan mereka ketenaran di situs-siyus Deep Web yang ada di internet dan tentunya juga menghasilkan uang yang mereka idam-idamkan. Dan seperti kebanyakan orang, keberhasilan ini membuat mereka mencoba membuat video baru berisikan proses pembunuhan ini.<br>Hal inilah yang kemudian menjadi teror tersendiri di kota Dnepropetrovsk, Ukraina tempat keduanya tinggal. Mereka tak pandang bulu, karena siapapun bisa dijadikan korbannya, hal ini ditunjukkan dalam video unggahan mereka, dimana pernah terlihat ketika keduanya dengan brutal menyerang seorang wanita yang baru pulang kerja dengan menghantam kepalanya hingga hancur menggunakan palu.</p> 
+<p><span>Dalam video lainya kedua remaja ini juga terlihat menyerang seorang kakek yang baru saja pulang dari menengok cucunya dan menyeret pria tua malang tersebut ke hutan sebelum akhirnya menghujaninya dengan tusukan obeng hingga sekarat sebelum akhirnya menghantam kepala pria tersebut dengan martil hingga pecah.</span></p> 
+<p>Namun seperti pepatah <em>"sepandai-pandainya menyimpan bangkai lama-kelamaan akan tercium juga"</em> begitu pula dengan aksi busuk keduanya yang akhirnya terbongkar berkat kecerobohan salah satu orang dari dua remaja sadis ini, yang tergoda untuk menjual ponsel salah satu korban mereka. Berkat petunjuk dari ponsel inilah, aksi pembantaian sadis keduanya akhirnya terbongkar dan keduanya berhasil ditangkap dan diadili di pengadilan.</p> 
+<p>Hanya saja sayangnya karena ketika mereka ditangkap, usia keduanya masih dibawah 20 tahun maka hukuman maksimal yang dapat dijatuhkan pada keduanya adalah kurungan penjara seumur hidup. Sebuah hukuman yang oleh para keluarga korban dinilai terlalu ringan, mengingat kesadisan serta luka batin yang telah dialami oleh keluarga para korban. &nbsp; <strong>(***)</strong></p> 
+<p>R24/dev&nbsp;</p>  
+<p>loading...</p>
+
+
+-*-10648561
+-*-http://www.riau24.com/berita/baca/68288-lima-pembunuh-paling-sadis-di-dunia/
+
+--------------------
+
+
+-t-t- Dr. Henry Howard Holmes -- 11.826023450303046
+-t-t- Dr. Holmes -- 11.404993882562943
+-t-t- Fred -- 6.787793221698365
+-t-t- Rosemary West -- 5.49428716530162
+-t-t- Robert Pickton -- 5.302838829620346
+-t-t- Dnepropetrovsk Maniacs -- 4.813484100707281
+-t-t- Mohamed Bijeh -- 4.784534997179035
+-t-t- John Wayne Gacy -- 4.162310056011895
+-t-t- Picton -- 3.983705876031939
+-t-t- Kanada -- 3.1010583651286554
+-t-t- Jeffrey Dahmer -- 2.631993085895968
+-t-t- Ted Bundy -- 2.6301257620396674
+-t-t- Charles Manson -- 2.6268611325567304
+-t-t- Chicago -- 2.541433629883258
+-t-t- Worlds Fair -- 2.537303558267363
+-t-t- Britania Raya -- 2.3133688430980768
+-t-t- British Colombia -- 2.1244091000031315
+-t-t- PSK -- 2.063170671622094
+-t-t- Iran -- 1.876409635853952
+-t-t- Viktor Sayenko -- 1.7904203058107322
+-t-t- Igor Suprunyuck -- 1.7889119818788524
+-t-t- Deep Web -- 1.727003091914239
+-t-t- Amerika -- 1.2750833170824614
+-t-t- Doktor -- 1.2577255789630621
+-t-t- Dokter -- 1.1660085247467873
+-t-t- Inggris -- 1.1559150596137637
+-t-t- Vancouver -- 1.0421362587610208
+-t-t- Irak -- 0.9541728807425008
+-t-t- Afganistan -- 0.953792032534742
+-t-t- Ukraina -- 0.852540461481995
+-t-t- R24 -- 0.800887646093215
+-*- -- time: 0.006
+
+--------------------
+
+
+-f-f- Pembunuh Paling Sadis -- 1.0
+-f-f- Jarang Di -- 1.0
+-f-f- Bijeh Dikenal -- 1.0
+-f-f- Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Maniacs Viktor -- 1.0
+-f-f- Sedangkan Rosemary -- 1.0
+-f-f- Pembunuh Paling -- 1.0
+-f-f- Andrei Cikatilo -- 1.0
+-f-f- Paling Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Lain Pembunuh Paling Sadis Yang Jarang -- 1.0
+-f-f- Rosemary West Fred -- 1.0
+-f-f- Inilah Daftar Lain -- 1.0
+-f-f- Aksi Holmes -- 1.0
+-f-f- Lain Pembunuh Paling Sadis Yang Jarang Di -- 1.0
+-f-f- Yang Jarang Di -- 1.0
+-f-f- Paling Sadis Yang -- 1.0
+-f-f- Maniacs Viktor Sayenko -- 1.0
+-f-f- Dr. Henry Howard Holmes Kisah -- 1.0
+-f-f- Sadis Yang Jarang -- 1.0
+-f-f- Jarang Di Ketahui Orang -- 1.0
+-f-f- Pekerja Seks -- 1.0
+-f-f- Lain Pembunuh Paling Sadis Yang -- 1.0
+-f-f- Henry Howard Holmes Kisah -- 1.0
+-f-f- Sementara Fred -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis -- 1.0
+-f-f- Lain Pembunuh Paling Sadis -- 1.0
+-f-f- West Fred -- 1.0
+-f-f- Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Pembunuh Paling Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Ketahui Orang -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis -- 1.0
+-f-f- Paling Sadis -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis Yang Jarang -- 1.0
+-f-f- Dnepropetrovsk Maniacs Viktor Sayenko -- 1.0
+-f-f- Gurun Pasir -- 1.0
+-f-f- Dnepropetrovsk Maniacs Viktor -- 1.0
+-f-f- Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Desert Vampire -- 1.0
+-f-f- Vampir Gurun -- 1.0
+-f-f- Daftar Lain Pembunuh Paling -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh -- 1.0
+-f-f- Pekerja Seks Komersial -- 1.0
+-f-f- Paling Sadis Yang Jarang Di -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling -- 1.0
+-f-f- Di Ketahui Orang -- 1.0
+-f-f- Pembunuh Paling Sadis Yang Jarang -- 1.0
+-f-f- Vancover Kanada -- 1.0
+-f-f- Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Pickton Bagi -- 1.0
+-f-f- Yang Jarang Di Ketahui -- 1.0
+-f-f- Di Ketahui -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis Yang -- 1.0
+-f-f- Inilah Daftar -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Seks Komersial -- 1.0
+-f-f- Vampir Gurun Pasir -- 1.0
+-f-f- Pembunuh Paling Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis Yang Jarang -- 1.0
+-f-f- Paling Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Paling Sadis Yang Jarang -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis Yang -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Pameran Dunia -- 1.0
+-f-f- Lain Pembunuh -- 1.0
+-f-f- Sadis Yang Jarang Di Ketahui -- 1.0
+-f-f- Daftar Lain Pembunuh Paling Sadis Yang Jarang Di -- 1.0
+-f-f- Mohamed Bijeh Dikenal -- 1.0
+-f-f- Lain Pembunuh Paling -- 1.0
+-f-f- Pembunuh Paling Sadis Yang Jarang Di -- 1.0
+-f-f- Sadis Yang Jarang Di -- 1.0
+-f-f- Sadis Yang -- 1.0
+-f-f- Jarang Di Ketahui -- 1.0
+-f-f- Robert Pickton Bagi -- 1.0
+-f-f- Yang Jarang -- 1.0
+-f-f- Daftar Lain -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis Yang Jarang Di Ketahui Orang -- 1.0
+-f-f- Inilah Daftar Lain Pembunuh Paling Sadis Yang Jarang Di -- 1.0
+-f-f- Pembunuh Paling Sadis Yang -- 1.0
+-f-f- Holmes Kisah -- 1.0
+-f-f- Howard Holmes Kisah -- 1.0
+-f-f- Daftar Lain Pembunuh -- 1.0
+-*- -- time: 0.006
+
+--------------------
+
+
+-*-<img src="[BASEURL]/2ae4a56c7c5092323f87bc7736f366ab.jpeg" alt="Dua Eks Anggota Dewan Diperiksa KPK Terkait Korupsi KTP-el" data:w="650" data:h="526">  Gedung KPK. Foto: Antara/Hafidz Mubarak    
+<p><strong>Metrotvnews.com, Jakarta</strong>: Dua bekas anggota dewan dijadwalkan bakal diperiksa penyidik Komisi Pemberantasan Korupsi (KPK). Mereka bakal diperiksa sebagai saksi terkait kasus korupsi proyek pengadaan kartu tanda penduduk elektronik (KTP-el) di Kementerian Dalam Negeri tahun 2011-2012.&nbsp;</p> 
+<p>Kedua bekas anggota dewan itu yakni Nu'man Abdul Hakim dari PPP dan Rindoko Dahono Wingit dari Gerindra. Keduanya merupakan bekas anggota Komisi II DPR RI yang menjadi mitra kerja Kemendagri.&nbsp;</p> "Keduanya diperiksa sebagai saksi untuk tersangka S (Sugiharto)," ungkap Juru Bicara KPK Febri Diansyah, saat dikonfirmasi, Rabu (1/2/2017).&nbsp; 
+<p>Selain itu, penyidik KPK juga menjadwalkan pemeriksaan terhadap Irman, mantan Dirjen Dukcapil Kemendagri. Irman diperiksa dalam kapasitasnya sebagai tersangka dalam kasus ini.&nbsp;</p> 
+<p>Dalam kasus yang merugikan negara hingga Rp2 triliun itu, KPK menetapkan dua tersangka. Mereka adalah mantan Direktur Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri, Irman dan pejabat pembuat komitmen dalam proyek pengadaan KTP-el, Sugiharto.</p> 
+<p>Irman dikenakan Pasal 2 ayat (2) subsider ayat (3), Undang-Undang (UU) Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana telah diubah dengan UU Nomor 20 Tahun 2001 tentang Perubahan Atas UU Nomor 31 Tahun 1999 juncto pasal 55 ayat (1) ke-1 dan 64 ayat (1) KUHP.</p> 
+<p>Sugiharto dijerat Pasal 2 ayat (1) subsider Pasal 3 Undang-Undang Nomor 31 tahun 1999 sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi (UU Tipikor) juncto Pasal 55 ayat (1) ke-1 juncto Pasal 64 ayat (1) KUHP.</p> 
+<p>(MBM)</p>
+
+
+-*-10648481
+-*-http://news.metrotvnews.com/hukum/1bVY5WnN-dua-eks-anggota-dewan-diperiksa-kpk-terkait-korupsi-ktp-el
+
+--------------------
+
+
+-t-t- Pemberantasan Tindak Pidana Korupsi -- 7.537707770548945
+-t-t- Nomor 31 Tahun 1999 -- 7.53758252649481
+-t-t- Nomor 20 Tahun 2001 -- 7.16105775557595
+-t-t- Kementerian Dalam Negeri -- 6.931280839576443
+-t-t- KPK -- 5.756248977914592
+-t-t- Komisi II DPR RI -- 4.947937029799082
+-t-t- Irman -- 4.024245425815903
+-t-t- UU Nomor -- 4.020525739190473
+-t-t- Komisi Pemberantasan Korupsi -- 4.019863174985099
+-t-t- Undang-Undang Nomor -- 3.7167900092267177
+-t-t- Rindoko Dahono Wingit -- 3.709584917991027
+-t-t- Pasal 2 -- 3.610473030823571
+-t-t- Sugiharto -- 2.929207836129225
+-t-t- Abdul Hakim -- 2.3604672496168146
+-t-t- Kemendagri -- 2.1846705849417427
+-t-t- KTP-el -- 2.168967670010436
+-t-t- UU Tipikor -- 2.0824773625527997
+-t-t- KUHP -- 1.674552696116411
+-t-t- Jakarta -- 1.2961130006269943
+-t-t- PPP -- 1.1743019383983933
+-t-t- Gerindra -- 1.1621833474545662
+-t-t- MBM -- 0.8014239094434672
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Perubahan Atas UU Nomor 31 Tahun -- 1.0
+-f-f- Pasal 3 Undang-Undang Nomor -- 1.0
+-f-f- Jenderal Kependudukan -- 1.0
+-f-f- UU Nomor 31 Tahun -- 1.0
+-f-f- Juru Bicara -- 1.0
+-f-f- Dirjen Dukcapil -- 1.0
+-f-f- Atas UU Nomor 31 Tahun -- 1.0
+-f-f- Dirjen Dukcapil Kemendagri -- 1.0
+-f-f- Pasal 55 -- 1.0
+-f-f- Sipil Kementerian Dalam Negeri -- 1.0
+-f-f- Bicara KPK -- 1.0
+-f-f- Atas UU Nomor 31 -- 1.0
+-f-f- KPK Febri Diansyah -- 1.0
+-f-f- Bicara KPK Febri Diansyah -- 1.0
+-f-f- Pencatatan Sipil Kementerian Dalam -- 1.0
+-f-f- Atas UU -- 1.0
+-f-f- Perubahan Atas UU Nomor 31 Tahun 1999 -- 1.0
+-f-f- Perubahan Atas UU Nomor -- 1.0
+-f-f- Direktur Jenderal Kependudukan -- 1.0
+-f-f- Perubahan Atas -- 1.0
+-f-f- Hafidz Mubarak -- 1.0
+-f-f- KPK Febri -- 1.0
+-f-f- Atas UU Nomor -- 1.0
+-f-f- 3 Undang-Undang -- 1.0
+-f-f- Pencatatan Sipil -- 1.0
+-f-f- Foto: Antara -- 1.0
+-f-f- Pasal 3 Undang-Undang -- 1.0
+-f-f- Direktur Jenderal -- 1.0
+-f-f- Dukcapil Kemendagri -- 1.0
+-f-f- UU Nomor 20 -- 1.0
+-f-f- Pencatatan Sipil Kementerian -- 1.0
+-f-f- UU Nomor 20 Tahun 2001 -- 1.0
+-f-f- Sipil Kementerian Dalam -- 1.0
+-f-f- Undang-Undang Nomor 20 Tahun -- 1.0
+-f-f- Pencatatan Sipil Kementerian Dalam Negeri -- 1.0
+-f-f- Pasal 3 Undang-Undang Nomor 31 -- 1.0
+-f-f- UU Nomor 31 -- 1.0
+-f-f- Gedung KPK -- 1.0
+-f-f- Undang-Undang Nomor 31 -- 1.0
+-f-f- 3 Undang-Undang Nomor 31 -- 1.0
+-f-f- Sipil Kementerian -- 1.0
+-f-f- UU Nomor 20 Tahun -- 1.0
+-f-f- Undang-Undang Nomor 20 Tahun 2001 -- 1.0
+-f-f- 3 Undang-Undang Nomor -- 1.0
+-f-f- Juru Bicara KPK Febri Diansyah -- 1.0
+-f-f- Febri Diansyah -- 1.0
+-f-f- Atas UU Nomor 31 Tahun 1999 -- 1.0
+-f-f- Perubahan Atas UU Nomor 31 -- 1.0
+-f-f- UU Nomor 31 Tahun 1999 -- 1.0
+-f-f- Jakarta: Dua -- 1.0
+-f-f- Juru Bicara KPK -- 1.0
+-f-f- Nu -- 1.0
+-f-f- Juru Bicara KPK Febri -- 1.0
+-f-f- Bicara KPK Febri -- 1.0
+-f-f- Perubahan Atas UU -- 1.0
+-f-f- Pasal 64 -- 1.0
+-f-f- Undang-Undang Nomor 20 -- 1.0
+-f-f- Pasal 3 -- 1.0
+-f-f- Foto : Antara -- 0.0
+-f-f- Jakarta : Dua -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b429225f233bc3e8917e0aadcda54562.jpeg" data:w="700" data:h="400">  
+<p>JAKARTA (Pos Kota) – Calon Wakil Gubernur DKI nomor Urut 1, Sylviana Murni, kembali diperiksa Bareskrim Mabes Polri dalam kasus dugaan korupsi dana hibah Kwarda Gerakan Pramuka DKI Jakarta. Rabu (1/2/2017).</p> 
+<p>Mantan Walikota Jakarta Pusat ini, diperiksa di gedung Ombudsman, Kuningan, Jakarta Selatan. Dengan mengenakan kerudung hitam, pasangan Agus Harimurti Yudhoyono di Pilgub DKI ini menebar senyum khasnya kepada wartawan. Ia datang pada pukul 09.10 WIB tanpa banyak mengumbar kata.</p> 
+<p>“Saya sehat,” singkat Sylvi yang langsung menuju ruang pemeriksaan.</p> 
+<p>Kwartir Daerah (Kwarda) Gerakan Pramuka DKI Jakarta telah dua kali menerima dana hibah. Pada 2014, sebesar Rp 6,81 miliar dan pada tahun 2015 sebesar Rp 6,81 miliar.</p> 
+<p>Sementara Sylviana Murni yang saat itu menjabat sebagai Deputi Gubernur Bidang Pariwisata dan Kebudayaan juga merangkap sebagai Ketua Kwarda Gerakan Pramuka DKI Jakarta sejak Januari 2015, menggantikan Yudhi Suyoto.</p> 
+<p>Pantauan di lokasi, Sylvi begitu turun dari mobil Pajero Sport putih berpelat B 1149 TJH hanya menebar senyum.</p> 
+<p>Sebelumnya, Sylvi juga pernah dipanggil sebagai saksi ketika status kasus masih penyelidikan pada 20 Januari 2017 lalu. Pada saat itu, Sylvi mengaku diminta mengklarifikasi penggunaan dana bantuan sosial.</p> 
+<p>Mantan None Jakarta itu akrab disapa Sylvi tersebut mengatakan surat itu salah. Sebab, dana yang diturunkan untuk Kwarda bukanlah bansos, melainkan dana hibah.</p> 
+<p>Menurut dia, dana hibah itu tertuang dalam SK Gubernur Nomor 235, 14 Februari 2014, yang berisi biaya operasional pengurus Kwarda 2013-2018 yang dibebankan di Anggaran Pendapatan dan Belanja Daerah (APBD) DKI, sebesar Rp 6,8 miliar.</p> 
+<p><strong>(adji/sir)</strong></p>
+
+
+-*-10648475
+-*-http://poskotanews.com/2017/02/01/sylvi-kembali-diperiksa-mabes-polri-terkait-dana-hibah-pramuka-dki/
+
+--------------------
+
+
+-t-t- Kwarda Gerakan Pramuka DKI Jakarta -- 13.339968721998014
+-t-t- Sylviana Murni -- 5.611849052054754
+-t-t- Bareskrim Mabes Polri -- 4.059824955332792
+-t-t- Walikota Jakarta Pusat -- 3.914037417177662
+-t-t- Agus Harimurti Yudhoyono -- 3.768011166150893
+-t-t- Gubernur DKI -- 3.442936756432434
+-t-t- Jakarta Selatan -- 2.4223857261024175
+-t-t- Pajero Sport -- 1.959439565728898
+-t-t- None Jakarta -- 1.803569291230598
+-t-t- Ombudsman -- 1.2187191150216858
+-t-t- Kuningan -- 1.2147709782165714
+-t-t- Kebudayaan -- 1.0319278172337742
+-t-t- APBD -- 0.8118868557185239
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- SK Gubernur Nomor 235 -- 1.0
+-f-f- Sementara Sylviana Murni -- 1.0
+-f-f- Gubernur Nomor 235 -- 1.0
+-f-f- Pos Kota -- 1.0
+-f-f- Deputi Gubernur -- 1.0
+-f-f- 1149 TJH -- 1.0
+-f-f- SK Gubernur -- 1.0
+-f-f- Deputi Gubernur Bidang -- 1.0
+-f-f- Kwarda 2013-2018 -- 1.0
+-f-f- Pilgub DKI -- 1.0
+-f-f- B 1149 TJH -- 1.0
+-f-f- Calon Wakil Gubernur DKI -- 1.0
+-f-f- Belanja Daerah -- 1.0
+-f-f- Urut 1 -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka DKI -- 1.0
+-f-f- Mantan Walikota -- 1.0
+-f-f- Ketua Kwarda -- 1.0
+-f-f- B 1149 -- 1.0
+-f-f- Anggaran Pendapatan -- 1.0
+-f-f- Nomor 235 -- 1.0
+-f-f- Deputi Gubernur Bidang Pariwisata -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka -- 1.0
+-f-f- Mantan Walikota Jakarta -- 1.0
+-f-f- Gubernur Bidang -- 1.0
+-f-f- Mantan None -- 1.0
+-f-f- Yudhi Suyoto -- 1.0
+-f-f- Wakil Gubernur DKI -- 1.0
+-f-f- Gubernur Nomor -- 1.0
+-f-f- Calon Wakil -- 1.0
+-f-f- SK Gubernur Nomor -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Bidang Pariwisata -- 1.0
+-f-f- Calon Wakil Gubernur -- 1.0
+-f-f- Mantan Walikota Jakarta Pusat -- 1.0
+-f-f- Ketua Kwarda Gerakan Pramuka DKI Jakarta -- 1.0
+-f-f- Mantan None Jakarta -- 1.0
+-f-f- Wakil Gubernur -- 1.0
+-f-f- Kwartir Daerah -- 1.0
+-f-f- Pada 2014 -- 1.0
+-f-f- Gubernur Bidang Pariwisata -- 1.0
+-f-f- Ketua Kwarda Gerakan -- 1.0
+-f-f- Sementara Sylviana -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0593f26557d921a107f9a078c7bd02c8.jpeg" alt="Wakil Ketua KPK Basaria Panjaitan (Foto: Okezone)" data:w="703" data:h="450">   
+<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p>  
+<p><strong>JAKARTA</strong> - Komisi Pemberantasan Korupsi (KPK) tengah memantau aliran dana desa lantaran rawan tindak pidana korupsi. Sejumlah laporan tentang adanya perbuatan korupsi dana desa pun sudah dikantongi KPK.</p> 
+<p>Demikian diungkapkan Wakil Ketua KPK, Basaria Panjaitan menanggapi kedatangan Menteri Desa (Mendes) Eko Putro Sandjojo‎ yang meminta bantuan untuk pengawasan dana desa ke pihak lembaga antirasuah, Jalan HR Rasuna Said, Kuningan, Jakarta Selatan, Rabu (1/2/2017).</p> 
+<p>‎"Titik rawannya kita tahu semua kepala desa belum tentu mengerti bahkan ada yang enggak bisa baca. Dan diberikan aplikasi tapi tidak dimanfaatkan," ujar Basaria di kantornya.</p> 
+<p>Basaria mencontohkan pada kasus yang baru-baru ini terjadi, yakni adanya penangkapan tim Saber Pungli di daerah Jawa Timur. Menurutnya, ada beberapa oknum pejabat desa yang sengaja memangkas anggaran dana desa untuk kepentingan pribadi maupun golongannya.</p> 
+<p>‎"Nah, kita kerja sama dengan Pak Menteri kita akan kumpulkan para bupati. Karena konsen pusat dana dari Bupati dibagikan ke desa-desa supaya enggak terjadi pemotongan,‎" tukas Basaria.</p> 
+<p>Pada kesempatan yang sama, Mendes Eko Putro Sandjojo meminta KPK maupun masyarakat agar terus mengawal proses pendistribusian dana desa.</p> 
+<p>"Dalam pengawalan ini kita minta bantuan KPK dan KPK dukung penuh untuk ikut mengawasi penggunaan dana desa itu. Kita minta dana desa tidak diselewengkan dan KPK dukung penuh," kata Eko.</p>
+
+
+-*-10648290
+-*-http://news.okezone.com/read/2017/02/01/337/1606513/rawan-korupsi-kpk-pantau-kucuran-dana-desa
+
+--------------------
+
+
+-t-t- Eko Putro Sandjojo -- 6.7933896247064105
+-t-t- Jalan HR Rasuna Said -- 4.933541718004367
+-t-t- Wakil Ketua KPK -- 4.443719853139473
+-t-t- Komisi Pemberantasan Korupsi -- 4.153322852355213
+-t-t- Basaria Panjaitan -- 2.945512931634478
+-t-t- Jakarta Selatan -- 2.2629418262421086
+-t-t- Mendes -- 2.075248250195618
+-t-t- Saber Pungli -- 2.0338289119655637
+-t-t- Jawa Timur -- 2.0176288022997073
+-t-t- Kuningan -- 1.1354119433237393
+-t-t- Titik -- 1.1158431120120778
+-t-t- Bupati -- 0.9238610283642057
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Pak Menteri -- 1.0
+-f-f- Eko Putro Sandjojo‎ -- 1.0
+-f-f- Menteri Desa -- 1.0
+-f-f- Mendes Eko -- 1.0
+-f-f- Mendes Eko Putro Sandjojo -- 1.0
+-f-f- Putro Sandjojo‎ -- 1.0
+-f-f- Mendes Eko Putro -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8e6d0d7fa8ce202b2aa904872b723593.jpeg" width="700" height="393" alt="Dirjen Bina Keuangan Kemendagri Diperiksa KPK" data:w="700" data:h="393">       
+<p>‎<strong>Laporan Wartawan Tribunnews.com, Theresia Felisiani</strong></p> 
+<p><strong>TRIBUNNEWS.COM, JAKARTA -</strong> Anak buah Menteri Dalam Negeri (Mendagri) <a href="http://www.tribunnews.com/tag/tjahjo-kumolo" rel="nofollow">Tjahjo Kumolo</a> yakni Direktur Jenderal Bina Keuangan Daerah Kemendagri, Roydonnyzar Monoek diperiksa penyidik Komisi Pemberantasan korupsi (KPK).</p> 
+<p>Juru Bicara <a href="http://www.tribunnews.com/tag/kpk" rel="nofollow">KPK</a>, Febri Diansyah mengatakan Roydonnyzar Monoek atau Donny diperiksa sebagai saksi ‎dugaan suap pembangunan Pasar Atas Baru Cimahi tahap dua tahun 2017.</p> 
+<p>"Dia akan diperiksa sebagai saksi untuk tersangka mantan Wali Kota Cimahi, MIT (Itoc Tochija)," terang Febri.</p> 
+<p>Selain Donny, menurut Febri penyidik juga memanggil anak buah Donny yakni Direktur Fasilitas Dana Perimbangan Kemendagri, Elvius Dailami.</p> 
+<p>Bahkan, dua orang pengacara yakni Ade Yan Yan dan ‎Muhammad Ali fernanzez juga diperiksa sebagai saksi untuk Itoc.</p> 
+<p>Untuk diketahui dalam kasus ini, <a href="http://www.tribunnews.com/tag/kpk" rel="nofollow">KPK</a>‎ juga menetapkan status tersangka pada penerima suap Wali Kota Cimahi, Atty Suharty dan suaminya, Itoc Tochijah.</p> 
+<p>Mereka ditangkap pada ‎1 Desember 2016 lalu dalam rangkaian Operasi Tangkap Tangan (OTT) oleh <a href="http://www.tribunnews.com/tag/kpk" rel="nofollow">KPK</a>.</p> 
+<p>Atas status tersangkanya, Atty sempat mengajukan gugatan praperadilan di Pengadilan Negeri Jakarta Selatan atas penetapan tersangka, penggeledahan dan penyitaan.</p> 
+<p>Selasa (24/1/2017) Hakim di Pengadilan Negeri Jakarta Selatan memutuskan menolak gugatan praperadilan itu.</p> 
+<p>Alhasil harapan Atty ‎untuk lepas dari proses hukum di Komisi Pemberantasan Korupsi (KPK) kandas.</p> 
+<p>Sementara itu, dua penyuap di kasus ini yakni pengusaha Triwarsa Dhani Brata (TDB) yang adalah Direktur PT Swara Maju Jaya dan Hendriza Soleh Gunadi (HSG), General Manager PT Swara Maju Jaya sudah dilimpahkan tahap dua pada Senin (30/1/2017) lalu.</p> 
+<p>‎Setelah dilakukan pelimpahan tahap dua, selanjutnya penahanan dua tersangka swasta pemberi suap dipindah dari Polres Jakarta Pusat ke Lapas Sukamiskin Bandung saambil menunggu waktu sidang di Tipikor Bandung.</p>
+
+
+-*-10648197
+-*-http://www.tribunnews.com/nasional/2017/02/01/dirjen-bina-keuangan-kemendagri-diperiksa-kpk
+
+--------------------
+
+
+-t-t- Pengadilan Negeri Jakarta Selatan -- 8.297082367719629
+-t-t- PT Swara Maju Jaya -- 7.508948113713284
+-t-t- Wali Kota Cimahi -- 6.957212520248113
+-t-t- KPK -- 5.4151026655064065
+-t-t- Roydonnyzar Monoek -- 4.933221009580912
+-t-t- Itoc Tochija -- 4.761865395309168
+-t-t- Menteri Dalam Negeri -- 4.074526376339391
+-t-t- Febri -- 3.498456563054142
+-t-t- Operasi Tangkap Tangan -- 3.1893910169435165
+-t-t- Komisi Pemberantasan Korupsi -- 2.9961851530011763
+-t-t- Atty -- 2.9475972112057263
+-t-t- Polres Jakarta Pusat -- 2.600012271876747
+-t-t- Lapas Sukamiskin Bandung -- 2.583838946342887
+-t-t- Tjahjo Kumolo -- 2.5521800846787617
+-t-t- Yan Yan -- 2.1752320129759624
+-t-t- General Manager -- 1.7330969074162252
+-t-t- Anak -- 1.2901165393577008
+-t-t- Mendagri -- 1.2794157898530159
+-t-t- MIT -- 1.1514128028922173
+-t-t- OTT -- 1.0009589383660698
+-t-t- Hakim -- 0.9491970462519371
+-t-t- TDB -- 0.88432085289685
+-t-t- HSG -- 0.8679027880828782
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- Donny -- 3.0
+-f-f- Direktur PT -- 1.0
+-f-f- Direktur Fasilitas -- 1.0
+-f-f- Juru Bicara -- 1.0
+-f-f- Ade Yan -- 1.0
+-f-f- Dana Perimbangan Kemendagri -- 1.0
+-f-f- Hendriza Soleh Gunadi -- 1.0
+-f-f- Bicara KPK -- 1.0
+-f-f- Pasar Atas Baru -- 1.0
+-f-f- Atty Suharty -- 1.0
+-f-f- Jenderal Bina -- 1.0
+-f-f- Elvius Dailami -- 1.0
+-f-f- General Manager PT Swara Maju Jaya -- 1.0
+-f-f- Fasilitas Dana Perimbangan Kemendagri -- 1.0
+-f-f- Direktur PT Swara -- 1.0
+-f-f- Bina Keuangan Daerah Kemendagri -- 1.0
+-f-f- Pasar Atas -- 1.0
+-f-f- Keuangan Daerah Kemendagri -- 1.0
+-f-f- Theresia Felisiani -- 1.0
+-f-f- Manager PT Swara Maju -- 1.0
+-f-f- Selain Donny -- 1.0
+-f-f- Perimbangan Kemendagri -- 1.0
+-f-f- Direktur Fasilitas Dana -- 1.0
+-f-f- Baru Cimahi -- 1.0
+-f-f- Manager PT Swara -- 1.0
+-f-f- Ade Yan Yan -- 1.0
+-f-f- Direktur Jenderal Bina -- 1.0
+-f-f- Itoc Tochijah -- 1.0
+-f-f- Triwarsa Dhani -- 1.0
+-f-f- KPK‎ -- 1.0
+-f-f- Dana Perimbangan -- 1.0
+-f-f- Direktur Jenderal -- 1.0
+-f-f- Manager PT Swara Maju Jaya -- 1.0
+-f-f- Bina Keuangan -- 1.0
+-f-f- General Manager PT Swara Maju -- 1.0
+-f-f- Tipikor Bandung -- 1.0
+-f-f- Hendriza Soleh -- 1.0
+-f-f- Pasar Atas Baru Cimahi -- 1.0
+-f-f- Direktur Jenderal Bina Keuangan -- 1.0
+-f-f- Dhani Brata -- 1.0
+-f-f- Atas Baru -- 1.0
+-f-f- Jenderal Bina Keuangan -- 1.0
+-f-f- Direktur PT Swara Maju Jaya -- 1.0
+-f-f- Jenderal Bina Keuangan Daerah -- 1.0
+-f-f- Direktur Jenderal Bina Keuangan Daerah -- 1.0
+-f-f- Fasilitas Dana -- 1.0
+-f-f- Jenderal Bina Keuangan Daerah Kemendagri -- 1.0
+-f-f- Direktur Jenderal Bina Keuangan Daerah Kemendagri -- 1.0
+-f-f- Febri Diansyah -- 1.0
+-f-f- Triwarsa Dhani Brata -- 1.0
+-f-f- ‎Muhammad Ali -- 1.0
+-f-f- Daerah Kemendagri -- 1.0
+-f-f- Direktur Fasilitas Dana Perimbangan -- 1.0
+-f-f- General Manager PT Swara -- 1.0
+-f-f- Direktur Fasilitas Dana Perimbangan Kemendagri -- 1.0
+-f-f- Direktur PT Swara Maju -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Juru Bicara KPK -- 1.0
+-f-f- Bina Keuangan Daerah -- 1.0
+-f-f- Atas Baru Cimahi -- 1.0
+-f-f- Fasilitas Dana Perimbangan -- 1.0
+-f-f- Keuangan Daerah -- 1.0
+-f-f- Soleh Gunadi -- 1.0
+-f-f- General Manager PT -- 1.0
+-f-f- Manager PT -- 1.0
+-f-f- ‎Setelah -- 1.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0a42a8e8e8b39aee87e9430ffce2c956.jpeg" width="700" height="393" alt="Polri: Firza Husein Ditahan Karena Sering Mangkir Panggilan Penyidik" data:w="700" data:h="393">       
+<p><strong>TRIBUNNEWS.COM, JAKARTA</strong> - Penyidik Polda Metro Jaya kembali menangkap dan langsung menahan tersangka <a href="http://www.tribunnews.com/tag/makar" rel="nofollow">makar</a> di <a href="http://www.tribunnews.com/tag/mako-brimob" rel="nofollow">Mako Brimob</a>, Kelapa Dua, Depok, Jawa Barat, terhitung Selasa (31/1/2017).</p> 
+<p>Satu alasan kuat penyidik mengambil tindakan tegas tersebut, yakni Firza selaku tersangka yang dapat penangguhan penahanan sering mangkir panggilan pemeriksaan penyidik.</p> 
+<p>Demikian disampaikan Kepala Bagian Penerangan Umum (Kabag Penum) Divisi Humas Polri, Kombes Pol Martinus Sitompul, di Mabes Polri, Jakarta, Rabu (1/2/2017).</p> 
+<p>"Sehingga penyidik mengambil kesimpulan untuk menahan karena alasan-alasan yang dapat dikatakan yang bersangkutan tidak kooperatif saat dipanggil tidak memenuhi panggilan. Hal itulah yang membuat penyidik beralasan untuk melakukan penahanan," kata Martinus.</p> 
+<p>Martinus menjelaskan, <a href="http://www.tribunnews.com/tag/firza-husein" rel="nofollow">Firza Husein</a> ditahan selama 20 hari masa penahanan pertama proses penyidikan.</p> 
+<p>Menurut Martinus, sebelumnya penyidik menjadwalkan pemeriksaan karena memang ada beberapa keterangan yang ingin digali dari tersangka <a href="http://www.tribunnews.com/tag/firza-husein" rel="nofollow">Firza Husein</a>.</p> 
+<p>"Nah pemeriksaan ini tidak diindahkan, panggilan-panggilan tidak diindahkan, sehingga penyidik menilai untuk melakukan penahanan terhadap Saudari FH," tandasnya.</p>
+
+
+-*-10648204
+-*-http://www.tribunnews.com/nasional/2017/02/01/polri-firza-husein-ditahan-karena-sering-mangkir-panggilan-penyidik
+
+--------------------
+
+
+-t-t- Kombes Pol Martinus Sitompul -- 4.965468402830295
+-t-t- Polda Metro Jaya -- 4.112909184301905
+-t-t- Firza Husein -- 3.9848413050916474
+-t-t- Divisi Humas Polri -- 3.495928471164267
+-t-t- Mako Brimob -- 2.5182623878295254
+-t-t- Kelapa Dua -- 2.504726174471762
+-t-t- Jawa Barat -- 2.4850732518218006
+-t-t- Mabes Polri -- 2.1601322933136062
+-t-t- Depok -- 1.2461478985983678
+-t-t- Jakarta -- 1.0742605539305248
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Menurut Martinus -- 1.0
+-f-f- Bagian Penerangan Umum -- 1.0
+-f-f- Penerangan Umum -- 1.0
+-f-f- Saudari FH -- 1.0
+-f-f- Kepala Bagian -- 1.0
+-f-f- Kepala Bagian Penerangan -- 1.0
+-f-f- JAKARTA -- 1.0
+-f-f- Penyidik Polda Metro Jaya -- 1.0
+-f-f- Penyidik Polda Metro -- 1.0
+-f-f- Bagian Penerangan -- 1.0
+-f-f- Kabag Penum -- 1.0
+-f-f- Penyidik Polda -- 1.0
+-f-f- Kepala Bagian Penerangan Umum -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/6376cc4fc361fbcc63592ea0b92a15d5.jpeg" alt="Rizieq Janji Bakal Taat Hukum" data:w="633" data:h="480">  Ketua Front Pembela Islam (FPI) Rizieq Shihab saat tiba di Polda Metero Jaya. Foto: MTVN/Deny Irwanto    
+<p><strong>Metrotvnews.com, Jakarta:</strong> Ketua Front Pembela Islam (FPI) Rizieq Shihab siap menjalani semua proses hukum yang menjeratnya. Dia akan berjuang melalui praperadilan.<br>&nbsp;<br>Rizieq mengaku tidak akan mempersulit penyidik dalam menyelesaikan kasus. "Intinya, kita ikuti saja proses hukum yang ada, kita kooperatif. Sebagai warga negara yang baik, kita harus taat hukum," kata Rizieq di Mapolda Metro Jaya, Jalan Jenderal Sudirman, Jakarta Selatan, Rabu (1/2/2016).<br>&nbsp;<br>Terkait status tersangka yang disematkan kepada dirinya dalam kasus dugaan penghinaan lambang negara Pancasila, Rizieq tidak ambil pusing. &nbsp;Semua proses hukum akan dijalaninya.<br>&nbsp;<br>Rizieq mengaku melakukan upaya pembelaan dengan mendaftarkan praperadilan ke Pengadilan Negeri Kota Bandung.<br>&nbsp;<br>"Soal status saya sebagai tersangka di Polda Jabar. Alhamdulillah kemarin tim kuasa hukum telah mendaftarkan untuk praperadilan," kata Rizieq.<br>&nbsp;<br>Sebelumnya, Senin 30 Januari 2017, Polda Jawa Barat menetapkan Muhammad Rizieq Shihab sebagai tersangka kasus dugaan penodaan Pancasila. Polda menetapkan status Rizieq setelah melakukan gelar perkara pada kasus tersebut.<br>&nbsp;<br>Sukmawati Soekarnoputri melaporkan Rizieq ke Polda Jabar pada Oktober tahun lalu. Rizieq dituding melakukan penodaan terhadap Pancasila dan pencemaran nama baik Soekarno saat menyampaikan ceramah di Lapangan Gasibu Kota Bandung pada 2011.<br></p> 
+<p>(FZN)</p>
+
+
+-*-10648193
+-*-http://news.metrotvnews.com/hukum/5b279rrk-rizieq-janji-bakal-taat-hukum
+
+--------------------
+
+
+-t-t- Ketua Front Pembela Islam -- 11.128827505801821
+-t-t- Muhammad Rizieq Shihab -- 4.075860229692937
+-t-t- Polda Jabar -- 3.6638173907620764
+-t-t- Kota Bandung -- 3.6042229325580664
+-t-t- Mapolda Metro Jaya -- 3.5461375732310465
+-t-t- Jalan Jenderal Sudirman -- 3.5221589617217504
+-t-t- Pancasila -- 2.787370264103123
+-t-t- FPI -- 2.5573088953151135
+-t-t- Jakarta Selatan -- 2.5018910535566663
+-t-t- Pengadilan Negeri -- 1.9972522016671836
+-t-t- Sukmawati Soekarnoputri -- 1.9535857688421963
+-t-t- Lapangan Gasibu -- 1.6279972331201318
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Negeri Kota -- 1.0
+-f-f- Polda Jawa Barat -- 1.0
+-f-f- Jakarta: Ketua -- 1.0
+-f-f- Lapangan Gasibu Kota Bandung -- 1.0
+-f-f- Foto: MTVN -- 1.0
+-f-f- Jawa Barat -- 1.0
+-f-f- Deny Irwanto -- 1.0
+-f-f- Metero Jaya -- 1.0
+-f-f- Pengadilan Negeri Kota -- 1.0
+-f-f- Polda Jawa -- 1.0
+-f-f- Gasibu Kota Bandung -- 1.0
+-f-f- Polda Metero -- 1.0
+-f-f- Gasibu Kota -- 1.0
+-f-f- Jakarta: Ketua Front Pembela -- 1.0
+-f-f- Lapangan Gasibu Kota -- 1.0
+-f-f- Negeri Kota Bandung -- 1.0
+-f-f- Polda Metero Jaya -- 1.0
+-f-f- Pengadilan Negeri Kota Bandung -- 1.0
+-f-f- FZN -- 1.0
+-f-f- Jakarta: Ketua Front Pembela Islam -- 1.0
+-f-f- Jakarta: Ketua Front -- 1.0
+-f-f- Jakarta : Ketua Front Pembela Islam -- 0.0
+-f-f- Foto : MTVN -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/da03a93da71fbfa3b8a61311312ecde5.jpeg" data:w="919" data:h="613">  
+<p>JAKARTA (Pos Kota) – Setelah lebih dari satu jam berada di Gedung Ditreskrimsus Polda Metro Jaya, Antasari Azhar akhirnya keluar dan mengaku sudah menemui penyidik <em>Unit Cyber Crime</em> untuk mempertanyakan sejauh mana tindak lanjut Kepolisian terhadap laporannya.</p> 
+<p>“Setelah saya bertemu dengan pejabat yang berwenang yang dulu menangani (laporannya), bahwa ternyata masih stag. Belum ada pergerakan dan beliau berjanji akan segera dituntaskan, mudah-mudahan sesuai dengan janji itu,” ujarnya kepada awak media di gedung Ditreskrimsus Polda Metro Jaya, Rabu, (1/2/2017).</p> 
+<p>Namun, Antasari enggan mengatakan alasan atau letak kesulitan Kepolisian dalam menangani kasusnya, hal tersebut lantaran bukan wewenang dirinya untuk menjelaskan.</p> 
+<p>“Iya disuruh menunggu lagi. Ya terpaksa saya nunggulah. Tapi, tentunya mungkin karena sekarang saya sudah tidak lagi dalam kondisi susah keluar (tidak ditahan), saya akan terus mungkin seminggu, dua minggu, sebulan sekali akan saya tanyakan kemari,” pungkasnya.</p> 
+<p>(<strong>Baca</strong>: <a href="http://poskotanews.com/2017/02/01/tanyakan-tindak-lanjut-perkara-antasari-datangi-polda-metro/" rel="nofollow">Tanyakan Tindak Lanjut Perkara, Antasari Datangi Polda Metro</a>)</p> 
+<p>Sementara adik Nasrudin Zulkarnaen mantan bos PT Putra Rajawali Banjaran, Andi Syamsuddin mengatakan, telah meminta kepada penyidik untuk segera menuntaskan laporan Antasari.</p> 
+<p>“Sehingga kita sampaikan kepada penyidik, ya haruslah (ditindak lanjuti), bahwa ini adalah tugas anda. Nah masuknya (ditahan) Pak Antasari gitu karena masalah sms tersebut. Jadi, kita minta untuk segeralah (diselesaikan),” kata Andi.</p> 
+<p>Dia meminta agar Polri segera menindak lanjuti perkara sms gelap tersebut karena laporan sudah dibuat sejak tahun 2011.</p> 
+<p><strong>(yendhi/sir)</strong></p>
+
+
+-*-10648181
+-*-http://poskotanews.com/2017/02/01/antasari-polisi-janji-akan-tuntaskan-laporan/
+
+--------------------
+
+
+-t-t- Ditreskrimsus Polda Metro Jaya -- 10.479241067671554
+-t-t- Antasari Azhar -- 3.1966571347777224
+-t-t- Cyber Crime -- 2.5036308432536205
+-t-t- Kepolisian -- 2.315090266598531
+-t-t- Nasrudin Zulkarnaen -- 1.8870981976494812
+-t-t- Andi -- 1.7637043843205564
+-t-t- JAKARTA -- 1.318171042239598
+-t-t- Iya -- 1.0510379598439623
+-t-t- Polri -- 0.8301381790901277
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Unit Cyber -- 1.0
+-f-f- Andi Syamsuddin -- 1.0
+-f-f- Pos Kota -- 1.0
+-f-f- Unit Cyber Crime -- 1.0
+-f-f- Datangi Polda Metro -- 1.0
+-f-f- Baca: Tanyakan Tindak -- 1.0
+-f-f- Gedung Ditreskrimsus -- 1.0
+-f-f- Tanyakan Tindak Lanjut Perkara -- 1.0
+-f-f- Lanjut Perkara -- 1.0
+-f-f- Putra Rajawali Banjaran -- 1.0
+-f-f- Baca: Tanyakan -- 1.0
+-f-f- Tanyakan Tindak Lanjut -- 1.0
+-f-f- Rajawali Banjaran -- 1.0
+-f-f- Gedung Ditreskrimsus Polda Metro Jaya -- 1.0
+-f-f- Tindak Lanjut Perkara -- 1.0
+-f-f- Antasari Datangi Polda Metro -- 1.0
+-f-f- PT Putra -- 1.0
+-f-f- Pak Antasari -- 1.0
+-f-f- Tindak Lanjut -- 1.0
+-f-f- Datangi Polda -- 1.0
+-f-f- Tanyakan Tindak -- 1.0
+-f-f- Gedung Ditreskrimsus Polda -- 1.0
+-f-f- Gedung Ditreskrimsus Polda Metro -- 1.0
+-f-f- Antasari Datangi -- 1.0
+-f-f- Antasari Datangi Polda -- 1.0
+-f-f- Baca: Tanyakan Tindak Lanjut Perkara -- 1.0
+-f-f- Baca: Tanyakan Tindak Lanjut -- 1.0
+-f-f- Putra Rajawali -- 1.0
+-f-f- PT Putra Rajawali Banjaran -- 1.0
+-f-f- PT Putra Rajawali -- 1.0
+-f-f- Baca : Tanyakan Tindak Lanjut Perkara -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/208aeef192d406c659ae66d2bb16f2cc.jpeg" width="700" height="393" alt="Mantan Kadis Kominfo Makassar Jalani Sidang Perdana" data:w="700" data:h="393">             
+<p><strong>Laporan wartawan Tribun Timur Hasan Basri</strong></p> 
+<p><strong>TRIBUN-TIMUR.COM -</strong> Sidang perdana terdakwa kasus dugaan korupsi pengadaan brosur Dinas Komonikasi dan Informatika (Diskominfo) Makassar digelar di Pengadilan Tindak Pidana Korupsi Makassar, Rabu (01/02/2017).</p> 
+<p>Terdakwa mantan Kepala Dinas <a href="http://makassar.tribunnews.com/tag/kominfo" rel="nofollow">Kominfo</a> Makassar dan seorang rekanan proyek dihadirkan dalam persidangan dengan agenda pembacaan dakwaan.</p> 
+<p>Majelis Hakim Pengadilan yang menyidangkan perkara dipimpin langsung Bonar Harinja sebagai hakim ketua dan Kristijan P Jati serta Rahim sebagai hakim anggota.</p> 
+<p>Pantauan Tribun dalam persidangan terdakwa Ismunandar hadir dengan mengenakan baju putih lengan panjang dan celana hitam panjang.</p> 
+<p>Ismunandar didampingi dua pengacara. Sementara rekanan didampingi satu orang pengacara</p>
+
+
+-*-10648175
+-*-http://makassar.tribunnews.com/2017/02/01/mantan-kadis-kominfo-makassar-jalani-sidang-perdana
+
+--------------------
+
+
+-t-t- Pengadilan Tindak Pidana Korupsi -- 5.021871928575356
+-t-t- Makassar -- 3.411493652522696
+-t-t- Tribun Timur -- 2.606222144165056
+-t-t- Hasan Basri -- 2.584731059424552
+-t-t- Majelis Hakim -- 2.0446498639882846
+-t-t- Ismunandar -- 1.7427343820077543
+-t-t- Sidang -- 1.2638735983895586
+-t-t- Rahim -- 0.9410837247279615
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Tindak Pidana Korupsi Makassar -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Informatika -- 1.0
+-f-f- Bonar Harinja -- 1.0
+-f-f- Kominfo Makassar -- 1.0
+-f-f- Majelis Hakim Pengadilan -- 1.0
+-f-f- Kristijan P -- 1.0
+-f-f- Timur Hasan Basri -- 1.0
+-f-f- Kepala Dinas Kominfo Makassar -- 1.0
+-f-f- Dinas Komonikasi -- 1.0
+-f-f- Pidana Korupsi Makassar -- 1.0
+-f-f- Diskominfo -- 1.0
+-f-f- Pantauan Tribun -- 1.0
+-f-f- Timur Hasan -- 1.0
+-f-f- Dinas Kominfo -- 1.0
+-f-f- Hakim Pengadilan -- 1.0
+-f-f- Pengadilan Tindak Pidana Korupsi Makassar -- 1.0
+-f-f- Kristijan P Jati -- 1.0
+-f-f- P Jati -- 1.0
+-f-f- Dinas Kominfo Makassar -- 1.0
+-f-f- Tribun Timur Hasan Basri -- 1.0
+-f-f- Korupsi Makassar -- 1.0
+-f-f- Tribun Timur Hasan -- 1.0
+-f-f- Kepala Dinas Kominfo -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/bd42176d9ed2de61d6324e074edc5a8c.jpeg" width="700" height="393" alt="Dua Pria Kediri Ini Tinggal di Surabaya, saat Jalan-jalan di Mall yang Mereka Lakukan. . ." data:w="700" data:h="393">  
+<p><strong>SURYA.co.id | SURABAYA</strong> - Andi Agus (26) dan Heru (20) tidak bisa mengelak saat ditangkap usai 'menyikat' <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> merk INK di mall PTC <a href="http://surabaya.tribunnews.com/tag/surabaya" rel="nofollow">Surabaya</a>, Senin (30/1/2017).</p> 
+<p>Kedua maling asal <a href="http://surabaya.tribunnews.com/tag/kediri" rel="nofollow">Kediri</a> yang tinggal di Jl Tambak Dalam itu diringkus satpam begitu keluar parkir mall PTC.</p> 
+<p>Awalnya, saat motor yang dinaiki masuk kawasan mal, kedua maling ini sengaja memarkir motor dekat dengan lokasi <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> incarannya.</p> 
+<p>Begitu melihat <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> yang kondisinya bagus ada di salah satu spion motor, tersangka Andi memarkir sepedanya di samping <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> yang akan dicurinya.</p> 
+<p>"Sedangkan tersangka Heru mengawasi lokasi saat Andi mengambil <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a>," kata Kanit Reskrim Polsek Wiyung, AKP Sugimin, Rabu (1/2/2017).</p> 
+<p>Begitu <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> diambil, selanjutnya dimasukkan ke dalam jok sepeda motornya lalu keluar dari area parkir.</p> 
+<p>Naas, aksi keduanya ternyata diawasi satpam lewat CCTV sehingga sampai pintu keluar area parkir, pelaku dihentikan dan dibawa ke posko satpam.</p> 
+<p>Karena terbukti mencuri, selanjutnya kedua tersangka beserta <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> curiannya dilaporkan ke Polsek Wiyung.</p> 
+<p>Kepada penyidik, Andi dan Heru mengaku, aksi yang dilakukan ini bukan yang pertama.</p> 
+<p>Ia sudah melakukan <a href="http://surabaya.tribunnews.com/tag/pencurian" rel="nofollow">pencurian</a> <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> sebanyak enam kali. Dan semuanya dilakukan di lokasi parkir mal.</p> 
+<p>"Saya dan Heru memilih <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> yang bagus dan bermerek supaya cepat laku dijual. Biasanya saya jual <a href="http://surabaya.tribunnews.com/tag/helm" rel="nofollow">helm</a> di pasar Gembong Rp 100 ribu," aku Andi yang pekerja swasta di <a href="http://surabaya.tribunnews.com/tag/surabaya" rel="nofollow">Surabaya</a> ini.</p> 
+<p>Andi mengaku, terpaksa mencuri karena untuk menambah penghasilan. Lantaran upah di tempat kerjanya dirasa masih kurang.</p>     
+<span>Berita Terkait:</span>     Penulis: Fatkhul Alami   Editor: Titis Jati Permata    
+<span>Ikuti kami di</span>
+
+
+-*-10648165
+-*-http://surabaya.tribunnews.com/2017/02/01/dua-pria-kediri-ini-tinggal-di-surabaya-saat-jalan-jalan-di-mall-yang-mereka-lakukan
+
+--------------------
+
+
+-t-t- Andi -- 6.199413789623069
+-t-t- Heru -- 4.247970912173371
+-t-t- Polsek Wiyung -- 4.081842108285146
+-t-t- PTC -- 2.4824943810316045
+-t-t- Kanit Reskrim -- 2.172617636331855
+-t-t- SURABAYA -- 1.3125429951224903
+-t-t- INK -- 1.2726463879540315
+-t-t- Kediri -- 1.2468516945820356
+-t-t- CCTV -- 1.0156698852083903
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Surabaya -- 2.0
+-f-f- Reskrim Polsek Wiyung -- 1.0
+-f-f- Gembong Rp -- 1.0
+-f-f- Reskrim Polsek -- 1.0
+-f-f- Kanit Reskrim Polsek -- 1.0
+-f-f- PTC Surabaya -- 1.0
+-f-f- Jl Tambak -- 1.0
+-f-f- Andi Agus -- 1.0
+-f-f- Gembong Rp 100 -- 1.0
+-f-f- AKP Sugimin -- 1.0
+-f-f- Jl Tambak Dalam -- 1.0
+-f-f- Tambak Dalam -- 1.0
+-f-f- Kanit Reskrim Polsek Wiyung -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/01e6d62ecade3701eb39272d770a0e31.jpeg" alt="GP Ansor dan Jamiah NU Siap Bela Ma'ruf Amin" data:w="650" data:h="484">  Ketua Umum MUI Ma'ruf Amin (tengah) berjalan sebelum mengikuti sidang lanjutan kasus dugaan penistaan agama di Auditorium Kementerian Pertanian, Jakarta, Selasa (31/1/2017). Foto: Antara/Reno Esnir    
+<p><strong>Metrotvnews.com, Jakarta</strong>: Sikap gubernur nonaktif DKI Jakarta Basuki Tjahaja Purnama alias Ahok terhadap Ketua Majelis Ulama Indonesia (MUI) Ma'ruf Amin dalam persidangan kasus dugaan penistaaan agama menuai kecaman dari berbagai pihak. Termasuk dari organisasi pemuda Nahdlatul Ulama (NU) Gerakan Pemuda Ansor (GP Ansor).</p> 
+<p>Ketua Umum PP GP Ansor Yaqut Cholil Qoumas menyayangkan sikap Ahok maupun tim pengacaranya. Penolakan terhadap keterangan K.H. Ma’ruf Amin sebagai ahli justru memelintir situasi dan seolah-olah menempatkan sebagai terdakwa.</p> "Cecaran pertanyaan maupun tuduhan serta kata-kata kasar yang ditujukan kepada K.H. Ma’ruf Amin merupakan sikap yang menonontonkan argumentum ad hominem (menyerang pribadi Kiai Ma’ruf daripada mematahkan argumen yang terkait keahlian beliau)," ujar Yaqut dalam keterangan terulisnya, Rabu (1/2/2017). 
+<p>Yaqut menilai, keterangan yang diberikan Rais ‘Aam PBNU, sekaligus pimpinan tertinggi dalam jamiah NU itu sudah sesuai dengan kompetensi maupun kapasitasnya sebagai ahli agama islam, baik sebagai fuqaha (ahli fiqh), maupun sebagai Ketua Umum MUI.</p> 
+<p>"K.H. Ma’ruf Amin berdasarkan kompetensinya sebagai ahli hukum Islam, maupun kapasitasnya sebagai Rais ‘Aam Syuriah PBNU-pimpinan tertinggi yang memberikan arah gerak hukum (Islam) dalam tubuh NU, maupun Ketua Umum MUI, adalah orang yang ahli dalam hal agama, dan sudah tepat dihadirkan ke persidangan untuk dimintai sebagai keterangan ahli dalam hal kasus penistaan agama," kata dia.</p> 
+<p>Karena itu, pihaknya tidak akan tinggal diam dengan sikap Ahok maupun tim kuasa hukumnya. "Kami siap mendampingi dan membela Kiai Ma’ruf Amin, sebagai pimpinan tertinggi kami, secara lahir dan batin dalam koridor hukum; dan menyerukan kepada seluruh kader Ansor dan Banser untuk siaga satu komando," kata dia.</p> 
+<p>Mantan Ketua Lajnah Ta'lif wan Nasyr (Lembaga Penerbitan dan Penyebaran Informasi) PBNU Khatibul Umam Wiranu mengaku kaget dengan sikap yang disampaikan Ahok maupun tim pengacaranya. Perilaku itu dianggap telah keluar dari batas kewajaran dalam kehidupan yang mendasarkan diri pada Pancasila.</p> 
+<p>"Ancaman dan tudingan kepada Kiai Ma'ruf sebagai saksi palsu merupakan kado pahit bagi jamiah NU yang tepat pada 31 Januari kemarin genap berusia 91 tahun. Tudingan itu sangat menyakitkan dan tidak patut, serta merupakan tindakan yang melampaui batas-batas kewajaran hidup sebagai suatu bangsa yang beradab," ujar politikus Demokrat itu.</p> 
+<p>Pernyataan Ahok kata dia, semakin menegaskan tingkat rendahnya moralitas seorang pemimpin. Moralitas pemimpin merupakan syarat absolut yang harus dimiliki siapapun yang didaulat menjadi pemimpin. Berbagai ucapan Ahok selama ini, semakin menegaskan kualitas kepemimpinan Ahok. Puncaknya, ancaman dan tudingan Ahok kepada Kiai Ma'ruf merupakan bukti rendahnya moralitas Ahok.</p> 
+<p>"Pernyataan tersebut tidak pantas dan tidak patut dikeluarkan oleh pemimpin sekaligus pengingkaran terhadap hakikat Indonesia yang tidak bisa dipisahkan dari peran Ulama. Ahok tidak paham sejarah Indonesia. Tudingan Ahok terhadap fatwa MUI merupakan delegitimasi ulama dan kiai," ujar anggota Komisi VIII DPR RI itu.</p> 
+<p>"Jika benar Ahok dan tim pengacaranya mempolisikan KH Ma'ruf Amin, cicit dari Syeikh Nawawi Al-Bantany ini, saya bersama jutaan santri akan membela beliau tanpa syarat. Kita semua harus bersikap keras, tegas, dan tegakkan kepala menghadapi orang-orang yang punya kekuasaan yang bersikap arogan," kata Khatibul Umam.</p> 
+<p>(MBM)</p>
+
+
+-*-10647764
+-*-http://news.metrotvnews.com/hukum/JKRR8v3K-gp-ansor-dan-jamiah-nu-siap-bela-ma-ruf-amin
+
+--------------------
+
+
+-t-t- Ketua Umum MUI -- 11.652046731789994
+-t-t- Ahok -- 11.4998015445687
+-t-t- Ma'ruf Amin -- 7.8007261305708795
+-t-t- K.H. Ma -- 6.9785435123888435
+-t-t- GP Ansor -- 5.498376419264892
+-t-t- Majelis Ulama Indonesia -- 4.5307591946859604
+-t-t- Kiai Ma'ruf -- 4.185163698665487
+-t-t- Yaqut Cholil Qoumas -- 4.168640153013806
+-t-t- Komisi VIII DPR RI -- 3.6205368466482297
+-t-t- Khatibul Umam Wiranu -- 3.206396714465323
+-t-t- Pemuda Ansor -- 3.0523074385961095
+-t-t- DKI Jakarta -- 3.030735386750025
+-t-t- Nahdlatul Ulama -- 2.8940316656627707
+-t-t- Kementerian Pertanian -- 2.594528980634222
+-t-t- Rais -- 2.2255832869227996
+-t-t- Islam -- 2.172951886887649
+-t-t- Banser -- 1.0099670162842311
+-t-t- Pancasila -- 0.9656244523825719
+-t-t- Demokrat -- 0.9220989547535494
+-t-t- MBM -- 0.8006533278526385
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- NU -- 7.0
+-f-f- Ansor Yaqut Cholil Qoumas -- 1.0
+-f-f- Umum PP GP Ansor Yaqut Cholil Qoumas -- 1.0
+-f-f- Reno Esnir -- 1.0
+-f-f- Ketua Umum PP GP Ansor Yaqut Cholil -- 1.0
+-f-f- Gerakan Pemuda -- 1.0
+-f-f- Ketua Lajnah Ta'lif -- 1.0
+-f-f- Jakarta Basuki -- 1.0
+-f-f- Tudingan Ahok -- 1.0
+-f-f- PBNU Khatibul -- 1.0
+-f-f- Penyebaran Informasi -- 1.0
+-f-f- GP Ansor Yaqut Cholil Qoumas -- 1.0
+-f-f- Mantan Ketua Lajnah Ta'lif -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- KH Ma'ruf Amin -- 1.0
+-f-f- Aam PBNU -- 1.0
+-f-f- Ketua Umum MUI Ma'ruf -- 1.0
+-f-f- Umum MUI Ma'ruf Amin -- 1.0
+-f-f- GP Ansor Yaqut Cholil -- 1.0
+-f-f- Ketua Umum PP -- 1.0
+-f-f- Ketua Umum PP GP Ansor -- 1.0
+-f-f- Aam Syuriah -- 1.0
+-f-f- KH Ma'ruf -- 1.0
+-f-f- Jakarta Basuki Tjahaja Purnama -- 1.0
+-f-f- Gerakan Pemuda Ansor -- 1.0
+-f-f- Aam Syuriah PBNU-pimpinan -- 1.0
+-f-f- Umum PP GP Ansor Yaqut Cholil -- 1.0
+-f-f- DKI Jakarta Basuki Tjahaja -- 1.0
+-f-f- PP GP Ansor Yaqut Cholil -- 1.0
+-f-f- MUI Ma'ruf Amin -- 1.0
+-f-f- Ketua Majelis Ulama -- 1.0
+-f-f- Foto: Antara -- 1.0
+-f-f- Mantan Ketua Lajnah -- 1.0
+-f-f- Nasyr -- 1.0
+-f-f- Ketua Umum PP GP -- 1.0
+-f-f- Pernyataan Ahok -- 1.0
+-f-f- Ketua Umum PP GP Ansor Yaqut -- 1.0
+-f-f- DKI Jakarta Basuki Tjahaja Purnama -- 1.0
+-f-f- Basuki Tjahaja Purnama -- 1.0
+-f-f- Syeikh Nawawi -- 1.0
+-f-f- Umum PP GP Ansor -- 1.0
+-f-f- PP GP Ansor Yaqut Cholil Qoumas -- 1.0
+-f-f- PP GP -- 1.0
+-f-f- PP GP Ansor -- 1.0
+-f-f- MUI Ma'ruf -- 1.0
+-f-f- Jakarta: Sikap -- 1.0
+-f-f- Ketua Umum PP GP Ansor Yaqut Cholil Qoumas -- 1.0
+-f-f- Nawawi Al-Bantany -- 1.0
+-f-f- Auditorium Kementerian Pertanian -- 1.0
+-f-f- Umum PP GP -- 1.0
+-f-f- Auditorium Kementerian -- 1.0
+-f-f- PP GP Ansor Yaqut -- 1.0
+-f-f- Syuriah PBNU-pimpinan -- 1.0
+-f-f- Ketua Majelis Ulama Indonesia -- 1.0
+-f-f- Umum PP GP Ansor Yaqut -- 1.0
+-f-f- Ketua Umum MUI Ma'ruf Amin -- 1.0
+-f-f- Lembaga Penerbitan -- 1.0
+-f-f- Ketua Lajnah -- 1.0
+-f-f- PBNU Khatibul Umam Wiranu -- 1.0
+-f-f- Umum PP -- 1.0
+-f-f- Ansor Yaqut -- 1.0
+-f-f- Lajnah Ta'lif -- 1.0
+-f-f- Ansor Yaqut Cholil -- 1.0
+-f-f- DKI Jakarta Basuki -- 1.0
+-f-f- Umum MUI Ma'ruf -- 1.0
+-f-f- Mantan Ketua -- 1.0
+-f-f- Ketua Majelis -- 1.0
+-f-f- PBNU Khatibul Umam -- 1.0
+-f-f- GP Ansor Yaqut -- 1.0
+-f-f- Syeikh Nawawi Al-Bantany -- 1.0
+-f-f- Basuki Tjahaja -- 1.0
+-f-f- Jakarta Basuki Tjahaja -- 1.0
+-f-f- Jakarta : Sikap -- 0.0
+-f-f- Foto : Antara -- 0.0
+-*- -- time: 0.004
+
+--------------------
+
+

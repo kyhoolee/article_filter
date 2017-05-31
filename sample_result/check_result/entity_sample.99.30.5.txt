@@ -1,0 +1,1578 @@
+-*-<img src="[BASEURL]/4b366add6c5a6550ac33bba9575d84c0.jpeg" alt="Ilustrasi" data:w="800" data:h="500">   
+<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p>  
+<p><strong>PADANG -</strong> Hujan yang terjadi sejak malam tadi hingga pagi ini, membuat beberapa kawasan di Kota Padang, Sumatera Barat, banjir. Ketinggian air mencapai 50 sentimeter, seperti yang terjadi di Gunung Pangilun, Kecamatan Padang Utara.</p> 
+<p>Imbas banjir ini, aktivitas belajar mengajar di Madrasah Ibtidaiyah Negeri (MIN) Gunung Pangilun diliburkan satu hari, karena ruang kelas terendam.</p> 
+<p>"Kami sudah koordinasi dengan kepala sekolah dan para guru bahwa sekolah libur karena tidak mungkin lagi kami belajar," kata Wakil Kepala MIN Gunung Pangilun Padang, Asmidar, Rabu (1/2/2017)</p> 
+<p>Banjir menggenangi delapan ruang kelas sejak pukul 05.00 WIB tadi. "Kami memang ada penyerap air seperti kolam ikan dan got-got kecil tapi tidak bekerja maksimal, lantaran drainase tersumbat," tambahnya.</p> 
+<p>Banjir sudah sering menggenangi ruang kelas. Pihaknya sudah berkoordinasi dengan pengurus MAN, MTs dan TK, yang berada di area sama, agar membenahi saluran pembuangan air. "Kalau sudah hujan 3 jam saja pasti sudah banjir," ujar Asmidar.</p> 
+<p>Banjir juga menggenangi SDN 17 Gunung Panggilun Padang. Namun proses belajar mengajar di sekolah ini tidak diliburkan. Hanya saja siswanya tidak datang ke sekolah lantaran rumah mereka yang terendam banjir.</p> 
+<p>"Kami tidak meliburkan siswa tapi siswanya yang tidak datang. Ada yang sempat datang sebanyak 25 orang dari 170 siswa yang ada di sini," kata Kepala SDN 17 Gunung Pangilun Sari Murni.</p> 
+<p>Berdasarkan pantauan, banjir juga menggenangi rumah warga dan jalan-jalan di kawasan Gunung Pangilun. Ketinggian air rata-rata setengah meter. Beberapa warga tampak sibuk membersihkan rumahnya dari genangan air bercampur lumpur.</p>
+
+
+-*-10646006
+-*-http://news.okezone.com/read/2017/02/01/340/1606359/hujan-semalaman-banjir-rendam-rumah-sekolah-di-padang
+
+--------------------
+
+
+-t-t- Gunung Pangilun -- 10.530914421526738
+-t-t- SDN 17 Gunung -- 5.783879119486997
+-t-t- Kota Padang -- 2.5630350037809206
+-t-t- Sumatera Barat -- 2.553054649470514
+-t-t- Madrasah Ibtidaiyah -- 2.418793677147181
+-t-t- MIN -- 2.323949845626218
+-t-t- Asmidar -- 2.085254930666377
+-t-t- Hujan -- 1.3130525901758598
+-t-t- MAN -- 1.0110102577616027
+-t-t- MTs -- 1.009494273253899
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Pangilun Sari -- 1.0
+-f-f- Wakil Kepala MIN -- 1.0
+-f-f- Kepala SDN 17 Gunung -- 1.0
+-f-f- Gunung Panggilun Padang -- 1.0
+-f-f- Gunung Pangilun Sari -- 1.0
+-f-f- Pangilun Sari Murni -- 1.0
+-f-f- Kepala SDN 17 Gunung Pangilun Sari Murni -- 1.0
+-f-f- Kecamatan Padang -- 1.0
+-f-f- Wakil Kepala MIN Gunung Pangilun -- 1.0
+-f-f- Kepala SDN 17 Gunung Pangilun Sari -- 1.0
+-f-f- Gunung Pangilun Padang -- 1.0
+-f-f- Sari Murni -- 1.0
+-f-f- SDN 17 Gunung Panggilun -- 1.0
+-f-f- 17 Gunung Panggilun Padang -- 1.0
+-f-f- Kepala MIN Gunung -- 1.0
+-f-f- MIN Gunung -- 1.0
+-f-f- Panggilun Padang -- 1.0
+-f-f- Kepala MIN Gunung Pangilun Padang -- 1.0
+-f-f- MIN Gunung Pangilun -- 1.0
+-f-f- Ibtidaiyah Negeri -- 1.0
+-f-f- 17 Gunung Pangilun Sari Murni -- 1.0
+-f-f- SDN 17 Gunung Pangilun Sari Murni -- 1.0
+-f-f- Wakil Kepala MIN Gunung -- 1.0
+-f-f- MIN Gunung Pangilun Padang -- 1.0
+-f-f- Kepala MIN -- 1.0
+-f-f- Wakil Kepala -- 1.0
+-f-f- Kepala MIN Gunung Pangilun -- 1.0
+-f-f- Gunung Pangilun Sari Murni -- 1.0
+-f-f- SDN 17 Gunung Panggilun Padang -- 1.0
+-f-f- Kepala SDN 17 Gunung Pangilun -- 1.0
+-f-f- Kecamatan Padang Utara -- 1.0
+-f-f- Kepala SDN 17 -- 1.0
+-f-f- 17 Gunung Panggilun -- 1.0
+-f-f- Pangilun Padang -- 1.0
+-f-f- SDN 17 Gunung Pangilun Sari -- 1.0
+-f-f- Wakil Kepala MIN Gunung Pangilun Padang -- 1.0
+-f-f- Kepala SDN -- 1.0
+-f-f- 17 Gunung Pangilun Sari -- 1.0
+-f-f- Padang Utara -- 1.0
+-f-f- Gunung Panggilun -- 1.0
+-f-f- TK -- 1.0
+-f-f- 17 Gunung Pangilun -- 1.0
+-f-f- SDN 17 Gunung Pangilun -- 1.0
+-f-f- Madrasah Ibtidaiyah Negeri -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/7b0356fade58aaa37000ed591b543c53.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Laporan Keuangan Pemerintah Daerah (LKPD) Sumatera Barat (Sumbar) 2016 kembali memperoleh opini Wajar Tanpa Pengecualian (WTP) oleh Badan Pemeriksaan Keuangan (BPK) RI.   "Ini berkat kerja keras semua Aparatur Sipil Negara (ASN) dan Organisasi Perangkat Daerah (OPD)," kata Gubernur Sumbar, Irwan Prayitno di Padang, Senin.   Opini WTP itu disampaikan perwakilan BPK RI pada rapat paripurna istimewa di DPRD Sumbar, Senin (22/5) dengan agenda Penyerahan LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran 2016.   Ia menambahkan sejak menjabat sebagai gubernur Sumbar periode pertama 2010, ia sudah berkomitmen untuk memperbaiki laporan keuangan daerah.   Komitmen itu ditunjukkan dengan dibentuknya Biro Aset di bawah sekretariat daerah untuk memperbaiki laporan tentang aset yang sebelumnya bermasalah, akibat gempa 2009.   "Sekarang, Sumbar mendapatkan opini WTP lima kali berturut-turut," katanya.   Sementara itu Kepala Biro Humas Sekretariat Provinsi Sumbar, Jasman menyampaikan, menurut perwakilan BPK RI Isma Yatun mengatakan, penyerahan LHP Sumbar adalah yang pertama di Indonesia.   "Ini sebuah kebanggaan bagi kita, sekaligus menjadi semangat pendorong bagi kita untuk terus mempertahankan LKPD yang baik ke depan," katanya. (*)  
+<p>Editor : <span>Mukhlisun</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12313804
+-*-http://sumbar.antaranews.com/berita/204455/lkps-sumbar-terima-wtp-dari-bpk-ri.html
+
+--------------------
+
+
+-t-t- Provinsi Sumbar -- 5.2242069431641704
+-t-t- BPK RI -- 4.608273965792678
+-t-t- Aparatur Sipil Negara -- 3.831986991285526
+-t-t- WTP -- 3.340750821405483
+-t-t- LKPD -- 3.208727599829384
+-t-t- Sumatera Barat -- 2.569542647121561
+-t-t- Padang -- 2.480424208323692
+-t-t- Irwan Prayitno -- 2.338871431532851
+-t-t- ASN -- 1.1996566947109744
+-t-t- OPD -- 1.1824218498582473
+-t-t- Indonesia -- 0.8679242943180567
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- BPK-RI Terhadap LKPD Provinsi Sumbar -- 1.0
+-f-f- Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Organisasi Perangkat -- 1.0
+-f-f- Biro Humas Sekretariat Provinsi -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Sekretariat Provinsi -- 1.0
+-f-f- LKPD Provinsi Sumbar -- 1.0
+-f-f- Pemeriksaan Keuangan -- 1.0
+-f-f- Tahun Anggaran 2016 -- 1.0
+-f-f- Jasman -- 1.0
+-f-f- Provinsi Sumbar Tahun -- 1.0
+-f-f- RI Isma -- 1.0
+-f-f- Organisasi Perangkat Daerah -- 1.0
+-f-f- Humas Sekretariat Provinsi -- 1.0
+-f-f- BPK RI Isma -- 1.0
+-f-f- BPK RI Isma Yatun -- 1.0
+-f-f- RI Isma Yatun -- 1.0
+-f-f- BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- Kepala Biro -- 1.0
+-f-f- Terhadap LKPD Provinsi Sumbar Tahun -- 1.0
+-f-f- Opini WTP -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD Provinsi Sumbar -- 1.0
+-f-f- LKPD Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- LHP Sumbar -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Humas Sekretariat Provinsi Sumbar -- 1.0
+-f-f- Terhadap LKPD Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Biro Humas -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- BPK-RI Terhadap -- 1.0
+-f-f- Tahun Anggaran -- 1.0
+-f-f- Terhadap LKPD Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Biro Humas Sekretariat Provinsi Sumbar -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- BPK-RI Terhadap LKPD Provinsi Sumbar Tahun -- 1.0
+-f-f- Badan Pemeriksaan -- 1.0
+-f-f- Terhadap LKPD -- 1.0
+-f-f- BPK-RI Terhadap LKPD -- 1.0
+-f-f- Kepala Biro Humas -- 1.0
+-f-f- Penyerahan LHP BPK-RI -- 1.0
+-f-f- Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD Provinsi Sumbar -- 1.0
+-f-f- Gubernur Sumbar -- 1.0
+-f-f- Terhadap LKPD Provinsi Sumbar -- 1.0
+-f-f- LKPD Provinsi Sumbar Tahun -- 1.0
+-f-f- Penyerahan LHP -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD Provinsi -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun -- 1.0
+-f-f- Badan Pemeriksaan Keuangan -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun -- 1.0
+-f-f- Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Sumbar Tahun Anggaran -- 1.0
+-f-f- Penyerahan LHP BPK-RI Terhadap LKPD -- 1.0
+-f-f- LHP BPK-RI -- 1.0
+-f-f- DPRD Sumbar -- 1.0
+-f-f- Terhadap LKPD Provinsi -- 1.0
+-f-f- LHP BPK-RI Terhadap -- 1.0
+-f-f- BPK-RI Terhadap LKPD Provinsi -- 1.0
+-f-f- Biro Humas Sekretariat -- 1.0
+-f-f- Perangkat Daerah -- 1.0
+-f-f- Isma Yatun -- 1.0
+-f-f- Kepala Biro Humas Sekretariat Provinsi Sumbar -- 1.0
+-f-f- BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran 2016 -- 1.0
+-f-f- Wajar Tanpa -- 1.0
+-f-f- Kepala Biro Humas Sekretariat Provinsi -- 1.0
+-f-f- Wajar Tanpa Pengecualian -- 1.0
+-f-f- LKPD Provinsi -- 1.0
+-f-f- Tanpa Pengecualian -- 1.0
+-f-f- Sumbar Tahun -- 1.0
+-f-f- LKPD Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- Biro Aset -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD Provinsi -- 1.0
+-f-f- Anggaran 2016 -- 1.0
+-f-f- Kepala Biro Humas Sekretariat -- 1.0
+-f-f- Sekretariat Provinsi Sumbar -- 1.0
+-f-f- LHP BPK-RI Terhadap LKPD Provinsi Sumbar Tahun Anggaran -- 1.0
+-f-f- Humas Sekretariat -- 1.0
+-f-f- RI. Ini -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/1a9744d7bc126f71e1ca991021741955.jpeg" data:w="600" data:h="400" />    Padang,( 
+<strong>Antara Sumbar</strong>) - Sebanyak 33 perguruan silat se Sumatera Barat (Sumbar) mengikuti Pegelaran Seni Budaya Galanggang Silek Tradisi Minangkabau yang diadakan oleh Unit Pelaksana Teknis Daerah (UPTD) Taman Budaya yang ada di daerah tersebut.   Acara ini diadakan di Sasaran Silek Silaturahmi yang berlokasi di Kampung Marapak Kelurahan Kalumbuk Kecamatan Kuranji, Padang dan akan dilaksanakan selama dua hari, mulai dari tanggal 20 sampai 21 Mei 2017.   "Untuk kegiatan selama dua hari ini kami sudah mengundang sebanyak 33 perguruan silat se Sumbar dan alhamdulillah semua yang diundang tersebut hadir," kata Kepala UPTD Taman budaya Sumbar, Muasri di Padang, Minggu.   Ia menambahkan sasaran atau perguruan yang mengikuti kegiatan ini berasal dari beberapa kabupaten/kota, seperti dari Kota Padang, Bukittinggi, Pariaman, Solok, Payakumbuh, Kabupaten Padangpariaman, Limapuluh Kota dan Kabupaten Solok.   Lebih lanjut, ia menjelaskan dari tempat pelaksanaan, kegiatan kali ini memang agak berbeda dari kegiatan-kegiatan yang diadakan sebelumnya.   Menurut dia, jika selama ini kegiatan yang dibuat oleh Taman Budaya selalu berlokasi di kawasan tersebut, akan tetapi kali ini kegiatannya diadakan langsung di tengah-tengah masyarakat atau di tempat aktivitas itu berada.   "Untuk kegiatan yang berkaitan dengan produk budaya yang ada di tengah masyarakat maka acaranya akan diadakan di kantong kebudayaan itu sendiri," ujarnya.   Ia mengemukakan hal ini dilakukan supaya lebih dekat dengan masyarakat serta agar silat dapat menjadi tuan rumah di negeri sendiri.   Sementara itu Kepala Dinas Kebudayaan Sumbar, Taufik Effendi mengatakan pihaknya akan terus mendukung segala sesuatu yang berkaitan dengan pelestarian seni dan budaya, termasuk salah satunya silek Minangkabau.   Menurutnya silat harus terus dilestarikan karena merupakan salah satu kearifan lokal yang ada di Sumbar, apalagi saat ini silat sedang diusulkan ke Unesco sebagai salah satu warisan dunia.   "Dari kegiatan ini kita harapkan dapat terjalin silaturahmi antara seluruh pihak, serta semakin banyak anak nagari yang tertarik belajar silat," lanjutnya. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12303934
+-*-http://sumbar.antaranews.com/berita/204433/33-perguruan-ikuti-galanggang-silek-tradisi-minangkabau.html
+
+--------------------
+
+
+-t-t- Sumbar -- 6.686394365281763
+-t-t- Taman Budaya -- 4.563305550883929
+-t-t- Kota Padang -- 2.9312773709492115
+-t-t- UPTD -- 2.4036814970650298
+-t-t- Solok -- 2.1636399436567593
+-t-t- Minangkabau -- 2.1586005985072507
+-t-t- Bukittinggi -- 1.0968469632313742
+-t-t- Pariaman -- 1.093564882470246
+-t-t- Payakumbuh -- 1.0892877447142222
+-t-t- Unesco -- 0.8488271888254879
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Seni Budaya Galanggang Silek Tradisi Minangkabau -- 1.0
+-f-f- Silek Tradisi Minangkabau -- 1.0
+-f-f- Kepala UPTD -- 1.0
+-f-f- Kepala Dinas Kebudayaan -- 1.0
+-f-f- Kelurahan Kalumbuk -- 1.0
+-f-f- Unit Pelaksana Teknis -- 1.0
+-f-f- Dinas Kebudayaan -- 1.0
+-f-f- Kampung Marapak Kelurahan -- 1.0
+-f-f- Galanggang Silek -- 1.0
+-f-f- Taufik Effendi -- 1.0
+-f-f- Pelaksana Teknis -- 1.0
+-f-f- Kepala Dinas Kebudayaan Sumbar -- 1.0
+-f-f- UPTD Taman -- 1.0
+-f-f- Kalumbuk Kecamatan Kuranji -- 1.0
+-f-f- Kepala UPTD Taman -- 1.0
+-f-f- Seni Budaya Galanggang Silek Tradisi -- 1.0
+-f-f- Pegelaran Seni Budaya Galanggang Silek Tradisi -- 1.0
+-f-f- Kampung Marapak Kelurahan Kalumbuk Kecamatan -- 1.0
+-f-f- Marapak Kelurahan Kalumbuk Kecamatan -- 1.0
+-f-f- Sasaran Silek -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Dinas Kebudayaan Sumbar -- 1.0
+-f-f- Galanggang Silek Tradisi Minangkabau -- 1.0
+-f-f- Muasri -- 1.0
+-f-f- Kampung Marapak Kelurahan Kalumbuk -- 1.0
+-f-f- Pegelaran Seni -- 1.0
+-f-f- Kecamatan Kuranji -- 1.0
+-f-f- Pegelaran Seni Budaya Galanggang Silek Tradisi Minangkabau -- 1.0
+-f-f- Budaya Galanggang Silek -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Kelurahan Kalumbuk Kecamatan Kuranji -- 1.0
+-f-f- Tradisi Minangkabau -- 1.0
+-f-f- Kampung Marapak -- 1.0
+-f-f- Pegelaran Seni Budaya Galanggang Silek -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Budaya Galanggang -- 1.0
+-f-f- Budaya Galanggang Silek Tradisi -- 1.0
+-f-f- Sebanyak 33 -- 1.0
+-f-f- Seni Budaya Galanggang -- 1.0
+-f-f- Silek Silaturahmi -- 1.0
+-f-f- Kebudayaan Sumbar -- 1.0
+-f-f- Galanggang Silek Tradisi -- 1.0
+-f-f- Sasaran Silek Silaturahmi -- 1.0
+-f-f- Seni Budaya -- 1.0
+-f-f- Kabupaten Padangpariaman -- 1.0
+-f-f- Kalumbuk Kecamatan -- 1.0
+-f-f- Seni Budaya Galanggang Silek -- 1.0
+-f-f- Marapak Kelurahan Kalumbuk -- 1.0
+-f-f- Unit Pelaksana -- 1.0
+-f-f- Marapak Kelurahan Kalumbuk Kecamatan Kuranji -- 1.0
+-f-f- Kelurahan Kalumbuk Kecamatan -- 1.0
+-f-f- Sumatera Barat -- 1.0
+-f-f- Kampung Marapak Kelurahan Kalumbuk Kecamatan Kuranji -- 1.0
+-f-f- Budaya Galanggang Silek Tradisi Minangkabau -- 1.0
+-f-f- Limapuluh Kota -- 1.0
+-f-f- Marapak Kelurahan -- 1.0
+-f-f- Pegelaran Seni Budaya -- 1.0
+-f-f- Unit Pelaksana Teknis Daerah -- 1.0
+-f-f- Pegelaran Seni Budaya Galanggang -- 1.0
+-f-f- Pelaksana Teknis Daerah -- 1.0
+-f-f- Teknis Daerah -- 1.0
+-f-f- Silek Tradisi -- 1.0
+-f-f- Kabupaten Solok -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/5934adce9b99225b0223e6f240769498.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Asosiasi Ibu Menyusui Indonesia (AIMI) Sumatera Barat merangkul para dai yang ada di Kota Padang untuk mensosialisasikan keutamaan Air Susu Ibu dengan menggelar workshop Keajaiban ASI Ditinjau dari Sisi Medis dan Hukum Syariah.   "Kami sengaja mengajak para ustadz dan ustadzah karena mereka merupakan orang-orang yang aktif berceramah diharapkan kampanye tentang pentingnya ASI akan semakin luas," kata Pelaksana Tugas Ketua Aimi Sumbar Maharani Permata di Padang, Minggu.   Workshop yang menghadirkan pembicara dari Pendiri Sentra Laktasi Indonesia dr Utami Roesli,Sp.A, Konselor Menyusui dr Fitrisia Amelin, Sp.A dan Sekretaris MUI Sumbar Nurman Agus dibuka langsung oleh Wali Kota Padang Mahyeldi.   Ia mengatakan kegiatan ini juga digelar dalam rangka memperingati dua tahun berdirinya AIMI Sumbar dan mengampanyekan keutamaan ASI sehingga semakin banyak para ibu yang menyusui bayinya.   Wali Kota Padang Mahyeldi saat membuka acara mengatakan berbicara tentang ASI adalah persoalan masa depan karena kewajiban kita menghadirkan generasi yang berkualitas.   " ASI berpengaruh terhadap kecerdasan, kesehatan dan daya tahan tubuh anak," katanya.   Ia menemukan ada ibu yang tidak mau menyusui bayi dengan alasan mempengaruhi bentuk fisik dan ini merupakan pribadi yang individualis karena hanya memikirkan tubuhnya terpelihara sementara anaknya tidak diberikan asupan terbaik.   " Saya mengapresiasi kegiatan ini dan pada Juli 2017 ada sekitar 500 ulama yang berkunjung ke Padang, ini juga bisa jadi momen mengampanyekan ASI," kata dia.   Sementara ulama Sumbar Buya Masoed Abidin menyampaikan menyusui bukan hanya tanggung jawab seorang ibu namun juga merupakan ibadah.   " Dalam ASI terkandung materi dan nonmateri yang akan membentuk karakter anak," ujar dia.   Ia mengatakan menyusui merupakan rantai membuat generasi masa depan berawal dari seorang bapak yang memberikan nafkah dan makanan yang halal kepada istri untuk kemudian si istri menyusui anaknya.   "Jika seorang bapak memberikan nafkah dari sumber yang halal maka ASI tersebut akan baik," ujarnya. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12299452
+-*-http://sumbar.antaranews.com/berita/204416/aimi-sumbar-rangkul-dai-sosialisasikan-manfaat-asi.html
+
+--------------------
+
+
+-t-t- Wali Kota Padang Mahyeldi -- 9.931160644139158
+-t-t- ASI -- 8.230703520146697
+-t-t- Sumatera Barat -- 2.5974370405825837
+-t-t- AIMI -- 2.390816788726695
+-t-t- Sp.A -- 2.285282695811875
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Ibu Menyusui -- 1.0
+-f-f- Konselor Menyusui -- 1.0
+-f-f- Pendiri Sentra Laktasi -- 1.0
+-f-f- Keajaiban ASI Ditinjau -- 1.0
+-f-f- Laktasi Indonesia -- 1.0
+-f-f- Tugas Ketua Aimi -- 1.0
+-f-f- Tugas Ketua Aimi Sumbar Maharani Permata -- 1.0
+-f-f- Sentra Laktasi -- 1.0
+-f-f- Sekretaris MUI Sumbar -- 1.0
+-f-f- Pelaksana Tugas Ketua Aimi Sumbar -- 1.0
+-f-f- Sumbar Buya Masoed -- 1.0
+-f-f- Air Susu -- 1.0
+-f-f- ASI Ditinjau -- 1.0
+-f-f- Aimi Sumbar Maharani -- 1.0
+-f-f- MUI Sumbar Nurman Agus -- 1.0
+-f-f- Sentra Laktasi Indonesia -- 1.0
+-f-f- Dalam ASI -- 1.0
+-f-f- Maharani Permata -- 1.0
+-f-f- Ketua Aimi Sumbar Maharani Permata -- 1.0
+-f-f- Hukum Syariah -- 1.0
+-f-f- Pelaksana Tugas Ketua Aimi -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Asosiasi Ibu Menyusui -- 1.0
+-f-f- Sumbar Nurman Agus -- 1.0
+-f-f- Fitrisia Amelin -- 1.0
+-f-f- Pelaksana Tugas Ketua Aimi Sumbar Maharani -- 1.0
+-f-f- Pendiri Sentra Laktasi Indonesia -- 1.0
+-f-f- Buya Masoed Abidin -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Nurman Agus -- 1.0
+-f-f- Utami Roesli -- 1.0
+-f-f- Sekretaris MUI Sumbar Nurman -- 1.0
+-f-f- Pendiri Sentra -- 1.0
+-f-f- AIMI Sumbar -- 1.0
+-f-f- Pelaksana Tugas -- 1.0
+-f-f- Ibu Menyusui Indonesia -- 1.0
+-f-f- Keajaiban ASI -- 1.0
+-f-f- Sumbar Nurman -- 1.0
+-f-f- Pelaksana Tugas Ketua Aimi Sumbar Maharani Permata -- 1.0
+-f-f- Tugas Ketua Aimi Sumbar Maharani -- 1.0
+-f-f- Ketua Aimi -- 1.0
+-f-f- Sumbar Maharani Permata -- 1.0
+-f-f- Susu Ibu -- 1.0
+-f-f- Masoed Abidin -- 1.0
+-f-f- Ketua Aimi Sumbar -- 1.0
+-f-f- Tugas Ketua Aimi Sumbar -- 1.0
+-f-f- Sumbar Buya Masoed Abidin -- 1.0
+-f-f- MUI Sumbar Nurman -- 1.0
+-f-f- Ketua Aimi Sumbar Maharani -- 1.0
+-f-f- Buya Masoed -- 1.0
+-f-f- Sumbar Maharani -- 1.0
+-f-f- Sekretaris MUI Sumbar Nurman Agus -- 1.0
+-f-f- Aimi Sumbar Maharani Permata -- 1.0
+-f-f- Sumbar Buya -- 1.0
+-f-f- Pelaksana Tugas Ketua -- 1.0
+-f-f- Asosiasi Ibu Menyusui Indonesia -- 1.0
+-f-f- Tugas Ketua -- 1.0
+-f-f- Menyusui Indonesia -- 1.0
+-f-f- Sekretaris MUI -- 1.0
+-f-f- MUI Sumbar -- 1.0
+-f-f- Air Susu Ibu -- 1.0
+-f-f- Aimi Sumbar -- 1.0
+-f-f- Asosiasi Ibu -- 1.0
+-f-f- Sisi Medis -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/2768a23c66a2bca84dee22c3012bddc3.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Ahli spesialis anak dr Utami Roesli Sp.A mengungkapkan dalam Air Susu Ibu (ASI) terkandung sejumlah keajaiban antara lain terdapat zat anti kanker, pencegah risiko alergi bayi hingga menurunkan angka kematian pada bayi.   "Berdasarkan hasil temuan dalam ASI terdapat zat anti kanker dapat memperkuat kekebalan tubuh bayi secara alami serta zat yang dapat membunuh 40 sel tumor yang berbeda berdasarkan publikasi Jurnal Internasional tentang kanker," kata dia di Padang, Sumatera Barat, Minggu.   Ia menyampaikan hal itu pada Workshop dengan tema "Keajaiban ASI dan Efek Samping Pemberian Formula Pada Bayi Ditinjau Dari Sisi Medis dan Hukum Syariah" diikuti pada dai yang ada di Padang.   Menurutnya selain melindungi bayi pemberian ASI oleh ibu juga akan menurunkan risiko terkena kanker payudara.   "Pada ibu yang menyusui akan risiko terkena kanker payudara turun enam persen setiap tahun," katanya.   Kemudian pada bayi yang diberikan ASI ekslusif akan menurunkan risiko terkena obesitas dan gangguan penyakit lainya.   Ia memastikan bayi yang disusui akan lebih sehat sepanjang hidupnya dan jarang mengalami gangguan perilaku baik emosional maupun psikologis.   Menyusui juga akan mendekatkan hubungan ibu dan anak secara emosional, meningkatkan produksi hormon cinta dan memperkuat kekebalan tubuh anak, kata dia.   Oleh sebab itu ia menganjurkan ibu yang baru melahirkan untuk segera menyusui bayi atau dikenal dengan program Inisiasi Menyusui Dini (IMD) karena memiliki banyak manfaat.   "Menyusui dini dilakukan secepatnya setelah melahirkan dengan cara bayi ditengkurapkan di dada ibu dimana bayi akan mencari sendiri payudara ibu secara alami," katanya.   Menurut Utami segera menyusui bayi akan dapat menunda angka kematian bayi hingga 22 persen dan 16 persen pada 24 jam pertama.   Inisiasi menyusui dini juga mempertahankan kehangatan bayi sehingga pemberian ASI akan lebih berhasil dan membuat detak jantung serta pernafasan lebih stabil, ujar dia yang merupakan pendiri sentra Laktasi Indonesia.   Tidak hanya itu pemberian ASI oleh ibu akan membantu menurunkan angka kemiskinan khususnya bagi keluarga yang kurang mampu.   "Berdasarkan penghitungan jika ada ibu yang memberikan susu formula standar kepada bayi maka dalam sebulan harus mengeluarkan biaya minimal Rp500 ribu hingga Rp600 ribu, ini tentu memberatkan apalagi bagi yang kurang mampu," kata dia yang sudah menjadi dokter anak selama 36 tahun.   Menurut dia jumlah yang dikeluarkan untuk membeli susu tersebut akan menyita pengeluaran rumah tangga apalagi bagi mereka yang penghasilannya masih di bawah Rp1 juta.   "Oleh sebab itu akan lebih baik jika ibu langsung memberikan ASI sehingga tidak perlu keluar uang membeli susu, pengeluaran dapat dihemat dan uangnya dipakai untuk kebutuhan lain,"ujar dia.   Ia mengatakan jika yang diberikan kepada bayi adalah susu formula premium maka tidak kuran dari Rp2 juta harus dikeluarkan setiap bulan.   Utami menghitung total biaya rata-rata yang dikeluarkan untuk membeli susu formula untuk anak usia hingga enam bulan mencapai Rp9,8 juta.   Hingga anak usia satu tahun pengeluan beli susu formula akan mencapai Rp20,4 juta, sampai dua tahun akan keluar uang Rp43 juta hingga Rp134, 4 juta, kata dia.   Wali Kota Padang Mahyeldi saat membuka acara mengatakan berbicara tentang ASI adalah persoalan masa depan karena kewajiban kita menghadirkan generasi yang berkualitas.   ASI berpengaruh terhadap kecerdasan, kesehatan dan daya tahan tubuh anak, katanya.   Ia menemukan ada ibu yang tidak mau menyusui bayi dengan alasan mempengaruhi bentuk fisik dan ini merupakan pribadi yang individualis karena hanya memikirkan tubuhnya terpelihara, sementara anaknya tidak diberikan asupan terbaik. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12299457
+-*-http://sumbar.antaranews.com/berita/204417/ini-kata-ahli-keajaiban-dalam-air-susu-ibu.html
+
+--------------------
+
+
+-t-t- Inisiasi Menyusui Dini -- 3.446045962933999
+-t-t- Utami -- 3.2589753169550173
+-t-t- Sumatera Barat -- 2.4696872225342825
+-t-t- Kota Padang -- 2.2952458648730145
+-t-t- Wali Kota -- 1.7195126589667185
+-t-t- Workshop -- 1.2261596809648565
+-t-t- IMD -- 1.0847870990050754
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- ASI -- 10.0
+-f-f- Bayi Ditinjau Dari -- 1.0
+-f-f- Efek Samping Pemberian Formula -- 1.0
+-f-f- Samping Pemberian Formula Pada Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Pada Bayi Ditinjau Dari -- 1.0
+-f-f- Laktasi Indonesia -- 1.0
+-f-f- Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Pemberian Formula Pada Bayi -- 1.0
+-f-f- Bayi Ditinjau -- 1.0
+-f-f- Dari Sisi Medis -- 1.0
+-f-f- Padang Mahyeldi -- 1.0
+-f-f- Air Susu -- 1.0
+-f-f- Pada Bayi Ditinjau -- 1.0
+-f-f- Ahli -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada Bayi Ditinjau Dari -- 1.0
+-f-f- Pemberian Formula Pada Bayi Ditinjau -- 1.0
+-f-f- Efek Samping -- 1.0
+-f-f- Pemberian Formula Pada -- 1.0
+-f-f- Formula Pada Bayi Ditinjau -- 1.0
+-f-f- Jurnal Internasional -- 1.0
+-f-f- Formula Pada Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Pemberian Formula Pada Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Hukum Syariah -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Formula Pada Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Pada Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Ditinjau Dari Sisi -- 1.0
+-f-f- Pemberian Formula Pada Bayi Ditinjau Dari -- 1.0
+-f-f- Pemberian Formula Pada Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Wali Kota Padang Mahyeldi -- 1.0
+-f-f- Samping Pemberian Formula Pada Bayi Ditinjau Dari -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Samping Pemberian Formula Pada Bayi Ditinjau -- 1.0
+-f-f- Menurut Utami -- 1.0
+-f-f- Utami Roesli -- 1.0
+-f-f- Keajaiban ASI -- 1.0
+-f-f- Samping Pemberian Formula Pada -- 1.0
+-f-f- Dari Sisi -- 1.0
+-f-f- Kota Padang Mahyeldi -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada Bayi -- 1.0
+-f-f- Pemberian Formula -- 1.0
+-f-f- Pada Bayi -- 1.0
+-f-f- Pada Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Roesli Sp.A -- 1.0
+-f-f- Samping Pemberian Formula Pada Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada Bayi Ditinjau -- 1.0
+-f-f- Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Samping Pemberian Formula Pada Bayi -- 1.0
+-f-f- Susu Ibu -- 1.0
+-f-f- Utami Roesli Sp.A -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada Bayi Ditinjau Dari Sisi -- 1.0
+-f-f- Samping Pemberian -- 1.0
+-f-f- Formula Pada -- 1.0
+-f-f- Formula Pada Bayi Ditinjau Dari -- 1.0
+-f-f- Formula Pada Bayi -- 1.0
+-f-f- Wali Kota Padang -- 1.0
+-f-f- Efek Samping Pemberian -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada Bayi Ditinjau Dari Sisi Medis -- 1.0
+-f-f- Samping Pemberian Formula -- 1.0
+-f-f- Air Susu Ibu -- 1.0
+-f-f- Ditinjau Dari -- 1.0
+-f-f- Sisi Medis -- 1.0
+-f-f- Efek Samping Pemberian Formula Pada -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/29bcbfadfdce884c577e97dff5ab6af1.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Berawal dari keprihatinan atas rendahnya pendidikan masyarakat dan adanya anak-anak putus sekolah di perkampungan nelayan Kampung Batu, Kelurahan Batang Harau, Kecamatan Padang Selatan, Sumatera Barat membuat Ghan Se Pioe (78) menggagas terbentuknya kampung literasi.   Warga keturunan Cina yang akrab di sapa Pak Gani itu memahami betul membaca memiliki banyak manfaat yaitu menambah ilmu pengetahuan, menguasai informasi juga dapat meningkatkan kreativitas.   Kini di Kampung Batu berdiri sebuah pustaka, dinamai Pustaka Rumah Gadang yang merupakan gerbang ilmu bagi masyarakat di daerah itu untuk mendapatkan buku yang ingin dibaca.   Selain itu, Pustaka Rumah Gadang juga berfungsi sebagai sarana belajar, terutama anak putus sekolah, meskipun tidak mengenyam pendidikan di kursi sekolah formal, mereka mempunyai kesempatan yang sama dalam memperoleh ilmu pengetahuan.   Berdirinya Kampung Literasi, tidak terlepas dari peranan masyarakat sekitar yang menjadi inisiator untuk menjadikan daerah itu sebagai Kampung Literasi.   Ia menekankan meskipun berpendidikan rendah, bukan alasan untuk tidak memiliki pengetahuan yang luas.   Gani hanya menamatkan pendidikan sampai bangku kelas lima sekolah dasar, meskipun tidak pernah merasakan duduk di perguruan tinggi, tetapi semangatnya untuk berjuang dalam dunia literasi begitu tinggi.   "Saya hanya berpendidikan hingga S5, kelas 1,2,3,4, dan kelas 5 SD," ujarnya sembari tertawa.   Tetapi hal itu, tidak menjadi penghalang, untuk terus berkarya dan memajukan masyarakat di sekitar tempat tinggalnya.   Ia mengatakan tidak ingin masyarakat terutama anak-anak yang ada di sana, miskin akan ilmu pengetahuan, biarpun miskin harta, dengan adanya ilmu akan berasa kaya juga.   Menurutnya pustaka diberi nama Pustaka Rumah Gadang sesuai dengan salah satu fungsi rumah gadang itu sendiri sebagai tempat berkumpul untuk bermusyawarah dan mufakat dalam mengambil suatu keputusan.   "Pendirian Pustaka Rumah Gadang ini berdasarkan swadaya masyarakat," ujarnya.   Koleksi buku yang terdapat di pustaka Rumah Gadang itu berjumlah 400 buku, berasal dari sumbangan masyarakat Kota padang dan donatur.   Dia memberikan kesempatan selebar-lebarnya bagi masyarakat daerah itu maupun dari luar, yang mempunyai keinginan untuk menyumbangkan buku, dapat memberikan buku tersebut ke Kampung Literasi itu.   Buku yang disumbangkan dapat berupa buku pelajaran maupun buku cerita anak-anak.   Semakin banyak yang memberikan bantuan, maka akan semakin menambah koleksi buku di kampung ini, sehingga semakin banyak yang bisa dipelajari, tuturnya.   Gani berharap dengan adanya Kampung Literasi dapat menambah minat masyarakat setempat untuk membaca dapat menjadi lebih tinggi.   Minat Baca   Kepala Dinas Kearsipan dan Perpustakaan Sumbar Alwis menilai rendahnya minat baca masyarakat dipengaruhi oleh berbagai faktor, salah satunya yakni tidak memiliki akses terhadap buku.   Kemudahan akses merupakan salah satu hal yang dapat meningkatkan minat baca, sehingga peran pemerintah diperlukan dalam upaya mendorong dan memberikan dukungan.   Hal ini yang coba difasilitasi melalui Kampung Literasi yaitu dengan memberikan lima buah buku kepada setiap rumah tangga, khususnya di Kelurahan Batang Arau.   "Setiap orang akan diberi pinjaman lima buku selama satu bulan, kemudian buku tersebut diambil dan dipinjamkan kembali kepada tetangga mereka secara bergantian," katanya.   Sementara, Wali Kota Padang Mahyeldi Ansharullah saat meresmikan peluncuran kampung literasi pada 18 Mei 2017 mengimbau masyarakat menyumbangkan buku, pemikiran, pengalaman dan pengetahuan dalam rangka memajukan Batang Arau tersebut sebagai Kampung Literasi.   "Semoga ke depan dapat lahir relawan-relawan baru yang dapat bergerak, memajukan masyarakat," katanya.   Ia mengapresiasi kehadiran Kampung Literasi di Padang karena dapat menjadi percontohan bagi kampung lainnya, agar lebih inovatif dan kreatif dalam memajukan daerah.   Sebelumnya, Sastrawan Taufik Ismail menyampaikan keresahannya mengamati fenomena rendahnya minat baca di kalangan pelajar pada suatu seminar yang dilaksanakan di kota Padang, Sumatera Barat.   Ia mengungkapkan budaya baca pelajar dan generasi muda Indonesia masih rendah dibandingkan negara tetangga di kawasan Asia apalagi negara maju seperti Eropa dan Amerika.   Berdasarkan perbandingan yang pernah dilakukan, rata-rata pelajar sekolah menengah atas di Singapura dan Thailand membaca 5-7 buku dalam tiga tahun, di negara Eropa dan Amerika hingga 32 buku, namun di Indonesia nol buku dalam tiga tahun, ujar dia.   Taufik mengatakan jika tidak ada satu pun buku yang diwajibkan dibaca dalam tiga tahun wajar kemampuan menulis juga menjadi lemah.   Ia menceritakan di zaman Hindia Belanda, pelajar setingkat sekolah menengah atas di Indonesia diwajibkan membaca 25 buku dalam tiga tahun. Hasilnya lahir para tokoh pejuang dan pemimpin yang handal dan juga mahir dalam menulis.   Tetapi, ironisnya setelah Indonesia merdeka, kebijakan itu dihapus karena pemerintah lebih fokus membangun infrastruktur sehingga perhatian terhadap pelajaran bahasa dan sastra menjadi terabaikan.   Bahkan yang memprihatinkan menurutnya terbentuk pandangan bahwa yang hebat itu adalah pelajaran eksata. Sementara bahasa, sastra dan menulis jadi kurang dipandang. Akibatnya sering dijumpai murid yang pintar matematika, fisika dan lainnya , namun tidak bisa membuat karangan atau tulisan, lanjut dia.   Di tengah gempuran era gawai yang membuat orang kian malas untuk membaca buku, upaya yang digagas masyarakat di Kampung Batu layak didukung karena membaca adalah jendela pembuka pintu dunia yang akan melahirkan generasi melek informasi dan berwawasan luas menuju kebangkitan Indonesia. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12295333
+-*-http://sumbar.antaranews.com/berita/204400/menggugah-semangat-baca-dari-kampung-nelayan.html
+
+--------------------
+
+
+-t-t- Pustaka Rumah Gadang -- 15.121676981621002
+-t-t- Kampung Literasi -- 14.938623494312447
+-t-t- Kampung Batu -- 6.763628137979612
+-t-t- Kelurahan Batang -- 4.597144474009589
+-t-t- Sumatera Barat -- 4.435482740580819
+-t-t- Indonesia -- 4.346055905867053
+-t-t- Batang Arau -- 3.9216619094138836
+-t-t- Kota Padang -- 2.9029719480970573
+-t-t- Wali Kota -- 2.220595762837797
+-t-t- Taufik Ismail -- 2.09902878001278
+-t-t- Minat Baca -- 2.0839978566981245
+-t-t- Eropa -- 1.805386559817565
+-t-t- Amerika -- 1.8038099407929984
+-t-t- Hindia Belanda -- 1.7532595104958053
+-t-t- Cina -- 1.2836215060060816
+-t-t- Asia -- 0.9123387369916389
+-t-t- Singapura -- 0.9010113870480307
+-t-t- Thailand -- 0.8999100024460044
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Minat Baca Kepala -- 1.0
+-f-f- Kelurahan Batang Arau -- 1.0
+-f-f- Baca Kepala Dinas Kearsipan -- 1.0
+-f-f- Pendirian Pustaka -- 1.0
+-f-f- Pak Gani -- 1.0
+-f-f- Minat Baca Kepala Dinas -- 1.0
+-f-f- Kecamatan Padang Selatan -- 1.0
+-f-f- Padang Mahyeldi -- 1.0
+-f-f- Kota Padang Mahyeldi Ansharullah -- 1.0
+-f-f- Kecamatan Padang -- 1.0
+-f-f- Padang Selatan -- 1.0
+-f-f- Ghan Se Pioe -- 1.0
+-f-f- Batang Harau -- 1.0
+-f-f- Pendirian Pustaka Rumah -- 1.0
+-f-f- Pendirian Pustaka Rumah Gadang -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Kelurahan Batang Harau -- 1.0
+-f-f- Sastrawan Taufik Ismail -- 1.0
+-f-f- Wali Kota Padang Mahyeldi -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Baca Kepala -- 1.0
+-f-f- Ghan Se -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- S5 -- 1.0
+-f-f- Dinas Kearsipan -- 1.0
+-f-f- Kota Padang Mahyeldi -- 1.0
+-f-f- Mahyeldi Ansharullah -- 1.0
+-f-f- Kepala Dinas Kearsipan -- 1.0
+-f-f- Sastrawan Taufik -- 1.0
+-f-f- Sumbar Alwis -- 1.0
+-f-f- SD -- 1.0
+-f-f- Berdirinya Kampung Literasi -- 1.0
+-f-f- Minat Baca Kepala Dinas Kearsipan -- 1.0
+-f-f- Wali Kota Padang Mahyeldi Ansharullah -- 1.0
+-f-f- Perpustakaan Sumbar -- 1.0
+-f-f- Wali Kota Padang -- 1.0
+-f-f- Baca Kepala Dinas -- 1.0
+-f-f- Padang Mahyeldi Ansharullah -- 1.0
+-f-f- Perpustakaan Sumbar Alwis -- 1.0
+-f-f- Berdirinya Kampung -- 1.0
+-f-f- Se Pioe -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e5355ce4063cfafa6e788d704f4d7fda.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Sebanyak 40 pemain muda sepak bola yang berasal dari kabupaten/kota se sumatera barat (Sumbar) siap dibina dan dilatih untuk persiapan PON 2020 di Papua.   Ke-40 pemain tersebut berasal dari empat tim yang berhasil unggul dalam turnamen sepak bola "Minangkabau Cup" 2017 yakni, dari tim kecamatan Koto Tangah, Bayang, Padang Panjang Timur, dan Talawi.   Dari keempat tim tersebut Kecamatan Koto Tangah berhasil mempertahankan gelar juaranya dari tahun lalu setelah mengalahkan tim dari Bayang dengan skor 3-1, sedangkan Talawi menepati posisi ketiga setelah membungkam tim Padang Panjang Timur dengan hasil 2-0.   "Dengan keluarnya empat tim yang mengungguli klasemen dari 142 tim yang berlaga sejak awal pertandingan, empat terbaik ini akan dibina kembali untuk dipersiapkan mengikuti PON 2020 di Papua," kata Ketua Pelaksana Turnamen Minangkabau Cup, Tria Suprajeni di Padang, Sabtu.   Ia mengatakan nantinya pihak terkait seperti pengurus provinsi, KONI, dan Dispora untuk bisa membantu dalam pembinaan bibit-bibit muda penerus pemain sepak bola Sumbar ini.   Ia menjelaskan turnamen ini akan berlanjut selama lima tahun kedepan, karena banyak sekali pemain sepak bola yang bertalenta di Sumbar.   "Terbukti disetiap turnamen bola yang diadakan baik daerah maupun nasional, tim-tim Sumbar dari daerah tidak kalah menunjukan kemampuannya," katanya.   Sementara itu, Gubernur Sumbar Irwan Prayitno menyatakan apresiasi terhadap talenta muda Sumbar dibidang sepak bola Sumbar mampu berjuang hingga akhir dan memberikan penampilan terbaik mereka pada turnamen ini.   "Bagi tim pemenang dan sekaligus juara bertahan kami mengingatkan agar selalu munculkan bakat kalian untuk bisa bersaing di kanca nasional," ujarnya.   Sedangkan untuk tiga tim lainnya yang belum bisa meraih kemenangan dalam turnamen ini, ia memberikan dukungan motivasi untuk selalu mengejar impian dengan usaha dan hasil yang terbaik.   Ia mengharapkan dari empat tim unggul ini mampu menaikan nama Sumbar pada tingkat nasional dengan tampil pada PON 2020 di Papua. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12289929
+-*-http://sumbar.antaranews.com/berita/204398/40-pemain-muda-sumbar-dibina-jelang-pon-2020.html
+
+--------------------
+
+
+-t-t- Sumbar -- 9.20966712920965
+-t-t- Padang Panjang Timur -- 7.868959659856023
+-t-t- PON 2020 -- 6.345563436852103
+-t-t- Koto Tangah -- 4.834371255414711
+-t-t- Minangkabau Cup -- 4.622687882231687
+-t-t- Papua -- 3.163733867954944
+-t-t- Bayang -- 2.38640866004464
+-t-t- Talawi -- 2.3671772181034627
+-t-t- Irwan Prayitno -- 1.891826749228068
+-t-t- KONI -- 1.0468399038608214
+-t-t- Dispora -- 1.0443515762868254
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Pelaksana Turnamen Minangkabau Cup -- 1.0
+-f-f- Sumbar Irwan Prayitno -- 1.0
+-f-f- Gubernur Sumbar -- 1.0
+-f-f- Pelaksana Turnamen Minangkabau -- 1.0
+-f-f- Kecamatan Koto Tangah -- 1.0
+-f-f- Ketua Pelaksana Turnamen Minangkabau -- 1.0
+-f-f- Kecamatan Koto -- 1.0
+-f-f- Ketua Pelaksana Turnamen -- 1.0
+-f-f- Pelaksana Turnamen -- 1.0
+-f-f- Tria Suprajeni -- 1.0
+-f-f- Ke-40 -- 1.0
+-f-f- Sumbar Irwan -- 1.0
+-f-f- Ketua Pelaksana -- 1.0
+-f-f- Sebanyak 40 -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Turnamen Minangkabau -- 1.0
+-f-f- Gubernur Sumbar Irwan Prayitno -- 1.0
+-f-f- Gubernur Sumbar Irwan -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Turnamen Minangkabau Cup -- 1.0
+-f-f- Ketua Pelaksana Turnamen Minangkabau Cup -- 1.0
+-f-f- Cup 2017 -- 0.0
+-f-f- Minangkabau Cup 2017 -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/867db17d567ded0bd25645b44bebe5e8.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Lembaga Swadaya Masyarakat (LSM) Women's Crisis Center (WCC) Nurani Perempuan Sumatera Barat, menemukan 30 kasus kekerasan terhadap perempuan dari awal Januari hingga Mei 2017.   "Jumlah kasus kekerasan ini terjadi peningkatan dari tahun ke tahun, untuk saat ini saja sudah tercatat sebanyak 30 kasus yang korbannya telah melapor ke kami," kata Direktur LSM WCC Nurani Perempuan Sumbar, Yefri Heriani di Padang, Sabtu.   Angka tersebut bisa dikatakan meningkat dalam catat pihaknya, penambahan ini terutama terjadi pada isu-isu kekerasan seksual, ujarnya.   Ia menjelaskan mirisnya saat ini pihaknya mendapati banyak dari korban yang tidak lagi percaya dengan proses hukum yang terjadi untuk mengusut tuntas kasus kekerasan terhadap perempuan ini.   "Karena kebanyakan dari mereka berfikir proses hukum tidak lagi berpihak kepada mereka, proses hukum juga terbilang sulit dan panjang," katanya.   Ia menambahkan bahkan dalam penanganan berupa pemulihan terhadap kasusnya tidak lagi menjadi perhatian pemerintah.   Ia mengharapkan adanya perhatian pemerintah terhadap penanganan kasus-kasus kekerasan tersebut, seperti menyediakan sarana untuk pemulihan di luar lingkungan keluarga dan mendukung pengutuhan keluarga.   "Pemulihan di luar lingkungan keluarga ini membutuhkan tidak hanya tenaga profesional, sarana dan prasarana tapi juga dukungan anggaran," ujarnya.   Ia menyebutkan untuk 2016 saja kasus kekerasan terhadap perempuan ini terhitung sebanyak 104 korban/keluarga, sedangkan tahun sebelumnya sebanyak 85 korban.   "Sehingga ada peningkatan yang signifikan yakni sebesar 23,2 persen," ujarnya.   Sementara itu, Kepala Dinas Pemberdayaan Perempuan dan Perlindungan Anak Sumbar, Ratnawilis mengatakan pihaknya siap mendampingi setiap kasus yang diajukan baik itu terhadap perempuan maupun anak.   Ia mengatakan berbagai cara pencegahan seperti memberikan ruang terhadap "ninik mamak" ataupun "bundo kanduang" bisa menjalankan fungsinya sebagai yang orang terdekat di wilayahnya.   "Jika itu sudah berbentuk kasus, kami harap kabupaten/kota bisa memberikan informasi ke provinisi untuk dilalukan pendampingan penyelesaian kasus tersebut," katanya.   Pihaknya tidak akan mentolerir siapa saja yang melakukan tindakan kekerasan tersebut, karena kami ingin kasus kekerasan ini berkurang setiap tahunnya, kata dia. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12288251
+-*-http://sumbar.antaranews.com/berita/204395/wcc-mencatat-30-kasus-kekerasan-perempuan-terjadi-di-sumbar.html
+
+--------------------
+
+
+-t-t- Nurani Perempuan -- 5.021601909425503
+-t-t- Lembaga Swadaya Masyarakat -- 4.152952377903838
+-t-t- Crisis Center -- 2.6005368772473183
+-t-t- Sumatera Barat -- 2.580400980656368
+-t-t- Padang -- 2.5242793062145945
+-t-t- LSM -- 2.521854202509642
+-t-t- WCC -- 2.5131840358250424
+-t-t- Pemberdayaan Perempuan -- 1.8683312374315333
+-t-t- Perlindungan Anak -- 1.8577635599329199
+-t-t- Women's -- 1.3024556011674748
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Perempuan Sumatera -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Perlindungan Anak Sumbar -- 1.0
+-f-f- WCC Nurani -- 1.0
+-f-f- Direktur LSM WCC Nurani Perempuan Sumbar -- 1.0
+-f-f- WCC Nurani Perempuan -- 1.0
+-f-f- Yefri Heriani -- 1.0
+-f-f- Dinas Pemberdayaan Perempuan -- 1.0
+-f-f- Kepala Dinas Pemberdayaan -- 1.0
+-f-f- Nurani Perempuan Sumatera Barat -- 1.0
+-f-f- Ratnawilis -- 1.0
+-f-f- WCC Nurani Perempuan Sumbar -- 1.0
+-f-f- Dinas Pemberdayaan -- 1.0
+-f-f- Anak Sumbar -- 1.0
+-f-f- Kepala Dinas Pemberdayaan Perempuan -- 1.0
+-f-f- Direktur LSM WCC Nurani -- 1.0
+-f-f- Perempuan Sumbar -- 1.0
+-f-f- Nurani Perempuan Sumbar -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- LSM WCC Nurani Perempuan -- 1.0
+-f-f- Perempuan Sumatera Barat -- 1.0
+-f-f- Direktur LSM WCC Nurani Perempuan -- 1.0
+-f-f- LSM WCC Nurani Perempuan Sumbar -- 1.0
+-f-f- LSM WCC -- 1.0
+-f-f- Women's Crisis Center -- 1.0
+-f-f- Direktur LSM WCC -- 1.0
+-f-f- LSM WCC Nurani -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Women's Crisis -- 1.0
+-f-f- Nurani Perempuan Sumatera -- 1.0
+-f-f- Direktur LSM -- 1.0
+-f-f- Women 's Crisis Center -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/867db17d567ded0bd25645b44bebe5e8.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong> ) - Puluhan anggota Jaringan Peduli Perempuan (JPP) Sumatera Barat (Sumbar), menyuarakan haknya sebagai warga negara khususnya perempuan untuk bisa mendapatkan perlindungan terhadap berbagai kasus yang terjadi pada momentum hari kebangkitan nasional 2017.   Sekitar 30 orang "bundo kanduang" ini terlebih dahulu melakukan aksi longmarch yang di mulai dari Kantor Gubernur hingga berakhir di Masjid raya Sumbar.   "Pada hari kebangkitan nasional ini kami ingin hak sebagai warga negara atas perlindungan hukum khususnya perempuan pembela HAM dan perdamaian, karena mereka sangat rentan terhadap berbagai ancaman dalam menjalankan aktivitasnya," kata Koordinasi Lapangan JPP Sumbar, Yefri Heriani di Padang, Sabtu.   Ia mengatakan pada hari kebangkitan nasional ini merupakan momentum yang tepat untuk meminta kenyamanan hidup berbangsa dan bernegara.   "Karena kita semua tahu akhir-akhir ini banyak terjadi permasalahan yang dapat menggoyahkan rasa semangat persatuan dan kesatuan kita sebagai warga negara Indonesia, masalah seperti ini juga menjadi perhatian kami yang selalu menjaga kerukunan, solidaritas, persaudaraan, dan perdamaian termasuk HAM," katanya.   Ia menjelaskan salah satu pelanggaran HAM yang sampai saat ini masih belum terselesaikan dengan baik yakni pada kasus pelanggaran hak asasi perempuan, bahkan pelakunya masih berkeliaran sehingga korban tidak mendapatkan hak-haknya.   Ia mengharapkan pemerintah daerah maupun nasional memberikan perhatian terhadap kasus tersebut, sehingga para perempuan pejuang HAM ini tidak lagi dilanda kecemasan dalam menjalani fungsinya.   "Kami juga tidak ingin kebinekaan tunggal ika Indonesia terpecah bela dengan adanya isu-isu dengan mengatasnamakan agama," katanya.   Dengan itu, kata dia, mari bersama-sama ciptakan kedamaian bangsa dengan menjaga perilaku masing-masing sehingga terhindar dari sikap yang bisa memacu kebencian dan kemarahan. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12288252
+-*-http://sumbar.antaranews.com/berita/204388/jpp-sumbar-minta-perlindungan-terhadap-perempuan-diutamakan.html
+
+--------------------
+
+
+-t-t- Sumbar -- 4.892363104480154
+-t-t- HAM -- 3.9882066936756155
+-t-t- Padang -- 2.4183229571882756
+-t-t- JPP -- 2.402896658300552
+-t-t- Kantor Gubernur -- 2.396748958161433
+-t-t- Indonesia -- 1.885585439229439
+-t-t- Masjid -- 1.187781517229637
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Puluhan -- 1.0
+-f-f- Lapangan JPP -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Koordinasi Lapangan -- 1.0
+-f-f- Sekitar 30 -- 1.0
+-f-f- Jaringan Peduli Perempuan -- 1.0
+-f-f- Koordinasi Lapangan JPP -- 1.0
+-f-f- Sumatera Barat -- 1.0
+-f-f- JPP Sumbar -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Jaringan Peduli -- 1.0
+-f-f- Yefri Heriani -- 1.0
+-f-f- Peduli Perempuan -- 1.0
+-f-f- Koordinasi Lapangan JPP Sumbar -- 1.0
+-f-f- Lapangan JPP Sumbar -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/631aa67c8e253d77fa58603ff55aeb03.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Sebanyak 3.680 peserta mengikuti Ujian Masuk Politeknik Negeri (UMPN) di Kota Padang Sumatera Barat (Sumbar), Sabtu.   "Seluruh peserta itu mengikuti ujian di kampus Politeknik Negeri Padang (PNP)," kata Kepala Bagian Kemahasiswaan PNP, Maidar di Padang.   Peserta UMPN dibagi atas dua sesi yakni pada pagi untuk bidang rekayasa diikuti sebanyak 2.397 peserta dan siang bidang niaga berjumlah 1.283 orang, katanya.   Ia menjelaskan UMPN merupakan salah satu jalur seleksi penerimaan mahasiswa baru setelah sebelumya membuka pendaftaran jalur Penelusuran Minat dan Kemampuan Politeknik Negeri (PMDK-PN) dan jalur beasiswa bidikmisi.   Seluruh peserta yang mengikuti UMPN hari ini, ujarnya bersaing agar dapat menduduki bangku salah satu politeknik yang menjadi pilihannya.   "UMPN secara nasional hari ini diikuti sekitar 42 Politeknik Negeri se-Indonesia," kata dia.   Untuk PNP, sebutnya akan menerima sekitar 556 mahasiswa baru dari jalur UMPN setelah sebelumnya menerima 249 mahasiswa seleksi penelusuran minat dan kemampuan politeknik negeri (PMDK-PN) dan 187 lainnya melalui penerimaan bidikmisi.   "Masih ada satu jalur lagi setelah UMPN ini yaitu melalui nilai ujian nasional," katanya.   Pendaftaran UMPN sebelumnya dimulai pada 10 April hingga 17 Mei 2017, ujian 20 Mei 2017, dan pengumuman 6 Juni 2017.   Ada banyak jalur yang disediakan untuk masuk politeknik, dan diharapkan dapat dimanfaatkan sebaik-baiknya bagi yang berkeinginan untuk kuliah, jelasnya.   Sementara salah seorang guru SMKN 1 Kecamatan Guguak, Kabupaten Limapuluh Kota Gusrila Dwi Putri mengatakan penerimaan calon mahasiswa Politeknik Negeri Padang melalui banyak jalur sangat bermanfaat bagi siswanya.   "Alhamdulillah tahun ini ada tiga siswa SMKN 1 Guguak yang dinyatakan lulus PMDK-PN dan dua lulus jalur bidikmisi," katanya.   Ia berharap pada seleksi jalur lainnya juga banyak siswanya yang lulus.   PNP merupakan salah satu perguruan tinggi negeri yang banyak diminati siswa apalagi bagian teknik, katanya. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12288253
+-*-http://sumbar.antaranews.com/berita/204387/3680-calon-mahasiswa-kejar-kursi-politeknik-negeri.html
+
+--------------------
+
+
+-t-t- UMPN -- 8.928676929503169
+-t-t- Politeknik Negeri Padang -- 7.599946911789485
+-t-t- PNP -- 4.385881314130798
+-t-t- SMKN 1 -- 3.5605710296187056
+-t-t- Kota Padang -- 3.322099020687396
+-t-t- PMDK-PN -- 3.0130377566549416
+-t-t- Sumbar -- 2.592087120244212
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Kabupaten Limapuluh Kota Gusrila Dwi Putri -- 1.0
+-f-f- Kota Gusrila Dwi -- 1.0
+-f-f- Ujian Masuk Politeknik -- 1.0
+-f-f- Sebanyak 3.680 -- 1.0
+-f-f- Masuk Politeknik Negeri -- 1.0
+-f-f- 1 Kecamatan -- 1.0
+-f-f- Kepala Bagian -- 1.0
+-f-f- Ujian Masuk -- 1.0
+-f-f- Peserta UMPN -- 1.0
+-f-f- Gusrila Dwi -- 1.0
+-f-f- se-Indonesia -- 1.0
+-f-f- SMKN 1 Kecamatan Guguak -- 1.0
+-f-f- Kemahasiswaan PNP -- 1.0
+-f-f- Kota Padang Sumatera Barat -- 1.0
+-f-f- Kepala Bagian Kemahasiswaan PNP -- 1.0
+-f-f- Gusrila Dwi Putri -- 1.0
+-f-f- Padang Sumatera Barat -- 1.0
+-f-f- Maidar -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Padang Sumatera -- 1.0
+-f-f- 1 Kecamatan Guguak -- 1.0
+-f-f- Pendaftaran UMPN -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Limapuluh Kota Gusrila Dwi -- 1.0
+-f-f- Penelusuran Minat -- 1.0
+-f-f- Kabupaten Limapuluh Kota Gusrila -- 1.0
+-f-f- Untuk PNP -- 1.0
+-f-f- Kabupaten Limapuluh Kota -- 1.0
+-f-f- Kabupaten Limapuluh Kota Gusrila Dwi -- 1.0
+-f-f- Ujian Masuk Politeknik Negeri -- 1.0
+-f-f- Kemampuan Politeknik Negeri -- 1.0
+-f-f- Limapuluh Kota Gusrila -- 1.0
+-f-f- SMKN 1 Kecamatan -- 1.0
+-f-f- Bagian Kemahasiswaan PNP -- 1.0
+-f-f- Kota Gusrila Dwi Putri -- 1.0
+-f-f- Dwi Putri -- 1.0
+-f-f- 1 Guguak -- 1.0
+-f-f- Masuk Politeknik -- 1.0
+-f-f- Kabupaten Limapuluh -- 1.0
+-f-f- Limapuluh Kota Gusrila Dwi Putri -- 1.0
+-f-f- Kemampuan Politeknik -- 1.0
+-f-f- Bagian Kemahasiswaan -- 1.0
+-f-f- Kepala Bagian Kemahasiswaan -- 1.0
+-f-f- Sumatera Barat -- 1.0
+-f-f- Limapuluh Kota -- 1.0
+-f-f- Kecamatan Guguak -- 1.0
+-f-f- Kota Gusrila -- 1.0
+-f-f- SMKN 1 Guguak -- 1.0
+-f-f- Kota Padang Sumatera -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/06189adb73c7088223486d4b1b9b83ce.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan sosialisasikan program Gerakan Masyarakat Hidup Sehat (GERMAS) kepada masyarakat pada kegiatan prolanis yang digelar di pelataran GOR H Agus Salim, Padang, Sumatera Barat (Sumbar).   "Melalui kegiatan ini BPJS Kesehatan mengajak peserta Jaminan Kesehatan Nasional-Kartu Indonesia Sehat (JKN-KIS) untuk membudayakan pola hidup sehat yang telah dicanangkan pemerintah melalui program GERMAS," kata Kepala Grup Manajemen Pelayanan kesehatan Primer BPJS Kesehatan Pusat Fachrurazi di Padang, Sabtu.   Ia menyebutkan program GERMAS itu juga memiliki dasar hukum yaitu Instruksi Presiden Nomor 1 tahun 2017 tentang Gerakan Masyarakat Hidup Sehat.   "Program ini dicanangkan secara bersama oleh pemerintah baik kementerian dan lembaga non kementerian terkait, dalam rangka penguatan pembangunan kesehatan yang mengedepankan upaya promotif-preventif untuk memasyarakatkan paradigma sehat," tambahnya.   Ia menyebutkan program dilakukan untuk menghindari munculnya beban pembiayaan pelayanan kesehatan karena meningkatnya penyakit serta pengeluaran kesehatan oleh masyarakat.   Sebut saja, ujarnya saat memperhatikan data pasien cuci darah yang mencapai angka 2.000 per bulannya se-Indonesia.   "Jika diandaikan seorang pasien berumur 60 tahun, melakukan cuci sejak usia 30 tahun maka 30 tahun ke depan sisa umurnya harus selalu cuci darah. Biaya yang dikeluarkan akan membebani, maka dari itu pola hidup sehat harus dimulai sejak dini," lanjutnya.   Fachrurazi memaparkan ada tiga aspek utama menjalani pola hidup sehat tersebut, pertama melakukan aktivitas fisik 30 menit per hari, kedua mengonsumsi buah dan sayur, dan terakhir memeriksa kesehatan secara rutin minimal enam bulan sekali sebagai upaya deteksi dini penyakit.   Sementara Gebyar Prolanis diikuti oleh ratusan masyarakat yang tergabung dalam klub prolanis di 11 kecamatan yang ada di Padang.   Kegiatan itu diisi sejumlah rangkaian kegiatan mulai dari senam Prolanis, pemberian materi kesehatan oleh dr.Tya Setiadi dari Pangkalan Utama TNI AL (Lantamal) II Padang.   Selain itu juga digelar pemeriksaan penunjang gratis bagi peserta prolanis, lomba cerdas cermat, dan lainnya.   Prolanis merupakan sistem pelayanan kesehatan dan pendekatan proaktif terhadap peserta JKN-KIS yang menderita penyakit kronis seperti diabetes melitus, hipertensi, untuk mencapai kualitas hidup yang optimal dengan baiay yang efektif dan efisien.   Walikota Padang Mahyeldi Ansyarullah, yang hadir pada kegiatan tersebut mengatakan kesiapannya mendukung program pola hidup sehat.   "Kesehatan adalah salah satu amanat Undang-Undang Dasar 1945 yang harus diupayakan pemerintah selain pendidikan. Padang akan mendukung," katanya.   Ia mengemukakan beberapa program yang telah dikeluarkan pihaknya sejalan dengan program GERMAS, salah satunya Peraturan Daerah Nomor 21 tahun 2012 tentang pengelolaan sampah yang di dalamnya memuat ancaman pidana bagi pelanggar.   Gebyar prolanis diselenggarakan oleh BPJS Kesehatan Cabang Padang, bersama Dinas Kesehatan daerah setempat. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12287163
+-*-http://sumbar.antaranews.com/berita/204384/ayo-hidup-sehat-bpjs-kesehatan-giatkan-germas-di-padang.html
+
+--------------------
+
+
+-t-t- Gerakan Masyarakat Hidup Sehat -- 10.691077652792108
+-t-t- Padang -- 8.274939991159407
+-t-t- BPJS Kesehatan -- 8.096580567653458
+-t-t- Badan Penyelenggara Jaminan Sosial -- 5.663053162299436
+-t-t- GERMAS -- 4.555596679853221
+-t-t- Jaminan Kesehatan -- 3.4493109832962894
+-t-t- Prolanis -- 2.875503405484232
+-t-t- Dinas Kesehatan -- 2.565178613648448
+-t-t- Agus Salim -- 2.5484135391284832
+-t-t- Sumatera Barat -- 2.540240314782105
+-t-t- Fachrurazi -- 2.2442360433475415
+-t-t- JKN-KIS -- 2.1586002127543873
+-t-t- TNI AL -- 1.896664442828717
+-t-t- Gebyar -- 1.8108130631068962
+-t-t- Peraturan Daerah -- 1.6754815923520874
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Sumbar -- 2.0
+-f-f- Pangkalan Utama TNI -- 1.0
+-f-f- H Agus -- 1.0
+-f-f- Jaminan Kesehatan Nasional-Kartu Indonesia -- 1.0
+-f-f- Kepala Grup Manajemen -- 1.0
+-f-f- Pangkalan Utama -- 1.0
+-f-f- II Padang -- 1.0
+-f-f- BPJS Kesehatan Cabang Padang -- 1.0
+-f-f- Kesehatan Cabang -- 1.0
+-f-f- GOR H Agus -- 1.0
+-f-f- Walikota Padang Mahyeldi Ansyarullah -- 1.0
+-f-f- Padang Mahyeldi -- 1.0
+-f-f- Daerah Nomor 21 -- 1.0
+-f-f- Grup Manajemen Pelayanan -- 1.0
+-f-f- H Agus Salim -- 1.0
+-f-f- Kesehatan Nasional-Kartu Indonesia Sehat -- 1.0
+-f-f- GOR H -- 1.0
+-f-f- Instruksi Presiden -- 1.0
+-f-f- Nasional-Kartu Indonesia -- 1.0
+-f-f- Nomor 1 -- 1.0
+-f-f- se-Indonesia -- 1.0
+-f-f- Lantamal -- 1.0
+-f-f- Kesehatan Cabang Padang -- 1.0
+-f-f- Kepala Grup -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Nomor 21 -- 1.0
+-f-f- Manajemen Pelayanan -- 1.0
+-f-f- Presiden Nomor 1 -- 1.0
+-f-f- Jaminan Kesehatan Nasional-Kartu Indonesia Sehat -- 1.0
+-f-f- Walikota Padang Mahyeldi -- 1.0
+-f-f- Kesehatan Nasional-Kartu Indonesia -- 1.0
+-f-f- Dasar 1945 -- 1.0
+-f-f- Sementara Gebyar Prolanis -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Kesehatan Pusat Fachrurazi -- 1.0
+-f-f- Instruksi Presiden Nomor 1 -- 1.0
+-f-f- Walikota Padang -- 1.0
+-f-f- Peraturan Daerah Nomor -- 1.0
+-f-f- Pusat Fachrurazi -- 1.0
+-f-f- Jaminan Kesehatan Nasional-Kartu -- 1.0
+-f-f- Kesehatan Pusat -- 1.0
+-f-f- BPJS Kesehatan Pusat -- 1.0
+-f-f- Padang Mahyeldi Ansyarullah -- 1.0
+-f-f- Grup Manajemen -- 1.0
+-f-f- Pangkalan Utama TNI AL -- 1.0
+-f-f- BPJS Kesehatan Cabang -- 1.0
+-f-f- Utama TNI AL -- 1.0
+-f-f- Sementara Gebyar -- 1.0
+-f-f- BPJS Kesehatan Pusat Fachrurazi -- 1.0
+-f-f- Primer BPJS Kesehatan Pusat Fachrurazi -- 1.0
+-f-f- Undang-Undang Dasar 1945 -- 1.0
+-f-f- Peraturan Daerah Nomor 21 -- 1.0
+-f-f- Daerah Nomor -- 1.0
+-f-f- Utama TNI -- 1.0
+-f-f- Primer BPJS Kesehatan -- 1.0
+-f-f- Undang-Undang Dasar -- 1.0
+-f-f- Gebyar Prolanis -- 1.0
+-f-f- Kepala Grup Manajemen Pelayanan -- 1.0
+-f-f- Indonesia Sehat -- 1.0
+-f-f- Presiden Nomor -- 1.0
+-f-f- GOR H Agus Salim -- 1.0
+-f-f- dr.Tya Setiadi -- 1.0
+-f-f- Primer BPJS Kesehatan Pusat -- 1.0
+-f-f- Kesehatan Nasional-Kartu -- 1.0
+-f-f- Nasional-Kartu Indonesia Sehat -- 1.0
+-f-f- Mahyeldi Ansyarullah -- 1.0
+-f-f- Primer BPJS -- 1.0
+-f-f- Instruksi Presiden Nomor -- 1.0
+-f-f- Cabang Padang -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/f6f87f2815368e752bb94e811ad21072.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Rektor Universitas Andalas (Unand) Padang, Sumatera Barat, Prof Tafdil Husni mengimbau para lulusan kampusnya harus menghindari isu disintegrasi atau perpecahan bangsa yang marak muncul di media sosial.   "Sekarang alur informasi cepat, namun yang bernada hasutan dan arahan untuk perpecahan banyak, ini perlu diperhatikan," katanya menanggapi Hari Kebangkitan Nasional , usai melantik wisudawan program Diploma dan Strata 1 gelombang II Unand di Padang, Sabtu.   Menurutnya informasi itu untuk merusak rasa kebangsaan masyarakat, bila tidak disaring akan terjebak pada pemahaman yang salah.   Sebagai lulusan sarjana, tambahnya persoalan tersebut bisa ditangani karena dinilai telah dewasa baik sikap dan pemikiran.   Justru dengan ilmu yang diampunya dapat mengembangkan diri ke arah yang membanggakan.   Misalnya lulusan ekonomi bisa masuk kerja di bidang tersebut atau memilih memperkuat ilmu dengan melanjutkan studi ke jenjang lebih tinggi.   Dari pilihan tersebut tambahnya melakukan upaya yang berorientasi prestasi sehingga membanggakan negara.   "Hindari organisasi yang telah dinyatakan dilarang negara dan patuhi hukum yang berlaku," katanya.   Dalam hal ini sebagai warga negara mengikuti hukum yang telah sah menjadi salah satu nilai dari kebangsaannya.   Ini juga harus jadi pedoman seluruh lulusan Unand yang wisuda kali ini menambah alumni menjadi 118.502 orang.   "Jangan sampai lulusan Unand terlibat pada praktik dan organisasi terlarang," ujarnya.   Sementara itu dalam wisuda Program S1 dan Diploma, Rektor melantik 887 orang lulusan yang terdiri atas 45 diploma dan 842 lulusan sarjana.   Dengan jumlah ini ditambah lulusan Program Pascasarjana yang dilantik sehari sebelumnya, total Unand melepas 1.204 wisudawan pada gelombang II tahun 2017. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12284323
+-*-http://sumbar.antaranews.com/berita/204371/rektor-unand-sampaikan-pesan-kebangsaan-saat-melantik-887-wisudawan.html
+
+--------------------
+
+
+-t-t- Unand -- 5.103864258818016
+-t-t- Hari Kebangkitan Nasional -- 3.776057061747967
+-t-t- Padang -- 3.775189695411885
+-t-t- Sumatera Barat -- 2.5879807700590076
+-t-t- Rektor -- 2.178330880182333
+-t-t- Diploma -- 2.044280247658939
+-*- -- time: 0.0
+
+--------------------
+
+
+-f-f- Prof Tafdil -- 1.0
+-f-f- Rektor Universitas -- 1.0
+-f-f- Strata 1 -- 1.0
+-f-f- II Unand -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Rektor Universitas Andalas -- 1.0
+-f-f- Prof Tafdil Husni -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Program S1 -- 1.0
+-f-f- Universitas Andalas -- 1.0
+-f-f- Tafdil Husni -- 1.0
+-f-f- Program Pascasarjana -- 1.0
+-*- -- time: 0.0
+
+--------------------
+
+
+-*-<img src="[BASEURL]/4293f97c484ad0a5080c3a9ae8297c3d.jpeg" data:w="600" data:h="400" />    Padang,( 
+<strong>Antara Sumbar</strong>) - Perpanjangan izin melaut bagi nelayan bagan Sumatera Barat dari awalnya Juni 2017 menjadi Desember 2017 masih secara lisan sehingga tidak memiliki kekuatan hukum.   "Kita sudah surati Kementerian Kelautan dan Perikanan agar bisa diterbitkan izin secara tertulis supaya nelayan tidak ragu melaut," kata Kepala Dinas Kelautan dan Perikanan Sumbar, Yosmeri di Padang, Jumat.   Menurut dia, perpanjangan izin tertulis itu penting karena aparat penegak hukum hanya bisa berpegang pada aturan tertulis.   Tanpa ada dasar hukum yang jelas, nelayan bagan Sumbar yang nekad melaut tanpa memenuhi syarat pada Peraturan Menteri Kelautan dan Perikanan Nomor 71/Permen-KP/2016 tentu dinilai menyalahi aturan dan bisa ditangkap.   "Kita hanya ingin memberikan kepastian bagi nelayan agar tidak cemas saat melaut," ujarnya.   Saat ini dari 250 nelayan memiliki kapal 30 gross ton (GT) ke atas, hanya 113 kapal yang telah memiliki Surat Izin Usaha Penangkapan (SIUP).   Namun belum satu pun dari 250 kapal yang memiliki administrasi yang lengkap seperti SIUP, Surat Izin Penangkapan Ikan (SIPI), Surat Layanan Operasional (SLO) dan membeli alat Sistem pemantauan kapal perikanan atau Vessel Monitoring System (VMS).   Syarat administrasi itu dinilai memberatkan oleh nelayan karena butuh biaya besar. Sesuai aturan yang baru, untuk SIPI membutuhkan biaya Rp412 ribu per satu GT nya. Artinya untuk kapal di atas 30 GT, nelayan harus membayarkan sekitar Rp12 juta.   Hal itu masih ditambah lagi dengan aturan tentang alat tangkap dan mata jaring nelayan bagan Sumbar yang dinilai tidak sesuai peraturan menteri.   Sebelumnya, Wakil Gubernur Sumbar Nasrul Abit mengatakan selain mengupayakan revisi Permen KP Nomor 71/Permen-KP/2016 itu, nelayan juga didorong untuk segera melengkapi izin yang dibutuhkan untuk melaut.   Hingga saat ini belum ada kejelasan dalam hal usulan revisi aturan itu. Hasil Rapat Koordinasi Bidang Kemaritiman di Jakarta 4 Mei 2017 hanya memberikan perpanjangan izin melaut bagi nelayan bagan, meski belum mengurus izin lengkap.   Ia khawatir upaya untuk revisi itu tidak membuahkan hasil sedangkan masa perpanjangan izin melaut juga sudah habis, tentu pada 2018 nelayan bagan Sumbar tidak bisa lagi melaut.   "Manfaatkan waktu yang tersisa hingga akhir 2017 untuk melengkapi persyaratan yang dibutuhkan," kata dia. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12281633
+-*-http://sumbar.antaranews.com/berita/204364/perpanjangan-izin-melaut-nelayan-bagan-masih-lisan.html
+
+--------------------
+
+
+-t-t- Surat Izin -- 4.283033289117491
+-t-t- Nomor 71 -- 4.144532070711522
+-t-t- Perikanan -- 3.6320665799670366
+-t-t- Vessel Monitoring System -- 3.2595679857988675
+-t-t- GT -- 3.0669090342602168
+-t-t- Sumatera Barat -- 2.5995085844740675
+-t-t- Padang -- 2.536658625817477
+-t-t- Izin Usaha -- 2.167306544513965
+-t-t- SIUP -- 2.1360415267514123
+-t-t- Permen-KP -- 2.068358148758411
+-t-t- SIPI -- 2.0484268529957506
+-t-t- SLO -- 1.0426310646580903
+-t-t- Sistem -- 1.0378313486461908
+-t-t- VMS -- 1.0237790624254821
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Sumbar -- 6.0
+-f-f- Penangkapan Ikan -- 1.0
+-f-f- Bidang Kemaritiman -- 1.0
+-f-f- Surat Layanan Operasional -- 1.0
+-f-f- Kepala Dinas Kelautan -- 1.0
+-f-f- Nasrul Abit -- 1.0
+-f-f- Usaha Penangkapan -- 1.0
+-f-f- KP Nomor -- 1.0
+-f-f- Perikanan Nomor 71 -- 1.0
+-f-f- Hasil Rapat -- 1.0
+-f-f- KP Nomor 71 -- 1.0
+-f-f- Jakarta 4 Mei -- 1.0
+-f-f- Permen KP -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Gubernur Sumbar Nasrul -- 1.0
+-f-f- Yosmeri -- 1.0
+-f-f- Jakarta 4 -- 1.0
+-f-f- Izin Usaha Penangkapan -- 1.0
+-f-f- Hasil Rapat Koordinasi Bidang -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Rapat Koordinasi -- 1.0
+-f-f- Layanan Operasional -- 1.0
+-f-f- Permen KP Nomor 71 -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Hasil Rapat Koordinasi -- 1.0
+-f-f- Koordinasi Bidang Kemaritiman -- 1.0
+-f-f- Sumbar Nasrul Abit -- 1.0
+-f-f- Gubernur Sumbar -- 1.0
+-f-f- Gubernur Sumbar Nasrul Abit -- 1.0
+-f-f- Surat Izin Penangkapan Ikan -- 1.0
+-f-f- Surat Izin Usaha Penangkapan -- 1.0
+-f-f- Surat Izin Penangkapan -- 1.0
+-f-f- Wakil Gubernur Sumbar Nasrul Abit -- 1.0
+-f-f- Jakarta 4 Mei 2017 -- 1.0
+-f-f- Perpanjangan -- 1.0
+-f-f- Surat Layanan -- 1.0
+-f-f- Perikanan Sumbar -- 1.0
+-f-f- Perikanan Nomor -- 1.0
+-f-f- Wakil Gubernur Sumbar Nasrul -- 1.0
+-f-f- Rapat Koordinasi Bidang Kemaritiman -- 1.0
+-f-f- Menteri Kelautan -- 1.0
+-f-f- Izin Penangkapan Ikan -- 1.0
+-f-f- Surat Izin Usaha -- 1.0
+-f-f- Sumbar Nasrul -- 1.0
+-f-f- Koordinasi Bidang -- 1.0
+-f-f- Wakil Gubernur -- 1.0
+-f-f- Hasil Rapat Koordinasi Bidang Kemaritiman -- 1.0
+-f-f- Permen KP Nomor -- 1.0
+-f-f- Izin Penangkapan -- 1.0
+-f-f- Wakil Gubernur Sumbar -- 1.0
+-f-f- Kementerian Kelautan -- 1.0
+-f-f- Dinas Kelautan -- 1.0
+-f-f- Peraturan Menteri Kelautan -- 1.0
+-f-f- Rapat Koordinasi Bidang -- 1.0
+-f-f- Peraturan Menteri -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/cfb13a03c59720a8559c9ca0f4d0c9d6.jpeg" data:w="600" data:h="400" />    Padang, ( 
+<strong>Antara Sumbar</strong>) - Pemerintah Provinsi Sumatera Barat terus mendorong agar konsumsi ikan di daerah itu meningkat, setidaknya mencapai 40 kilogram per kapita.   "Sekarang konsumsi ikan Sumbar baru 36 kg per kapita. Masih belum sesuai target," kata Kepala Dinas Kelautan dan Perikanan Sumbar, Yosmeri di Padang, Jumat.   Ia mengatakan hal itu usai menghadiri Gerakan Gemar Makan Ikan di Padang.   Menurut dia, angka 40 kilogram per kapita itupun sebenarnya masih belum cukup tinggi jika dibandingkan dengan konsumsi ikan daerah lain, apalagi dengan Malaysia, Korea atau Jepang.   "Masih ada banyak daerah di Indonesia yang konsumsi ikannya di atas Sumbar, sekitar 46 kilogram per kapita," katanya.   Sementara Malaysia konsumsi ikannya rata-rata 50 kilogram per kapita, Korea 70 kilogram per kapita dan Jepang 120 kilogram per kapita.   Yosmeri mengatakan salah satu kendala yang mengakibatkan rendahnya konsumsi ikan di Sumbar adalah masyarakat lebih cenderung mengkonsumi daging ayam dan daging sapi, dan jenis makanan lainnya.   "Sekarang kita galakkan ikan dijadikan berbagai olahan supaya lebih menarik dan konsumsi masyarakat meningkat," katanya.   Selain itu rumah makan yang ada di Sumbar juga diminta untuk selalu menyajikan menu masakan ikan, baik ikan laut maupun ikan air tawar.   "Bahkan, kita memberikan penghargaan kepada rumah makan yang menyajikan masakan ikan. Ini agar rumah makan termotivasi juga untuk membuat varian menu berbahan ikan," ujar dia.   Ia berharap ke depan tingkat konsumsi ikan masyarakat Sumbar bisa terus meningkat, karena ketersediaan ikan di daerah itu lebih dari cukup dari hasil tangkap nelayan, budidaya ikan dan keramba jaring apung.   Sementara itu, Ketua Forikan (Forum Peningkatan Konsumsi Ikan) Sumbar Nevi Irwan Prayitno mengatakan, pihaknya juga sering melakukan kegiatan seperti lomba memasak ikan yang dilakukan setiap tahunnya.   "Meski tidak terlalu mencolok, tetapi tiap tahun tingkat konsumsi makan ikan sudah meningkat. Sekarang mencapai 36 kilogram per kapita. Sebelumnya hanya 33 kilogram per kapita," katanya.   Ia mengatakan lomba memasak ikan yang dilakukan juga melahirkan banyak varian menu baru yang diharapkan bisa membantu meningkatkan konsumsi makan ikan. (*)  
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12280461
+-*-http://sumbar.antaranews.com/berita/204363/pemprov-sumbar-inginkan-masyarakat-banyak-makan-ikan.html
+
+--------------------
+
+
+-t-t- Sumbar -- 8.899350717505252
+-t-t- Padang -- 3.761613743573527
+-t-t- Yosmeri -- 2.3330649650784845
+-t-t- Malaysia -- 2.2969260858113327
+-t-t- Korea -- 2.2794929045791394
+-t-t- Jepang -- 2.2685771283429985
+-t-t- Irwan Prayitno -- 1.796694987162473
+-t-t- Indonesia -- 1.1537557913657837
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Dinas -- 1.0
+-f-f- Gerakan Gemar Makan Ikan -- 1.0
+-f-f- Forum Peningkatan Konsumsi Ikan -- 1.0
+-f-f- Ketua Forikan -- 1.0
+-f-f- Nevi Irwan -- 1.0
+-f-f- Gemar Makan -- 1.0
+-f-f- Kepala Dinas Kelautan -- 1.0
+-f-f- Makan Ikan -- 1.0
+-f-f- Perikanan Sumbar -- 1.0
+-f-f- Sumbar Nevi -- 1.0
+-f-f- Nevi Irwan Prayitno -- 1.0
+-f-f- Pemerintah Provinsi -- 1.0
+-f-f- Sumbar Nevi Irwan Prayitno -- 1.0
+-f-f- Pemerintah Provinsi Sumatera -- 1.0
+-f-f- Pemerintah Provinsi Sumatera Barat -- 1.0
+-f-f- Konsumsi Ikan -- 1.0
+-f-f- Sumbar Nevi Irwan -- 1.0
+-f-f- Gerakan Gemar Makan -- 1.0
+-f-f- Gerakan Gemar -- 1.0
+-f-f- Gemar Makan Ikan -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Peningkatan Konsumsi -- 1.0
+-f-f- Sumatera Barat -- 1.0
+-f-f- Dinas Kelautan -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Sementara Malaysia -- 1.0
+-f-f- Forum Peningkatan Konsumsi -- 1.0
+-f-f- Peningkatan Konsumsi Ikan -- 1.0
+-f-f- Forum Peningkatan -- 1.0
+-f-f- Provinsi Sumatera Barat -- 1.0
+-f-f- Provinsi Sumatera -- 1.0
+-f-f- Jepang 120 -- 1.0
+-f-f- Korea 70 -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/2ebdf198c7cd6a0003eea127c4062591.jpeg" data:w="600" data:h="400" />   Padang, ( 
+<strong>Antara Sumbar</strong>) - Jaksa Penuntut Umum pada Komisi Pemberantasan Korupsi (KPK) menuntut Xaveriandy Sutanto, terdakwa pemberi suap kepada oknum jaksa Kejaksaan Tinggi Sumatera Barat (Sumbar), Farizal dalam pengurusan perkara gula tanpa SNI seberat 30 ton. 
+<p>"Menuntut terdakwa dengan hukuman penjara selama empat tahun, dan pidana denda sebesar Rp100 juta subsider empat bulan kurungan," kata JPU Helmi Syarif di Padang, Jumat.</p> 
+<p>Dalam pertimbangan jaksa disebutkan hal yang memberatkan terdakwa karena tidak mendukung program pemerintah dalam mewujudkan pemerintah yang bersih dari korupsi, kolusi, dan nepotisme.</p> 
+<p>Selain itu Xaveriandy Sutanto yang terjerat permasalahan hukum lain di antaranya kasus peredaran gulan tanpa SNI seberat 30 ton di Padang, dugaan suap mantan Ketua DPD RI Irman Gusman, juga menjadi pertimbangan pemberat hukuman.</p> 
+<p>JPU Helmi Syarif menutut Direktur CV Rimbun Padi Berjaya itu melanggar dakwaan pertama Pasal 5 Undang-undang 31 tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi, Juncto (Jo) pasal 64 ayat (1) KUHP.</p> 
+<p>Menanggapi tuntutan itu, terdakwa yang didampingi penasehat hukum Defika Yufiandra Cs menyebutkan pihaknya akan mengajukan pembelaan (pleidoi) secara tertulis pada sidang selanjutnya.</p> 
+<p>"Kami akan mengajukan pembelaan secara tertulis untuk mengajukan fakta-fakta persidangan yang kami temui," kata Defika.</p> 
+<p>Sebelumnya Xaveriandy Susanto diduga memberi suap kepada jaksa Farizal sebesar Rp440 juta. Hal ini bertujuan, untuk mengurus perkaranya kasus peredaran gula tanpa SNI seberat 30 ton, di Kota Padang dan meringankan hukuman, serta pembuatan nota keberatan (eksepsi).</p> 
+<p>Penyerahan uang dilakukan beberapa kali, pertama untuk kepentingan penahanan total uang sebesar Rp55 juta. Rinciannya pertama diserahkan sebesar Rp20 juta, lalu Rp15 juta, dan terakhir Rp20 juta.</p> 
+<p>Sementara Farizal sebagai penerima suap telah divonis majelis hakim Pengadilan Tipikor Padang terlebih dahulu pada Jumat (5/5). Ia dihukum selama 5 tahun penjara dan denda Rp250 juta. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12272819
+-*-http://sumbar.antaranews.com/berita/204362/kpk-tuntut-xaveriandy-sutanto-empat-tahun.html
+
+--------------------
+
+
+-t-t- JPU Helmi Syarif -- 7.1977138714755196
+-t-t- Xaveriandy Sutanto -- 4.8432195320564215
+-t-t- Jaksa Penuntut Umum -- 4.149788957912795
+-t-t- Komisi Pemberantasan Korupsi -- 4.125088486485429
+-t-t- Ketua DPD RI -- 3.4625257874655047
+-t-t- SNI -- 3.26361383978049
+-t-t- Farizal -- 3.038782026887509
+-t-t- Kejaksaan Tinggi -- 2.5409838261579925
+-t-t- Sumatera Barat -- 2.530700129939888
+-t-t- Kota Padang -- 2.48397506978374
+-t-t- Irman Gusman -- 2.1801691907114638
+-t-t- Defika -- 1.957619020088069
+-t-t- Pengadilan Tipikor -- 1.6694019713493902
+-t-t- KPK -- 1.2934271228217789
+-t-t- KUHP -- 1.0245283935784892
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Sumbar -- 2.0
+-f-f- Pengadilan Tipikor Padang -- 1.0
+-f-f- Pasal 5 Undang-undang 31 -- 1.0
+-f-f- Direktur CV Rimbun Padi -- 1.0
+-f-f- Kejaksaan Tinggi Sumatera Barat -- 1.0
+-f-f- Kejaksaan Tinggi Sumatera -- 1.0
+-f-f- Pemberantasan Tindak Pidana -- 1.0
+-f-f- Tindak Pidana Korupsi -- 1.0
+-f-f- Tindak Pidana -- 1.0
+-f-f- Undang-undang 31 -- 1.0
+-f-f- Tinggi Sumatera -- 1.0
+-f-f- Pemberantasan Tindak -- 1.0
+-f-f- 5 Undang-undang 31 -- 1.0
+-f-f- Pasal 5 Undang-undang -- 1.0
+-f-f- CV Rimbun Padi Berjaya -- 1.0
+-f-f- Direktur CV Rimbun Padi Berjaya -- 1.0
+-f-f- Padi Berjaya -- 1.0
+-f-f- Ketua DPD RI Irman Gusman -- 1.0
+-f-f- RI Irman Gusman -- 1.0
+-f-f- Pidana Korupsi -- 1.0
+-f-f- Sebelumnya Xaveriandy Susanto -- 1.0
+-f-f- DPD RI Irman Gusman -- 1.0
+-f-f- Direktur CV Rimbun -- 1.0
+-f-f- Defika Yufiandra -- 1.0
+-f-f- Ketua DPD RI Irman -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- CV Rimbun -- 1.0
+-f-f- Tinggi Sumatera Barat -- 1.0
+-f-f- Juncto -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- 5 Undang-undang -- 1.0
+-f-f- Xaveriandy Susanto -- 1.0
+-f-f- Sementara Farizal -- 1.0
+-f-f- RI Irman -- 1.0
+-f-f- Rimbun Padi Berjaya -- 1.0
+-f-f- Tipikor Padang -- 1.0
+-f-f- Yufiandra Cs -- 1.0
+-f-f- Rimbun Padi -- 1.0
+-f-f- DPD RI Irman -- 1.0
+-f-f- Jo -- 1.0
+-f-f- Pemberantasan Tindak Pidana Korupsi -- 1.0
+-f-f- Defika Yufiandra Cs -- 1.0
+-f-f- Sebelumnya Xaveriandy -- 1.0
+-f-f- Direktur CV -- 1.0
+-f-f- CV Rimbun Padi -- 1.0
+-f-f- Pasal 5 -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-Padang, ( 
+<strong>Antara Sumbar</strong>) - Pakar Hukum Islam Universitas Islam Negeri Imam Bonjol (UIN IB) Padang, Sumatera Barat, Dr Ikhwan Matondang mengatakan falsafah hidup masyarakat Minangkabau sesuai dengan konsep HAM yang mengacu pada Islam. 
+<p>Hal tersebut disampaikannya usai kuliah umum bersama Komnas HAM dengan tema Hak Azazi Manusia (HAM) Dalam Perspektif Islam di UIN IB Padang, Jum'at.</p> 
+<p>"Minangkabau sebagai lingkup budaya sangat sesuai dengan konsep HAM," katanya.</p> 
+<p>Ia mengatakan apalagi latar belakang budaya Minangkabau yang berlandaskan nilai-nilai keislaman yang terlihat dari falsafah adat basandi syarak dan syarak basandi kitabullah (ABS-SBK).</p> 
+<p>Karena kultur Minangkabau yang berlandaskan agama maka akan semakin kuat apabila HAM yang diberlakukan mengacu pada konsep keislaman yang menjadikan Tuhan sebagai fokus atau theosentris, bukannya antrophosenstris.</p> 
+<p>Apabila mengacu pada theosentris maka ajaran Tuhan akan menjadi sumber ajaran dan akan menjadi dasar terhadap hak-hak yang akan dibangun di atasnya.</p> 
+<p>Sedangkan apabila mengacu pada antrophosentris atau fokus kepada manusia sebagai acuan peletakan dasar hak, maka rentan akan terjadi penyimpangan.</p> 
+<p>Menurutnya hal tersebut terlihat dari beberapa ketimpangan yang telah terjadi dan bertentangan dengan syariat Islam, seperti adanya orang yang pindah-pindah agama, melakukan pernikahan beda agama serta maraknya LGBT.</p> 
+<p>"Ketimpangan tersebut tidak akan terjadi jika HAM yang berlaku mengandung nilai-nilai keislaman dan hal tersebut sudah ada ada pada kultur Minangkabau, selanjutnya tinggal berupaya untuk memperkenalkan HAM yang ramah terhadap ajaran Islam," kata dia.</p> 
+<p>Sementara itu Komisioner Komnas HAM, Manager Nasution mengatakan Minangkabau dengan identitas culturalnya merupakan bagian dari pada hak azasi.</p> 
+<p>Menurutnya berdasarkan deklarasi HAM tahun 1948, HAM dapat dikelompokkan menjadi dua, yaitu hak individu atau sipil politik serta hak kesejahteraan atau hak ekonomi sosial dan budaya.</p> 
+<p>"Dengan nilai-nilai lokal yang ada di Minangkabau seperti falsafah ABS-SBK maka hal tersebut merupakan bagian dari hak ekonomi sosial dan budaya," katanya. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12272823
+-*-http://sumbar.antaranews.com/berita/204361/kata-pakar-budaya-minang-sesuai-konsep-ham.html
+
+--------------------
+
+
+-t-t- Minangkabau -- 7.440081530066886
+-t-t- Komnas HAM -- 5.590429770415752
+-t-t- UIN IB -- 5.0197307864473295
+-t-t- Universitas Islam Negeri -- 4.715584536106066
+-t-t- Padang -- 3.824584060694609
+-t-t- Imam Bonjol -- 2.596561304241181
+-t-t- Sumatera Barat -- 2.579603752319222
+-t-t- Tuhan -- 2.168853353138698
+-t-t- ABS-SBK -- 1.9673613018313802
+-t-t- Jum -- 1.21128037093185
+-t-t- LGBT -- 0.9626160745442042
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Universitas Islam Negeri Imam Bonjol -- 1.0
+-f-f- Dr Ikhwan Matondang -- 1.0
+-f-f- Hukum Islam Universitas Islam Negeri -- 1.0
+-f-f- Negeri Imam -- 1.0
+-f-f- Pakar Hukum Islam -- 1.0
+-f-f- Komisioner Komnas -- 1.0
+-f-f- IB Padang -- 1.0
+-f-f- Pakar Hukum Islam Universitas Islam -- 1.0
+-f-f- Dr Ikhwan -- 1.0
+-f-f- Hak Azazi -- 1.0
+-f-f- Manager Nasution -- 1.0
+-f-f- Hukum Islam Universitas Islam Negeri Imam -- 1.0
+-f-f- Islam Negeri Imam -- 1.0
+-f-f- Perspektif Islam -- 1.0
+-f-f- Islam Universitas Islam Negeri Imam Bonjol -- 1.0
+-f-f- Dalam Perspektif Islam -- 1.0
+-f-f- Hukum Islam -- 1.0
+-f-f- Hak Azazi Manusia -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Komisioner Komnas HAM -- 1.0
+-f-f- Hukum Islam Universitas Islam Negeri Imam Bonjol -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Ikhwan Matondang -- 1.0
+-f-f- Pakar Hukum -- 1.0
+-f-f- Islam Universitas -- 1.0
+-f-f- Pakar Hukum Islam Universitas Islam Negeri Imam -- 1.0
+-f-f- Pakar Hukum Islam Universitas -- 1.0
+-f-f- Pakar Hukum Islam Universitas Islam Negeri Imam Bonjol -- 1.0
+-f-f- Hukum Islam Universitas Islam -- 1.0
+-f-f- Islam Universitas Islam -- 1.0
+-f-f- UIN IB Padang -- 1.0
+-f-f- Pakar Hukum Islam Universitas Islam Negeri -- 1.0
+-f-f- Islam Negeri Imam Bonjol -- 1.0
+-f-f- Hukum Islam Universitas -- 1.0
+-f-f- Dalam Perspektif -- 1.0
+-f-f- Azazi Manusia -- 1.0
+-f-f- Islam Universitas Islam Negeri -- 1.0
+-f-f- Negeri Imam Bonjol -- 1.0
+-f-f- Universitas Islam Negeri Imam -- 1.0
+-f-f- Islam Universitas Islam Negeri Imam -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/dcad14f30b9781709df46d65e8b8eba6.jpeg" data:w="600" data:h="400" />   Padang, ( 
+<strong>Antara Sumbar</strong>) - Kepala Balai Taman Nasional Kerinci Seblat (TNKS) M Arief Toengkagie menyatakan pihaknya fokus mengatasi pembalakan liar dan perambahan hutan di wilayah TNKS khususnya yang berada di Kabupaten Pesisir Selatan dan Solok Selatan, Sumatera Barat (Sumbar). 
+<p>Untuk pembalakan liar fokusnya berada di Jambi namun pintu keluarnya di Pesisir Selatan, kata dia di Padang, Jumat.</p> 
+<p>Ia menyampaikan hal itu pada rapat pembahasan program pokja pengamanan dan perlindungan kawasan TNKS wilayah Sumbar menindaklanjuti nota kesepahaman Balai Besar TNKS dengan empat Polda.</p> 
+<p>Menurut dia pihak TNKS rutin melakukan operasi untuk menangkap pelaku pembalakan liar namun tidak pernah ditemukan dan yang didapati hanya kayu-kayu balok yang sudah dipotong serta dihanyutkan lewat sungai.</p> 
+<p>"Akhirnya semua barang bukti tersebut kami hancurkan agar tidak dapat digunakan," tambahnya.</p> 
+<p>Selain itu pihaknya fokus mengatasi maraknya perambahan hutan yang dilakukan oleh masyarakat.</p> 
+<p>Bagi yang sudah ditemukan pelaku diingatkan agar tidak menambah luas lahan yang sudah dirambah, sementara bagi yang sedang merambah kami larang, ujarnya.</p> 
+<p>Ia mengakui saat ini jumlah personel yang ada masih terbatas untuk mengatasi pembalakan liar dan perambahan hutan.</p> 
+<p>Ke depan TNKS merencanakan akan membangun kemitraan konservasi bersama masyarakat sebagai langkah mencegah pembalakan liar dan perambahan hutan.</p> 
+<p>Terkait adanya pihak yang juga sengaja memburu hewan yang dilindungi di kawasan TNKS ia mengatakan Sumbar merupakan daerah lintas perdagangan hewan tersebut.</p> 
+<p>Berdasarkan data yang dihimpun luas kawasan TNKS di Sumbar mencapai 348.125 hektare terdiri atas Kabupaten Pesisir Selatan 260.968 hektare, Kabupaten Solok Selatan 69.119 hektare, Kabupaten Solok 12.045 hektare, Kabupaten Dharmasraya 5.993 hektare. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12271941
+-*-http://sumbar.antaranews.com/berita/204356/tnks-fokus-atasi-pembalakan-liar-dan-perambahan.html
+
+--------------------
+
+
+-t-t- TNKS -- 8.655200893390328
+-t-t- Kabupaten Pesisir Selatan -- 6.731852256775064
+-t-t- Sumbar -- 5.433302364043664
+-t-t- Solok Selatan -- 4.1456092111035066
+-t-t- Kabupaten Solok -- 3.329973638883873
+-t-t- Taman Nasional -- 2.61028827825308
+-t-t- Padang -- 2.5113048776271736
+-t-t- Jambi -- 1.2113337507674984
+-t-t- Polda -- 1.1316988573578501
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Kepala Balai Taman Nasional Kerinci -- 1.0
+-f-f- Balai Besar TNKS -- 1.0
+-f-f- Balai Besar -- 1.0
+-f-f- Besar TNKS -- 1.0
+-f-f- M Arief Toengkagie -- 1.0
+-f-f- Solok Selatan 69.119 -- 1.0
+-f-f- Kabupaten Dharmasraya -- 1.0
+-f-f- Pesisir Selatan 260.968 -- 1.0
+-f-f- Kabupaten Solok Selatan -- 1.0
+-f-f- Nasional Kerinci -- 1.0
+-f-f- Kabupaten Solok Selatan 69.119 -- 1.0
+-f-f- Kepala Balai Taman -- 1.0
+-f-f- Kabupaten Dharmasraya 5.993 -- 1.0
+-f-f- Balai Taman Nasional Kerinci -- 1.0
+-f-f- Taman Nasional Kerinci Seblat -- 1.0
+-f-f- Dharmasraya 5.993 -- 1.0
+-f-f- Kabupaten Pesisir Selatan 260.968 -- 1.0
+-f-f- M Arief -- 1.0
+-f-f- Selatan 69.119 -- 1.0
+-f-f- Balai Taman Nasional Kerinci Seblat -- 1.0
+-f-f- Nasional Kerinci Seblat -- 1.0
+-f-f- Selatan 260.968 -- 1.0
+-f-f- Balai Taman Nasional -- 1.0
+-f-f- Kabupaten Solok 12.045 -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Kepala Balai -- 1.0
+-f-f- Kerinci Seblat -- 1.0
+-f-f- Balai Taman -- 1.0
+-f-f- Arief Toengkagie -- 1.0
+-f-f- Sumatera Barat -- 1.0
+-f-f- Kepala Balai Taman Nasional -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Solok 12.045 -- 1.0
+-f-f- Taman Nasional Kerinci -- 1.0
+-f-f- Kepala Balai Taman Nasional Kerinci Seblat -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/5480b746b028dfa6d0a2256d5f82c4bf.jpeg" data:w="600" data:h="400" />   Padang, ( 
+<strong>Antara Sumbar</strong>) - Anggota DPRD Sumatera Barat (Sumbar), Taufik Hidayat mengatakan keterbukaan masyarakat di sekitar destinasi wisata merupakan salah satu tolak ukur untuk memajukan pariwisata di provinsi setempat. 
+<p>"Memajukan pariwisata bukan hanya soal infrastruktur, namun juga keterbukaan masyarakat terhadap wisatawan," katanya di Padang, Jumat.</p> 
+<p>Ia mengatakan wisatawan yang datang tidak hanya menyukai keindahan alam saja namun juga keramah tamahan masyarakat sekitar sehingga mereka yang datang jatuh hati dan ingin kembali lagi ke daerah ini.</p> 
+<p>Kesadaran masyarakat itu yang utama dulu, ujarnya dan tidak boleh ada premanisme sehingga wisatawan yang datang merasakan kenyamanan ketika berkunjung ke Sumbar.</p> 
+<p>Menurutnya kesan buruk yang secara jelas terlihat seperti sopir taksi berebut penumpang di Bandara Internasional Minangkabau.</p> 
+<p>Ditambah lagi, katanya ketika melewati sejumlah jalan saat menuju pusat Kota Padang banyak angkutan umum yang asal berhenti dan menganggu pengendara lain.</p> 
+<p>"Hal-hal kecil seperti ini cukup mengganggu bagi wisatawan karena merasa tidak nyaman," tambahnya.</p> 
+<p>Pemerintah Sumbar hendaknya belajar dari Bali karena di sana pemerintahnya mampu mendatangkan pemasukan besar tiap tahun dari sektor pariwisata, jelasnya.</p> 
+<p>"Padahal potensi wisata Sumbar tidak kalah dari negeri dewata tersebut," lanjutnya.</p> 
+<p>Wisata Sumbar cukup beragam punya dari pantai, danau, dan gunung, namun yang jadi kendala saat ini karakter masyarakatnya belum mendukung sepenuhnya kemajuan pariwisata, ujar dia.</p> 
+<p>Untuk itu ia mendorong Pemerintah Sumbar agar terus melakukan sosialisasi sadar wisata berkesinambungan kepada masyarakat sekitar destinasi.</p> 
+<p>Sementara Ketua Association of the Indonesian Tours and Travel (Asita) Sumbar, Ian Hanafiah mengatakan hal senada yakni masyarakat yang berada di sekitar objek wisata harus terbuka terhadap wisatawan.</p> 
+<p>"Beberapa tahun ini kemajuan pariwisata Sumbar cukup pesat, maka dari itu masyarakat harus terbuka dan bersinergi dengan pelaku wisata agar terus berkembang," kata dia. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12270231
+-*-http://sumbar.antaranews.com/berita/204350/keterbukaan-masyarakat-akan-majukan-pariwisata-kata-legislator.html
+
+--------------------
+
+
+-t-t- Pemerintah Sumbar -- 5.010758812644682
+-t-t- Bandara Internasional Minangkabau -- 3.4437102266929953
+-t-t- Anggota DPRD -- 2.6213496449648286
+-t-t- Sumatera Barat -- 2.61339225578181
+-t-t- Taufik Hidayat -- 2.598157413569292
+-t-t- Kota Padang -- 2.568614521556053
+-t-t- Hal-hal -- 1.0380877334032212
+-t-t- Bali -- 1.003945596609294
+-t-t- Travel -- 0.874349191696375
+-t-t- Asita -- 0.872714894618067
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Anggota DPRD Sumatera Barat -- 1.0
+-f-f- Sementara Ketua -- 1.0
+-f-f- Association of -- 1.0
+-f-f- Wisata Sumbar -- 1.0
+-f-f- Ketua Association of the Indonesian -- 1.0
+-f-f- Association of the Indonesian -- 1.0
+-f-f- Ian Hanafiah -- 1.0
+-f-f- Association of the Indonesian Tours -- 1.0
+-f-f- Ketua Association of -- 1.0
+-f-f- Anggota DPRD Sumatera -- 1.0
+-f-f- Ketua Association -- 1.0
+-f-f- Association of the -- 1.0
+-f-f- Ketua Association of the -- 1.0
+-f-f- DPRD Sumatera Barat -- 1.0
+-f-f- Sementara Ketua Association of the Indonesian Tours -- 1.0
+-f-f- Sementara Ketua Association of the -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- DPRD Sumatera -- 1.0
+-f-f- Sementara Ketua Association -- 1.0
+-f-f- Ketua Association of the Indonesian Tours -- 1.0
+-f-f- Sementara Ketua Association of -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Indonesian Tours -- 1.0
+-f-f- Sementara Ketua Association of the Indonesian -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/6c0d7647a71ec8a577474894f45eb3c7.jpeg" data:w="600" data:h="400" />   Padang, ( 
+<strong>Antara Sumbar</strong>) - Komisioner Komisi Nasional Hak Asasi Manusia (Komnas HAM), Manager Nasution mengatakan dalam sejarahnya Islam sudah mengenal HAM sejak zaman Nabi Muhammad SAW. 
+<p>Hal itu disampaikannya dalam kuliah umum bertema Hak Asasi Manusia (HAM) Dalam Perspektif Islam di kampus Universitas Islam Negeri Imam Bonjol (UIN IB) Padang, Sumatera Barat, Jum'at.</p> 
+<p>"Islam sudah lebih lama mengenal apa yang disebut dengan HAM, yaitu dengan adanya Piagam Madinah pada tahun 622 M," katanya.</p> 
+<p>Ia mengatakan bahkan pidato terakhir Rasulullah saat haji wada' oleh sejarawan serta aktivis HAM Islam didaftar sebagai dokumen tertulis pertama yang berkaitan dengan HAM.</p> 
+<p>"Pidato Rasulullah pada tahun 632 M yang dikenal dengan Deklarasi Arafah merupakan dokumen tertulis pertama yang berisi tentang HAM," kata dia.</p> 
+<p>Ia menambahkan dunia internasional baru mengenal HAM ribuan tahun setelah adanya konsep HAM dalam dunia Islam yang sudah ada sejak abad ke VII.</p> 
+<p>Menurut dia, dikenalnya HAM secara universal oleh dunia internasional baru terjadi pada 10 Desember 1948, lebih kurang 1316 tahun setelah Islam mengenal HAM.</p> 
+<p>"Oleh karena itu umat Islam tidak perlu merasa asing dan ketinggalan dengan HAM yang ada saat ini, sebab sejatinya Islam sudah mengenal HAM sejak ribuan tahun yang lalu," katanya.</p> 
+<p>Sementara itu pakar hukum Islam UIN IB, Ikhwan Matondang mengatakan HAM yang berkembang di Indonesia saat ini jarang yang berdasarkan nilai-nilai Islam dan lebih banyak yang sekuler.</p> 
+<p>"Hal tersebut terlihat dari adanya antipati umat Islam terhadap istilah HAM yang ada ada di Indonesia," katanya. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12268856
+-*-http://sumbar.antaranews.com/berita/204341/kata-komnas-ham-orang-islam-kenal-ham-sejak-zaman-rasulullah.html
+
+--------------------
+
+
+-t-t- Hak Asasi Manusia -- 8.002278735479345
+-t-t- Universitas Islam Negeri -- 4.8537954426285
+-t-t- Komnas HAM -- 4.53364440103503
+-t-t- UIN IB -- 4.1543962240866
+-t-t- Nabi Muhammad SAW -- 3.9736096036932747
+-t-t- Padang -- 2.5110925894272187
+-t-t- Imam Bonjol -- 2.3991258926415604
+-t-t- Sumatera Barat -- 2.378581311542941
+-t-t- Indonesia -- 1.686884329497997
+-t-t- Jum -- 1.1836608880569721
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Rasulullah -- 2.0
+-f-f- Universitas Islam Negeri Imam Bonjol -- 1.0
+-f-f- Negeri Imam -- 1.0
+-f-f- Komisi Nasional -- 1.0
+-f-f- Manager Nasution -- 1.0
+-f-f- Islam Negeri Imam -- 1.0
+-f-f- Komisioner Komisi -- 1.0
+-f-f- Perspektif Islam -- 1.0
+-f-f- Dalam Perspektif Islam -- 1.0
+-f-f- Komisioner Komisi Nasional Hak Asasi -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Islam UIN IB -- 1.0
+-f-f- Komisioner Komisi Nasional Hak -- 1.0
+-f-f- Komisi Nasional Hak Asasi Manusia -- 1.0
+-f-f- Ikhwan Matondang -- 1.0
+-f-f- Komisi Nasional Hak -- 1.0
+-f-f- Islam UIN -- 1.0
+-f-f- Komisi Nasional Hak Asasi -- 1.0
+-f-f- Deklarasi Arafah -- 1.0
+-f-f- HAM Islam -- 1.0
+-f-f- Islam Negeri Imam Bonjol -- 1.0
+-f-f- Nasional Hak -- 1.0
+-f-f- Komisioner Komisi Nasional -- 1.0
+-f-f- Dalam Perspektif -- 1.0
+-f-f- Negeri Imam Bonjol -- 1.0
+-f-f- Universitas Islam Negeri Imam -- 1.0
+-f-f- Piagam Madinah -- 1.0
+-f-f- Nasional Hak Asasi Manusia -- 1.0
+-f-f- Pidato Rasulullah -- 1.0
+-f-f- Nasional Hak Asasi -- 1.0
+-f-f- Komisioner Komisi Nasional Hak Asasi Manusia -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/62af78df2daab38dce606c5b4cd47177.jpeg" data:w="600" data:h="400" />   Padang, ( 
+<strong>Antara Sumbar</strong>) - Ketua Komisi IV DPRD Sumatera Barat (Sumbar), M Nurnas meminta kepada pemerintah pusat untuk mempercepat perbaikan jalan terban di Kecamatan Kamang Baru, Kabupaten Sijunjung provinsi setempat yang ambles beberapa waktu lalu. 
+<p>"Sejak terjadi jalan ambles di wilayah itu kemacetan sering terjadi sehingga perbaikannya perlu secara permanen apalagi waktu lebaran sudah dekat," katanya di Padang, Jumat.</p> 
+<p>Ia menambahkan jalur tersebut merupakan jalan lintas Sumatera dari Sumbar menuju Jambi dan ke Riau.</p> 
+<p>Berdasarkan data yang dihimpun, ujarnya jalan ambles tersebut lebih kurang sepanjang 25 meter dengan posisi tepatnya di ruas Bukik Talawuong Nagari Siaur, Kecamatan Kamang Baru.</p> 
+<p>"Jika tidak dimulai perbaikannya dari sekarang maka ketika jelang bulan suci Ramadhan dan libur lebaran Idul Fitri 1438 Hijriah nanti akan terjadi pacet parah," sebutnya.</p> 
+<p>Selain itu, kata Nurnas jalan itu juga merupakan jalur alternatif dari Sumbar-Riau selain di Limapuluh Kota.</p> 
+<p>"Limapuluh Kota saat ini rentan oleh bencana banjir dan longsor sehingga jalur alternatif menuju Riau perlu dioptimalkan," terangnya.</p> 
+<p>Untuk itu, ia mengharapkan pemerintah provinsi agar berkoordinasi dengan pusat agar proses perbaikannya dapat segera dilaksanakan.</p> 
+<p>Sebelumnya Ketua Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sijunjung, Hardiwan menegaskan perbaikan jalan ambles di ruas jalan lintas Sumatera menjadi wewenang pemerintah pusat.</p> 
+<p>"Pasca-longsor di badan jalan tersebut, Rabu (26/4), pihak pemerintah daerah melalui Dinas Pekerjaan Umum dan Penataan Ruang setempat sudah berupaya mengatasi kedaruratan bersifat sementara," katanya.</p> 
+<p>Salah satunya, lanjut dia, dengan memberlakukan sistem buka tutup oleh pihak kepolisian setelah dilakukan pembersihan jalan serta memastikan sisa badan jalan itu aman dilewati kendaraan. (*)</p> 
+<p>Editor : <span>M R Denya</span></p> 
+<p>COPYRIGHT © <span>ANTARASUMBAR</span> <span>2017</span></p>
+
+
+-*-12268857
+-*-http://sumbar.antaranews.com/berita/204340/berbahaya-jalan-terban-sijunjung-harus-diperbaiki.html
+
+--------------------
+
+
+-t-t- Kecamatan Kamang Baru -- 7.499255734339029
+-t-t- Kabupaten Sijunjung -- 4.3802473655639655
+-t-t- Limapuluh Kota -- 4.073317361743451
+-t-t- Badan Penanggulangan Bencana Daerah -- 4.062512872455154
+-t-t- Riau -- 3.1662692811775948
+-t-t- Sumatera Barat -- 3.027403187626954
+-t-t- Dinas Pekerjaan Umum -- 2.7879021401058646
+-t-t- Padang -- 2.503854546010842
+-t-t- Nurnas -- 2.3349960217848755
+-t-t- Idul Fitri -- 2.131035454807379
+-t-t- Jambi -- 1.154513310053141
+-t-t- Ramadhan -- 1.0730125458064526
+-t-t- BPBD -- 0.9331423203150035
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Sumbar -- 4.0
+-f-f- 1438 Hijriah -- 1.0
+-f-f- Sumbar-Riau -- 1.0
+-f-f- Fitri 1438 Hijriah -- 1.0
+-f-f- Ketua Komisi IV DPRD -- 1.0
+-f-f- Ketua Komisi IV DPRD Sumatera -- 1.0
+-f-f- Idul Fitri 1438 Hijriah -- 1.0
+-f-f- Bukik Talawuong Nagari Siaur -- 1.0
+-f-f- Bukik Talawuong Nagari -- 1.0
+-f-f- Ketua Badan Penanggulangan Bencana -- 1.0
+-f-f- Sebelumnya Ketua Badan -- 1.0
+-f-f- IV DPRD Sumatera -- 1.0
+-f-f- Idul Fitri 1438 -- 1.0
+-f-f- Ketua Badan Penanggulangan Bencana Daerah -- 1.0
+-f-f- Nagari Siaur -- 1.0
+-f-f- IV DPRD -- 1.0
+-f-f- IV DPRD Sumatera Barat -- 1.0
+-f-f- Pasca-longsor -- 1.0
+-f-f- Komisi IV DPRD -- 1.0
+-f-f- Penataan Ruang -- 1.0
+-f-f- Bukik Talawuong -- 1.0
+-f-f- Ketua Komisi -- 1.0
+-f-f- Ketua Komisi IV -- 1.0
+-f-f- Ketua Komisi IV DPRD Sumatera Barat -- 1.0
+-f-f- Hardiwan -- 1.0
+-f-f- Talawuong Nagari -- 1.0
+-f-f- Ketua Badan Penanggulangan -- 1.0
+-f-f- ANTARASUMBAR 2017 -- 1.0
+-f-f- Talawuong Nagari Siaur -- 1.0
+-f-f- Antara Sumbar -- 1.0
+-f-f- Fitri 1438 -- 1.0
+-f-f- M Nurnas -- 1.0
+-f-f- Komisi IV DPRD Sumatera -- 1.0
+-f-f- Sebelumnya Ketua Badan Penanggulangan Bencana -- 1.0
+-f-f- Sebelumnya Ketua Badan Penanggulangan Bencana Daerah -- 1.0
+-f-f- Sebelumnya Ketua -- 1.0
+-f-f- Komisi IV DPRD Sumatera Barat -- 1.0
+-f-f- DPRD Sumatera Barat -- 1.0
+-f-f- Komisi IV -- 1.0
+-f-f- DPRD Sumatera -- 1.0
+-f-f- Ketua Badan -- 1.0
+-f-f- Sebelumnya Ketua Badan Penanggulangan -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+

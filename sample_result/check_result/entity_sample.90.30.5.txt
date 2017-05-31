@@ -1,0 +1,1355 @@
+-*-<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p> 
+<p><strong>SURABAYA</strong> – Trisulowati alias Chin Chin yang didampingi pengacaranya menjalani pemeriksaan di gedung Ditreskrimum Polda Jatim. Dalam pemeriksaan kali ini, mantan Direktur Utama PT Blauran Cahaya Mulya itu membawa dua koper yang berisikan barang bukti.</p> 
+<p>Chin Chin sendiri dimintai keterangan terkait laporan suaminya, Gunawan Angka Widjaya dan enam temannya mengenai dugaan keterangan palsu atau keterangan tidak benar dalam akte otentik. Pemeriksaan sendiri dimulai sejak sekira pukul 08.00 WIB.</p> 
+<p>Hingga saat ini pemeriksaan masih berlangsung. Setelah tadi sempat istirahat untuk makan siang, sementara penyidik melaksanakan salat Dzuhur.</p> 
+<p>“Tadi sudah diperiksa separuh, kemudian istirahat, mungkin sampai sore (pemeriksaannya) nanti. Materi pemeriksaan seputar pekerjaan dan data-data, latar belakang RUPS sendiri,” terang Chin Chin pada wartawan saat dikonfirmasi, Rabu (01/2/2017).</p> 
+<p>Menurut Chin Chin, pemeriksaan tersebut mengenai laporan dirinya pada Gunawan dan rekan-rekan terhadap keterangan palsu atau keterangan tidak benar dalam akte otentik. Salah satu keterangan yang diberikan pada penyidik yakni mengenai kedudukan perusahaan.</p> 
+<p>“Dalam akte tentang kedudukan, pak Gun (Gunawan) menyatakan kedudukan ada di Surabaya tapi kenyataannya di Sidoarjo. Sertifikat ada di bank, masih ditanyakan seolah-olah saya yang mengambil. Banyak yang tidak sebenarnya, saya membawa bukti dua koper,” tandas Chin Chin.</p> 
+<p>‪Seperti diketahui, Trisulowati alias Chin Chin bersama pengacaranya, Hotman Paris Hutapea, mendatangi Polda Jatim pada 24 Januari 2017. Saat itu Chin Chin melaporkan suaminya, Gunawan Angka Widjaja, bersama 6 temannya.</p> 
+<p>Mereka dilaporkan dengan dua laporan polisi atas dasar Pasal 266 KUHP, mengenai dugaan membuat keterangan tidak benar atau keterangan palsu dalam akte otentik di perusahaan PT Blauran Cahaya Mulya dan PT Dipta Wimala Bahagia.</p>
+
+
+-*-10660099
+-*-http://surabaya.okezone.com/read/2017/02/01/519/1606605/jalani-pemeriksaan-di-polda-jatim-chin-chin-bawa-dua-koper-bukti
+
+--------------------
+
+
+-t-t- Chin Chin -- 14.590483333332958
+-t-t- PT Blauran Cahaya Mulya -- 8.91954062990441
+-t-t- Gunawan Angka -- 5.273093314215326
+-t-t- Polda Jatim -- 4.3105818842381085
+-t-t- Hotman Paris Hutapea -- 2.8021518553492726
+-t-t- Trisulowati -- 2.2097811535175693
+-t-t- Surabaya -- 0.9497719443143707
+-t-t- Sidoarjo -- 0.9422559830784434
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Wimala Bahagia -- 1.0
+-f-f- Utama PT -- 1.0
+-f-f- PT Dipta -- 1.0
+-f-f- Direktur Utama PT Blauran -- 1.0
+-f-f- Menurut Chin -- 1.0
+-f-f- Angka Widjaja -- 1.0
+-f-f- Dzuhur -- 1.0
+-f-f- ‪Seperti -- 1.0
+-f-f- Pasal 266 -- 1.0
+-f-f- Dipta Wimala Bahagia -- 1.0
+-f-f- Gunawan Angka Widjaya -- 1.0
+-f-f- RUPS -- 1.0
+-f-f- Angka Widjaya -- 1.0
+-f-f- Ditreskrimum Polda -- 1.0
+-f-f- Dipta Wimala -- 1.0
+-f-f- Direktur Utama PT -- 1.0
+-f-f- Ditreskrimum Polda Jatim -- 1.0
+-f-f- Gunawan Angka Widjaja -- 1.0
+-f-f- Direktur Utama PT Blauran Cahaya -- 1.0
+-f-f- Direktur Utama -- 1.0
+-f-f- Direktur Utama PT Blauran Cahaya Mulya -- 1.0
+-f-f- Utama PT Blauran Cahaya Mulya -- 1.0
+-f-f- 266 KUHP -- 1.0
+-f-f- Menurut Chin Chin -- 1.0
+-f-f- Pasal 266 KUHP -- 1.0
+-f-f- Utama PT Blauran -- 1.0
+-f-f- Utama PT Blauran Cahaya -- 1.0
+-f-f- PT Dipta Wimala Bahagia -- 1.0
+-f-f- PT Dipta Wimala -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0028e29f7c1139c08a92a721bd3ae52e.jpeg" alt="Pemkab Sumenep Data Lahan Pertanian Terendam Air" title="Pemkab Sumenep Data Lahan Pertanian Terendam Air" data:w="600" data:h="400">   Sumenep (Antara Jatim) - Pemerintah Kabupaten Sumenep, Jawa Timur masih mendata luas lahan pertanian yang terendam air akibat tingginya curah hujan pada Selasa (31/1).   "Staf kami masih di lapangan. Sesuai informasi yang kami terima, lahan pertanian di beberapa kecamatan memang dilaporkan terendam air," kata Kepala Dinas Pertanian Tanaman Pangan, Hortikultura, dan Perkebunan Sumenep, Bambang Heriyanto di Sumenep, Rabu.   Pada Selasa (31/1) siang hingga sore, hujan deras mengguyur wilayah beberapa kecamatan di Sumenep, di antaranya Kecamatan Kota, Batang Batang, Gapura, dan Dungkek.   Bambang menjelaskan, kasus gagal tanam dan panen memang berpotensi terjadi di lahan pertanian yang terendam air minimal tiga hari.   Kalau genangan air hanya sehari dan langsung surut, tanaman padi di lahan pertanian itu kemungkinan besar masih bisa diselamatkan.   "Kasus gagal tanam maupun panen padi itu berpotensi besar jika terendam air minimal tiga hari. Namun, persoalan teknis tersebut juga tergantung kondisi di lapangan," ujarnya.   Ia belum berani memastikan adanya kasus gagal tanam maupun panen setelah terjadinya genangan air di lahan pertanian di beberapa kecamatan tersebut.   "Sekali lagi, kami masih menunggu laporan dari staf yang sekarang masih di lapangan untuk melihat langsung kondisi riil sekaligus menghitung luasan lahannya," kata Bambang, menegaskan.&nbsp;   Pantauan di lapangan, genangan air di lahan pertanian di beberapa lokasi, di antaranya di Desa Mandala Kecamatan Gapura dan Desa Jenangger Kecamatan Batang Batang, sudah surut. (*)  
+<p>Editor: <span>Chandra Hamdani Noer</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-10648189
+-*-http://www.antarajatim.com/lihat/berita/191541/pemkab-sumenep-data-lahan-pertanian-terendam-air
+
+--------------------
+
+
+-t-t- Batang Batang -- 3.8676291003194323
+-t-t- Kabupaten Sumenep -- 3.3679466848071655
+-t-t- Bambang -- 3.135550178308624
+-t-t- Jawa Timur -- 2.5929458364910585
+-t-t- Dinas Pertanian -- 2.3896096763128614
+-t-t- Gapura -- 1.9379418695406838
+-t-t- Hortikultura -- 1.1829015265117795
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Kecamatan Batang Batang -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Pertanian Tanaman -- 1.0
+-f-f- Pada Selasa -- 1.0
+-f-f- Desa Mandala -- 1.0
+-f-f- Kepala Dinas Pertanian -- 1.0
+-f-f- Jenangger Kecamatan -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Kecamatan Gapura -- 1.0
+-f-f- Jenangger Kecamatan Batang Batang -- 1.0
+-f-f- Mandala Kecamatan Gapura -- 1.0
+-f-f- Desa Jenangger Kecamatan Batang -- 1.0
+-f-f- Tanaman Pangan -- 1.0
+-f-f- Perkebunan Sumenep -- 1.0
+-f-f- Kepala Dinas Pertanian Tanaman Pangan -- 1.0
+-f-f- Mandala Kecamatan -- 1.0
+-f-f- Desa Jenangger Kecamatan -- 1.0
+-f-f- Pemerintah Kabupaten Sumenep -- 1.0
+-f-f- Antara Jatim -- 1.0
+-f-f- Kepala Dinas Pertanian Tanaman -- 1.0
+-f-f- Desa Mandala Kecamatan Gapura -- 1.0
+-f-f- Desa Mandala Kecamatan -- 1.0
+-f-f- Desa Jenangger Kecamatan Batang Batang -- 1.0
+-f-f- Dinas Pertanian Tanaman -- 1.0
+-f-f- Bambang Heriyanto -- 1.0
+-f-f- Kecamatan Kota -- 1.0
+-f-f- Pemerintah Kabupaten -- 1.0
+-f-f- Dungkek -- 1.0
+-f-f- Jenangger Kecamatan Batang -- 1.0
+-f-f- Desa Jenangger -- 1.0
+-f-f- Dinas Pertanian Tanaman Pangan -- 1.0
+-f-f- Pertanian Tanaman Pangan -- 1.0
+-f-f- Kecamatan Batang -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a27f2b9c902205ede964c1f004336f01.jpeg" width="510" height="294" alt="Ini Kata Kiai-kiai Tapal Kuda soal Sertifikasi Khatib - JPNN.COM" title="Ini Kata Kiai-kiai Tapal Kuda soal Sertifikasi Khatib - JPNN.COM" data:w="510" data:h="294"> 
+<p>Ilustrasi darussalaf</p>  
+<p><span>jpnn.com -</span>Rencana sertifikasi khatib sudah sampai ke telinga kiai-kiai di daerah Tapal Kuda, Jawa Timur (Pasuruan, Probolinggo, Lumajang, Jember, Situbondo, Bondowoso, dan Banyuwangi). </p> 
+<p>Mereka memiliki dua pandangan. Asal tidak menjadi prosedur yang menyulitkan ulama, maka sertifikasi itu bisa saja diterima agar umat tahu siapa yang layak dan tidak menjadi khatib. </p> 
+<p>"Namun kalau merugikan perkembangan umat islam, ya kami tidak setuju. Kalau mendorong kemajuan, kami setuju," kata KH Hasyim Ubaidillah, salah satu pengkhotbah Jumat, di Probolinggo, Rabu (1/2). </p> 
+<p>Dia juga menyinggung soal adanya rencana standarisasi tema khotbah. Bagi para ulama, tema di setiap daerah bisa saja berbeda. Tapi, syarat-syarat wajib khotbah, harus dilaksanakan. "Kalau soal itu kami pikir sudah sewajibnya para khatib tahu, nggak perlu distandarkan," paparnya. </p> 
+<p>Yang pasti, lanjut pria 56 tahun ini, tema akan dilihat menyesuaikan dengan kebutuhan warga atau umat islam di daerah setempat. Hanya, sudah menjadi kewajiban para ulama untuk tidak membawa masyarakat kepada perpecahan dan menjadikan khotbah sebagai ajang provokasi. </p> 
+<p>"Jangan mengarahkan ke nilai yang tidak tepat, membawa perpecahan umat, menyebarkan kebencian," tandasnya. </p> 
+<p>Sementara itu, Kiai Kampung asal Sumenep, Madura, KH Khozin meminta agar kinerja para ulama untuk menyampaikan kebaikan, mengingatkan umat, dan mengarahkan ke kebenaran tidak dipersulit. </p> 
+<p>"Jangan sampai soal sertifikasi, ada aturannya, membuat para ulama malah kesulitan. Aturannya tidak boleh bikin menyulitkan," paparnya. </p>   
+<p>Ilustrasi darussalaf</p>  
+<p>Pernyataan yang sama, juga dijelaskan oleh Gus Syafi'i asal Situbondo. Dirinya hampir setiap pekan selalu berkeliling menjadi khatib di beberapa masjid di daerahnya. Dengan adanya aturan untuk mengurus surat dan lainnya, maka ini bisa menyulitkan para ulama. </p> 
+<p>"Syaratnya menjadi khatib itu tidak ada yang formal. Semua sudah ditetapkan dan sudah dijalankan sesuai aturan agama. Kalau ada setifikasi ini bisa jadi menyulitkan dan menghalangi ulama untuk berkhutbah jumat. tapi kalau tidak menyulitkan, ya tidak apa-apa," tegas dia. <strong>(dkk/jpnn)</strong> </p>
+
+
+-*-10647526
+-*-http://www.jpnn.com/news/ini-kata-kiai-kiai-tapal-kuda-soal-sertifikasi-khatib
+
+--------------------
+
+
+-t-t- Jawa Timur -- 2.5659489019533543
+-t-t- Probolinggo -- 2.432715478619074
+-t-t- Ilustrasi -- 2.2309708269323325
+-t-t- Situbondo -- 2.162274025980031
+-t-t- Kiai Kampung -- 1.9631887213216392
+-t-t- Pasuruan -- 1.2794286924325187
+-t-t- Lumajang -- 1.272660022826968
+-t-t- Jember -- 1.269728303270687
+-t-t- Bondowoso -- 1.2641766292988932
+-t-t- Banyuwangi -- 1.2598108803496944
+-t-t- Sumenep -- 0.9775279226469076
+-t-t- Madura -- 0.9755010252506442
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Tapal Kuda -- 1.0
+-f-f- KH Khozin -- 1.0
+-f-f- Hasyim Ubaidillah -- 1.0
+-f-f- Gus Syafi'i -- 1.0
+-f-f- KH Hasyim -- 1.0
+-f-f- -Rencana -- 1.0
+-f-f- KH Hasyim Ubaidillah -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/0f67c169f5d249e00a70c73da8cf5d72.jpeg" alt="Ekspresi Kebebasan Bermain Gitar" width="760" height="420" data:w="760" data:h="420">  Gitar menjadi alat musik petik yang menawarkan kreativitas permainan, salah satunya fingerstyle. Yakni, teknik bermain gitar dengan cara memetik senar secara langsung menggunakan ujung jari (fingerpicking style), kuku, atau pick pada jari. Teknik memetik ini berlawanan dengan teknik flatpicking atau memetik senar menggunakan flatpick. 
+<p>Fingerstyle merupakan teknik bermain gitar yang memungkinkan melodi, bas, line, harmonisasi pengiring, bahkan perkusi dimainkan bersamaan hanya dengan satu instrumen gitar. Di Amerika Serikat, musisi kenamaan fingerstyle seperti Andy Mckee, Tommy Emannuel, Sungha Jung, dan Antoine Dufour sudah mengenalkan permainan ini sejak tahun 1990-an. Sementara di Indonesia, gitaris Jubing Kristianto menginspirasi banyak anak muda yang mulai menggemari fingerstyle.</p> 
+<p>Luhung Swantara, anggota Indonesian Fingerstyle Guitar Community (IFGC) regional Malang, mengatakan, batasan bermain fingerstyle hanya jari. Selebihnya, musisi bebas berekspresi dan memberikan sentuhan kreativitas pada permainannya. Dalam fingerstyle, perangkat gitar menjadi ruang terbuka yang membebaskan musisi memberi berbagai perlakuan.</p> 
+<p>"Bebas eksplorasi (bisa dengan) menambahkan teknik perkusi dengan memukul bodi gitar, atau memainkan gitar dengan menidurkannya (gitar dalam posisi tidur). Tidak lazim dilakukan dalam permainan gitar pun tidak masalah," kata Luhung saat dihubungi HARIAN NASIONAL, Senin (30/1).</p> 
+<p>Selain mendorong kreativitas, teknik permainan gitar yang tergolong baru di Indonesia ini memberi peluang kepada musisi untuk lebih berpikiran terbuka. Sebab, fingerstyle terbilang mendobrak pakem bermain gitar. Terpenting, kata Luhung, permainan gitarnya jelas dan jenis gitar yang digunakan sesuai dengan karakter musik yang dimainkan.</p> 
+<p>Sementara itu, elemen paling penting yang menunjang keberhasilan teknik fingerstyle ialah pickup. Sebab, ia menangkap bunyi dari gitar sehingga bisa dikeluarkan melalui suara pada sounds. "Fingerstyle mengubah pandangan bahwa bermain gitar tidak harus begini dan begitu," ujarnya.</p> 
+<p>Tergabung menjadi anggota IFGC Malang sejak 2013, Luhung dan kedua rekannya kini tengah mempersiapkan album perdana. Berbeda dengan musisi fingerstyle yang umumnya bermain seorang diri, Luhung membawakannya dalam format band. Dengan materi gitar instrumental, Luhung dkk menggunakan jenis gitar dan gaya permainan yang berbeda untuk masing-masing personel.</p> 
+<br>  Reportase : Habsari   Editor : Admin    
+<img src="[BASEURL]/5a0fd6932aa36de0e7096ac97986f59b.jpeg" alt="Ekspresi Kebebasan Bermain Gitar (2)" width="760" height="420" data:w="760" data:h="420">  
+<span><strong>1. Ekspresi Kebebasan Bermain Gitar (2)</strong></span> 
+<p>Mengombinasikan dengan permainan flatpicking, Luhung mengambil bagian permainan gitar rhythm, bas, dan drum. Sementara kedua rekannya memainkan melodi utama.<br></p> 
+<p>Dibentuk sejak tahun 2012, IFGC kini memiliki lebih dari 1.000 anggota yang tersebar di beberapa daerah seperti Malang, Jakarta, Bandung, Surabaya, dan Yogyakarta. Memanfaatkan komunitas sebagai wadah berbagi dan berproses, IFGC sempat menelurkan karya kompilasi bertajuk Seventh String Sonority.</p> 
+<p>Mengenalkan kepada masyarakat luas bahwa gitar instrumental itu bagus, sulit, dan pantas dihargai, IFGC memperluas eksperimentasi ke wilayah perkusi. Dengan referensi Andy McKee dan Fay Ehsan, permainan perkusi dan detail nada menjadi fokus pengembangan.</p> 
+<p>"Saya pribadi terinspirasi Petteri Sariola asal Helsinki. Ia bermain gitar seperi sebuah band," ujar Luhung juga pelatih gitar fingerstyle di Grandioso The Ultimate Art Education itu.</p> 
+<p>Di YouTube, jebolan IFGC yang viral dan mulai dikenal publik di antaranya, Kevin Nikolas, Andri Guitara, Reqi Rangga, Nukie, serta JAV Guitar. Tidak hanya luas dalam eksplorasi permainan gitar, genre lagu yang dibawakan juga beragam. Mulai dari lagu pop kekinian, folk, balada, rock, lagu latar anime, tembang kenangan, keroncong, hingga dangdut osing atau dangdut khas Banyuwangi.</p> 
+<br>  Reportase : Habsari   Editor : Admin
+
+
+-*-10646155
+-*-http://www.harnas.co/2017/02/01/ekspresi-kebebasan-bermain-gitar
+
+--------------------
+
+
+-t-t- Luhung -- 8.111150718222397
+-t-t- IFGC -- 5.742572674990107
+-t-t- Indonesia -- 3.471401565394791
+-t-t- Malang -- 3.09720605672958
+-t-t- Fingerstyle Guitar -- 2.7972663506750175
+-t-t- Amerika Serikat -- 2.4659946920399256
+-t-t- Tommy Emannuel -- 2.4451033668885893
+-t-t- Sungha Jung -- 2.439988089745974
+-t-t- Antoine Dufour -- 2.4345648328419904
+-t-t- Andy McKee -- 1.7530635997327373
+-t-t- The Ultimate -- 1.6979603099281875
+-t-t- Art Education -- 1.6950735671428956
+-t-t- Jakarta -- 0.9173808634826053
+-t-t- Bandung -- 0.9163008154981572
+-t-t- Surabaya -- 0.9152220390724426
+-t-t- Yogyakarta -- 0.9135464663034016
+-t-t- Helsinki -- 0.8606159698532139
+-t-t- Nukie -- 0.83203852461642
+-t-t- Banyuwangi -- 0.8050420001693976
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- IFGC Malang -- 1.0
+-f-f- Ekspresi Kebebasan Bermain Gitar -- 1.0
+-f-f- Andy Mckee -- 1.0
+-f-f- Indonesian Fingerstyle Guitar -- 1.0
+-f-f- Bermain Gitar -- 1.0
+-f-f- Ekspresi Kebebasan Bermain -- 1.0
+-f-f- Di Amerika -- 1.0
+-f-f- Grandioso The Ultimate -- 1.0
+-f-f- Seventh String Sonority -- 1.0
+-f-f- Petteri Sariola -- 1.0
+-f-f- The Ultimate Art Education -- 1.0
+-f-f- Grandioso The Ultimate Art Education -- 1.0
+-f-f- Ultimate Art Education -- 1.0
+-f-f- HARIAN NASIONAL -- 1.0
+-f-f- JAV Guitar -- 1.0
+-f-f- Indonesian Fingerstyle -- 1.0
+-f-f- Fingerstyle Guitar Community -- 1.0
+-f-f- Reqi Rangga -- 1.0
+-f-f- Kebebasan Bermain -- 1.0
+-f-f- Luhung Swantara -- 1.0
+-f-f- Kebebasan Bermain Gitar -- 1.0
+-f-f- Di Amerika Serikat -- 1.0
+-f-f- Guitar Community -- 1.0
+-f-f- Grandioso The Ultimate Art -- 1.0
+-f-f- Seventh String -- 1.0
+-f-f- Indonesian Fingerstyle Guitar Community -- 1.0
+-f-f- String Sonority -- 1.0
+-f-f- The Ultimate Art -- 1.0
+-f-f- Andri Guitara -- 1.0
+-f-f- Grandioso The -- 1.0
+-f-f- Jubing Kristianto -- 1.0
+-f-f- Fay Ehsan -- 1.0
+-f-f- Ultimate Art -- 1.0
+-f-f- Di YouTube -- 1.0
+-f-f- Ekspresi Kebebasan -- 1.0
+-f-f- Kevin Nikolas -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><strong>Surabaya –</strong> Gubernur Jatim, Dr. H. Soekarwo mengingatkan kembali konsep segitiga besi dalam menciptakan kesejahteraan masyarakat. Konsep segitiga besi ini memiliki tiga basis utama, yakni kondisi Jatim yang aman dan nyaman, pertumbuhan dan pembangunan yang meningkat, serta kesejahteraan rakyat yang menjadi lebih baik dan sejahtera.</p> 
+<p>“Aman dan nyaman adalah suatu proses awal untuk melakukan pembangunan. Nyaman ini juga termasuk partisipatoris, dimana masyarakat terlibat dalam suatu proses pembangunan. Setelah pembangunan jalan, maka kesejahteraan masyarakat bisa terwujud,” terang Pakde Karwo-sapaan akrab Gubernur Jatim usai menjadi Inspektur Upacara Peringatan Hari Kebangkitan Nasional/Harkitnas Tahun 2017 Provinsi Jatim di Halaman Gedung Negara Grahadi Surabaya, Senin (22/5).</p> 
+<p>Menurut Pakde Karwo, ada proses pembangunan secara linear, ada pula yang melompat. Proses pembangunan seperti ini bisa dilakukan bila situasi aman dan nyaman. Saat ini, target jangka pendek adalah terciptanya situasi aman dan nyaman di bidang sosial politik.&nbsp;<br>“Kalau suasana adem, ya pasti aman dan nyaman. Baru setelah itu ekonomi, sosial dan politik berjalan dengan baik,” ungkapnya.</p> 
+<p>Saat ini, lanjut Pakde Karwo, untuk menciptakan suasana demokrasi aman dan nyaman, yang harus dilakukan Bupati/Walikota di daerah adalah memperbayak pembangunan ruang publik. Ruang publik ini nantinya sebagai ruang dialog antara forkopimda, tokoh masyarakat dan &nbsp;masyarakat.&nbsp;<br>“Inilah demokrasi. Untuk itu kita minta bupati walikota dan forpimda memperbanyak ruang publik sebagai bagian partisipatoris,” ungkapnya.</p> 
+<p>Ditambahkannya, salah satu masalah bangsa Indonesia saat ini adalah soal Sumber Daya Manusia (SDM). Faktor SDM ini sangat penting, terutama saat ini merupakan era industrialisasi. Industrialisasi tidak bisa dilakukan bila SDM nya tidak baik. Untuk menciptakan SDM terampil, pendidikan vokasional harus digerakkan besar-besaran, salah satunya dengan memanfaatkan Balai Latihan Kerja yang menganggur.&nbsp;<br>“Bila SDM nya baik, maka intelektualnya bagus. Orang seperti ini relatif lebih maju,” kata orang nomor satu di Jatim ini.&nbsp;</p> 
+<p>Ditanya media terkait situasi kondusif Jatim, Pakde Karwo mengatakan, secara prinsip Jatim berpegang teguh pada konstitusional. Bersama Forkopimda, Jatim sepakat berpegang teguh pada Pancasila, UUD 45, NKRI dan Bhinneka Tunggal Ika.&nbsp;</p> 
+<p>“Aman dan nyaman sesuai empat pilar itu adalah bagian dari pembangunan. Di luar itu, biarkan hukum yang berjalan,” ungkapnya.</p> 
+<p>Upacara peringatan Hari Kebangkitan Nasional tahun ini mengambil tema “Pemerataan Pembangunan Indonesia yang Berkeadilan sebagai Wujud Kebangkitan Nasional”. Melalui tema ini, diharapkan pemerataan pembangunan antar wilayah dapat diwujudkan dengan membangun Indonesia dari pinggiran. Hal ini sesuai dengan program Nawacita yang disusun Presiden Joko Widodo dengan memperkuat daerah-daerah dan desa dalam kerangka negara kesatuan.<br><strong>Pemerataan Pembangunan di Segala Bidang</strong></p> 
+<p>Sementara itu, sambutan Menteri Komunikasi dan Informatika (Menkominfo) Rudiantara yang dibacakan Gubernur Soekarwo saat upacara menjelaskan, pemerintah terus berupaya meningkatkan aspek pemerataan pembangunan di segala sektor. Di sektor kelistrikan, pembangunan ketenagalistrikan telah dilakukan di 2.500 desa yang belum mendapat aliran listrik. Selain itu, subsidi listrik difokuskan pada masyarakat menengah ke bawah, sehingga bisa dilakukan subsidi listrik Tahun 2016 sebesar 12 triliun rupiah dan dialihkan untuk menunjang sektor kesehatan, pendidikan dan infrastruktur.<br>Di bidang infrastruktur,belum lama ini Presiden Jokowi mencoba langsung jalan Trans-Papua yang hampir selesai dibangun. Dari 4.300 km jalan raya Trans-Papua, 3.800 km diantaranya telah dibuka. Di bidang agraria, telah diluncurkan Kebijakan Pemerataan Ekonomi (KPE) yang bertumpu pada tiga pilar yaitu lahan, kesempatan dan SDM. Kebijakan ini menitikberatkan pada reforma agrarian, termasuk legalisasi lahan transmigrasi, pendidikan dan pelatihan vokasi, perumahan untuk masyarakat miskin perkotaan, serta ritel modern dan pasar tradisional.<br>Di sektor kominfo, melalui program Palapa Ring, yakni proyek pembangunan jaringan tulang punggung serat optic nasional untuk menghubungkan seluruh wilayah Indonesia. Selain itu, keberadaan internet berkecepatan tinggi (broadband) dapat dinikmati secara luas.<br><strong>Menyanyi Bersama</strong></p> 
+<p>Usai upacara, Gubernur yang didampingi Ibu Dra. Hj. Nina Soekarwo.M.Si, Wakil Gubernur Jatim beserta Ibu Dra. Hj. Fatma Saifullah Yusuf, serta unsur Forkopimda Prov Jatim, berkenan menuju ke panggung paduan suara. &nbsp;Disana, Gubernur beserta ibu dan Wakil Gubernur beserta ibu berkenan menyanyi bersama dengan sekitar 250 mahasiswa yang terdiri dari mahasiswa Universitas Airlangga Surabaya, Universitas Hang Tuah Surabaya, Institut Teknologi 10 November, Universitas Trunojoyo Madura dan Universitas Muhammadiyah Sidoarjo. Beberapa lagu nasional yang dinyanyikan seperti Indonesia Pusaka dan Hari Merdeka.(hms/dn-2)</p>
+
+
+-*-12313928
+-*-https://www.deliknews.com/2017/05/22/gubernur-jatim-ingatkan-kembali-konsep-segitiga-besi/
+
+--------------------
+
+
+-t-t- Pakde Karwo -- 9.379242752102186
+-t-t- Gubernur Jatim -- 9.03729929935102
+-t-t- Hari Kebangkitan Nasional -- 7.233705893401439
+-t-t- SDM -- 6.388985353254267
+-t-t- Wakil Gubernur -- 4.210217818564638
+-t-t- Pemerataan Pembangunan -- 4.005369525001467
+-t-t- Gedung Negara Grahadi -- 3.8759597747325216
+-t-t- Ibu Dra -- 3.3801494910452305
+-t-t- Bhinneka Tunggal Ika -- 3.302592613075386
+-t-t- Presiden Joko Widodo -- 3.2199586289503768
+-t-t- Universitas Airlangga Surabaya -- 2.94764036949947
+-t-t- Dr. H -- 2.6302920958072193
+-t-t- Aman -- 2.314778989700745
+-t-t- Indonesia Pusaka -- 2.2075527278460685
+-t-t- UUD 45 -- 2.0894572251262153
+-t-t- Presiden Jokowi -- 2.0799758745343286
+-t-t- Trans-Papua -- 1.8275168280676342
+-t-t- Palapa Ring -- 1.7443163571373992
+-t-t- Saifullah Yusuf -- 1.6816120333177498
+-t-t- Hang Tuah -- 1.6347142565264783
+-t-t- Universitas Trunojoyo -- 1.6262103600537157
+-t-t- Hari Merdeka -- 1.6040170704508967
+-t-t- Bupati -- 1.1590127731050348
+-t-t- Pancasila -- 1.0458819081195119
+-t-t- NKRI -- 1.0438906510178654
+-t-t- Nawacita -- 0.9948237534449333
+-t-t- Menkominfo -- 0.973112201610949
+-t-t- Rudiantara -- 0.9719416578047689
+-t-t- KPE -- 0.9002440472303521
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- 2017 Provinsi -- 1.0
+-f-f- Negara Grahadi Surabaya -- 1.0
+-f-f- Inspektur Upacara Peringatan Hari Kebangkitan Nasional -- 1.0
+-f-f- Provinsi Jatim -- 1.0
+-f-f- Universitas Hang Tuah Surabaya -- 1.0
+-f-f- Forkopimda Prov Jatim -- 1.0
+-f-f- Peringatan Hari Kebangkitan Nasional -- 1.0
+-f-f- Dr. H. Soekarwo -- 1.0
+-f-f- Halaman Gedung -- 1.0
+-f-f- Universitas Hang Tuah -- 1.0
+-f-f- Halaman Gedung Negara -- 1.0
+-f-f- Universitas Trunojoyo Madura -- 1.0
+-f-f- Walikota -- 1.0
+-f-f- Bila SDM -- 1.0
+-f-f- Trunojoyo Madura -- 1.0
+-f-f- 2017 Provinsi Jatim -- 1.0
+-f-f- Harkitnas Tahun 2017 Provinsi -- 1.0
+-f-f- Universitas Hang -- 1.0
+-f-f- Informatika -- 1.0
+-f-f- Balai Latihan Kerja -- 1.0
+-f-f- Gedung Negara Grahadi Surabaya -- 1.0
+-f-f- Upacara Peringatan -- 1.0
+-f-f- Inspektur Upacara Peringatan Hari -- 1.0
+-f-f- Upacara Peringatan Hari Kebangkitan -- 1.0
+-f-f- Balai Latihan -- 1.0
+-f-f- Tuah Surabaya -- 1.0
+-f-f- Wakil Gubernur Jatim -- 1.0
+-f-f- Tahun 2017 Provinsi Jatim -- 1.0
+-f-f- Hang Tuah Surabaya -- 1.0
+-f-f- Teknologi 10 November -- 1.0
+-f-f- Segala Bidang -- 1.0
+-f-f- Nina Soekarwo.M.Si -- 1.0
+-f-f- Wujud Kebangkitan -- 1.0
+-f-f- Menyanyi Bersama -- 1.0
+-f-f- Latihan Kerja -- 1.0
+-f-f- Bersama Forkopimda -- 1.0
+-f-f- Teknologi 10 -- 1.0
+-f-f- Prov Jatim -- 1.0
+-f-f- Kebijakan Pemerataan -- 1.0
+-f-f- Upacara Peringatan Hari Kebangkitan Nasional -- 1.0
+-f-f- Wujud Kebangkitan Nasional -- 1.0
+-f-f- Peringatan Hari -- 1.0
+-f-f- Menteri Komunikasi -- 1.0
+-f-f- Pakde Karwo-sapaan -- 1.0
+-f-f- Muhammadiyah Sidoarjo -- 1.0
+-f-f- Forkopimda Prov -- 1.0
+-f-f- Pemerataan Pembangunan Indonesia -- 1.0
+-f-f- Kebijakan Pemerataan Ekonomi -- 1.0
+-f-f- Inspektur Upacara Peringatan Hari Kebangkitan -- 1.0
+-f-f- Dari 4.300 -- 1.0
+-f-f- Pembangunan Indonesia -- 1.0
+-f-f- Halaman Gedung Negara Grahadi Surabaya -- 1.0
+-f-f- Ditambahkannya -- 1.0
+-f-f- Pemerataan Ekonomi -- 1.0
+-f-f- H. Soekarwo -- 1.0
+-f-f- Menurut Pakde -- 1.0
+-f-f- Universitas Muhammadiyah Sidoarjo -- 1.0
+-f-f- Harkitnas Tahun 2017 -- 1.0
+-f-f- Harkitnas Tahun -- 1.0
+-f-f- Universitas Muhammadiyah -- 1.0
+-f-f- Inspektur Upacara Peringatan -- 1.0
+-f-f- Faktor SDM -- 1.0
+-f-f- Upacara Peringatan Hari -- 1.0
+-f-f- Institut Teknologi -- 1.0
+-f-f- Fatma Saifullah -- 1.0
+-f-f- Gubernur Soekarwo -- 1.0
+-f-f- Halaman Gedung Negara Grahadi -- 1.0
+-f-f- Peringatan Hari Kebangkitan -- 1.0
+-f-f- Berkeadilan -- 1.0
+-f-f- Tahun 2017 Provinsi -- 1.0
+-f-f- Harkitnas Tahun 2017 Provinsi Jatim -- 1.0
+-f-f- Grahadi Surabaya -- 1.0
+-f-f- Institut Teknologi 10 -- 1.0
+-f-f- Inspektur Upacara -- 1.0
+-f-f- Fatma Saifullah Yusuf -- 1.0
+-f-f- Menurut Pakde Karwo -- 1.0
+-f-f- Institut Teknologi 10 November -- 1.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img src="[BASEURL]/260a2732023e563814bbd6ecd0f0d9a3.jpeg" data:w="700" data:h="393" />   
+<p>Sumenep, 22/5 (Media Madura) – Desa&nbsp;Sapeken, Kecamatan/ Pulau Sapeken, Kabupaten Sumenep, Madura, Jawa Tmur membuat aturan tak biasa bagi para warganya.&nbsp;</p> 
+<p>Ya, di desa tersebut diberlakukan jam malam. Warga terutama remaja dilarang keluar rumah diatas jam 23.00 WIB dan hiburan malam hanya dibatasi sampai 21.00 WIB malam.&nbsp;</p> 
+<p>“Itu sudah diatur dalam Keputusan Kepala Desa (Kepdes),” terang Kades setempat, Mohammad Anwar.</p> 
+<p>Dalam menerapkan aturan tersebut, tutur Anwar, pihaknya membentuk Satuan Tugas Khusus (Satgas) bersama Kepolisian dan Koramil, setiap malam mereka meronda keliling desa.</p> 
+<p>“Satgas ini memantau aktivitas remaja di pelabuhan dan kos-kosan serta tempat-tempat nongkrong,” katanya.&nbsp;</p>    
+<p>“Petugas juga menggelar patroli laut, karena sering kali menemukan remaja pesta miras di keramba, tempat budi daya ikan di laut,” sambungnya.&nbsp;</p>    
+<p>Menurut Anwar, aturan tersebut dibuat lantaran dirinya mulai waswas dengan kenalakan remaja di daerahnya yang semakin hari semakin memprihatinkan.&nbsp;</p> 
+<p>Hampir siang dan malam warga menemukan segerombolan remaja menggelar pesta miras oplosan sambil gitaran, mereka rata-rata masih pelajar SMP dan SMA.</p> 
+<p>“Dua tahun terakhir ini, kenakalan remaja bisa dibilang sudah darurat, tercatat lima kasus pelajar yang meninggal gara-gara miras,” bebernya.&nbsp;</p> 
+<p>Tidak hanya kecenderungan miras, remaja disana juga mulai bermain dengan obat terlarang narkoba.</p> 
+<p>“Ya penyebanya, karena barang itu mudah masuk ke Sapeken dari luar daerah seperti Bali, Lombok, dan Sumenep daratan. Disamping itu harganya juga dijual murah,” urainya.</p> 
+<p>Dengan adanya aturan itu, dia berharap, kenakalan remaja di desanya dapat ditekan dan tak semakin merajalela.</p> 
+<p>Reporter: Rosy<br>Editor: Ahmadi</p>
+
+
+-*-12313656
+-*-http://mediamadura.com/darurat-satu-desa-di-sumenep-berlakukan-jam-malam/
+
+--------------------
+
+
+-t-t- Sapeken -- 3.463969190240013
+-t-t- Anwar -- 3.3453998150537405
+-t-t- Kabupaten Sumenep -- 3.015274225125577
+-t-t- Madura -- 2.5947299573799736
+-t-t- Kepala Desa -- 2.373885644172414
+-t-t- Satgas -- 2.243049179656341
+-t-t- Ya -- 2.1360663065539254
+-t-t- Kecamatan -- 1.301232354064694
+-t-t- Kades -- 1.176725300185762
+-t-t- Kepolisian -- 1.1305200796652213
+-t-t- Petugas -- 1.0724438564729237
+-t-t- SMP -- 0.9463601975066407
+-t-t- SMA -- 0.9441809003763848
+-t-t- Bali -- 0.8563021176439096
+-t-t- Lombok -- 0.8548227593292307
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Jawa Tmur -- 1.0
+-f-f- Keputusan Kepala Desa -- 1.0
+-f-f- Keputusan Kepala -- 1.0
+-f-f- Satuan Tugas Khusus -- 1.0
+-f-f- Menurut Anwar -- 1.0
+-f-f- Kepdes -- 1.0
+-f-f- Tugas Khusus -- 1.0
+-f-f- Satuan Tugas -- 1.0
+-f-f- Koramil -- 1.0
+-f-f- Pulau Sapeken -- 1.0
+-f-f- Mohammad Anwar -- 1.0
+-f-f- Media Madura -- 1.0
+-f-f- Desa Sapeken -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/1fc2020cbe4ee8a41363a306fbeb4d52.jpeg" data:w="650" data:h="431" />   Kapolres Sumenep AKBP Joseph Ananta Pinora -- MTVN/Rahmatullah    
+<p><strong>Metrotvnews.com, Sumenep:</strong> Pemerintah dinilai perlu membuka kantor perwakilan Badan Sar Nasional (Basarnas) di Sumenep, Jawa Timur. Langkah-langkah terkoordinir terkait penyelematan dan pencarian korban semakin cepat bila ada Basarnas di daerah.</p> 
+<p>"Adanya kantor perwakilan Basarnas bisa dijadikan tempat koordinasi semua stakeholder dalam menangani bencana," kata Kapolres Sumenep AKBP Joseph Ananta Pinora, Senin 22 Mei 2017.</p> Saat ini, kata Pinora, Satpolair Polres Sumenep hanya memiliki kapal tipe 3C. Kapal tersebut tidak bisa menembus pelayaran dari Pelabuhan Kalianget ke perairan Pulau Masalembu. Kapal hanya bisa menjangkau perairan Pulau Sapudi yang lebih dekat dengan Pelabuhan Kalianget. 
+<br>&nbsp; 
+<br>"Ke depan, kita harus memiliki kapal yang bisa berpotroli ke perairan Masalembu," terangnya. 
+<p>Pinora pun mengapresiasi nelayan Masalembu yang ikut mengevakuasi dan mencari korban KM Mutiara Sentosa 1. Saat kejadian, delapan perahu nelayan ikut terjun ke titik lokasi kebakaran. Meski perahu minim pencahayaan, nelayan berusaha maksimal membantu tugas pihak berwenang.</p> 
+<p>"Apa yang dilakukan masyarakat Masalembu merupakan sebuah kemuliaan. Itu luar biasa. Saya cukup bangga dan mengapresiasi upaya penyelamatan yang dilakukan mereka," tutupnya.<br>&nbsp;<br>Sebelumnya, KM Mutiara Sentosa 1 terbakar di 3 mil lepas peraian Pulau Masalembu pada pukul 18.00 WIB, Jumat 19 Mei 2017. Kapal mengangkut 198 penumpang yang terdiri dari 37 orang ABK dan 161 penumpang.</p> 
+<p><strong>(Baca: <a href="http://jatim.metrotvnews.com/peristiwa/8N0eM07b-jenazah-korban-kapal-terbakar-tiba-di-surabaya" rel="nofollow">Jenazah Korban Kapal Terbakar Tiba di Surabaya</a>)</strong></p> 
+<p>Lima orang tewas dalam kejadian tersebut, yaitu Ahmad Sofyanto, 30, warga Dusun Karanglegi, Kecamatan Gabus, Kabupaten Grobogan, Jawa Tengah; Eko Hadi Prayitno, 35, warga Dusun Blok Agung Kecamatan Tegalsari, Banyuwangi, Jawa Timur; Bambang Sugito, 43, warga Dusun Sekar Geneng Kecamatan Cerme, Gersik, Jawa Timur; Rachmad Sirry, 59, warga Dusun Bendorejo Kecamatan Kacet, Mojokerto, Jawa Timur; dan Supriyadi, 37, warga Jalan Ronggolawe 47 Sumber Pucung, Malang, Jawa Timur.</p> 
+<p>(NIN)</p>
+
+
+-*-12313426
+-*-http://jatim.metrotvnews.com/peristiwa/3NO0Ba3b-pemerintah-perlu-membuka-kantor-perwakilan-basarnas-di-sumenep
+
+--------------------
+
+
+-t-t- Kapolres Sumenep AKBP Joseph Ananta Pinora -- 16.960655642654746
+-t-t- Jawa Timur -- 9.151272630882922
+-t-t- KM Mutiara Sentosa 1 -- 8.647766548974097
+-t-t- Pulau Masalembu -- 4.790687258744208
+-t-t- Pelabuhan Kalianget -- 4.472023743823184
+-t-t- Basarnas -- 3.713319541119766
+-t-t- Kapal Terbakar -- 1.8156644805330242
+-t-t- Kecamatan Gabus -- 1.7600147013664065
+-t-t- Kabupaten Grobogan -- 1.7528093532511673
+-t-t- Jawa Tengah -- 1.7443702297117398
+-t-t- Kecamatan Cerme -- 1.6827645260174167
+-t-t- MTVN -- 1.3044168238062543
+-t-t- Rahmatullah -- 1.3028439109090464
+-t-t- ABK -- 0.9186304581103326
+-t-t- Surabaya -- 0.9028075529667439
+-t-t- Banyuwangi -- 0.8555090481756902
+-t-t- Mojokerto -- 0.822313229433879
+-t-t- Supriyadi -- 0.816972909792983
+-t-t- Malang -- 0.8060069962248113
+-t-t- NIN -- 0.8011591401016311
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Ahmad Sofyanto -- 1.0
+-f-f- Dusun Karanglegi -- 1.0
+-f-f- Blok Agung -- 1.0
+-f-f- Agung Kecamatan -- 1.0
+-f-f- Dusun Blok -- 1.0
+-f-f- Kapal Terbakar Tiba -- 1.0
+-f-f- Sekar Geneng -- 1.0
+-f-f- Bendorejo Kecamatan -- 1.0
+-f-f- Eko Hadi Prayitno -- 1.0
+-f-f- Dusun Sekar Geneng -- 1.0
+-f-f- Jenazah Korban Kapal -- 1.0
+-f-f- Korban Kapal -- 1.0
+-f-f- Baca: Jenazah Korban Kapal -- 1.0
+-f-f- Sekar Geneng Kecamatan -- 1.0
+-f-f- Sumenep: Pemerintah -- 1.0
+-f-f- Kecamatan Kacet -- 1.0
+-f-f- Dusun Sekar Geneng Kecamatan -- 1.0
+-f-f- Kecamatan Tegalsari -- 1.0
+-f-f- Dusun Sekar Geneng Kecamatan Cerme -- 1.0
+-f-f- Geneng Kecamatan -- 1.0
+-f-f- Dusun Blok Agung Kecamatan Tegalsari -- 1.0
+-f-f- Satpolair Polres -- 1.0
+-f-f- Dusun Blok Agung Kecamatan -- 1.0
+-f-f- Bambang Sugito -- 1.0
+-f-f- Geneng Kecamatan Cerme -- 1.0
+-f-f- Dusun Sekar -- 1.0
+-f-f- Dusun Bendorejo Kecamatan Kacet -- 1.0
+-f-f- Dusun Bendorejo -- 1.0
+-f-f- Eko Hadi -- 1.0
+-f-f- Sekar Geneng Kecamatan Cerme -- 1.0
+-f-f- Bendorejo Kecamatan Kacet -- 1.0
+-f-f- Sar Nasional -- 1.0
+-f-f- Terbakar Tiba -- 1.0
+-f-f- Agung Kecamatan Tegalsari -- 1.0
+-f-f- Dusun Bendorejo Kecamatan -- 1.0
+-f-f- Blok Agung Kecamatan -- 1.0
+-f-f- Polres Sumenep -- 1.0
+-f-f- Baca: Jenazah Korban Kapal Terbakar -- 1.0
+-f-f- Jenazah Korban Kapal Terbakar -- 1.0
+-f-f- Blok Agung Kecamatan Tegalsari -- 1.0
+-f-f- Badan Sar Nasional -- 1.0
+-f-f- Jenazah Korban -- 1.0
+-f-f- Pulau Sapudi -- 1.0
+-f-f- Gersik -- 1.0
+-f-f- Baca: Jenazah Korban Kapal Terbakar Tiba -- 1.0
+-f-f- Dusun Blok Agung -- 1.0
+-f-f- Jenazah Korban Kapal Terbakar Tiba -- 1.0
+-f-f- Korban Kapal Terbakar -- 1.0
+-f-f- Korban Kapal Terbakar Tiba -- 1.0
+-f-f- Baca: Jenazah Korban -- 1.0
+-f-f- Rachmad Sirry -- 1.0
+-f-f- Baca: Jenazah -- 1.0
+-f-f- Hadi Prayitno -- 1.0
+-f-f- Satpolair Polres Sumenep -- 1.0
+-f-f- Langkah-langkah -- 1.0
+-f-f- Badan Sar -- 1.0
+-f-f- Sumenep : Pemerintah -- 0.0
+-f-f- Baca : Jenazah Korban Kapal Terbakar Tiba -- 0.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/cf6a40f2b042bb0b6855458c7e9d9c83.jpeg" data:w="800" data:h="460" />   
+<p>Pamekasan, 22/5 (Media Madura) – Dana Desa (DD) Rp 15,7 miliar di Kabupaten Pamekasan, Madura, masih ngendon di Kas Daerah (Kasda).</p> 
+<p>Menurut Kepala Dinas Pemberdayaan Masyarakat dan Desa (PMD) Ach. Faisol, DD pada tahap pertama senilai 92.792.155.200, dari jumlah itu hanya sebagian desa yang mencairkan dana untuk pembangunan.</p> 
+<p>“Ya masih ada sekitar Rp 15 M belum dicairkan oleh pemerintah desa,” katanya, Senin (22/5/2017).</p> 
+<p>Faisol menambahkan, pemerintah memfasilitasi realisasi DD tersebut bergantung pada surat permintaan pembayaran (SPP) yang diajukan tiap desa. Sejauh ini, baru 154 desa yang mengajukan dokumen tersebut.</p>    
+<p>“24 sisanya hingga sekarang belum melayangkan SPP. Kami tidak tahu secara pasti penyebab sebagian desa belum mengajukan SPP,” tambahnya.</p>    
+<p>Dia menuturkan, ada syarat-syarat yang harus dipenuhi dalam pengajuan dokumen itu. Salah satunya, desa harus menyertakan APBDes yang disepakati antara Kades dan badan permusyawaratan desa (BPD).</p> 
+<p>“Jika dokumen tersebut belum dibuat, SPP tidak bisa diproses. Saya kurang tahu pasti mengapa belum menyetor SPP,” tutup Faisol.</p> 
+<p>Meski demikian, pemerintah tetap menunggu dokumen itu disetor oleh tiap desa. Jika semester pertama dana untuk pembangunan dan pemberdayaan tersebut belum terealisasi, bisa diprogramkan kembali melalui APBDes-Perubahan.</p> 
+<p>Reporter: Rifqi<br>Editor: Ahmadi</p>
+
+
+-*-12312974
+-*-http://mediamadura.com/rp-15-miliar-dd-di-pamekasan-ngendon-di-kasda/
+
+--------------------
+
+
+-t-t- SPP -- 4.898679405524972
+-t-t- DD -- 3.6204774560760846
+-t-t- Faisol -- 3.231382772289761
+-t-t- Dana Desa -- 2.921017124760211
+-t-t- Kabupaten Pamekasan -- 2.898388861555352
+-t-t- Madura -- 2.583897794252744
+-t-t- Pemberdayaan Masyarakat -- 2.4894430800546394
+-t-t- APBDes -- 1.7639773933675986
+-t-t- PMD -- 1.2293937623194067
+-t-t- Ach -- 1.22715565304857
+-t-t- Kades -- 0.937769193112359
+-t-t- BPD -- 0.9248721016318564
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Dinas -- 1.0
+-f-f- Kas Daerah -- 1.0
+-f-f- Menurut Kepala -- 1.0
+-f-f- Menurut Kepala Dinas Pemberdayaan Masyarakat -- 1.0
+-f-f- Kepala Dinas Pemberdayaan Masyarakat -- 1.0
+-f-f- Kepala Dinas Pemberdayaan -- 1.0
+-f-f- Rp 15 M -- 1.0
+-f-f- Menurut Kepala Dinas -- 1.0
+-f-f- Ya -- 1.0
+-f-f- Dinas Pemberdayaan -- 1.0
+-f-f- Menurut Kepala Dinas Pemberdayaan -- 1.0
+-f-f- Dinas Pemberdayaan Masyarakat -- 1.0
+-f-f- Kasda -- 1.0
+-f-f- APBDes-Perubahan -- 1.0
+-f-f- Media Madura -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/5ca4728081d8af148dc2c16891c89a2c.jpeg" data:w="360" data:h="314" />   
+<p>Sumenep, 22/5 (Media Madura) – Seorang pemuda asal Desa Sonok, Kecamatan Nonggunong, Kabupaten Sumenep, Madura, Jawa Timur tega menghabisi kekasihnya sendiri, Minggu (21/5/2017).</p> 
+<p>Pria bernama Ahmad Syafrawi (21) itu membunuh Nurhasanah, warga Dusun Pakbima, Desa Talaga, Kecamatan Gayam, Pulau Sapudi, dengan cara mencekik leher korban dari belakang.</p> 
+<p>“TKP pembunuhan ini terjadi di Dusun Talon, Desa Gendang Timur, Pulau Gayam,” terang Kabag Humas Polres Sumenep, AKP Suwardi, Senin (22/5/2017).</p> 
+<p>Suwardi menuturkan, dari hasil pemeriksaan, motif pembunuhan lantaran pelaku sakit hati, karena jalinan cinta dengan kekasihnya itu tidak direstui calon mertuanya.&nbsp;</p>    
+<p>“Pembunuhan ini dilakukan seorang diri dengan motif cinta tidak direstui oleh ibu kandung korban atau calon mertua,” bebernya.&nbsp;</p>    
+<p>Tutur Suwardi, tersangka yang kesehariannya berprofesi sebagai nelayan itu ditangkap di rumahnya oleh tim BKO Polres dan dibantu oleh anggota Polsek Sapudi pada minggu malam sekitar pukul 23.00 WIB.</p> 
+<p>“Tersangka terancam pasal 340 Subsider 338 Subsider 351 (3) KUHP dengan dugaan pembunuhan berencana dengan nncaman hukuman 20 tahun penjara,” pungkasnya.</p> 
+<p>Reporter: Rosy<br>Editor: Ahmadi</p>
+
+
+-*-12312975
+-*-http://mediamadura.com/jalinan-kasih-ditolak-calon-mertua-pemuda-ini-tega-bunuh-kekasihnya/
+
+--------------------
+
+
+-t-t- Suwardi -- 3.0875766215823712
+-t-t- Kabupaten Sumenep -- 3.003260984474058
+-t-t- Polres Sumenep -- 2.639690906565261
+-t-t- Madura -- 2.568557347674984
+-t-t- Jawa Timur -- 2.5158785915199124
+-t-t- TKP -- 1.134735130303824
+-t-t- Pembunuhan -- 0.9942462985760407
+-t-t- Tersangka -- 0.8650174810468187
+-t-t- KUHP -- 0.8440634654229857
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Ahmad Syafrawi -- 1.0
+-f-f- Gendang Timur -- 1.0
+-f-f- Pulau Gayam -- 1.0
+-f-f- Kabag Humas -- 1.0
+-f-f- Polsek Sapudi -- 1.0
+-f-f- Pulau Sapudi -- 1.0
+-f-f- Kabag Humas Polres -- 1.0
+-f-f- 338 Subsider 351 -- 1.0
+-f-f- Humas Polres -- 1.0
+-f-f- Humas Polres Sumenep -- 1.0
+-f-f- Dusun Pakbima -- 1.0
+-f-f- Kabag Humas Polres Sumenep -- 1.0
+-f-f- AKP Suwardi -- 1.0
+-f-f- Desa Gendang -- 1.0
+-f-f- Desa Sonok -- 1.0
+-f-f- Subsider 338 Subsider 351 -- 1.0
+-f-f- Kecamatan Nonggunong -- 1.0
+-f-f- Desa Talaga -- 1.0
+-f-f- Tutur Suwardi -- 1.0
+-f-f- Nurhasanah -- 1.0
+-f-f- BKO Polres -- 1.0
+-f-f- Subsider 338 -- 1.0
+-f-f- Kecamatan Gayam -- 1.0
+-f-f- Desa Gendang Timur -- 1.0
+-f-f- 338 Subsider -- 1.0
+-f-f- Subsider 338 Subsider -- 1.0
+-f-f- Dusun Talon -- 1.0
+-f-f- Subsider 351 -- 1.0
+-f-f- Media Madura -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3e7f23ba1a4e2041332b6a8b6e40bf55.jpeg" data:w="600" data:h="400" />    Surabaya (Antara Jatim) - Manajemen Persebaya Surabaya memutuskan kontrak Iwan Setiawan sebagai pelatih kepala berdasarkan hasil evaluasi yang dilakukan pengurus tim beberapa pekan terakhir.   "Melihat kondisi tim dan hasil evaluasi menyeluruh, manajamen mengakhiri masa kontrak Iwan Setiawan sebagai pelatih kepala," ujar Direktur Tim Candra Wahyudi kepada wartawan di Surabaya, Senin.   Menurut dia, keputusan tersebut diambil oleh manajemen setelah mengevaluasi kondisi yang terjadi selama ini juga mempertimbangkan untuk menjaga suasana kondusif dalam &nbsp;internal tim dan warga Surabaya.   Tak itu saja, kata dia, manajemen juga akan mengevaluasi total staf pelatih lainnya demi kemajuan Persebaya dan target lolos ke Liga 1 terealisasi.   Dengan demikian Iwan Setiawan yang juga pernah melatih Persija Jakarta tersebut hanya melatih Rendy Irawan dkk selama tiga bulan sejak dikontrak secara resmi pada 24 Februari lalu.   Selama Liga 2 grup 5, Iwan Setiawan hanya mendampingi dua kali pertandingan resmi, yaitu seri 1-1 melawan Madiun Putra FC pada laga perdana di Stadion Gelora Bung Tomo Surabaya, dan kalah 2-1 melawan tuan rumah Martapura FC.   Sebelum diberhentikan, Iwan sempat mendapat hukuman dari manajemen berupa larangan mendampingi tim di pertandingan lawan Persepam Madura Utama dan PSIM Jogjakarta, ditambah denda sebesar Rp100 juta.   Hukuman plus denda tersebut merupakan buntut dari insiden yang melibatkan Iwan di Martapura FC di Kalimantan Selatan.   Saat itu, di luar stadioan usai pertandingan, ratusan Bonek Mania meminta Iwan bertanggung jawab atas kondisi timnya, namun Iwan emosi hingga terlibat adu mulut, Minggu (30/4).   Sementara itu, usai mengakhiri kontrak Iwan, manajemen segera bergerak cepat mencari nama baru sebagai pelatih kepala Persebaya.   "Manajemen segera mencari pelatih baru dan segera kami sampaikan ke publik," kata Candra.   Persebaya Surabaya sendiri sampai saat ini duduk di peringkat tujuh klasemen sementara dari delapan tim yang menghuni grup 5 denga nraihan lima poin hasil sekali menang, sekali kalah dan dua kali seri.   "Bajul Ijo", julukan Persebaya, hanya unggul satu poin dari penghuni dasar klasemen yaitu PSBI Blitar atau tertinggal tiga poin dari pemuncak klasemen Persatu Tuban yang mengoleksi delapan poin hasil lima kali bertanding. (*)  
+<p>Editor: <span>Chandra Hamdani Noer</span></p> 
+<p>COPYRIGHT © <span>ANTARA</span> <span>2017</span></p>
+
+
+-*-12312794
+-*-http://www.antarajatim.com/lihat/berita/198107/persebaya-putus-kontrak-pelatih-iwan-setiawan
+
+--------------------
+
+
+-t-t- Iwan Setiawan -- 10.685492480825417
+-t-t- Persebaya Surabaya -- 5.897704077332955
+-t-t- Stadion Gelora Bung Tomo -- 4.537184103549675
+-t-t- Martapura FC -- 4.021471262855569
+-t-t- Madiun Putra FC -- 3.358274974328712
+-t-t- Persepam Madura Utama -- 3.190431180081873
+-t-t- Liga 1 -- 2.264841315650844
+-t-t- Persija Jakarta -- 2.228850321824816
+-t-t- Rendy Irawan -- 2.210361613533889
+-t-t- Liga 2 -- 2.1664269376706544
+-t-t- Candra -- 2.117564853913678
+-t-t- Kalimantan Selatan -- 1.9407674927088854
+-t-t- Bonek Mania -- 1.9103343864796445
+-t-t- PSBI Blitar -- 1.6684016648115954
+-t-t- Persatu Tuban -- 1.6468056815158771
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Bajul Ijo -- 1.0
+-f-f- Selama Liga 2 -- 1.0
+-f-f- ANTARA 2017 -- 1.0
+-f-f- Direktur Tim Candra -- 1.0
+-f-f- Gelora Bung Tomo Surabaya -- 1.0
+-f-f- Antara Jatim -- 1.0
+-f-f- Manajemen Persebaya Surabaya -- 1.0
+-f-f- Manajemen Persebaya -- 1.0
+-f-f- Direktur Tim Candra Wahyudi -- 1.0
+-f-f- Tim Candra Wahyudi -- 1.0
+-f-f- Tomo Surabaya -- 1.0
+-f-f- Direktur Tim -- 1.0
+-f-f- PSIM Jogjakarta -- 1.0
+-f-f- Selama Liga -- 1.0
+-f-f- Stadion Gelora Bung Tomo Surabaya -- 1.0
+-f-f- Bung Tomo Surabaya -- 1.0
+-f-f- Candra Wahyudi -- 1.0
+-f-f- Tim Candra -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/317bff6829622fdf84a0261e6895e1f1.jpeg" data:w="650" data:h="431" />   Upacara Hari Kebangkitan Nasional di Alun-alun Kabupaten Jombang, Jawa Timur -- MTVN/Nurul Hidayat    
+<p><strong>Metrotvnews.com, Jombang:</strong> Hari Kebangkitan Nasional (Harkitnas) adalah momentum yang tepat untuk kembali mempersatukan bangsa. Apalagi belakangan marak isu intoleransi dan perpecahan melanda Indonesia.</p> 
+<p>"Mari kita pererat kebali seluruh instansi dalam mengadapi ancaman sesuai dengan peran dan fungsi dari intitusi masing-masing, terutama saat ini sedang marak isu intoleransi yang mengancam bangsa," kata Kapolres Jombang AKBP Agung Marlinato usai upacara Hari Kebangkitan Nasional di Alun-alun Kabupaten Jombang, Jawa Timur, Senin 22 Mei 2017.</p> Agung mencontohkan, Kabupaten Jombang yang terkenal dengan Kota Santri dan mayoritas penduduknya muslim dapat hidup rukun dan berdampingan dengan lintas agama yang mendiami Kabupaten Jombang. "Di beberapa sudut daerah bisa kita jumpai dua atau lebih rumah ibadah yang berdiri secara berdampingan, bahkan satu pagar. Salah satu contohnya di Desa Ngrimbi, Kecamatan Bareng. Masjid dan gereja berdiri berdampingan, menambah kental suasana toleransi antarumat beragama," urainya. 
+<p>Contoh lain tolerasi antarumat beragama, lanjut Agung, adalah organisasi pemuda dan organisasi keagamaan hidup dalam nuansa keberagaman. Tak jarang, gerakan pemuda ansor atau Banser ikut serta mengamankan perayaan Natal di gereja.</p> 
+<p>"Nuansa kekeluargaan selalu terlihat dalam setiap agenda keagamaan salah satu agama di Kabupaten Jombang," imbuhnya.</p> 
+<p>Sebagai langkah antisipasi berkembangnya isu toleransi di media sosial, Polres Jombang membentuk Tim Cyber Patrol. Tim ini bertugas mengantisipasi berita hoax serta isu SARA yang berkembang di media sosial.</p> 
+<p>Dibentuk juga Tim Cyber Trop untuk menanggapi opini yang dapat menyebabkan perpecahan dan mengganggu ketertiban serta kondusifitas Kabupaten Jombang.</p> 
+<p>(NIN)</p>
+
+
+-*-12311613
+-*-http://jatim.metrotvnews.com/peristiwa/ybDRzyXK-kapolres-jombang-sebut-harkitnas-sebagai-momentum-mempersatukan-bangsa
+
+--------------------
+
+
+-t-t- Hari Kebangkitan Nasional -- 11.7952760484109
+-t-t- Alun-alun Kabupaten Jombang -- 8.815927009061385
+-t-t- Jawa Timur -- 4.824695060375813
+-t-t- Tim Cyber -- 3.3874607543627437
+-t-t- Agung -- 3.2104028156441737
+-t-t- Polres Jombang -- 2.9288111198292848
+-t-t- MTVN -- 1.2908848628136518
+-t-t- Harkitnas -- 1.265432596820538
+-t-t- Indonesia -- 1.219300497195581
+-t-t- Banser -- 0.9283674920641629
+-t-t- Natal -- 0.9186750809839417
+-t-t- SARA -- 0.8449186585110438
+-t-t- NIN -- 0.8012927549034026
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Jombang: Hari -- 1.0
+-f-f- Cyber Trop -- 1.0
+-f-f- Kapolres Jombang AKBP Agung -- 1.0
+-f-f- Upacara Hari Kebangkitan -- 1.0
+-f-f- AKBP Agung -- 1.0
+-f-f- Nurul Hidayat -- 1.0
+-f-f- Kota Santri -- 1.0
+-f-f- Cyber Patrol -- 1.0
+-f-f- Jombang AKBP Agung Marlinato -- 1.0
+-f-f- Upacara Hari Kebangkitan Nasional -- 1.0
+-f-f- Tim Cyber Trop -- 1.0
+-f-f- Jombang AKBP Agung -- 1.0
+-f-f- Upacara Hari -- 1.0
+-f-f- Tim Cyber Patrol -- 1.0
+-f-f- Jombang AKBP -- 1.0
+-f-f- Kapolres Jombang AKBP Agung Marlinato -- 1.0
+-f-f- Kapolres Jombang -- 1.0
+-f-f- Jombang: Hari Kebangkitan -- 1.0
+-f-f- Desa Ngrimbi -- 1.0
+-f-f- Kapolres Jombang AKBP -- 1.0
+-f-f- AKBP Agung Marlinato -- 1.0
+-f-f- Kecamatan Bareng -- 1.0
+-f-f- Agung Marlinato -- 1.0
+-f-f- Jombang: Hari Kebangkitan Nasional -- 1.0
+-f-f- Jombang : Hari Kebangkitan Nasional -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/8d04ab6b9402bd9ab940f4b6651415a1.jpeg" data:w="650" data:h="431" />   Tim Satgas Pangan Kabupaten Jombang sidak di sejumlah pasar tradisional -- MTVN/Nurul Hidayat    
+<p><strong>Metrotvnews.com, Jombang:</strong> Tim Patgas Pangan melakukan sidak ke sejumlah pasar tradisional di Kabupaten Jombang, Jawa Timur. Hal ini dilakukan guna mengetahui secara langsung ketersediaan barang serta memantau harga kebutuhan pokok jelang Ramadan dan Lebaran 2017.</p> 
+<p>"Hingga saat ini kita belum kita menemukan adanya kenaikan harga kebutuhan pokok secara signifikan di Kabupaten Jombang. Namun, kita akan terus melakukan pantauan," kata Ketua Tim satgas Pangan Kabupaten Jombang Ajun Komisaris Wahyu Norman Hidayat, Senin 22 Mei 2017.</p> Berdasarkan data dari tim yang diturunkan ke lapangan, harga kebutuhan pokok seperti beras, jagung, kedelai lokal, kedelai import, cabai, bawang merah, dan bawang putih belum menunjukan harga kenaikan. "Sedangkan, kebutuhan pokok industri yang mengalami kenaikan hanya minyak goreng kemasan, dari Rp12.700 untuk dua liter menjadi Rp26 ribu per dua liter," jelas Norman. 
+<p>Norman menambahkan, untuk kebutuhan pokok hasil ternak berupa daging sapi, daging ayam kampung, daging ayam boiler, telur, dan ikan hingga saat ini belum mengalami kenaikan. "Kita akan terus pantau harga dan kesedian bahan pangan di lapangan. Jika memang ditemukan kenaikan yang tidak wajar, akan kita koordinasikan dengan dinas terkait," imbuhnya.</p> 
+<p>Menurut Norman, Tim Satgas Pangan juga bertugas memantau alur distribusi kebutuhan pokok jelang Ramadan dan Lebaran. Hal ini dilakukan guna mengantisipasi tindakan oknum tak betanggung jawab yang memanfaatkan situasi dengan menimbun bahan pokok untuk meraup keuntungan besar.</p> 
+<p>"Jika memang kita temukan, akan kami tindak tegas sesuai dengan hukum yang berlaku," pungkasnya.</p> 
+<p>(NIN)</p>
+
+
+-*-12311113
+-*-http://jatim.metrotvnews.com/peristiwa/4KZEnQEk-satgas-pangan-belum-temukan-kenaikan-harga-di-jombang
+
+--------------------
+
+
+-t-t- Pangan Kabupaten Jombang -- 8.439565437991673
+-t-t- Tim Satgas Pangan -- 6.994484501657551
+-t-t- Norman -- 3.984552199555667
+-t-t- Jawa Timur -- 2.4854979091148013
+-t-t- Ramadan -- 2.068462257265466
+-t-t- Lebaran -- 2.0613703936281875
+-t-t- MTVN -- 1.2909663926309043
+-t-t- NIN -- 0.8013749638554671
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Tim Satgas Pangan Kabupaten Jombang -- 1.0
+-f-f- Kabupaten Jombang Ajun Komisaris Wahyu -- 1.0
+-f-f- Jombang: Tim -- 1.0
+-f-f- Kabupaten Jombang Ajun Komisaris -- 1.0
+-f-f- Jombang Ajun Komisaris Wahyu -- 1.0
+-f-f- Jombang Ajun Komisaris Wahyu Norman -- 1.0
+-f-f- Komisaris Wahyu Norman Hidayat -- 1.0
+-f-f- Kabupaten Jombang Ajun Komisaris Wahyu Norman -- 1.0
+-f-f- Kabupaten Jombang Ajun -- 1.0
+-f-f- Jombang Ajun Komisaris -- 1.0
+-f-f- Jombang: Tim Patgas -- 1.0
+-f-f- Ajun Komisaris Wahyu -- 1.0
+-f-f- Wahyu Norman Hidayat -- 1.0
+-f-f- Pangan Kabupaten Jombang Ajun Komisaris Wahyu Norman -- 1.0
+-f-f- Ajun Komisaris Wahyu Norman Hidayat -- 1.0
+-f-f- Jombang Ajun -- 1.0
+-f-f- Jombang Ajun Komisaris Wahyu Norman Hidayat -- 1.0
+-f-f- Tim Satgas Pangan Kabupaten -- 1.0
+-f-f- Ajun Komisaris Wahyu Norman -- 1.0
+-f-f- Pangan Kabupaten Jombang Ajun Komisaris Wahyu Norman Hidayat -- 1.0
+-f-f- Lebaran 2017 -- 1.0
+-f-f- Pangan Kabupaten Jombang Ajun Komisaris Wahyu -- 1.0
+-f-f- Kabupaten Jombang Ajun Komisaris Wahyu Norman Hidayat -- 1.0
+-f-f- Menurut Norman -- 1.0
+-f-f- Satgas Pangan Kabupaten Jombang -- 1.0
+-f-f- Pangan Kabupaten Jombang Ajun Komisaris -- 1.0
+-f-f- Komisaris Wahyu -- 1.0
+-f-f- Nurul Hidayat -- 1.0
+-f-f- Ketua Tim -- 1.0
+-f-f- Wahyu Norman -- 1.0
+-f-f- Jombang: Tim Patgas Pangan -- 1.0
+-f-f- Satgas Pangan Kabupaten -- 1.0
+-f-f- Ajun Komisaris -- 1.0
+-f-f- Tim Patgas Pangan -- 1.0
+-f-f- Norman Hidayat -- 1.0
+-f-f- Pangan Kabupaten Jombang Ajun -- 1.0
+-f-f- Komisaris Wahyu Norman -- 1.0
+-f-f- Patgas Pangan -- 1.0
+-f-f- Tim Patgas -- 1.0
+-f-f- Jombang : Tim Patgas Pangan -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/968fa8fa4dbc5b56ac80bb9db2265c75.jpeg" data:w="621" data:h="300" />   
+<p><a href="http://www.TerasJatim.com" rel="nofollow">TerasJatim.com</a>, Malang – Adanya keluhan dari sejumlah warga Malang yang harus mengantre panjang jika ingin mendaftar menjadi peserta Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan, disikapi dengan langkah strategis dari kantor BPJS setempat.</p> 
+<p>Kini warga Malang bisa mendaftar menjadi peserta BPJS Kesehat dengan mudah melalui Virtual Service atau melalui telepon.</p> 
+<p>Kepala BPJS Kesehatan Malang, Hendry Wahjuni mengatakan, penambahan fasilitas pendaftaran tersebut dilakukan sebagai strategi kemudahan bagi masyarakat yang memiliki keterbatasan waktu atau menginginkan kemudahan dalam mrndaftarkan diri.</p> 
+<p>“Kini calon peserta tidak perlu antre panjang di Kantor BPJS, calon peserta kategori mandiri bisa melakukan pendaftaran via telepon ke BPJS Kesehatan 1500 400,” kata Hendry, beberapa waktu lalu.</p> 
+<p>Namun sebelum melakukan pendaftaran virtual service, calon peserta harus menyiapkan berkas yang dibutuhkan. Diantaranya nomor kartu keluarga, nomor KTP masing-masing anggota keluarga, alamat email, nomor rekening serta nomor telepon yang bisa dihubungi.</p> 
+<p>“Selain itu, calon peserta juga sudah harus menentukan jenis kelas perawatan, serta fasilitas kesehatan yang akan dipilih,” tuturnya.</p> 
+<p>Nantinya, rekaman pembicaraan antara calon peserta dengan agen akan menjadi bukti pendaftaran. Setelah itu, nomor virtual account akan dikirim ke ponsel dan email calon peserta.</p> 
+<p>Usai mendapatkan nomor VA, peserta diwajibkan membayar iuran pertama yang harus dibayarkan paling cepat 14 hari dan paling lama 30 hari.</p> 
+<p>“Sejak pembayaran pertama tersebut kartu peserta telah aktif, BPJS Kesehatan akan mengirim kartu peserta JKN-KIS ke alamat yang telah diinformasikan saat mendaftar,” paparnya.</p> 
+<p>Langkah ini diharapkan dapat meningkatkan jumlah kepesertaan BPJS. Saat ini, jumlah peserta BPJS Kesehatan di Malang sebanyak 1,8 juta peserta, targetnya 2,1 juta peserta di akhir tahun 2017.</p> 
+<p>“Selain penambahan pelayanan melalui virtual service, kami juga melayani pendaftaran di mall,” tandas Hendry. (Kta/Red/TJ/KBRN)</p>
+
+
+-*-12309878
+-*-http://www.terasjatim.com/di-malang-warga-bisa-daftar-bpjs-kesehatan-hanya-lewat-telepon/
+
+--------------------
+
+
+-t-t- BPJS Kesehatan -- 10.60776391925857
+-t-t- Malang -- 5.8879415391390895
+-t-t- Badan Penyelenggara Jaminan Sosial -- 5.502603147825142
+-t-t- Hendry -- 3.0871033118592104
+-t-t- KTP -- 1.0410134156084447
+-t-t- Kta -- 0.8035320031054157
+-t-t- Red -- 0.8027457683314776
+-t-t- KBRN -- 0.8013717081761634
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala BPJS Kesehatan Malang -- 1.0
+-f-f- Kesehatan 1500 -- 1.0
+-f-f- BPJS Kesehatan Malang -- 1.0
+-f-f- Kepala BPJS Kesehatan -- 1.0
+-f-f- BPJS Kesehatan 1500 400 -- 1.0
+-f-f- BPJS Kesehatan 1500 -- 1.0
+-f-f- Kepala BPJS -- 1.0
+-f-f- Kesehatan Malang -- 1.0
+-f-f- Kesehatan 1500 400 -- 1.0
+-f-f- Hendry Wahjuni -- 1.0
+-f-f- VA -- 1.0
+-f-f- TJ -- 1.0
+-f-f- Kantor BPJS -- 1.0
+-f-f- JKN-KIS -- 1.0
+-f-f- Virtual Service -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/5d348cbccf86645b0b308c696d15a088.jpeg" data:w="1792" data:h="1280" />   Bupati Pamekasan Achmad Syafii dalam upacara memperingati Harkitnas ke-109   
+<p>Pamekasan, 22/5 (Media Madura) – Pemerintah Kabupaten Pamekasan, Madura, Jawa Timur, memperingati hari kebangkitan nasional ke-109 di halaman Negara Bhakti Pendopo Ronggosukowati. Senin (22/05/2017) pagi.</p> 
+<p>Dalam upacara peringatan Harkitnas tersebut bupati membacakan naskah pidato Menteri Komunikasi dan Informatika RI yang berpesan agar seluruh warga Indonesia selalu mengingat perjuangan para pendiri bangsa yang telah berjuang untuk kemerdekaan.</p> 
+<p>“Hari kebangkitan nasional merupakan momentum kebangkitan bangsa untuk memajukan diri melalui organisasi modern yang sebelumnya tidak pernah muncul dalam masa penjajahan,” katanya dalam sambutannya.</p> 
+<p>Usai upacara yang dihadiri seluruh instansi pemerintahan, TNI dan Polri, termasuk jajaran Forkopimda Pamekasan itu, bupati saat diwawancarai sejumlah wartawan, berpesan kepada seluruh warga Pamekasan agar selalu mengisi kemerdekaan dengan hal-hal yang positif dan terus memajukan bangsa.</p>    
+<p>“Hari Kebangkitan Nasional ini merupakan momentum untuk mengingatkan kepada seluruh warga Indonesia dan warga Pamekasan agar kita selalu mengingat dan mengenang perjuangan para pendiri bangsa ini, sehingga kita bisa mengisi kemerdekaan ini dengan hal-hal yang positif,” katanya.</p>    
+<p>Sesuai dengan visi-misi pemerintah, kata orang nomor satu di Pamekasan ini, ia juga mengajak agar jajarannya bekerja keras, bekerja cerdas untuk selalu melayani masyarakat.</p> 
+<p>Dalam kesempatan itu, bupati yang didampingi ibu bupati, memberikan santunan kepada janda veteran perang yang diundang secara khusus untuk hadir dalam upacara tersebut.</p> 
+<p>Reporter : Arif<br>Editor : Ahmadi</p>
+
+
+-*-12309865
+-*-http://mediamadura.com/pemkab-peringati-harkitnas-ini-kata-bupati-pamekasan/
+
+--------------------
+
+
+-t-t- Kabupaten Pamekasan -- 3.511757848758434
+-t-t- Hari Kebangkitan Nasional -- 3.0822577506566478
+-t-t- Madura -- 2.5455063803477276
+-t-t- Jawa Timur -- 2.523775113936486
+-t-t- Harkitnas -- 2.499960463740398
+-t-t- Indonesia -- 2.108981342841549
+-t-t- TNI -- 1.0432524348022676
+-t-t- Polri -- 1.0407933848288715
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Pemerintah Kabupaten Pamekasan -- 1.0
+-f-f- Bhakti Pendopo Ronggosukowati -- 1.0
+-f-f- Informatika RI -- 1.0
+-f-f- Achmad Syafii -- 1.0
+-f-f- Bupati Pamekasan -- 1.0
+-f-f- Menteri Komunikasi -- 1.0
+-f-f- Negara Bhakti Pendopo -- 1.0
+-f-f- Pamekasan Achmad Syafii -- 1.0
+-f-f- Pemerintah Kabupaten -- 1.0
+-f-f- Pamekasan Achmad -- 1.0
+-f-f- Pendopo Ronggosukowati -- 1.0
+-f-f- Bupati Pamekasan Achmad Syafii -- 1.0
+-f-f- Negara Bhakti Pendopo Ronggosukowati -- 1.0
+-f-f- Negara Bhakti -- 1.0
+-f-f- Forkopimda Pamekasan -- 1.0
+-f-f- Bhakti Pendopo -- 1.0
+-f-f- Bupati Pamekasan Achmad -- 1.0
+-f-f- Media Madura -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/6ac13d03e6093a9f9ebb781bd3176897.jpeg" data:w="1600" data:h="1065" />   
+<p><strong>Gresik, InfoPublik</strong> - Bupati Gresik Dr. H. Sambari Halim Radianto, bersama Kapolres Gresik AKBP Boro Windu Danandito dan Komandan Kodim 0817 Gresik Letkol Kav Widodo Pujiyanto dan OPD terkait, melakukan inspeksi mendadak (sidak) di Pasar Baru Gresik, Jum’at (19/5).</p> 
+<p>Sidak ini dilakukan dalam rangka mengantisipasi kenaikan harga sembilan bahan pokok (sembako) menjelang bulan suci Ramadhan.</p> 
+<p>Sebelum memonitor harga sembako di pasaran, telah dibentuk dan dilakukan pengukuhan terhadap tim Satuan Kegiatan Penstabilan Harga Bahan Pokok Kabupaten Gresik tahun 2017, yang diprakarsai oleh Kapolres Gresik.</p> 
+<p>Sesampainya di Pasar Baru Gresik, Bupati bersama rombongan langsung mengecek harga-harga bahan sembako di pasar dan bertanya kepada para pedagang apakah harga sembako di Pasar Baru mengalami kenaikan atau stabil menjelang bulan Ramadhan.</p> 
+<p>Hasil sidak tersebut, Bupati Sambari menyampaikan bahwa harga-harga sembako masih relatif stabil. Meskipun ada kenaikan harga, namun tidak terlalu bergejolak.</p> 
+<p>“Saat ini harga beras dengan kualitas rendah masih stabil yakni Rp7.800 per kilogram. Sedangkan yang kualitas bagus kisaran Rp11.000 per kilogram. Meski terdapat kenaikan harga sekitar Rp200 per kilogram. Namun masih terjangau oleh daya beli masyarakat,” ujar Bupati Sambari.</p> 
+<p>Bupati juga menjelaskan bahwa untuk persediaan beras hingga H+7 lebaran Idul fitri masih tersedia, sehingga tidak perlu ada kekhawatiran di daerah ini untuk persediaan beras.</p> 
+<p>Sedangkan komoditas lainnya, seperti telur ayam saat ini masih di kisaran Rp21.000 per kilogram, cabe Rp47.000 per kilogram, bawang putih berkisar antara Rp50.000 hingga Rp60.000 per kilogram bergantung kualitas. Terutama harga daging yang sangat stabil dan tidak menunjukkan kenaikan harga yang signifikan.</p> 
+<p>Menurut Bupati Sambari, kenaikan harga untuk beberapa barang masih dalam taraf wajar. Ia berharap kondisi ini dapat bertahan sampai Lebaran nanti, termasuk ketaatan para pedagang menjual barang yang bermutu baik.</p> 
+<p>“Sejumlah komoditas terpantau baik. Dan apabila terdapat kenaikan harga, kami pemerintah kabupaten Gresik berharap agar kenaikannya masih dalam taraf yang wajar dan para pedagang tidak seenaknya menaikkan harga,” ujarnya.</p> 
+<p>Sementara itu, Kabag Humas pemkab Gresik Suyono mengatakan bahwa Tim Satgas Pengendlian Harga Bahan Pokok siap untuk memantau dan mengawasi kestabilan harga pangan. “Sehingga diharapkan kestabilan harga sembako di kabupaten Gresik masih terjaga,” kata Suyono. (iis / Humas pemkab Gresik/toeb)</p>
+
+
+-*-12308717
+-*-http://infopublik.id/read/203675/bupati-sidak-ke-pasar-gresik-dan-harga-sembako-masih-stabil.html
+
+--------------------
+
+
+-t-t- Pasar Baru Gresik -- 8.878776264049216
+-t-t- Bupati Sambari -- 6.931791692619933
+-t-t- Kapolres Gresik -- 6.607382784316114
+-t-t- Harga Bahan Pokok -- 6.403298143026346
+-t-t- Kodim 0817 Gresik -- 5.17862845446559
+-t-t- Kabupaten Gresik -- 4.032564346610383
+-t-t- Dr. H -- 2.618719849412122
+-t-t- Ramadhan -- 2.338444014358512
+-t-t- Tim Satgas -- 1.6741345593472936
+-t-t- Humas -- 1.6486672528465
+-t-t- Suyono -- 1.647723394288242
+-t-t- OPD -- 1.272594077634127
+-t-t- Jum -- 1.2548482846285105
+-t-t- Lebaran -- 0.9016906830423093
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Pokok Kabupaten -- 1.0
+-f-f- Bahan Pokok Kabupaten Gresik -- 1.0
+-f-f- Gresik Dr. H. Sambari -- 1.0
+-f-f- Komandan Kodim 0817 Gresik Letkol -- 1.0
+-f-f- 0817 Gresik Letkol Kav Widodo -- 1.0
+-f-f- Komandan Kodim -- 1.0
+-f-f- Kodim 0817 Gresik Letkol Kav Widodo Pujiyanto -- 1.0
+-f-f- Gresik Dr. H -- 1.0
+-f-f- Windu Danandito -- 1.0
+-f-f- Komandan Kodim 0817 Gresik Letkol Kav -- 1.0
+-f-f- Menurut Bupati -- 1.0
+-f-f- Letkol Kav Widodo -- 1.0
+-f-f- Gresik Letkol Kav Widodo Pujiyanto -- 1.0
+-f-f- Sambari Halim Radianto -- 1.0
+-f-f- Bupati Gresik Dr. H. Sambari -- 1.0
+-f-f- Halim Radianto -- 1.0
+-f-f- Kegiatan Penstabilan Harga Bahan Pokok -- 1.0
+-f-f- Pengendlian Harga Bahan -- 1.0
+-f-f- Idul -- 1.0
+-f-f- Gresik AKBP -- 1.0
+-f-f- Gresik Dr. H. Sambari Halim Radianto -- 1.0
+-f-f- Dr. H. Sambari Halim -- 1.0
+-f-f- Harga Bahan Pokok Kabupaten -- 1.0
+-f-f- Tim Satgas Pengendlian Harga -- 1.0
+-f-f- 0817 Gresik Letkol -- 1.0
+-f-f- Gresik Letkol Kav Widodo -- 1.0
+-f-f- Sambari Halim -- 1.0
+-f-f- Satuan Kegiatan -- 1.0
+-f-f- Komandan Kodim 0817 Gresik Letkol Kav Widodo -- 1.0
+-f-f- Kegiatan Penstabilan Harga Bahan Pokok Kabupaten -- 1.0
+-f-f- Gresik Suyono -- 1.0
+-f-f- Boro Windu -- 1.0
+-f-f- 0817 Gresik Letkol Kav Widodo Pujiyanto -- 1.0
+-f-f- Gresik Dr -- 1.0
+-f-f- Bupati Gresik -- 1.0
+-f-f- Kegiatan Penstabilan Harga Bahan -- 1.0
+-f-f- Gresik Letkol Kav -- 1.0
+-f-f- Bupati Gresik Dr. H -- 1.0
+-f-f- Kegiatan Penstabilan Harga Bahan Pokok Kabupaten Gresik -- 1.0
+-f-f- Satuan Kegiatan Penstabilan Harga Bahan -- 1.0
+-f-f- Satuan Kegiatan Penstabilan Harga Bahan Pokok Kabupaten -- 1.0
+-f-f- 0817 Gresik Letkol Kav -- 1.0
+-f-f- Bupati Gresik Dr. H. Sambari Halim -- 1.0
+-f-f- Penstabilan Harga Bahan Pokok Kabupaten -- 1.0
+-f-f- Tim Satgas Pengendlian -- 1.0
+-f-f- Kapolres Gresik AKBP Boro Windu -- 1.0
+-f-f- Gresik AKBP Boro Windu -- 1.0
+-f-f- Menurut Bupati Sambari -- 1.0
+-f-f- Kodim 0817 Gresik Letkol Kav -- 1.0
+-f-f- Komandan Kodim 0817 Gresik -- 1.0
+-f-f- Widodo Pujiyanto -- 1.0
+-f-f- AKBP Boro Windu Danandito -- 1.0
+-f-f- Dr. H. Sambari Halim Radianto -- 1.0
+-f-f- Gresik Letkol -- 1.0
+-f-f- Kapolres Gresik AKBP Boro Windu Danandito -- 1.0
+-f-f- Kabag Humas -- 1.0
+-f-f- AKBP Boro -- 1.0
+-f-f- Kegiatan Penstabilan -- 1.0
+-f-f- Satgas Pengendlian Harga -- 1.0
+-f-f- Kav Widodo Pujiyanto -- 1.0
+-f-f- Satuan Kegiatan Penstabilan Harga -- 1.0
+-f-f- H. Sambari Halim Radianto -- 1.0
+-f-f- Tim Satgas Pengendlian Harga Bahan -- 1.0
+-f-f- Bupati Gresik Dr -- 1.0
+-f-f- Pokok Kabupaten Gresik -- 1.0
+-f-f- Komandan Kodim 0817 -- 1.0
+-f-f- Pengendlian Harga -- 1.0
+-f-f- Bupati Gresik Dr. H. Sambari Halim Radianto -- 1.0
+-f-f- Satuan Kegiatan Penstabilan Harga Bahan Pokok -- 1.0
+-f-f- Gresik AKBP Boro Windu Danandito -- 1.0
+-f-f- Dr. H. Sambari -- 1.0
+-f-f- Satuan Kegiatan Penstabilan -- 1.0
+-f-f- Letkol Kav -- 1.0
+-f-f- Gresik Dr. H. Sambari Halim -- 1.0
+-f-f- Satgas Pengendlian Harga Bahan -- 1.0
+-f-f- Penstabilan Harga Bahan -- 1.0
+-f-f- H+7 -- 1.0
+-f-f- Kodim 0817 Gresik Letkol -- 1.0
+-f-f- Kodim 0817 Gresik Letkol Kav Widodo -- 1.0
+-f-f- Penstabilan Harga -- 1.0
+-f-f- Komandan Kodim 0817 Gresik Letkol Kav Widodo Pujiyanto -- 1.0
+-f-f- Boro Windu Danandito -- 1.0
+-f-f- Penstabilan Harga Bahan Pokok Kabupaten Gresik -- 1.0
+-f-f- Bahan Pokok Kabupaten -- 1.0
+-f-f- H. Sambari -- 1.0
+-f-f- Gresik AKBP Boro -- 1.0
+-f-f- Kapolres Gresik AKBP -- 1.0
+-f-f- Pengendlian Harga Bahan Pokok -- 1.0
+-f-f- Kav Widodo -- 1.0
+-f-f- InfoPublik -- 1.0
+-f-f- Tim Satgas Pengendlian Harga Bahan Pokok -- 1.0
+-f-f- Harga Bahan Pokok Kabupaten Gresik -- 1.0
+-f-f- Kapolres Gresik AKBP Boro -- 1.0
+-f-f- Letkol Kav Widodo Pujiyanto -- 1.0
+-f-f- AKBP Boro Windu -- 1.0
+-f-f- H. Sambari Halim -- 1.0
+-f-f- Satgas Pengendlian Harga Bahan Pokok -- 1.0
+-f-f- Kegiatan Penstabilan Harga -- 1.0
+-f-f- Satuan Kegiatan Penstabilan Harga Bahan Pokok Kabupaten Gresik -- 1.0
+-f-f- Penstabilan Harga Bahan Pokok -- 1.0
+-f-f- Satgas Pengendlian -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/c6e256f3f50037d7d8129382a9354d78.jpeg" data:w="1024" data:h="576" />   Boubacar Sanogo (tengah) bersama Peter Odemwingi (kiri) dan Greg Nwokolo saat latihan di Stadion Patriot, Bekasi, Rabu (3/5/2017).   
+<p>Pamekasan, 22/5 (Media Madura) – Pelatih Madura United, Gomes De Oliviere mengatakan, walaupun penyerang asingnya, Boubacar Sanogo jarang dimainkan, tapi Gomes menyebut Sanogo adalah pemain penting di timnya.</p> 
+<p>Sanogo didatangkan ke Pulau Garam pada awal Mei 2017 lalu. Namun, nasibnya di Madura United tak semulus ketika dia bermain di klub-klub Eropa, seperti Werder Bremen, dan Hamburger SV.</p> 
+<p>Selain itu, Sanogo tak menjadi pilihan utama di skuad Laskar Sepe Kerrab. Pada musim ini saja, hanya tampil satu kali, itupun sebagai pemain pengganti. Selebihnya, mantan penyerang timnas Pantai Gading itu duduk manis di bangku cadangan.</p>    
+<p>Sanogo seakan kesulitan menemukan performa terbaiknya, tapi Gomes mendukung Sanogo untuk melewati masa sulit di Madura United.</p> 
+<p>“Saya yakin dia (Sanogo.red) akan tampil dengan baik, dan bisa membantu Madura United memenangkan semua pertandingan,” kata Gomes.</p>    
+<p>Menurutnya, Sanogo sudah mulai berlatih keras bersama tim. Besar harapan bisa dipercaya tampil secara reguler. Gomes menyatakan, Sanogo merupakan pemain dengan kualitas khusus.</p> 
+<p>“Kami akan mainkan dia sesuai dengan karakter lawan yang dihadapi,” imbuh pelatih asal Brasil ini.</p> 
+<p>Hal yang membuat Gomes Senang, Sanogo menerima dengan baik keputusan yang ia buat.</p> 
+<p>Reporter: Zainol<br>Editor: Ahmadi</p>
+
+
+-*-12308005
+-*-http://mediamadura.com/gomes-yakin-boubacar-sanogo-akan-bantu-madura-united/
+
+--------------------
+
+
+-t-t- Madura United -- 8.583040364251525
+-t-t- Boubacar Sanogo -- 6.501915808327522
+-t-t- Gomes -- 6.055509950509004
+-t-t- Greg Nwokolo -- 2.5837885221008428
+-t-t- Stadion Patriot -- 2.55800863481214
+-t-t- Werder Bremen -- 2.221428018331663
+-t-t- Hamburger SV -- 2.206881411048936
+-t-t- Pantai Gading -- 2.0551511770397353
+-t-t- Bekasi -- 1.271508019881507
+-t-t- Pamekasan -- 1.2596923364073145
+-t-t- Eropa -- 1.1164899400688717
+-t-t- Brasil -- 0.8385196427600928
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Gomes De -- 1.0
+-f-f- Gomes Senang -- 1.0
+-f-f- Gomes De Oliviere -- 1.0
+-f-f- De Oliviere -- 1.0
+-f-f- Sepe Kerrab -- 1.0
+-f-f- Laskar Sepe Kerrab -- 1.0
+-f-f- Laskar Sepe -- 1.0
+-f-f- Pelatih Madura United -- 1.0
+-f-f- Sanogo.red -- 1.0
+-f-f- Pelatih Madura -- 1.0
+-f-f- Peter Odemwingi -- 1.0
+-f-f- Pulau Garam -- 1.0
+-f-f- Media Madura -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<p><strong>DPRD Jatim, bhirawa</strong><br>Guna mempercepat pembangunan di wilayah Kabupaten Jember. DPRD Jawa Timur mengusulkan pemekaran di wilayah Kabupaten Jember menjadi dua kabupaten dan Kota Jember.<br>Anggota DPRD Jatim, Muhammad Fawaid dikonfirmasi mengatakan sudah saatnya kabupaten Jember yang memiliki 31 kecamatan tersebut layak dibagi dua wilayah. Adapun opsinya yaitu Jember Barat dengan Jember Timur atau kota saja dengan kabupaten saja.<br>“Karena saya meneliti atau tesis waktu kuliah di&nbsp; universitas Gajah Mada terkait masalah Jatim terutama di Jember termasuk daerah dimana pendapatannya rendah dan terisolir. Untuk mengantisipasi masalah tersebut perlu dilakukan pemecahan dua wilayah, sehingga masyarakatnya dan pertumbuhan ekonominya menjadi berkembang,”ujar Fawaid Politisi asal Fraksi Gerindra Jatim ini yang dihubungi lewat telpon genggamnya, Minggu (21/5).<br>Gus Mufa sapaan akrab&nbsp; Fawaid ini, mencontohkan ketika pihaknya akan mengadakan seminar dengan mengundang dosen dari Perguruan Tinggi di Surabaya ternyata dosennya tidak datang. Alasanya karena perjalanannya jauh naik mobil lama, bahkan nomer telepon di Jember berbeda ada yang 0331 dan ada 0336.<br>“Bahkan saat ini investor sulit datang ke Jember karena jarak dan sulitnya pelayanan pemerintah di kabupaten Jember,”ujarnya.<br>Menurutnya, isu pemekaran wilayah di kabupaten Jember sudah lama namun belum teralisasi sampai sekarang. Oleh karena itu sudah saatnya pemerintah kabupaten Jember dan Provinsi Jatim untuk melobi ke Pemerintah pusat agar segera melakukan pemekaran wilayah Jember tersebut.<br>“Dengan adanya pemekaran wilayah tersebut diharapkan para Investor datang di Jember, sehingga pembangunan di Jember lebih maju dan masyarakatnya makmur,”ujarnya.<br>Ia juga menambahkan, memberikan saran kepada pemerintah kabupaten Jember. Yaitu jember harus membuat konektifitas antara dengan pusat pertumbuhan kota maju di Jatim seperti dengan Surabaya dan malang. Opsi kedua yaitu dengan pemekaran wilayah tersebut.<br>“Untuk mencapai percepatan pertumbuhan ekonomi dan kesejahteraan masyarakat ini, sudah saatnya Jember dilakukan pemekaran wilayah,”tegasnya Mufa politisi asal Dapil Empat Jember dan Lumajang. [<strong>cty]</strong></p>
+
+
+-*-12303783
+-*-http://harianbhirawa.co.id/2017/05/percepat-pembangunan-jember-diusulkan-dipecah-jadi-dua/
+
+--------------------
+
+
+-t-t- Kabupaten Jember -- 7.513746810047358
+-t-t- DPRD Jatim -- 5.990243311790476
+-t-t- DPRD Jawa Timur -- 4.100210776469424
+-t-t- Fawaid -- 3.4399222665690523
+-t-t- Anggota DPRD -- 2.52767063602891
+-t-t- Gajah Mada -- 2.3547397741029026
+-t-t- Perguruan Tinggi -- 2.1067894845652755
+-t-t- Surabaya -- 1.900383963995428
+-t-t- Mufa -- 1.892204200319932
+-t-t- Pemerintah -- 0.9376997722501553
+-t-t- Investor -- 0.9095581311482548
+-t-t- Lumajang -- 0.8031455955851444
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Fawaid Politisi -- 1.0
+-f-f- Dapil Empat Jember -- 1.0
+-f-f- Anggota DPRD Jatim -- 1.0
+-f-f- Jember Timur -- 1.0
+-f-f- Dapil Empat -- 1.0
+-f-f- Fraksi Gerindra Jatim -- 1.0
+-f-f- Gus Mufa -- 1.0
+-f-f- Fraksi Gerindra -- 1.0
+-f-f- Kota Jember -- 1.0
+-f-f- Provinsi Jatim -- 1.0
+-f-f- Gerindra Jatim -- 1.0
+-f-f- Muhammad Fawaid -- 1.0
+-f-f- Empat Jember -- 1.0
+-f-f- Jember Barat -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/978fbdc7dcc9c84d50599a900f27ed96.jpeg" data:w="350" data:h="197" />  
+<p>Satuan Polisi Pamong Praja (Satpol PP) Kota Surabaya merobohkan kandang merpati (pagupon) dengan sutas tali, Jumat (19/5) kemarin. [Gegeh Bagus Setiadi/bhirawa]</p>  
+<p><strong>Surabaya, Bhirawa</strong><br>Permainan burung merpati yang diduga diselipi praktik perjudian di RW 10 dan 11 Kelurahan Ploso, Kecamatan Tambaksari akhirnya lenyap. Pasalnya, Pemkot Surabaya berhasil membongkar puluhan pagupon tersebut. Pembongkaran kandang merpati yang berdiri di pemukiman padat penduduk ini dilakukan karena banyaknya keluhan dan laporan masyarakat.<br>Camat Tambaksari Ridwan Mubarun menjelaskan, pembongkaran pagupon tersebut sebagai pelaksanaan penertiban berdasarkan Perda Nomor 2 Tahun 2014 tentang penyelenggaraan ketertiban umum dan ketentraman masyarakat.<br>“Penertiban ini merupakan tindak lanjut dari keluhan masyarakat bahwa di lingkungan mereka sering jadi tempat berkerumun orang dari luar yang datang untuk melihat adu merpati,” kata Ridwan kepada Bhirawa, Minggu (21/5) kemarin.<br>Menurut mantan Camat Rungkut ini bahwa penertiban pagupon ini dilaksanakan selama dua hari. Hal ini lantaran banyaknya pagupon yang bertahun-tahun telah berdiri. Selain itu, adu merpati ini disinyalir juga mengandung unsur judi.<br>“Dengan dibongkarnya pagupon tersebut kehidupan lingkungan padat penduduk tersebut bisa lebih tentram lagi. Dan tidak terusik dengan kehadiran orang dari luar yang menggangu karena juga akan memasuki bulan Ramadan juga,” jelasnya.<br>Penertiban pagupon tersebut, lanjut Ridwan, melibatkan unsur Satuan Polisi Pamong Praja dari Kecamatan maupun pusat. Di backup dari Polsek Tambaksari dan Polrestabes serta Koramil Tambaksari.<br>“Hari pertama kami menurunkan sekitar 9 pagupon. Di hari kedua banyak pagupon yang sudah diturunkan oleh pemiliknya. Bagi mereka yang belum sanggup untuk menurunkan sendiri, sebagai jaminannya kami menyita KTP-nya,” ujarnya. <strong>(geh)</strong></p>
+
+
+-*-12303784
+-*-http://harianbhirawa.co.id/2017/05/jelang-ramadan-puluhan-pagupon-judi-di-tambaksari-dirobohkan/
+
+--------------------
+
+
+-t-t- Satuan Polisi Pamong Praja -- 9.490007769655369
+-t-t- Ridwan -- 3.0565076964061557
+-t-t- Kota Surabaya -- 2.608852724797385
+-t-t- Bagus Setiadi -- 2.539900333210175
+-t-t- Pemkot Surabaya -- 2.412631148823395
+-t-t- Bhirawa -- 2.282299661376299
+-t-t- Kecamatan -- 2.0970352873076856
+-t-t- Penertiban -- 1.977776269960479
+-t-t- Polsek Tambaksari -- 1.7315344111162405
+-t-t- Ramadan -- 0.903335850425467
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Nomor 2 Tahun 2014 -- 1.0
+-f-f- Polrestabes -- 1.0
+-f-f- Tambaksari Ridwan -- 1.0
+-f-f- Ridwan Mubarun -- 1.0
+-f-f- Koramil Tambaksari -- 1.0
+-f-f- [Gegeh Bagus Setiadi -- 1.0
+-f-f- Camat Tambaksari Ridwan Mubarun -- 1.0
+-f-f- Bhirawa Permainan -- 1.0
+-f-f- Perda Nomor 2 -- 1.0
+-f-f- Camat Tambaksari Ridwan -- 1.0
+-f-f- Perda Nomor 2 Tahun -- 1.0
+-f-f- Perda Nomor -- 1.0
+-f-f- Kelurahan Ploso -- 1.0
+-f-f- Nomor 2 -- 1.0
+-f-f- [Gegeh Bagus -- 1.0
+-f-f- Camat Rungkut -- 1.0
+-f-f- Camat Tambaksari -- 1.0
+-f-f- Tambaksari Ridwan Mubarun -- 1.0
+-f-f- RW 10 -- 1.0
+-f-f- KTP-nya -- 1.0
+-f-f- Satpol PP -- 1.0
+-f-f- Perda Nomor 2 Tahun 2014 -- 1.0
+-f-f- Nomor 2 Tahun -- 1.0
+-f-f- Kecamatan Tambaksari -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/83bfe7a484585f712684ed74a7a5fe68.jpeg" data:w="350" data:h="197" />  
+<p>Kepala-BNNP-Jatim-Brigjen-Pol-Fatkhur-Rahman-memasukan-ganja-ke-dalam-mesin-pemusnah-atau-incinerator-Jumat-[19/5]-lalu.-[abednego/bhirawa].</p>  
+<p><em><strong>(Hasil Ungkap 10,4 Kilogram Ganja dan 1,5 Kilogram Sabu BNNP Jatim)</strong></em><br><strong>BNNP Jatim, Bhirawa</strong><br>Kepala Badan Narkotika Nasional Provinsi (BNNP) Jatim, Brigjen Pol Fatkhur Rahman mengatakan peredaran narkotika di wilayah Jawa Timur masih tinggi. Ini dibuktikan dengan hasil ungkap narkotika oleh BNNP Jatim periode Februari hingga April 2017 yang berhasil mengamankan sekitar 10,4 kilogram ganja dan 1,5 kilogram sabu-sabu.<br>Dijelaskan Fatkhur, periode tiga bulan yakni mulai Februari hinggal April 2017 ini BNNP Jatim mengungkap puluhan kilogram ganja dan kiloan sabu. Puluhan narkoba ini didapati dari tangan 12 tersangka yang diamankan petugas BNNP Jatim.<br>Selain sebagai wujud nyata bersih-bersih narkoba di Jatim, Fatkhur mengaku, hasil ungkap ini merupakan komitmen BNNP Jatim yang menyatahkan perang terhadap narkotika.<br>“Peredaran narkotika di Jatim masih relative tinggi. Itu terbukti dari hasil cukup kami yang cukup lumayan. Periode bulan Februari hingga April 2017 petugas kami berhasil mengamankan puluhan kilogram ganja dan kiloan sabu. Bayangkan kalau narkotika tersebut lolos, korbannya bisa ribuan juta orang,” tegas Brigjen Pol Fatkhur Rahman dikonfirmasi Bhirawa, Minggu (21/5).<br>Pengungkapan ini, lanjut Fatkhur, tidak lepas dari kerja keras petugas BNNP Jatim beserta jajaran. Dari 12 tersangka yang diamankan, modus peredarannya berbeda-beda. Diantaranya adalah menggunakan jasa kurir maupun penyedia jasa pengiriman paket, dimasukkan ke dalam perut, dan penangkapan di bandara.<br>Bahkan, masih kata Fatkhur, peredran narkoba ini berasal dari macam-macam jaringan. Diantaranya jaringan Lembaga Pemasyarakatan (LP) Tanjung Gusta, Medan-Surabaya, jaringan Surabaya-Pasuruan. Bahkan, ada satu pengedar asal Malaysia yang memasukkan narkoba ke dalam perutnya, hingga akhirnya meninggal dunia di RSUD dr Soetomo.<br>“Pada mulanya tersangka ini mengaku sakit pada perutnya, hingga akhirnya meniggal. Asalannya karena kapsul plastik berisi sabu di perutnya pecah,” terang perwira dengan satu bintang dipundaknya ini.<br>Adakah jenis-jenis narkoba baru di Jatim, Fatkhur menjelaskan secara nasional, di dunia sudah ada 600 lebih jenis narkotika. Sedangkan di Indonesia hampir 100 jenis narkotika. “Setiap hari atau setiap bulannya kemungkinan besar akan bertambah. Khususnya untuk jenis narkotika sintetik,” paparnya.<br>Selanjutnya dari total barang bukti ganja 10,4 kilogram dan sabu seberat 1,5 kilogram tersebut di uji sampel oleh petugas Laboratorium Forensik (Labfor) Polda Jatim. Selanjutnya barang bukti tersebut dimasukkan ke dalam incinerator atau mesin pemusnah milik BNNP Jatim. Dan disaksikan oleh perwakilan Kejaksaan Tinggi (Kejati) Jatim, Pengadilan Negeri (PN) Surabaya, Polda Jatim, Kodam V Brawijaya, Bea dan Cukai, Polrestabes Surabaya, BNN Kota Surabaya serta MUI Jatim.<br>Terkait pemusnahan tersebut, Fatkhur menambahkan, upaya pemusnahakan ini tak lantas mengaburkan berkas dan barang bukti dari semua pelaku untuk dibuktikan di Pengadilan. Namun pemusnahan ini dilakukan untuk mengantisipasi tindak penyelewengan barang bukti ini. “Ini untuk mengantisipasi saja, makanya kami mengundang Kejaksaan, dan Pengadilan untuk menjadi saksi dalam pemusnahan ini,” pungkasnya. <strong>[bed]</strong></p>
+
+
+-*-12303785
+-*-http://harianbhirawa.co.id/2017/05/peredaran-narkoba-di-jatim-masih-tinggi/
+
+--------------------
+
+
+-t-t- BNNP Jatim -- 22.319047615857443
+-t-t- Brigjen Pol Fatkhur Rahman -- 10.76847461338264
+-t-t- Polda Jatim -- 5.829429809594075
+-t-t- Badan Narkotika Nasional -- 4.027796886018551
+-t-t- MUI Jatim -- 4.022271289134258
+-t-t- Kodam V Brawijaya -- 2.7288967659814496
+-t-t- Jawa Timur -- 2.4996841829947845
+-t-t- Bhirawa -- 2.358708927117216
+-t-t- Polrestabes Surabaya -- 2.2883321508125194
+-t-t- Kota Surabaya -- 2.2816588316042843
+-t-t- Pengadilan Negeri -- 2.0488281769153827
+-t-t- Lembaga Pemasyarakatan -- 2.032071708699366
+-t-t- Kejaksaan Tinggi -- 1.9544305068210246
+-t-t- Malaysia -- 0.9982137747426137
+-t-t- RSUD -- 0.9852742866380826
+-t-t- Soetomo -- 0.9840929027429706
+-t-t- Indonesia -- 0.9343309240458262
+-t-t- Labfor -- 0.8926903801985584
+-t-t- Bea -- 0.8593251917886677
+-t-t- Cukai -- 0.8582948259747916
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Kilogram Sabu -- 1.0
+-f-f- LP -- 1.0
+-f-f- Dari 12 -- 1.0
+-f-f- Kepala-BNNP-Jatim-Brigjen-Pol-Fatkhur-Rahman-memasukan-ganja-ke-dalam-mesin-pemusnah-atau-incinerator-Jumat-[19 -- 1.0
+-f-f- Hasil Ungkap -- 1.0
+-f-f- Bhirawa Kepala Badan Narkotika -- 1.0
+-f-f- Laboratorium Forensik -- 1.0
+-f-f- Sabu BNNP -- 1.0
+-f-f- Kepala Badan -- 1.0
+-f-f- Peredaran -- 1.0
+-f-f- Surabaya-Pasuruan -- 1.0
+-f-f- Kilogram Ganja -- 1.0
+-f-f- Dijelaskan Fatkhur -- 1.0
+-f-f- Narkotika Nasional Provinsi -- 1.0
+-f-f- Kepala Badan Narkotika Nasional -- 1.0
+-f-f- Sabu BNNP Jatim -- 1.0
+-f-f- Badan Narkotika Nasional Provinsi -- 1.0
+-f-f- Kepala Badan Narkotika -- 1.0
+-f-f- Ungkap 10 -- 1.0
+-f-f- Asalannya -- 1.0
+-f-f- Kejati -- 1.0
+-f-f- Bhirawa Kepala -- 1.0
+-f-f- Bhirawa Kepala Badan Narkotika Nasional Provinsi -- 1.0
+-f-f- Bhirawa Kepala Badan -- 1.0
+-f-f- Bhirawa Kepala Badan Narkotika Nasional -- 1.0
+-f-f- Tanjung Gusta -- 1.0
+-f-f- Kepala Badan Narkotika Nasional Provinsi -- 1.0
+-f-f- Kilogram Sabu BNNP Jatim -- 1.0
+-f-f- BNN Kota Surabaya -- 1.0
+-f-f- Hasil Ungkap 10 -- 1.0
+-f-f- Nasional Provinsi -- 1.0
+-f-f- Kilogram Sabu BNNP -- 1.0
+-f-f- BNN Kota -- 1.0
+-f-f- Medan-Surabaya -- 1.0
+-f-f- PN -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+

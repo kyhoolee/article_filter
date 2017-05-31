@@ -1,0 +1,1684 @@
+-*-<img src="[BASEURL]/f1b4d63ac929ec68053d6fbd668f1583.jpeg" alt="" data:w="600" data:h="330">   
+<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p>  
+<p><strong>PEKANBARU</strong> - Kepolisian Sektor (Polsek) Kerumutan, Kabupaten Pelalawan, Provinsi Riau menghancurkan gubuk-gubuk yang diduga menjadi tempat peristirahatan pembalak liar di kawasan hutan konservasi Suaka Margasatwa Kerumutan.</p> 
+<p>"Ditemukan lima buah gubuk kayu dalam keadaan tidak berpenghuni yang diduga dijadikan tempat makan dan istirahat bagi para pelaku pembalakan liar. Selanjutnya terhadap gubuk tersebut dirusak agar tidak bisa dipakai kembali," kata Kepala Bidang Humas Polda Riau, Kombes Pol Guntur Arya Tejo di Pekanbaru, Rabu (1/2/2017).</p> 
+<p>Hal itu dilakukan saat razia gabungan penertiban aktivitas pembalakan liar dipimpin Kapolsek Kerumutan Iptu Sohermansyah dengan tiga personel gabungan. Selain itu juga ada satu personel Balai Besar Konservasi Sumber Daya Alam (BBKSDA) Provinsi Riau bidang Wilayah I, Sehat Nasution.</p> 
+<p>Kegiatan tersebut dimulai pada Senin 31 Januari 2017 lalu berangkat dari Pelabuhan kecil Jamban Hilir Eka Kelurahan Kerumutan. Tim berangkat ke hutan Suaka Margasatwa Kerumutan dengan menggunakan satu unit pompong Robin.</p> 
+<p>Adapun hasil dari kegiatan tersebut selain menghancurkan gubuk, di lokasi juga ditemukan tumpukan kayu yang telah diolah sebanyak lebih kurang tiga kubik. Selanjutnya, terhadap tumpukan kayu akan ditarik ke Mapolres Pelalawan guna penanganan lebih lanjut</p> 
+<p>"Pelaku pembalakan masih dalam lidik. Giat berakhir pada pukul 17.00 WIB. Situasi selama berlangsungnya giat dalam keadaan aman dan kondusif," ungkap Guntur.</p> 
+<p>Sebelumnya, pada Senin 30 Januari 2017 lalu BBKSDA Riau menemukan adanya aktivitas pembalakan liar di kawasan dan berhasil mengamankan barang bukti berupa 100 meter kubik kayu ilegal. Kepala Bidang Wilayah I BBKSDA Riau, Mulyo Utomo menuturkan temuan itu berawal dari patroli udara yang dilakukan BBKSDA Riau pada medio pekan lalu.</p> 
+<p>Patroli dilakukan dengan menggunakan Helikopter Bell 412 bantuan Kementerian Kehutanan dan Lingkungan Hidup (KLHK). Heli yang sedianya digunakan untuk patroli pencegahan dan penanggulangan kebakaran hutan dan lahan di Riau itu telah ada sejak dua pekan terakhir.</p> 
+<p>"Pelaku yang diamankan berinisial KMR. Dia mengaku sebagai koordinator pembalakan liar itu," tuturnya.</p>
+
+
+-*-10648551
+-*-http://news.okezone.com/read/2017/02/01/340/1606538/polisi-hancurkan-gubuk-pembalak-liar-hutan-konservasi
+
+--------------------
+
+
+-t-t- Suaka Margasatwa Kerumutan -- 7.80438213578688
+-t-t- BBKSDA Riau -- 6.772827258878781
+-t-t- Provinsi Riau -- 5.682341863711375
+-t-t- Kepala Bidang -- 4.176388684634046
+-t-t- Wilayah I -- 3.9884567301451472
+-t-t- Polda Riau -- 3.2511195651353297
+-t-t- Guntur -- 2.1177231586390572
+-t-t- Bell 412 -- 1.7219881361674934
+-t-t- Kementerian Kehutanan -- 1.715341805845512
+-t-t- Lingkungan Hidup -- 1.7052264152066905
+-t-t- Polsek -- 1.3079221150490754
+-t-t- Pekanbaru -- 1.170232231490189
+-t-t- Pelabuhan -- 1.070397680073719
+-t-t- Robin -- 1.036609850842119
+-t-t- KLHK -- 0.8491292084345989
+-t-t- KMR -- 0.8128408179898877
+-*- -- time: 0.003
+
+--------------------
+
+
+-f-f- Kapolsek Kerumutan -- 1.0
+-f-f- Bidang Humas Polda -- 1.0
+-f-f- Kapolsek Kerumutan Iptu Sohermansyah -- 1.0
+-f-f- I BBKSDA Riau -- 1.0
+-f-f- Kelurahan Kerumutan -- 1.0
+-f-f- Kepala Bidang Wilayah I -- 1.0
+-f-f- Kepolisian Sektor -- 1.0
+-f-f- Kabupaten Pelalawan -- 1.0
+-f-f- Kapolsek Kerumutan Iptu -- 1.0
+-f-f- Sehat Nasution -- 1.0
+-f-f- Kepala Bidang Wilayah I BBKSDA -- 1.0
+-f-f- Pol Guntur Arya Tejo -- 1.0
+-f-f- Hilir Eka Kelurahan -- 1.0
+-f-f- Kerumutan Iptu Sohermansyah -- 1.0
+-f-f- Humas Polda -- 1.0
+-f-f- Kepala Bidang Wilayah I BBKSDA Riau -- 1.0
+-f-f- Jamban Hilir Eka Kelurahan Kerumutan -- 1.0
+-f-f- Wilayah I BBKSDA -- 1.0
+-f-f- Hilir Eka -- 1.0
+-f-f- Helikopter Bell -- 1.0
+-f-f- Jamban Hilir -- 1.0
+-f-f- Mulyo Utomo -- 1.0
+-f-f- Wilayah I BBKSDA Riau -- 1.0
+-f-f- Pol Guntur Arya -- 1.0
+-f-f- Helikopter Bell 412 -- 1.0
+-f-f- I BBKSDA -- 1.0
+-f-f- Kepala Bidang Wilayah -- 1.0
+-f-f- Guntur Arya Tejo -- 1.0
+-f-f- Humas Polda Riau -- 1.0
+-f-f- Hilir Eka Kelurahan Kerumutan -- 1.0
+-f-f- Mapolres Pelalawan -- 1.0
+-f-f- Jamban Hilir Eka Kelurahan -- 1.0
+-f-f- Arya Tejo -- 1.0
+-f-f- Bidang Wilayah I BBKSDA Riau -- 1.0
+-f-f- Eka Kelurahan -- 1.0
+-f-f- Eka Kelurahan Kerumutan -- 1.0
+-f-f- Iptu Sohermansyah -- 1.0
+-f-f- Kombes Pol Guntur Arya -- 1.0
+-f-f- Kepala Bidang Humas Polda Riau -- 1.0
+-f-f- Kepala Bidang Humas -- 1.0
+-f-f- Bidang Wilayah I BBKSDA -- 1.0
+-f-f- Kombes Pol Guntur -- 1.0
+-f-f- Kombes Pol -- 1.0
+-f-f- Bidang Wilayah -- 1.0
+-f-f- Bidang Humas -- 1.0
+-f-f- Jamban Hilir Eka -- 1.0
+-f-f- Bidang Humas Polda Riau -- 1.0
+-f-f- Kombes Pol Guntur Arya Tejo -- 1.0
+-f-f- Kerumutan Iptu -- 1.0
+-f-f- Pol Guntur -- 1.0
+-f-f- Kepala Bidang Humas Polda -- 1.0
+-f-f- Guntur Arya -- 1.0
+-f-f- Bidang Wilayah I -- 1.0
+-*- -- time: 0.003
+
+--------------------
+
+
+-*-<img src="[BASEURL]/078fdc02872a7f1835c76a0943118b5c.jpeg" alt="" data:w="973" data:h="541">   
+<p><a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" rel="nofollow"><img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=134986&amp;pgname=okezone_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" alt=""></a></p>  
+<p><strong>PEKANBARU</strong> - Badan Metereologi, Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru memastikan bahwa Provinsi Riau masih dalam kondisi aman dari kebakaran hutan dan lahan (karhutla) pada awal Februari 2017.</p> 
+<p>"Potensi hujan di Riau masih cukup tinggi, prediksi kita hingga lima hari mendatang," kata Kepala Seksi Data dan Informasi BMKG Pekanbaru, Slamet Riyadi di Pekanbaru, Rabu (1/2/2017).</p> 
+<p>Slamet mengatakan, berdasarkan analisis BMKG, hujan yang disebabkan arah angin dari Barat Laut menuju Tenggara masih menjadi salah satu faktor potensi hujan di Riau.</p> 
+<p>Meski begitu, dibanding Januari 2017, potensi hujan cenderung menurun. BMKG Pekanbaru memprediksi, musim kering baru akan terjadi pada minggu ke dua Februari 2017 ini. Sehingga ia mengatakan perlu diwaspadai akan potensi kebakaran hutan dan lahan.</p> 
+<p>"Minggu ke dua Februari sampai pertengahan Maret potensi hujan menurun hingga musim kering. Ini yang perlu diwapadai," jelasnya.</p> 
+<p>Ia mengatakan wilayah pesisir Riau seperti Rokan Hilir, Dumai, Bengkalis dan Meranti akan lebih dulu memasuki musim kering dibanding wilayah lainnya di Riau pada medio Februari nanti.</p> 
+<p>BMKG Pekanbaru dalam sepekan terakhir menyatakan keberadaan titik panas terus menurun hingga nihil. Hal itu berbeda dibanding pada medio Januari 2017 lalu. Saat itu belasan titik api terdeteksi satelit yang menyebar di sejumlah kabupaten dan kota di Riau. Sebagai langkah antisipasi, Pemerintah Provinsi Riau kemudian menetapkan status siaga darurat kabut asap akibat Karhutla hingga 30 April 2016.</p>
+
+
+-*-10648211
+-*-http://news.okezone.com/read/2017/02/01/340/1606501/awal-februari-bmkg-pastikan-riau-aman-dari-karhutla
+
+--------------------
+
+
+-t-t- BMKG Pekanbaru -- 7.729408482660186
+-t-t- Provinsi Riau -- 5.097423907003623
+-t-t- Slamet Riyadi -- 2.352584768894727
+-t-t- Rokan Hilir -- 1.9083995307630524
+-t-t- Tenggara -- 1.1202274440778137
+-t-t- Dumai -- 0.9501963512406985
+-t-t- Bengkalis -- 0.9480476283781384
+-t-t- Meranti -- 0.9437647486836541
+-t-t- Karhutla -- 0.8083224220797631
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Kepala Seksi -- 1.0
+-f-f- Pemerintah Provinsi Riau -- 1.0
+-f-f- Geofisika -- 1.0
+-f-f- Badan Metereologi -- 1.0
+-f-f- Seksi Data -- 1.0
+-f-f- Stasiun Pekanbaru -- 1.0
+-f-f- Kepala Seksi Data -- 1.0
+-f-f- Barat Laut -- 1.0
+-f-f- Klimatologi -- 1.0
+-f-f- Informasi BMKG -- 1.0
+-f-f- Informasi BMKG Pekanbaru -- 1.0
+-f-f- Pemerintah Provinsi -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/a2dec29fd9aa3183885533922644915f.jpeg" width="700" height="393" alt="Inilah Hak-hak yang Akan Diterima Keluarga ASN Pelalawan yang Tewas dalam Kecelakaan Maut" data:w="700" data:h="393">       
+<p><strong>Laporan Wartawan Tribunpekanbaru.com: Johannes Tanjung</strong></p> 
+<p><strong>TRIBUNPEKANBARU.COM, PANGKALAN KURAS</strong> - Tiga ASN Pemkab <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a> yang meninggal dalam kecelakaan maut di Jalintim Km 98 Desa Terantang Manuk Kecamatan Pangkalan Kuras, Selasa (31/1/2017) lalu. Mereka wafat saat hendak mengikuti pelantikan dan pengambilan sumpah sebagai ASN.</p> 
+<p>Tentunya insiden naas itu menyisakan duka mendalam bagi keluarga dan sanak famili yang ditinggalkan. Badan Kepegawaian Pelatihan dan Pendidikan Daerah (BKP2D) <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a> memastikan para keluarga akan menerima hak-hak sebagai ahli waris dari para abdi negara itu. Hak-hak tersebut telah diatur dalam undang-undang yang berlaku.</p> 
+<p>"Hak-haknya antara lain, ketiga almarhum dan almarhumah tetap menerima gaji penuh selama tiga bulan kedepan. Karena masih proses pengajuan berkas kematiannya ke BKN," tutur Kepala BKP2D <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a>, Andi Yuliandri, kepada tribun Rabu (1/2).</p> 
+<p>Kemudian, lanjut Andi, ahli waris akan menerima gaji pensiun janda atau duda terhitung mulai dari bulan keempat sejak kematiannya. Selain itu, keluarga yang ditinggalkan mendapatkan uang duka dari Tabungan dan Asuransi Pensiun (Taspen).</p> 
+<p><strong>Baca selengkapnya di Harian Tribun Pekanbaru edisi BESOK. Simak lanjutannya di www.tribunpekanbaru.com. Ikuti Video Berita di www.tribunpekanbaru.com/video</strong></p> 
+<p><strong>FOLLOW Twitter @tribunpekanbaru dan LIKE Halaman Facebook: Tribun Pekanbaru</strong></p>     Penulis: johanes   Editor: Ariestia   Sumber: 
+<a href="http://tribunpekanbaru.com" rel="nofollow">Tribun Pekanbaru</a>    
+<span>Ikuti kami di</span>
+
+
+-*-10645833
+-*-http://pekanbaru.tribunnews.com/2017/02/01/inilah-hak-hak-yang-akan-diterima-keluarga-asn-pelalawan-yang-tewas-dalam-kecelakaan-maut
+
+--------------------
+
+
+-t-t- Tribun Pekanbaru -- 5.02874845478838
+-t-t- Kecamatan Pangkalan Kuras -- 3.8979748948083666
+-t-t- Pelalawan -- 3.3646734955506155
+-t-t- ASN -- 2.4505061581005694
+-t-t- Hak-hak -- 2.1227006402557973
+-t-t- BKP2D -- 2.101611592445623
+-t-t- Andi -- 1.9409872656116491
+-t-t- BKN -- 0.9930691034997949
+-t-t- Tabungan -- 0.9028111244322586
+-t-t- Facebook -- 0.8280770976770653
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- BKP2D Pelalawan -- 1.0
+-f-f- FOLLOW Twitter -- 1.0
+-f-f- Manuk Kecamatan Pangkalan -- 1.0
+-f-f- PANGKALAN KURAS -- 1.0
+-f-f- Jalintim Km 98 Desa Terantang Manuk Kecamatan -- 1.0
+-f-f- BESOK -- 1.0
+-f-f- Terantang Manuk -- 1.0
+-f-f- Manuk Kecamatan -- 1.0
+-f-f- Tiga ASN -- 1.0
+-f-f- Jalintim Km 98 Desa -- 1.0
+-f-f- Km 98 Desa Terantang -- 1.0
+-f-f- Km 98 Desa Terantang Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- Pemkab Pelalawan -- 1.0
+-f-f- Terantang Manuk Kecamatan -- 1.0
+-f-f- 98 Desa Terantang Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Terantang Manuk Kecamatan Pangkalan -- 1.0
+-f-f- 98 Desa -- 1.0
+-f-f- Ikuti Video Berita -- 1.0
+-f-f- Kepegawaian Pelatihan -- 1.0
+-f-f- Facebook: Tribun -- 1.0
+-f-f- Jalintim Km 98 Desa Terantang Manuk Kecamatan Pangkalan -- 1.0
+-f-f- Tiga ASN Pemkab Pelalawan -- 1.0
+-f-f- Andi Yuliandri -- 1.0
+-f-f- Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Km 98 -- 1.0
+-f-f- Taspen -- 1.0
+-f-f- LIKE Halaman -- 1.0
+-f-f- Harian Tribun -- 1.0
+-f-f- 98 Desa Terantang Manuk -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun -- 1.0
+-f-f- Jalintim Km 98 -- 1.0
+-f-f- Jalintim Km 98 Desa Terantang -- 1.0
+-f-f- Tiga ASN Pemkab -- 1.0
+-f-f- Kepala BKP2D Pelalawan -- 1.0
+-f-f- Badan Kepegawaian Pelatihan -- 1.0
+-f-f- Desa Terantang Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Halaman Facebook: Tribun -- 1.0
+-f-f- Km 98 Desa Terantang Manuk Kecamatan Pangkalan -- 1.0
+-f-f- Jalintim Km 98 Desa Terantang Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- 98 Desa Terantang -- 1.0
+-f-f- Desa Terantang Manuk Kecamatan -- 1.0
+-f-f- Desa Terantang Manuk Kecamatan Pangkalan -- 1.0
+-f-f- Kepala BKP2D -- 1.0
+-f-f- Pendidikan Daerah -- 1.0
+-f-f- Km 98 Desa Terantang Manuk Kecamatan -- 1.0
+-f-f- Ikuti Video -- 1.0
+-f-f- Asuransi Pensiun -- 1.0
+-f-f- Video Berita -- 1.0
+-f-f- 98 Desa Terantang Manuk Kecamatan -- 1.0
+-f-f- ASN Pemkab Pelalawan -- 1.0
+-f-f- Jalintim Km 98 Desa Terantang Manuk -- 1.0
+-f-f- Terantang Manuk Kecamatan Pangkalan Kuras -- 1.0
+-f-f- Badan Kepegawaian -- 1.0
+-f-f- 98 Desa Terantang Manuk Kecamatan Pangkalan -- 1.0
+-f-f- Johannes Tanjung -- 1.0
+-f-f- ASN Pemkab -- 1.0
+-f-f- Jalintim Km -- 1.0
+-f-f- LIKE Halaman Facebook -- 1.0
+-f-f- Km 98 Desa Terantang Manuk -- 1.0
+-f-f- Km 98 Desa -- 1.0
+-f-f- Desa Terantang Manuk -- 1.0
+-f-f- Hak-haknya -- 1.0
+-f-f- Halaman Facebook -- 1.0
+-f-f- Desa Terantang -- 1.0
+-f-f- Harian Tribun Pekanbaru -- 1.0
+-f-f- LIKE Halaman Facebook : Tribun Pekanbaru -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p>Luar Biasa, Pengadilan Negeri Rohil Sering Gelar Sidang Hingga Tengah Malam</p>    
+<img src="[BASEURL]/3b7a9a0bc80234f8d3f6d2263ec4bbce.jpeg" width="400px" alt="Berita Riau - Luar Biasa, Pengadilan Negeri Rohil Sering Gelar Sidang Hingga Tengah Malam" data:w="715" data:h="403">     
+<span><strong>Rohil,&nbsp;<a href="http://www.riau24.com/home/" rel="nofollow">Riau24.co</a><a href="http://www.news24xx.com/" rel="nofollow">m</a></strong> -&nbsp;</span> 
+<span>Waktu sudah menunjukkan pukul 23:50 WIB, Selasa 31 Januari 2017 malam, namun ruangan sidang utama Pengadilan Negeri (PN) Rokan Hilir yang berada di Ujung Tanjung Kecamatan Tanah Putih masih menggelar sidang gugatan dugaan pemalsuan sidang Perkara Pidana H. Zailani Sianturi terkait kasus dugaan tindak pidana penipuan dan atau penggelapan pupuk organik.</span> 
+<p><span>Sidang ini dipimpin oleh Ketua Majelis Hakim Lukman Nul Hakim SH MH dan Rina Yose SH dan Crimson Situmorang SH MH. Sedangkan ‎Tim Penasehat Hukum (PH) terdakwa H Zailani Sianturi yang dihadiri Geoffrey Nanulaitta, Taman Karya Purba SH MH dan Tio Siregar SH. JPU hanya Endra Andre SH.</span></p> 
+<p><span>Sidang yang dimulai sekitar pukul 19:30 WIB ini dengan agenda pemeriksaan saksi sebanyak empat orang yang dihadirkan Jaksa Penuntut Umum (JPU) yakni,‎ Ir Suyono, Zulfan Efendi Siregar, Ali Amran Harahap dan M Yusnan Batu Bara.</span></p> 
+<p><span>Berhubung karena pertanyaan Majelis Hakim, Kuasa Hukum terdakwa Zailani Sianturi dan JPU yang banyak melontarkan berbagai pertanyaan, sidang ini hanya sempat memeriksa dua saksi saja yaitu Ir Suyono dan Zulfan Efendi Siregar. Masing-masing pemeriksaan saksi memakai waktu dua jam lebih.</span></p> 
+<p><span>Ketua Majelis Hakim Lukman Hakim melalui keputusan bersama dengan saksi berikutnya dan disetujui oleh PH Zailani Sianturi dan JPU, sidang itupun ahirnya ditunda selasa pekan depan karena waktu telah menunjukkan hampir pukul 00:00 WIB.</span></p> 
+<p><span>Diungkapkan Lukman, Pengadilan Negeri Rohil ini hampir tiap malam masih menjalankan persidangan. Bahkan selalu sampai larut malam hingga tengah malam.</span></p> 
+<p><span>Sebagai tuntutantugas, Lukman dan hakim lainnya hanya bisa menjalankan saja. Terlebih kasus yang ditangani di Rohil memang cukup banyak. Iapun hanya bisa berharap dan minta di doakan agar sehat selalu supaya bisa tetap melakukan aktivitas persidangan meskipun sampai malam.</span></p> 
+<p><span>"Pokoknya kalian doakan saja sehat," pinta Lukman kepada awak media yang berbincang bincang dengannya usai persidangan.</span></p> 
+<p><span>Sementara itu, jaksa dan beberapa tahanan yang masih tersisa, juga harus pulang ke Bagansiapiapi dengan tempuh perjalanan satu jam lebih.<br>Informasi yang diterima, PN Rohil sebelumnya sudah pernah mendapat peringatan dari Pengadilan Tinggi Pekanbaru agar tidak melakukan sidang hingga tengah malam. &nbsp; <strong>(***)</strong></span></p> 
+<p>R24/msy&nbsp;</p>  
+<p>loading...</p>
+
+
+-*-10645046
+-*-http://www.riau24.com/berita/baca/68279-luar-biasa-pengadilan-negeri-rohil-sering-gelar-sidang-hingga-tengah-malam/
+
+--------------------
+
+
+-t-t- Ketua Majelis Hakim Lukman -- 9.887765516369452
+-t-t- Pengadilan Negeri Rohil -- 7.750045109021699
+-t-t- H Zailani Sianturi -- 7.001902087640193
+-t-t- SH MH -- 6.997129531226618
+-t-t- Zulfan Efendi Siregar -- 6.723264787432115
+-t-t- JPU -- 4.277182561040031
+-t-t- Ir Suyono -- 4.257480023552035
+-t-t- Jaksa Penuntut Umum -- 3.4895400809587387
+-t-t- Lukman Hakim -- 2.6368973017325477
+-t-t- Rokan Hilir -- 2.5186298804563005
+-t-t- Batu Bara -- 2.1589636534382484
+-t-t- PH -- 2.1543485202878503
+-t-t- Kuasa Hukum -- 2.133011658625726
+-t-t- PN -- 2.0895769320936783
+-t-t- Pengadilan Tinggi -- 1.6384872988273036
+-t-t- Bagansiapiapi -- 0.8431589678252168
+-t-t- R24 -- 0.8041810294962078
+-*- -- time: 0.004
+
+--------------------
+
+
+-f-f- H. Zailani Sianturi -- 1.0
+-f-f- Karya Purba SH -- 1.0
+-f-f- PH Zailani -- 1.0
+-f-f- Tio Siregar SH -- 1.0
+-f-f- Sidang Hingga -- 1.0
+-f-f- Penasehat Hukum -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering Gelar Sidang -- 1.0
+-f-f- Sidang Hingga Tengah -- 1.0
+-f-f- PH Zailani Sianturi -- 1.0
+-f-f- Majelis Hakim Lukman Nul -- 1.0
+-f-f- Amran Harahap -- 1.0
+-f-f- Karya Purba SH MH -- 1.0
+-f-f- Ujung Tanjung -- 1.0
+-f-f- Gelar Sidang Hingga Tengah Malam -- 1.0
+-f-f- Ali Amran -- 1.0
+-f-f- Hingga Tengah -- 1.0
+-f-f- Kecamatan Tanah -- 1.0
+-f-f- Negeri Rohil Sering Gelar Sidang Hingga Tengah Malam -- 1.0
+-f-f- Majelis Hakim Lukman Nul Hakim SH MH -- 1.0
+-f-f- Pidana H. Zailani Sianturi -- 1.0
+-f-f- Negeri Rohil Sering -- 1.0
+-f-f- Tio Siregar -- 1.0
+-f-f- Purba SH MH -- 1.0
+-f-f- M Yusnan -- 1.0
+-f-f- Sering Gelar Sidang Hingga -- 1.0
+-f-f- Rohil Sering Gelar Sidang Hingga Tengah -- 1.0
+-f-f- Tanjung Kecamatan -- 1.0
+-f-f- H. Zailani -- 1.0
+-f-f- Yusnan Batu Bara -- 1.0
+-f-f- Nul Hakim -- 1.0
+-f-f- Andre SH -- 1.0
+-f-f- Majelis Hakim Lukman Hakim -- 1.0
+-f-f- Hakim Lukman Nul Hakim SH -- 1.0
+-f-f- Tengah Malam -- 1.0
+-f-f- Sering Gelar Sidang Hingga Tengah Malam -- 1.0
+-f-f- Siregar SH -- 1.0
+-f-f- Situmorang SH -- 1.0
+-f-f- Ujung Tanjung Kecamatan Tanah -- 1.0
+-f-f- Sering Gelar -- 1.0
+-f-f- Gelar Sidang Hingga Tengah -- 1.0
+-f-f- Rohil Sering Gelar Sidang Hingga Tengah Malam -- 1.0
+-f-f- Rohil Sering Gelar Sidang -- 1.0
+-f-f- ‎Tim Penasehat -- 1.0
+-f-f- Endra Andre -- 1.0
+-f-f- Diungkapkan Lukman -- 1.0
+-f-f- Crimson Situmorang SH MH -- 1.0
+-f-f- M Yusnan Batu -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering Gelar Sidang Hingga Tengah Malam -- 1.0
+-f-f- Negeri Rohil Sering Gelar Sidang -- 1.0
+-f-f- Majelis Hakim Lukman Nul Hakim SH -- 1.0
+-f-f- Crimson Situmorang SH -- 1.0
+-f-f- Perkara Pidana -- 1.0
+-f-f- Hakim Lukman Nul -- 1.0
+-f-f- Perkara Pidana H. Zailani -- 1.0
+-f-f- Majelis Hakim Lukman Nul Hakim -- 1.0
+-f-f- Hingga Tengah Malam -- 1.0
+-f-f- Negeri Rohil Sering Gelar -- 1.0
+-f-f- Perkara Pidana H -- 1.0
+-f-f- Taman Karya Purba SH MH -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering Gelar Sidang Hingga Tengah -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering Gelar -- 1.0
+-f-f- Pidana H -- 1.0
+-f-f- Hakim Lukman Nul Hakim SH MH -- 1.0
+-f-f- Tanjung Kecamatan Tanah -- 1.0
+-f-f- Kecamatan Tanah Putih -- 1.0
+-f-f- Hakim Lukman Nul Hakim -- 1.0
+-f-f- Yose SH -- 1.0
+-f-f- Taman Karya Purba SH -- 1.0
+-f-f- Lukman Nul Hakim SH -- 1.0
+-f-f- Ali Amran Harahap -- 1.0
+-f-f- Lukman Nul -- 1.0
+-f-f- Karya Purba -- 1.0
+-f-f- Endra Andre SH -- 1.0
+-f-f- Nul Hakim SH MH -- 1.0
+-f-f- Sidang Hingga Tengah Malam -- 1.0
+-f-f- Sering Gelar Sidang Hingga Tengah -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering -- 1.0
+-f-f- Nul Hakim SH -- 1.0
+-f-f- Situmorang SH MH -- 1.0
+-f-f- ‎Tim Penasehat Hukum -- 1.0
+-f-f- Pengadilan Tinggi Pekanbaru -- 1.0
+-f-f- Sering Gelar Sidang -- 1.0
+-f-f- Taman Karya Purba -- 1.0
+-f-f- Purba SH -- 1.0
+-f-f- Hakim Lukman Hakim -- 1.0
+-f-f- Rina Yose -- 1.0
+-f-f- Perkara Pidana H. Zailani Sianturi -- 1.0
+-f-f- Taman Karya -- 1.0
+-f-f- Negeri Rohil Sering Gelar Sidang Hingga -- 1.0
+-f-f- PN Rohil -- 1.0
+-f-f- M Yusnan Batu Bara -- 1.0
+-f-f- Hakim SH -- 1.0
+-f-f- Tinggi Pekanbaru -- 1.0
+-f-f- Ketua Majelis Hakim Lukman Nul -- 1.0
+-f-f- Gelar Sidang -- 1.0
+-f-f- Pidana H. Zailani -- 1.0
+-f-f- Lukman Nul Hakim -- 1.0
+-f-f- Hakim SH MH -- 1.0
+-f-f- Rohil Sering Gelar Sidang Hingga -- 1.0
+-f-f- Tanah Putih -- 1.0
+-f-f- Ketua Majelis Hakim Lukman Hakim -- 1.0
+-f-f- Rohil Sering -- 1.0
+-f-f- Negeri Rohil Sering Gelar Sidang Hingga Tengah -- 1.0
+-f-f- Ketua Majelis Hakim Lukman Nul Hakim SH MH -- 1.0
+-f-f- Rina Yose SH -- 1.0
+-f-f- Yusnan Batu -- 1.0
+-f-f- Ujung Tanjung Kecamatan Tanah Putih -- 1.0
+-f-f- Ketua Majelis Hakim Lukman Nul Hakim SH -- 1.0
+-f-f- Iapun -- 1.0
+-f-f- Ketua Majelis Hakim Lukman Nul Hakim -- 1.0
+-f-f- Crimson Situmorang -- 1.0
+-f-f- Ujung Tanjung Kecamatan -- 1.0
+-f-f- Gelar Sidang Hingga -- 1.0
+-f-f- Rohil Sering Gelar -- 1.0
+-f-f- Geoffrey Nanulaitta -- 1.0
+-f-f- Tanjung Kecamatan Tanah Putih -- 1.0
+-f-f- Lukman Nul Hakim SH MH -- 1.0
+-f-f- Luar Biasa -- 1.0
+-f-f- Pengadilan Negeri Rohil Sering Gelar Sidang Hingga -- 1.0
+-*- -- time: 0.004
+
+--------------------
+
+
+-*-<img src="[BASEURL]/3a5968241d8c78a0881a79cc6154e717.jpeg" width="250" height="167" alt="Wilayah Riau Bagian Barat, Utara dan Tengah Diprediksi Hujan" data:w="250" data:h="167">  Ilustrasi hujan     
+<p><strong>Laporan Wartawan Tribun Pekanbaru Budi Rahmat</strong></p> 
+<p><strong>TRIBUNNEWS.COM, PEKANBARU</strong> - Hari ini, Rabu (1/2/2017) cuaca di wilayah Riau masih didominasi hujan.</p> 
+<p>Berdasarkan data yang disampaikan Badan Meteorologi Klimatologi dan Geofisika (BMKG) Pekanbaru, hujan turun dalam intensitas ringan hingga sedang.</p> 
+<p><strong><a href="http://www.tribunnews.com/regional/2017/02/01/polisi-gerebek-istrinya-sekamar-bareng-perwira-menengah-polda-lampung-di-hotel" rel="nofollow">Baca: Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda Lampung di Hotel</a></strong></p> 
+<p>Hujan diperkirakan turun di wilayah Riau bagian barat, utara dan tengah. Hujan turun pada sore hari.</p> 
+<p>Untuk prakiraan tingi gelombang laut di beberapa parairan Riau seperti di Rohil, Dumai, Bengkalis, Inhil dan Meranti berkisar 0,25 sampai 0,5 meter.</p> 
+<p>Hotspot atau titik panas tidak ada yang terdeteksi berada di wilayah Sumatera atau nihil.</p> 
+<p>Sedangkan untuk visibility atau jarak pandang di beberapa wilayah seperti Pekanbaru 6 kilometer, Rengat 6 kilometer, Dumai 5 kilometer serta Pelalawan 6 kilometer.</p>
+
+
+-*-10644652
+-*-http://www.tribunnews.com/regional/2017/02/01/wilayah-riau-bagian-barat-utara-dan-tengah-diprediksi-hujan
+
+--------------------
+
+
+-t-t- Riau -- 3.228196138770903
+-t-t- Polda Lampung -- 2.144253714665843
+-t-t- Dumai -- 1.7769389186602618
+-t-t- PEKANBARU -- 1.26067405923263
+-t-t- BMKG -- 1.15230577005927
+-t-t- Hotel -- 1.0623620408295118
+-t-t- Rohil -- 0.9596107816019706
+-t-t- Bengkalis -- 0.9524073029863978
+-t-t- Meranti -- 0.9417033470612917
+-t-t- Sumatera -- 0.8861375818670147
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Pekanbaru -- 3.0
+-f-f- Perwira Menengah -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Menengah Polda -- 1.0
+-f-f- Istrinya Sekamar Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Istrinya Sekamar Bareng Perwira -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar Bareng -- 1.0
+-f-f- Bareng Perwira Menengah -- 1.0
+-f-f- Sekamar Bareng Perwira Menengah -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar Bareng Perwira -- 1.0
+-f-f- Inhil -- 1.0
+-f-f- Pelalawan 6 -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar Bareng -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda -- 1.0
+-f-f- Menengah Polda Lampung -- 1.0
+-f-f- Pekanbaru 6 -- 1.0
+-f-f- Perwira Menengah Polda Lampung -- 1.0
+-f-f- Baca: Polisi Gerebek -- 1.0
+-f-f- Sekamar Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Polisi Gerebek Istrinya -- 1.0
+-f-f- Gerebek Istrinya Sekamar -- 1.0
+-f-f- Baca: Polisi -- 1.0
+-f-f- Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Istrinya Sekamar Bareng -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar -- 1.0
+-f-f- Gerebek Istrinya Sekamar Bareng Perwira -- 1.0
+-f-f- Sekamar Bareng -- 1.0
+-f-f- Gerebek Istrinya Sekamar Bareng -- 1.0
+-f-f- Sekamar Bareng Perwira -- 1.0
+-f-f- Badan Meteorologi Klimatologi -- 1.0
+-f-f- Perwira Menengah Polda -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar -- 1.0
+-f-f- Gerebek Istrinya Sekamar Bareng Perwira Menengah -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya -- 1.0
+-f-f- Istrinya Sekamar Bareng Perwira Menengah -- 1.0
+-f-f- Geofisika -- 1.0
+-f-f- Rengat 6 -- 1.0
+-f-f- Istrinya Sekamar -- 1.0
+-f-f- Bareng Perwira -- 1.0
+-f-f- Bareng Perwira Menengah Polda -- 1.0
+-f-f- Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda -- 1.0
+-f-f- Badan Meteorologi -- 1.0
+-f-f- Dumai 5 -- 1.0
+-f-f- Sekamar Bareng Perwira Menengah Polda -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah -- 1.0
+-f-f- Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Istrinya Sekamar Bareng Perwira Menengah Polda -- 1.0
+-f-f- Polisi Gerebek -- 1.0
+-f-f- Baca: Polisi Gerebek Istrinya Sekamar Bareng Perwira -- 1.0
+-f-f- Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda Lampung -- 1.0
+-f-f- Gerebek Istrinya -- 1.0
+-f-f- Meteorologi Klimatologi -- 1.0
+-f-f- Baca : Polisi Gerebek Istrinya Sekamar Bareng Perwira Menengah Polda Lampung -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<p><strong>Pekanbaru(SegmenNews.com)-</strong> Salman, salah seorang Salesman Transvision di Pekanbaru, Provinsi Riau mengaku dipecat sepihak oleh pihak Transvision.</p>  <img src="[BASEURL]/d3e770ee139a75c54a2d1735b1d644b1.jpeg" data:w="456" data:h="312" /> Cluster Manager Transvision Pekanbaru, Ivan Maidi 
+<p>Dikatakan Salman, pemecatan tersebut buntut tidak sanggupnya Dirinya membayar tunggakan pelanggan Transvision yang telat membayar tanggal 15 April 2017 lalu, dengan nilai sekitar Rp400 ribu.</p> 
+<p>“Tunggakan pelanggan dibebankan ke saya, Saya disuruh membayar. Saya tidak sanggup karena gaji saya saja tidak seberapa,” keluh Salman.</p> 
+<p>Walaupun Salman tidak sanggup membayar, kata Salman, Cluster Manager Transvision, Ivan Maidi terus mendesaknya. Sehingga Dirinya tidak fokus menjalankan pekerjaan.</p> 
+<p>Hingga puncaknya tanggal 16 Mei 2017, pihak Transvision menekan Salman harus membayar tunggakan pelanggan hari itu juga, jika tidak Salman tidak bisa bekerja lagi besok alias dipecat.</p> 
+<p>“Saya terus-terusan didesak oleh manejer saya untuk membayar tunggakan pelanggan itu. Saya heran, padahal tidak ada aturan seperti itu sewaktu saya masuk dulu,” keluh Salman lagi.</p> 
+<p>Sementara itu, Manager Transvision, Ivan Maidi kepada wartawan mengatakan, Salman bekerja di Transvision melalui sistem outsourcing dari PT. Valdo Inc, Pekanbaru.</p> 
+<p>Disinggung soal pernyataan pemecatannya kepada Salman tersebut, Ivan mengaku saat itu dirinya sedang sibuk.</p> 
+<p>Ivan mengatakan Salman masuk dalam tahap evaluasi, sebab Salman sudah tidak mendapatkan pelanggan selama 15 hari, sementara untuk gaji 15 hari kerja Salman di bulan ini akan dibayarkan tanggal 10 bulan Juni mendatang.</p> 
+<p>sementara untuk persoalan lainnya Ivan mengarahkan kepihak PT.Valdo Inc, sebab Transvision melakukan kontrak kerja hanya dengan pihak PT.Valdo Inc .***(hasran)</p>
+
+
+-*-12313988
+-*-http://www.segmennews.com/2017/05/22/tak-bayar-tunggakan-pelanggan-sales-transvision-dipecat-secara-lisan/
+
+--------------------
+
+
+-t-t- Salman -- 13.473324978754727
+-t-t- Cluster Manager Transvision -- 8.432590555493384
+-t-t- Ivan Maidi -- 7.364240516810817
+-t-t- Pekanbaru -- 4.788575191867882
+-t-t- PT.Valdo Inc -- 3.899876666188641
+-t-t- Provinsi Riau -- 2.573525566874077
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Tunggakan -- 1.0
+-f-f- Transvision Pekanbaru -- 1.0
+-f-f- Cluster Manager Transvision Pekanbaru -- 1.0
+-f-f- Salesman Transvision -- 1.0
+-f-f- Sehingga Dirinya -- 1.0
+-f-f- Walaupun Salman -- 1.0
+-f-f- Dikatakan Salman -- 1.0
+-f-f- Manager Transvision Pekanbaru -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/9c3607a2220de4cd7183d55352c8d875.jpeg" data:w="852" data:h="478" />   
+<p>RIAUBOOK.COM - Wali Kota dan Wakil Wali Kota Pekanbaru sah dijabat kebali oleh Firdaus dan Ayat Cahyadi setelah dilantik oleh Gubernur Riau Arsyadjuliandi Rachman di Gedung Daerah.</p> 
+<p>Ini adalah periode kedua bagi pasangan ini dalam memimpin kota bertuah untuk 5 tahun kedepan.</p> 
+<p>Sementara itu, Bupati dan Wakil Bupati Kampar sah dijabat oleh Aziz Zaenal dan Catur Sugeng di tempat yang sama.</p> 
+<p>Prosesi pelantikan dimulai dengan menyanyikan lagu kebangsaan Indonesia Raya. Kemudian dilanjutkan dengan pembacaan Surat Keputusan (SK) Menteri Dalam Negeri tentang pemberhentian Penjabat Wali Kota dan Bupati Kampar serta pengangkatan Wali Kota Pekanbaru dan Bupati Kampar terpilih yang dibacakan oleh Kepala Biro Tata Pemerintahan Pemprov Riau, Rahimah Erna.</p> 
+<p>Gubri kemudian mengambil sumpah Wali Kota dan Bupati Kampar dan dilanjutkan dengan pelantikan serta penyematan tanda jabatan kepada pejabat yang dilantik.</p> 
+<p>Dalam pidato sambutannya, Gubri meminta Kepala Daerah yang dilantik hari ini serius menjalankan amanah yang dibebankan kepadanya.</p> 
+<p>Ada beberapa hal yang ditekankan Gubri dalam pidatonya, salah satunya yaitu menjalankan roda pemerintahan sesuai UU No. 23 tahun 2014 serta mengakomodir kepentingan dan aspirasi masyarakat yang diimplementasikan dalam bentuk program kerja sesuai tupoksinya.</p> 
+<p>"Agar visi misi yang telah disusun itu untuk dijalankan," kata pria yang akrab disapa Andi Rachman tersebut.</p> 
+<p>Gubri juga mengucapka terima kasih kepada seluruh jajaran yang telah ikut mensukseskan Pilkada serentak seperti KPU, Panwaslu, TNI/Polri dan masyarakat yang mampu mewujudkan keamanan dan ketertiban selama pesta demokrasi tersebut berlangsung. (RB/habir)</p>
+
+
+-*-12313930
+-*-http://www.riaubook.com/berita/32357/dilantik-gubri-firdaus-ayat-kembali-beduet-pimpin-pekanbaru-aziz-zaenal-catur-sugeng-perdana-di-kampar
+
+--------------------
+
+
+-t-t- Bupati Kampar -- 9.55414229366541
+-t-t- Wali Kota Pekanbaru -- 7.877717972854859
+-t-t- Wakil Wali Kota -- 4.517863307423874
+-t-t- Gubri -- 3.8636512584016147
+-t-t- Menteri Dalam Negeri -- 3.560874956016521
+-t-t- Wakil Bupati -- 3.1100658315456746
+-t-t- Gubernur Riau -- 2.5399231045183948
+-t-t- Arsyadjuliandi Rachman -- 2.529424470703742
+-t-t- Indonesia Raya -- 2.299577758307054
+-t-t- Pemprov Riau -- 2.122401027459538
+-t-t- Kepala Daerah -- 1.9821949923491275
+-t-t- Firdaus -- 1.287744130681717
+-t-t- Pilkada -- 0.8407680923438404
+-t-t- KPU -- 0.8345723349859675
+-t-t- Panwaslu -- 0.833338673222616
+-t-t- TNI -- 0.8308768177831584
+-t-t- Polri -- 0.8298941132049568
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Catur Sugeng -- 1.0
+-f-f- Biro Tata Pemerintahan Pemprov Riau -- 1.0
+-f-f- Kepala Biro Tata Pemerintahan Pemprov -- 1.0
+-f-f- Biro Tata Pemerintahan -- 1.0
+-f-f- Wakil Wali Kota Pekanbaru -- 1.0
+-f-f- No. 23 -- 1.0
+-f-f- Kepala Biro -- 1.0
+-f-f- Gubernur Riau Arsyadjuliandi -- 1.0
+-f-f- Wakil Bupati Kampar -- 1.0
+-f-f- Aziz Zaenal -- 1.0
+-f-f- Biro Tata -- 1.0
+-f-f- Riau Arsyadjuliandi Rachman -- 1.0
+-f-f- RB -- 1.0
+-f-f- Tata Pemerintahan -- 1.0
+-f-f- UU No -- 1.0
+-f-f- Gubernur Riau Arsyadjuliandi Rachman -- 1.0
+-f-f- Kepala Biro Tata Pemerintahan -- 1.0
+-f-f- Tata Pemerintahan Pemprov Riau -- 1.0
+-f-f- Ayat Cahyadi -- 1.0
+-f-f- SK -- 1.0
+-f-f- Pemerintahan Pemprov -- 1.0
+-f-f- UU No. 23 -- 1.0
+-f-f- Biro Tata Pemerintahan Pemprov -- 1.0
+-f-f- Gedung Daerah -- 1.0
+-f-f- Pemerintahan Pemprov Riau -- 1.0
+-f-f- Andi Rachman -- 1.0
+-f-f- Kepala Biro Tata -- 1.0
+-f-f- Rahimah Erna -- 1.0
+-f-f- Penjabat Wali -- 1.0
+-f-f- Penjabat Wali Kota -- 1.0
+-f-f- Surat Keputusan -- 1.0
+-f-f- Kepala Biro Tata Pemerintahan Pemprov Riau -- 1.0
+-f-f- Riau Arsyadjuliandi -- 1.0
+-f-f- Tata Pemerintahan Pemprov -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e814a3c7437550b9b2386d331a98e236.jpeg" data:w="728" data:h="409" />   
+<p>RIABOOK.COM - Mujiati pakar "sambal cuk" membagikan tips memasak sambal kemasan yang benar adalah cara mengolahnya. Di mana harus dimasak sampai mengeluarkan aroma wangi, sementara bumbunya bisa dikreasikan sesuai selera.</p> 
+<p>"Tidak lupa kalau ingin awet gunakan Benzoat yang aman untuk kesehatan, sambal bisa tahan setahun kalau dikemas dalam wadah yang baik," ujarnya saat memberi pelatihan dalam kegian pelatihan bagi 170 PKK Pekanbaru tentang cara membuat sambal kemasan.</p> 
+<p>Nanik (64) salah satu peserta asal darmawanita BI mengaku pelatihan ini menarik dan membuka cakrawala. Walau sebenarnya tiap hari membuat sambal sudah kebiasaan ibu-ibu.</p> 
+<p>"Tetapi kali ini ada metode cara kemasannya kita jadi tahu dan tahan lama," ujar Nanik.</p> 
+<p>Ia bahkan terinspirasi usai pelatihan ini akan mencoba membuat sambal kemasan untuk di jual bagi kalangan keluarga terdekat. "Pelatihannya sangat bemanfaat Saya mau coba untuk buat dijual," katanya. (RB/ver)</p>
+
+
+-*-12313931
+-*-http://www.riaubook.com/berita/32358/berikut-tips-membuat-sambal-kemasan
+
+--------------------
+
+
+-t-t- Nanik -- 1.9227908138242829
+-*- -- time: 0.0
+
+--------------------
+
+
+-f-f- RB -- 1.0
+-f-f- Mujiati -- 1.0
+-f-f- PKK Pekanbaru -- 1.0
+-f-f- BI -- 1.0
+-f-f- Benzoat -- 1.0
+-*- -- time: 0.0
+
+--------------------
+
+
+-*-<img src="[BASEURL]/eb81e2da7fe7eda0ff7c471b3442e1d2.jpeg" data:w="728" data:h="996" />   
+<p><strong>Oleh: Bagus Santoso, Anggota DPRD Provinsi Riau</strong></p> 
+<p>Pemilihan Kepala Daerah (Pilkada) serentak untuk Kabupaten/ Kota Provinsi Riau sudah terpilih 9 pasangan Bupati dan 2 Walikota. Tinggal satu kabupaten Inhil yang akan dilaksanakan bersamaan dengan Pilgubri 2018.</p> 
+<p>Dari catatan Pilkada di 11 daerah tersebut diketahui 6 petahana (incumbent) terpilih kembali, meski diantaranya ada yang bertukar pasangan. Syamsuar Alfedri (Siak) Firdaus Ayat Cahyadi (Pekanbaru) merupakan dua pasang kepala daerah yang berjaya dan langgeng berpasangan sampai dua periode.</p> 
+<p>Petahana Yopi Arianto (Inhu), Harris (Pelalawan), Irwan Nasir (Meranti), meski berganti pasangan tetap menang. Begitu juga Suyatno (Rohil) yang pada periode pertamanya mendapat warisan jabatan dari Annas Ma'mun. Suratan takdir berbeda beda, satu -satunya petahana yang menelan pil pahit kekalahan hanya Herliyan Saleh (Bengkalis).</p> 
+<p>Lima daerah lainnya terpilih wajah baru; Amril Mukminin Muhammad (Bengkalis), Mursini Halim (Kuansing ), Suparman Sukiman (Rohul), Zulkifli Eko Raharjo (Dumai) dan Azis Zainal Catur Sugeng (Kampar). Tiga daerah Rohul, Kuansing, Kampar tidak lagi petahana maju karena masanya sudah habis. Di Dumai Agus Widayat (Petahana) Wakil Walikota yang mencalonkan menjadi Wali Kota sama nasibnya dengan Herliyan Saleh kalah.</p> 
+<p>Pilkada serentak 2017 sudah usai. Salah satu peristiwa menarik untuk dijadikan i'tibar banyaknya calon incumbent yang gagal terpilih kembali. Menurut data dari litbang kompas dari pilkada serentak tahab pertama 101 daerah ternyata diikuti 65 calon Incumbent untuk kepala daerah dan 20 Incumbent wakil kepala daerah. Hasilnya, Sebanyak 43,53 persen incumbent kalah atau tidak terpilih kembali. Sebut saja seperti Pilgub Babel, Pilgub Banten, Pilbub Tuba Lampung, Pilbup Bengkalis teranyar pilgub DKI Jakarta.</p> 
+<p>Bagaimana dengan catatan Pilgub Riau. Rusli Zaenal adalah Gubernur Riau yang berhasil mempertahankan tahta kursi Riau Satu, sayang sekali di pertengahan periode kedua Gubernur yang masih dikenang atas keberhasilan membangun Riau terhenti ditengah jalan, tidak sampai masa akir jabatannya.</p> 
+<p>Pada periode kedua 2008-2013 petahana Rusli Zaenal yang bertukar pasangan dari Wan Abu Bakar berganti Mambang Mit, berhasil mengalahkan pasangan Thamsir Rahman Taufan Andoso Yakin, Lukman Edy Suryadi Khusaini.</p> 
+<p>Seusai masa Rusli Zaenal, tahun 2013 terpilihlah pasangan Anas Maamun Arsyadjuliansi Rachman baca Andi Rachman (60,75 persen) mengalahkan Herman Abdullah Agus Widayat (39,25 persen) setelah melalui pemilihan putaran kedua.</p> 
+<p>Pada putaran pertama lima pasangan berlaga yaitu Herman Abdullah Agus Widayat (23.00 persen), Achmad Masrul Kasmy (20,73 persen), Jhon Erizal Mambang Mit (13,40 persen), lukman Edy Suryadi Khusaini (14,09 persen). Anas Ma'mun Andi Rachman (28,83 persen).</p> 
+<p>Malang Anas Maamun hanya sekitar delapan bulan menduduki kursi Gubernur, tersebab proses hukum langkahnya terhenti. Andi Rachman akhirnya naik takhta seperti Suyatno di Rohil, Andi memperoleh warisan jabatan Anas Maamun.</p> 
+<p>Setahun lagi masa jabatan Andi Rachman akan berakir, ironisnya jabatan kursi Wabup dibiarkan mangkrak terlalu lama, dan belum genap dua minggu baru mendapatkan pasangan Wan Thamrin Hasim. Jika Andi Rachman kembali mencalonkan maka dia sebagai petahana akan di uji untuk mempertahankan jabatannya.</p> 
+<p>Dari catatan sejarah Pilkada serentak di Indonesia banyak deretan peristiwa yang berulang. Sejak kepala daerh dipilih secara langsung, petahana ada yang berjaya, tetapi juga banyak yang kalah.</p> 
+<p>Memang model pemilihan langsung (Pilsung) Kepala Daerah di Indonesia boleh disebut belum lama. Dari, belum lamanya perjalanan model Pilsung itu, sejarah mencatat beratnya petahana jika harus bertempur sampai dua putaran.</p> 
+<p>Catatan pertama mari kita buka kembali arsip Pemilu Presiden 2004 yang menjadi awal Pilsung di Indonesia. Saat itu, lima pasang calon presiden dan wakil presiden maju.</p> 
+<p>Petahana Megawati Soekarnoputri berpasangan dengan KH Hasyim Muzadi menghadapi 4 pasangan yaitu Susilo Bambang Yudhoyono-Jusuf Kalla, Wiranto-Salahuddin Wahid, Amien Rais-Siswono Yudo Husodo, dan Hamzah Haz-Agum Gumelar. Bersaing pada putaran pertama, tiga pasangan calon terakhir gugur. Megawati-Hasyim yang mendapat 26,61 persen suara berhadap-hadapan dengan SBY-JK yang mendapat 33,37 persen suara di putaran kedua.</p> 
+<p>Pada Pilpres putaran kedua yang digelar 20 September 2004, Megawati Soekarnoputri sebagai petahana tumbang. SBY-JK, unggul telak dengan memperoleh 60,62 persen suara. Megawati-Hasyim hanya meraih 39,38 persen suara.</p> 
+<p>Catatan kedua tumbangnya petahana di putaran kedua Pilkada DKI Jakarta 2012. Untuk diketahui, Peraturan KPU sekarang hanya Pilkada DKI Jakarta menuntut digelarnya putaran kedua jika suara calon tidak mencapai 50 persen plus satu.</p> 
+<p>Di Pilkada DKI Jakarta 2012, Fauzi Bowo sebagai petahana berpasangan dengan Nachrowi Ramli (Foke-Nara). Pasangan ini berlawan dengan Joko Widodo-Basuki Tjahaja Purnama (Jokowi-Ahok), Hidayat Nur Wahid-Didiek J Rachbini, Faisal Basri-Biem Triani Benjamin, dan Alex Noerdin-Nono Sampono.</p> 
+<p>Karena tidak ada satu pun calon yang meraih suara 50 persen plus satu, dua pasangan calon gubernur dan calon wakil gubernur peraih suara terbanyak maju di putaran kedua. Fauzi Bowo sebagai petahana yang meraih 34,05 persen suara duel dengan Joko Widodo yang meraih 42.60 persen suara.</p> 
+<p>Di putaran kedua, Foke-Nara tumbang. Jokowi-Ahok menang, meraih 53,82 persen suara. Fauzi Bowo-Nacrowi Ramli mendapat 46,18 persen suara.</p> 
+<p>Putaran kedua digelar 20 September 2012. Putaran pertama digelar 11 Juli 2012.</p> 
+<p>Catatan ketiga, paling anyar, secara kebetulan atau tidak kita baru saja menjadi saksi berulangnya tumbangnya petahana Ahok Djarot di putaran kedua Pilkada DKI Jakarta.</p> 
+<p>Di putaran pertama, 15 Februari 2017, Ahok-Djarot unggul dengan 42,99 persen disusul Anies Baswedan-Sandiaga Uno (Anies-Sandi) dengan 39,95 persen dan Agus Harimurti Yudhoyono-Syliana Murni dengan 17,06 persen.</p> 
+<p>Karena tidak ada pasangan yang meraih suara lebih dari 50 persen, putaran kedua digelar. Ahok-Djarot berhadap-hadapan dengan Anies-Sandi. Hasilnya petahana Ahok DJarot tumbang dengan suara 42.05 persen,pemenangnya Anis Sandi berhasil meraup suara 57.95 persen</p> 
+<p>Namun, petahana tidak perlu berkecil hati. Pilkada dan Pemilu Indonesia mencatat hal manis juga terkait petahana yang ingin melanjutkan kekuasaanya di periode kedua.</p> 
+<p>Selain mencatat tumbangnya petahana di putaran kedua, sejarah Pilkada dan Pemilu memberi catatan bagi petahana agar bisa mempertahankan jabatannya. Mencermati tidak terpilihnya kembali petahana alias menggenapi catatan tumbangnya petahana di putaran kedua dapat dijadikan semacam tips bagi petahana untuk menghindari main di putaran kedua.</p> 
+<p>Bagi petahana, jika ingin tetap bertahan dan berkuasa, rebut dan menang di putaran pertama adalah keharusan. Jangan pikirkan putaran kedua. Tidak menang di putaran pertama artinya kalah di putaran kedua. Kiat bagaimana petahana di putaran kedua tetap menang sehingga kekuasaannya bisa dipertahankan, kalau di Riau perlu belajar politik kepada Rusli Zainal. Dengan keberaniannay berhasil membangun infrastruktur Jembatan, gedung dan jembatan. Pada waktu itu dia juga mengganti pasangan Wan Abu Bakar diganti Mambang Mit rerbujti berhasil menangguk kemenangan.</p> 
+<p>Sedangkan kalau untuk Pilpres 2009, kita perlu melihat teknik SBY yang memilih berpasangan dengan Boediono dan membuang Jusuf Kalla. Di Pilpres 8 Juli 2009, SBY-Boediono meraih 60,80 persen suara menyingkirkan langsung pasangan Megawati Soekarnoputri-Prabowo Subianto yang meraih 26,79 persen suara dan pasangan Jusuf Kalla-Wiranto yang meraih 12,41 persen suara.</p> 
+<p>Mengulang Sejarah</p> 
+<p>Jika Pilkada level Pekanbaru, Siak, Pelalawan, Inhu dan Rohil dijadikan rujukan untuk pemilihan Gubernur maka peluang menang petahana begitulah adanya. Tetapi jika Pilkada DKI Jakarta adalah cermin untuk Pilgub Riau maka peluang petahana kembali berjaya sangat berat.</p> 
+<p>Antara Riau dan DKI Jakarta terdapat persamaan pada proses kepemimpinan. Ahok asal muasalnya sebagai wakil gubernur paket Joko Widodo. Tersebab kursi Gubernur ditinggalkan oleh Joko Widodo maka Ahok 'nemu buah durian runtuh' langsung jadi Gubernur. Proses tersebut persis jalan yang dilalui Andi Rachman menjadi Gubernur Riau setelah kursi Riau satu ditinggalkan Anas Ma'mun.</p> 
+<p>Begitulah catatan dari Pilpres, Pilkada kabupaten/ kota serta Pilkada Gubernur. Seperti sudah terjadi di Pilkada DKI 2012, 2017 dan Pilpres 2014, petahana yang akan maju perlu menapak tilas sejarah pendek Pemilu dan Pilkada.</p> 
+<p>Sejarah Pemilu dan Pilkada Indonesia sudah mencatat, petahana yang bertarung di putaran kedua tumbang. Maka petahana yang ingin mempertahankan kekuasaannya untuk periode kedua harus menang di putaran pertama.</p> 
+<p>Belajar dari sejarah pemilu dan pilkada, maka kita mendapatkan kiat sukses meraih kemenangan dan bagaimana memanfaatkan kekuasaan.Terhadap sejarah yang akan kita torehkan, siapapun anda punya peluang untuk merubah jalannya atau mengulanginya.</p> 
+<p>Untuk uji atas sejarah itu, Pilgubri 2018, Pilpres 2019 akan jadi momentum terdekatnya. Jokowi sebagai petahana sudah dicalonkan dua partai politik dan tampak mempersiapkan dengan sungguh-sungguh capaian kerja sebagai modal kampanyenya. Begitupun usaha mulai dilakukan oleh Andi Rachman, soal dukungan partai secara politik tidak merisaukannya, karena sampai saat ini dia yang memegang kendali Partai Golkar.</p> 
+<p>Untuk para penantang yang sudah mulai menggema suaranya, menggetarkan bumi lancang kuning, perlu sedikit meramu siasat. Cara menarik paksa petahana masuk putaran kedua itu dulu bisa menjadi strategi jitu untuk menumbangkan petahana. Sekarang strategi itu tidak berlaku lagi, jadi jangan berharap bermain sampai 'ronde' dua.</p> 
+<p>Peraturan KPU sudah menyatakan, pasangan yang memperoleh suara terbanyak otomatis menang . Tak peduli berapapun jumlah suaranya. Syarat 50 plus 1 hanya berlaku di DKI Jakarta. Mengingat suara terbanyak menjadi pemenang, maka petahana berpeluang menang lebih besar, jika pasangan yang bertarung jumlahnya banyak, misalnya empat hingga lima pasang.</p> 
+<p>Menapak tilas sejarah, dalam waktu dekat akan terjadi di Riau. Apa hasilnya, kita tunggu saja. Sekali lagi, bahwa sejarah bisa berulang atau berubah.â€Ž***</p>
+
+
+-*-12313932
+-*-http://www.riaubook.com/berita/32359/menakar-peluang-menang-kalah-petahana
+
+--------------------
+
+
+-t-t- Andi Rachman -- 15.983243578490647
+-t-t- Pilkada DKI Jakarta 2012 -- 10.915078385747458
+-t-t- Herman Abdullah Agus Widayat -- 10.136538001557211
+-t-t- Joko Widodo -- 7.6661229895093275
+-t-t- Anas Maamun -- 7.615042664484742
+-t-t- Edy Suryadi Khusaini -- 7.3930397698649575
+-t-t- Rusli Zaenal -- 7.140808285330421
+-t-t- Provinsi Riau -- 6.846642252562903
+-t-t- Gubernur Riau -- 6.75901135406969
+-t-t- Wan Abu Bakar -- 6.692111833131257
+-t-t- Mambang Mit -- 6.536288704926514
+-t-t- Fauzi Bowo -- 6.1528004266466585
+-t-t- Megawati Soekarnoputri -- 6.136337328519717
+-t-t- Jusuf Kalla -- 5.825097363770942
+-t-t- Pilgub Riau -- 5.797889398381687
+-t-t- Indonesia -- 5.1597867239735065
+-t-t- Herliyan Saleh -- 5.007751547202055
+-t-t- Kepala Daerah -- 4.847376921623526
+-t-t- Pemilu -- 4.768322889628985
+-t-t- Jokowi-Ahok -- 4.719551207883666
+-t-t- Pilgubri 2018 -- 4.303495547965068
+-t-t- Ahok-Djarot -- 3.921809161738012
+-t-t- Peraturan KPU -- 3.7432554572153083
+-t-t- Bengkalis -- 3.7323648647674674
+-t-t- Petahana -- 3.6173290457505973
+-t-t- KH Hasyim Muzadi -- 3.4428428068588928
+-t-t- Rohil -- 3.3208991729568442
+-t-t- Pilsung -- 3.3078004380921673
+-t-t- Anies Baswedan-Sandiaga Uno -- 3.1422122176812266
+-t-t- SBY-JK -- 3.126214658702261
+-t-t- Ahok DJarot -- 2.9300121458645187
+-t-t- Bagus Santoso -- 2.63693295551224
+-t-t- Anggota DPRD -- 2.6350195001463277
+-t-t- Kuansing -- 2.5067257641201057
+-t-t- Rohul -- 2.5053253206582458
+-t-t- Kampar -- 2.500233756364618
+-t-t- Dumai -- 2.498674194037825
+-t-t- Wali Kota -- 2.481908993447819
+-t-t- Incumbent -- 2.4433576377337207
+-t-t- Pilpres 2014 -- 2.434573937507511
+-t-t- Pilgub Banten -- 2.4245696282430376
+-t-t- Suyatno -- 2.4176907016765763
+-t-t- Pilpres 2019 -- 2.384602293294655
+-t-t- Lukman Edy -- 2.359745477600503
+-t-t- Siak -- 2.197449207174933
+-t-t- Pekanbaru -- 2.1961819536804987
+-t-t- Inhu -- 2.1868018324801817
+-t-t- Pelalawan -- 2.1863532991707606
+-t-t- Susilo Bambang -- 2.1697052264503363
+-t-t- Megawati-Hasyim -- 2.1340447032455097
+-t-t- Nachrowi Ramli -- 2.081561274068379
+-t-t- Foke-Nara -- 2.054842631384989
+-t-t- Anies-Sandi -- 1.9710087900045892
+-t-t- Rusli Zainal -- 1.867988756323548
+-t-t- Boediono -- 1.8366623970998768
+-t-t- Partai Golkar -- 1.6675907762654942
+-t-t- Kabupaten -- 1.3124189150358498
+-t-t- Bupati -- 1.3088670392228705
+-t-t- Harris -- 1.2816019310580598
+-t-t- Meranti -- 1.279556871473251
+-t-t- Jembatan -- 0.9309258903612533
+-*- -- time: 0.011
+
+--------------------
+
+
+-f-f- Walikota -- 2.0
+-f-f- Pilpres 8 -- 1.0
+-f-f- .â€Ž** -- 1.0
+-f-f- Syamsuar Alfedri -- 1.0
+-f-f- Tjahaja Purnama -- 1.0
+-f-f- Rais-Siswono Yudo -- 1.0
+-f-f- Rahman Taufan -- 1.0
+-f-f- Di Pilkada DKI Jakarta -- 1.0
+-f-f- Petahana Yopi -- 1.0
+-f-f- Inhil -- 1.0
+-f-f- Wan Thamrin Hasim -- 1.0
+-f-f- Amien Rais-Siswono Yudo Husodo -- 1.0
+-f-f- Noerdin-Nono Sampono -- 1.0
+-f-f- Azis Zainal Catur -- 1.0
+-f-f- DKI 2012 -- 1.0
+-f-f- Alex Noerdin-Nono Sampono -- 1.0
+-f-f- Joko Widodo-Basuki Tjahaja -- 1.0
+-f-f- Thamsir Rahman Taufan -- 1.0
+-f-f- Widodo-Basuki Tjahaja Purnama -- 1.0
+-f-f- Agus Harimurti Yudhoyono-Syliana Murni -- 1.0
+-f-f- Di Pilpres 8 Juli 2009 -- 1.0
+-f-f- Syarat 50 -- 1.0
+-f-f- Maamun Arsyadjuliansi -- 1.0
+-f-f- Harimurti Yudhoyono-Syliana Murni -- 1.0
+-f-f- Widodo-Basuki Tjahaja -- 1.0
+-f-f- Agus Harimurti Yudhoyono-Syliana -- 1.0
+-f-f- Firdaus Ayat Cahyadi -- 1.0
+-f-f- Faisal Basri-Biem Triani Benjamin -- 1.0
+-f-f- Harimurti Yudhoyono-Syliana -- 1.0
+-f-f- Dumai Agus Widayat -- 1.0
+-f-f- Wan Thamrin -- 1.0
+-f-f- Ahok Djarot -- 1.0
+-f-f- Di Pilpres 8 -- 1.0
+-f-f- Basri-Biem Triani Benjamin -- 1.0
+-f-f- Achmad Masrul -- 1.0
+-f-f- Rahman Taufan Andoso Yakin -- 1.0
+-f-f- Amril Mukminin -- 1.0
+-f-f- Pada Pilpres -- 1.0
+-f-f- Di Dumai Agus -- 1.0
+-f-f- Sejarah Pemilu -- 1.0
+-f-f- Jhon Erizal -- 1.0
+-f-f- Arsyadjuliansi Rachman -- 1.0
+-f-f- Malang Anas Maamun -- 1.0
+-f-f- Faisal Basri-Biem -- 1.0
+-f-f- Maamun Arsyadjuliansi Rachman -- 1.0
+-f-f- Azis Zainal -- 1.0
+-f-f- Catur Sugeng -- 1.0
+-f-f- Nur Wahid-Didiek J -- 1.0
+-f-f- Suparman Sukiman -- 1.0
+-f-f- Thamsir Rahman Taufan Andoso -- 1.0
+-f-f- Malang Anas -- 1.0
+-f-f- Taufan Andoso -- 1.0
+-f-f- Jika Andi Rachman -- 1.0
+-f-f- Mengulang Sejarah -- 1.0
+-f-f- Wahid-Didiek J -- 1.0
+-f-f- Azis Zainal Catur Sugeng -- 1.0
+-f-f- Triani Benjamin -- 1.0
+-f-f- Oleh: Bagus Santoso -- 1.0
+-f-f- Amril Mukminin Muhammad -- 1.0
+-f-f- Susilo Bambang Yudhoyono-Jusuf Kalla -- 1.0
+-f-f- Mukminin Muhammad -- 1.0
+-f-f- Pilkada DKI 2012 -- 1.0
+-f-f- Petahana Megawati -- 1.0
+-f-f- Eko Raharjo -- 1.0
+-f-f- Yudo Husodo -- 1.0
+-f-f- Hidayat Nur Wahid-Didiek -- 1.0
+-f-f- SBY-Boediono -- 1.0
+-f-f- Jhon Erizal Mambang Mit -- 1.0
+-f-f- Amien Rais-Siswono Yudo -- 1.0
+-f-f- Irwan Nasir -- 1.0
+-f-f- Hidayat Nur -- 1.0
+-f-f- Tersebab -- 1.0
+-f-f- Pilbup Bengkalis -- 1.0
+-f-f- Achmad Masrul Kasmy -- 1.0
+-f-f- Soekarnoputri-Prabowo Subianto -- 1.0
+-f-f- Pemilu Indonesia -- 1.0
+-f-f- Rahman Taufan Andoso -- 1.0
+-f-f- Dumai Agus -- 1.0
+-f-f- Kota Provinsi -- 1.0
+-f-f- Pemilu Presiden 2004 -- 1.0
+-f-f- Petahana Megawati Soekarnoputri -- 1.0
+-f-f- Erizal Mambang -- 1.0
+-f-f- Yudhoyono-Jusuf Kalla -- 1.0
+-f-f- Rais-Siswono Yudo Husodo -- 1.0
+-f-f- Di Dumai -- 1.0
+-f-f- Thamsir Rahman -- 1.0
+-f-f- Wiranto-Salahuddin Wahid -- 1.0
+-f-f- Di Pilpres 8 Juli -- 1.0
+-f-f- Hidayat Nur Wahid-Didiek J Rachbini -- 1.0
+-f-f- Megawati Soekarnoputri-Prabowo Subianto -- 1.0
+-f-f- Yopi Arianto -- 1.0
+-f-f- Andoso Yakin -- 1.0
+-f-f- Annas Ma -- 1.0
+-f-f- Jika Andi -- 1.0
+-f-f- Alex Noerdin-Nono -- 1.0
+-f-f- Pilkada Indonesia -- 1.0
+-f-f- Basri-Biem Triani -- 1.0
+-f-f- Zulkifli Eko Raharjo -- 1.0
+-f-f- Jika Pilkada -- 1.0
+-f-f- Hamzah Haz-Agum -- 1.0
+-f-f- Pilbub Tuba -- 1.0
+-f-f- Nur Wahid-Didiek J Rachbini -- 1.0
+-f-f- Megawati Soekarnoputri-Prabowo -- 1.0
+-f-f- Hamzah Haz-Agum Gumelar -- 1.0
+-f-f- Petahana Yopi Arianto -- 1.0
+-f-f- Lukman Edy Suryadi -- 1.0
+-f-f- Anis Sandi -- 1.0
+-f-f- Bowo-Nacrowi Ramli -- 1.0
+-f-f- Di Pilkada -- 1.0
+-f-f- Yudhoyono-Syliana Murni -- 1.0
+-f-f- Ayat Cahyadi -- 1.0
+-f-f- Haz-Agum Gumelar -- 1.0
+-f-f- Amien Rais-Siswono -- 1.0
+-f-f- Di Pilpres -- 1.0
+-f-f- Pilkada Gubernur -- 1.0
+-f-f- Oleh: Bagus -- 1.0
+-f-f- Pemilihan Kepala Daerah -- 1.0
+-f-f- Tuba Lampung -- 1.0
+-f-f- Sebanyak 43 -- 1.0
+-f-f- Anas Maamun Arsyadjuliansi Rachman -- 1.0
+-f-f- Agus Harimurti -- 1.0
+-f-f- Zulkifli Eko -- 1.0
+-f-f- Bambang Yudhoyono-Jusuf -- 1.0
+-f-f- Di Pilkada DKI -- 1.0
+-f-f- Pilgub Babel -- 1.0
+-f-f- Pilpres 8 Juli -- 1.0
+-f-f- Jusuf Kalla-Wiranto -- 1.0
+-f-f- Antara Riau -- 1.0
+-f-f- Wahid-Didiek J Rachbini -- 1.0
+-f-f- Thamrin Hasim -- 1.0
+-f-f- Fauzi Bowo-Nacrowi -- 1.0
+-f-f- Zainal Catur Sugeng -- 1.0
+-f-f- Wakil Walikota -- 1.0
+-f-f- Anggota DPRD Provinsi Riau -- 1.0
+-f-f- Anas Maamun Arsyadjuliansi -- 1.0
+-f-f- Nur Wahid-Didiek -- 1.0
+-f-f- Pemilihan Kepala -- 1.0
+-f-f- Wabup -- 1.0
+-f-f- Bambang Yudhoyono-Jusuf Kalla -- 1.0
+-f-f- Di Dumai Agus Widayat -- 1.0
+-f-f- Joko Widodo-Basuki Tjahaja Purnama -- 1.0
+-f-f- J Rachbini -- 1.0
+-f-f- Riau Satu -- 1.0
+-f-f- DPRD Provinsi Riau -- 1.0
+-f-f- kekuasaan.Terhadap -- 1.0
+-f-f- Susilo Bambang Yudhoyono-Jusuf -- 1.0
+-f-f- Hidayat Nur Wahid-Didiek J -- 1.0
+-f-f- Pilpres 8 Juli 2009 -- 1.0
+-f-f- Presiden 2004 -- 1.0
+-f-f- Pilbub Tuba Lampung -- 1.0
+-f-f- Zainal Catur -- 1.0
+-f-f- DPRD Provinsi -- 1.0
+-f-f- Anggota DPRD Provinsi -- 1.0
+-f-f- Faisal Basri-Biem Triani -- 1.0
+-f-f- Erizal Mambang Mit -- 1.0
+-f-f- Lukman Edy Suryadi Khusaini -- 1.0
+-f-f- Pilpres 2009 -- 1.0
+-f-f- Joko Widodo-Basuki -- 1.0
+-f-f- Taufan Andoso Yakin -- 1.0
+-f-f- Firdaus Ayat -- 1.0
+-f-f- Mursini Halim -- 1.0
+-f-f- Fauzi Bowo-Nacrowi Ramli -- 1.0
+-f-f- Thamsir Rahman Taufan Andoso Yakin -- 1.0
+-f-f- Di Pilkada DKI Jakarta 2012 -- 1.0
+-f-f- Pemilu Presiden -- 1.0
+-f-f- Jhon Erizal Mambang -- 1.0
+-f-f- Masrul Kasmy -- 1.0
+-f-f- Kota Provinsi Riau -- 1.0
+-f-f- Oleh : Bagus Santoso -- 0.0
+-*- -- time: 0.011
+
+--------------------
+
+
+-*-<img src="[BASEURL]/afa3c1fd347fe1e7ea287fa7be47f1b3.jpeg" data:w="728" data:h="728" />   
+<p>RIAUBOOK.COM - Dealer Mitsubishi Motors PT Suka Fajar, menargetkan seribu unit Colt Diesel untuk penjualan di Wilayah Riau.</p> 
+<p>Hal ini disampaikan oleh Direktur PT Suka Fajar, Nila Riana kepada Riaubook.com usai melaksanakan Fuso Gathering, Jumat (19/5) lalu di salah satu hotel di Pekanbaru.</p> 
+<p>"Untuk target penjualan tahun 2017, secara keseluruhan sebanyak 38 ribu unit, sementara untuk wilayah Riau khusus Cold Diesel adalah sebanyak seribu unit dan untuk jenis Fuso lebih kurang seribu unit juga," ujar Nila Riana.</p> 
+<p>Nila Riana menjelaskan, untuk penjualan di Riau sudah mencapai 70 persen. Namun demikian, PT Suka Fajar tetap terus meningkatkan kualitas produk, teknologi, after sale dan kepuasan pelanggan. Maka dari itu pada malam ini digelar Fuso Gathering.</p> 
+<p>"Fuso Gathering ini sudah sering kita laksanakan, hal ini bentuk apresiasi sekaligus mendekatkan jalinan silaturahmi kepada pelanggan," imbuhnya.</p> 
+<p>Lutfi Ahmad selaku Koordinator Wilayah Departemen Sumatera Utara menambahkan, berbicara persentase penjualan terus bersaing, namun sampai saat ini untuk di Indonesia bahkan Riau, Mitsubishi masih selalu unggul dan paling banyak digunakan.</p> 
+<p>"Belum ada sejarahnya Mitsubishi turun, saat ini Mitsubishi masih nomor satu dan selanjutnya baru merek lain," ujar Lutfi.</p> 
+<p>Menurut Lutfi, untuk kawasan Riau memiliki keunikan sendiri dalam hal penjualan. Penjualan akan meningkat jika harga CPO kelapa sawit naik. Dalam pandangannya, untuk semester kedua nanti biasanya CPO akan terus naik.</p> 
+<p>Selain CPO, PT Chevron Pacific Indonesia di Riau diperkirakan tahun 2021 sudah habis kontrak. Jadi sebelum mereka tutup harus menyelesaikan terlebih dahulu limbah minyak mereka yang ada.</p> 
+<p>"Nah untuk mengangkat limbah tersebut pasti menggunakan Cold Diesel, kebetulan yang pengambilan truk tersebut pengguna dari Mitsubishi," jelasnya.</p> 
+<p>Pantauan di lapangan, Fuso Gathering ini juga ada yang sangat menarik sekali, yakni setiap peserta yang hadir mendapat selembar kertas yang harus diisi oleh peserta mengenai mimpinya kedepan. Jadi PT Suka Fajar akan memilih salah satunya dan diberikan hadiah sebesar Rp500 juta. (RB/Fer)</p>
+
+
+-*-12313816
+-*-http://www.riaubook.com/berita/32355/wowsuka-fajar-target-penjualan-1000-unit-colt-diesel-di-riau
+
+--------------------
+
+
+-t-t- PT Suka Fajar -- 14.361787333599278
+-t-t- Fuso Gathering -- 9.30370914503763
+-t-t- Riau -- 7.805692856356699
+-t-t- Nila Riana -- 7.205051652191471
+-t-t- Cold Diesel -- 4.145240863820266
+-t-t- Mitsubishi Motors -- 3.271410175882934
+-t-t- Lutfi -- 3.0145622145174076
+-t-t- CPO -- 2.8061178364352117
+-t-t- Colt Diesel -- 2.588704750717915
+-t-t- Sumatera Utara -- 2.1015782267169896
+-t-t- Indonesia -- 1.945041697994813
+-t-t- PT Chevron -- 1.847852407364189
+-t-t- Pekanbaru -- 1.2343524950698561
+-t-t- Fer -- 0.8011175783981215
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Dealer Mitsubishi Motors PT -- 1.0
+-f-f- Riaubook -- 1.0
+-f-f- Chevron Pacific Indonesia -- 1.0
+-f-f- Direktur PT -- 1.0
+-f-f- Lutfi Ahmad -- 1.0
+-f-f- Menurut Lutfi -- 1.0
+-f-f- Direktur PT Suka Fajar -- 1.0
+-f-f- Chevron Pacific -- 1.0
+-f-f- Jadi PT Suka Fajar -- 1.0
+-f-f- Pacific Indonesia -- 1.0
+-f-f- Koordinator Wilayah Departemen Sumatera Utara -- 1.0
+-f-f- Mitsubishi Motors PT Suka -- 1.0
+-f-f- Koordinator Wilayah -- 1.0
+-f-f- Motors PT Suka Fajar -- 1.0
+-f-f- RB -- 1.0
+-f-f- Koordinator Wilayah Departemen Sumatera -- 1.0
+-f-f- Departemen Sumatera Utara -- 1.0
+-f-f- Dealer Mitsubishi Motors PT Suka -- 1.0
+-f-f- Koordinator Wilayah Departemen -- 1.0
+-f-f- Wilayah Departemen Sumatera Utara -- 1.0
+-f-f- Direktur PT Suka -- 1.0
+-f-f- Wilayah Departemen -- 1.0
+-f-f- Motors PT -- 1.0
+-f-f- PT Chevron Pacific Indonesia -- 1.0
+-f-f- PT Chevron Pacific -- 1.0
+-f-f- Dealer Mitsubishi Motors PT Suka Fajar -- 1.0
+-f-f- Jadi PT -- 1.0
+-f-f- Wilayah Riau -- 1.0
+-f-f- Dealer Mitsubishi Motors -- 1.0
+-f-f- Mitsubishi Motors PT Suka Fajar -- 1.0
+-f-f- Departemen Sumatera -- 1.0
+-f-f- Dealer Mitsubishi -- 1.0
+-f-f- Motors PT Suka -- 1.0
+-f-f- Jadi PT Suka -- 1.0
+-f-f- Mitsubishi Motors PT -- 1.0
+-f-f- Wilayah Departemen Sumatera -- 1.0
+-f-f- Selain CPO -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b349a5a43587f3abea8fa3b22008ddd3.jpeg" data:w="728" data:h="546" />   
+<p>RIAUBOOK.COM - Bupati dan Wakil Bupati Kampar terpilih Aziz Zaenal-Catur Sugeng serta Wali Kota dan Wakil Wali Kota Pekanbaru Firdaus-Ayat Cahyadi resmi dilantik menjadi Bupati dan Wakil Bupati Kampar serta Walikota-Wakil Walikota Pekanbaru periode 2017-2022.</p> 
+<p>Kedua pasangan pemenang kontestasi Pemilihan Kepala Daerah (Pilikada) serentak 2017 lalu ini dilantik diambil sumpah jabatan oleh Gubernur Riau, Arsyadjulaindi Rachman, Senin (22/5/2017) di gedung daerah Riau.</p> 
+<p>Pelantikan tampak dihadiri ribuan undangan dan pendukung kedua pasangan. Usai melantik kedua pasangan tersebut, dilanjutkan dengan penandatangan Pakta Integritas oleh kedua pimpinan daerah ini.</p> 
+<p>Dalam pembacaan Pakta Intergritas oleh Bupati Kampar, Azis Zaenal ini menegaskan untuk komitmen dalam menjalankan pemerintahan yang bersih dari praktik Korupsi Kolusi Nepotisme (KKN). Selain itu, para kepala daerah dan wakilnya yang dilantik juga menciptakan pemerintahan yang transparan, jujur dan akuntabel.</p> 
+<p>Pelantikan Firdaus-Ayat dan Aziz-Catur ini panitia menyebar undangan sebanyak 1.200 orang. Dengan rincian, 500 untuk di dalam ruangan pelantikan, sayap kiri 500 orang untuk tamu Kota Pekanbaru dan 200 orang untuk tamu â€ŽKabupaten Kampar. Tampak hadir dalam pelantikan ini sejumlah Bupati dan Walikota se Riau, pejabat Pemprov Riau, Kabupaten dan Kota serta unsur Forkompimda Riau.</p> 
+<p>Tak ayal pada prosesi ucapan selamat, tampak pemandangan mengular antrean para tamu menyalam keduanya untuk menyampaikan ucapan selamat. Ucapan selamat dimulai dari Gubri dan Wagubri, Konsul Malaysia, anggota DPD dan DPR RI asal pemilihan Riau, Forkopimda Riau, kepala daerah dan dilanjutkan dengan pejabat lainnya. (RB/MCR)</p>
+
+
+-*-12313660
+-*-http://www.riaubook.com/berita/32352/resmi-azis-catur-dan-firdaus-ayat-nakhodai-kampar-dan-pekanbaru
+
+--------------------
+
+
+-t-t- Wakil Bupati Kampar -- 8.781040457503945
+-t-t- Wakil Wali Kota -- 4.629097875937588
+-t-t- Wali Kota Pekanbaru -- 4.596870620969941
+-t-t- Walikota -- 3.380249445038129
+-t-t- Gubernur Riau -- 3.178267829906114
+-t-t- Pemprov Riau -- 2.625264694592391
+-t-t- Kepala Daerah -- 2.4078825725402813
+-t-t- Kabupaten -- 1.8180772240327472
+-t-t- DPR RI -- 1.6520008627110796
+-t-t- KKN -- 1.0260153829507856
+-t-t- DPD -- 0.8279416770702581
+-t-t- MCR -- 0.801409691265514
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Wali Kota Pekanbaru Firdaus-Ayat Cahyadi -- 1.0
+-f-f- Kota Pekanbaru Firdaus-Ayat -- 1.0
+-f-f- Wakil Wali Kota Pekanbaru Firdaus-Ayat -- 1.0
+-f-f- Wakil Wali Kota Pekanbaru Firdaus-Ayat Cahyadi -- 1.0
+-f-f- Wakil Wali Kota Pekanbaru -- 1.0
+-f-f- Zaenal-Catur Sugeng -- 1.0
+-f-f- Kolusi Nepotisme -- 1.0
+-f-f- Pemilihan Kepala -- 1.0
+-f-f- Wali Kota Pekanbaru Firdaus-Ayat -- 1.0
+-f-f- Walikota-Wakil Walikota Pekanbaru -- 1.0
+-f-f- RB -- 1.0
+-f-f- Walikota-Wakil Walikota -- 1.0
+-f-f- Konsul Malaysia -- 1.0
+-f-f- Pilikada -- 1.0
+-f-f- Aziz Zaenal-Catur -- 1.0
+-f-f- Pakta Intergritas -- 1.0
+-f-f- Aziz Zaenal-Catur Sugeng -- 1.0
+-f-f- â€ŽKabupaten Kampar -- 1.0
+-f-f- Pekanbaru Firdaus-Ayat Cahyadi -- 1.0
+-f-f- Arsyadjulaindi Rachman -- 1.0
+-f-f- Gubri -- 1.0
+-f-f- Firdaus-Ayat Cahyadi -- 1.0
+-f-f- Forkopimda Riau -- 1.0
+-f-f- Korupsi Kolusi Nepotisme -- 1.0
+-f-f- Pelantikan Firdaus-Ayat -- 1.0
+-f-f- Forkompimda Riau -- 1.0
+-f-f- Pemilihan Kepala Daerah -- 1.0
+-f-f- Wagubri -- 1.0
+-f-f- Aziz-Catur -- 1.0
+-f-f- Korupsi Kolusi -- 1.0
+-f-f- Azis Zaenal -- 1.0
+-f-f- Pakta Integritas -- 1.0
+-f-f- Kota Pekanbaru Firdaus-Ayat Cahyadi -- 1.0
+-f-f- Walikota Pekanbaru -- 1.0
+-f-f- Pekanbaru Firdaus-Ayat -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-PEKANBARU, SIAGANEWS.CO – Seorang perempuan ditemukan tidak bernyawa di halaman Gereja di Jalan Air Hitam, Kecamatan Payung Sekaki, Pekanbaru, Senin (22/5/2017).&nbsp;Korban bernama Benget Mardiana Boru Sianturi diduga sakit sebelum ditemukan dalam posisi tertelungkup pada Senin pagi.   Korban yang selama ini tinggal di Gereja tidak menujukkan gejala sakit, dan beraktifitas seperti biasa kesehariannya.&nbsp;Hanya saja, menurut penuturan saksi yang juga pengurus Gereja, korban pernah mengeluhakan sakit pada bagian dada.&nbsp;Namun tidak diketahui pasti sakit yang diderita korban.&nbsp;Polisi mendatangi lokasi setelah mendapat informasi temuan jasad korban.   Dari hasil olah tempat kejadian perkara serta pemeriksaan awal jasad korban tidak ditemukan adanya tindak kekerasan.&nbsp;Jasad korban kemudian dibawa ke Rumah Sakit Bhayangkara Polda Riau untuk dilakukan visum. (*)  
+<span>Tags:</span> 
+<span><a href="https://www.siaganews.co/tag/jasad/" rel="nofollow">jasad</a>, <a href="https://www.siaganews.co/tag/sakit/" rel="nofollow">sakit</a></span>   <img src="[BASEURL]/a92a1e6ed1226d374eac6450635d0fc1.gif" data:w="468" data:h="90" />   
+<span>Related Posts</span>
+
+
+-*-12313413
+-*-https://www.siaganews.co/diduga-sakit-seorang-perempuan-ditemukan-dalam-kondisi-tidak-bernyawa/
+
+--------------------
+
+
+-t-t- Kecamatan Payung Sekaki -- 3.9311645795420476
+-t-t- Gereja -- 3.3852025721482377
+-t-t- Rumah Sakit Bhayangkara -- 2.6712706130475454
+-t-t- Air Hitam -- 2.498689366761985
+-t-t- Polda Riau -- 1.6645447320605709
+-t-t- Pekanbaru -- 1.2241909508260276
+-t-t- Tags -- 0.8145948097916677
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Related Posts -- 1.0
+-f-f- Mardiana Boru -- 1.0
+-f-f- Benget Mardiana Boru Sianturi -- 1.0
+-f-f- Sakit Bhayangkara Polda Riau -- 1.0
+-f-f- Sakit Bhayangkara Polda -- 1.0
+-f-f- Benget Mardiana Boru -- 1.0
+-f-f- Mardiana Boru Sianturi -- 1.0
+-f-f- Bhayangkara Polda -- 1.0
+-f-f- Bhayangkara Polda Riau -- 1.0
+-f-f- Rumah Sakit Bhayangkara Polda -- 1.0
+-f-f- Jalan Air Hitam -- 1.0
+-f-f- Jalan Air -- 1.0
+-f-f- Boru Sianturi -- 1.0
+-f-f- Benget Mardiana -- 1.0
+-f-f- Rumah Sakit Bhayangkara Polda Riau -- 1.0
+-f-f- Tags  -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/e5de2730cb08d5e40a940b4670f2c792.jpeg" data:w="700" data:h="393" />   
+<p><strong><a href="http://www.tribunpekanbaru.com" rel="nofollow">TRIBUNPEKANBARU.COM</a>, PANGKALAN KERINCI -</strong> Bupati Pelalawan HM Harris menegaskan komitmen pemerintahannya untuk memberantas segala bentuk pungutan liar (Pungli).</p> 
+<p>Tim Sapu Bersih Pungutan Liar (Saber Pungli) Kabupaten Pelalawan sendiri sudah terbentuk dua bulan lalu, yang langsung diketuai oleh Harris. Tim ini juga diisi unsur dari Satuan Polisi Pamong Praja (Satpol PP), Kejaksaan Negeri (Kejari) Pelalawan dan Polres Pelalawan.</p> 
+<p>"Pokoknya semua kutipan atau pungutan yang tak sesuai aturan harus diberantas. Tim sudah mempunyai langkah-langkahnya," ujar Harris kepada pers usai pembentukan Tim Saber Pungli.</p> 
+<p>Diterangkannya, tim akan rutin melakukan pertemuan dalam merumuskan strategi pemberantasan seluruh pungutan di luar ketentuan. Beberapa instansi yang berpotensi melakukan pungli menjadi target.</p> 
+<p>Dijelaskannya, sebelum pembentukan tim sebenarnya sudah banya laporan masuk ke Pemkab, Kejari, maupun Polres. Tetapi lantaran Tim Saber Pungli tingkat kabupaten belum terbentuk, instansi vertikal akhirnya berjalan sendiri-sendiri.</p> 
+<p>"Yang sering kan (pungli) mengurus izin, surat-surat tanah dan lain-lain. Pokoknya bersifat pelayanan kepada masyarakat itu rawan," tambahnya.</p> 
+<p>Seorang oknum pejabat di Dinas Perhubungan (Dishub), berinisial HS, tertangkap tangan melakukan pungli pengurusan KIR kendaraan. Menurut Harris, persoalan hukum seperti ini sudah diantisipasi sebelumnya.</p> 
+<p>Di setiap apel dan pertemuan maupun rapat, imbauan untuk tidak melakukan pungli sering disampaikan. Hanya saja tidak semua pegawai dan pejabat yang mematuhinya. Terbukti dengan tertangkapnya HS dengan barang bukti uang Rp 3 juta rupiah.</p> 
+<p>"Ini sudah kita ingatkan berulang-ulang dulu. Tapi seperti ini terjadi. Ini masalah hukum, kita serahkan sepenuhnya ke penegak hukum," terang Harris.</p> 
+<p>Harris menyatakan, sebenarnya isu terkait adanya pungli di beberapa Organisasi Perangkat Daerah (OPD) sudah mencuat beberapa bulan lalu. Apalagi sejak pengukuhan Tim Saber Pungli tingkat kabupaten.</p> 
+<p>Hanya saja sampai penangkapan Kasi Rekayasa dan Keselamatan Lalu Lintas Dinas Perhubungan itu, belum ada pihak yang melayangkan laporan.</p> 
+<p>"Dengan kasus ini, saya imbau lagi semua OPD jangan ada yang melakukan pengutipan di luar ketentuan. Kita komitmen untuk memberantas pungli di wilayah kita," tandas Harris.</p> 
+<p>Harris menambahkan, praktik pungli sangat jelas sanksinya secara hukum. Selain menjalani hukuman pidana yang akan diputus melalui pengadilan, akan ada sanksi sesuai dengan Undang-undang Aparatur Sipil Negara (ASN). Pelaku bisa kehilangan jabatan dan bahkan statusnya sebagai ASN.</p> 
+<p>Terkait pengangkatan HS yang dipromosikan dalam jabatan itu, Harris tidak ingin berkomentar banyak. Yang pastinya penyusunan pejabat eselon IV sudah dilakukan dengan ketat dan persyaratan yang ada.</p> 
+<p>"Untuk penggantinya akan dibicarakan nanti. Sementara ditangani pejabat di Dishub dulu," kata dia. (adv)</p>
+
+
+-*-12313376
+-*-http://pekanbaru.tribunnews.com/2017/05/22/bupati-harris-tegaskan-pemkab-pelalawan-komitmen-berantas-pungli
+
+--------------------
+
+
+-t-t- Tim Saber Pungli -- 10.891373272173146
+-t-t- Harris -- 9.349074045045844
+-t-t- Dinas Perhubungan -- 3.9847531828732885
+-t-t- Polres Pelalawan -- 3.379640636321353
+-t-t- Bupati Pelalawan -- 3.247973036085286
+-t-t- HS -- 2.904453359168043
+-t-t- Aparatur Sipil Negara -- 2.715802361595106
+-t-t- PANGKALAN KERINCI -- 2.627574619155269
+-t-t- Satpol PP -- 2.4779691928792453
+-t-t- Kejaksaan Negeri -- 2.4728774771529847
+-t-t- Kejari -- 2.361693227720767
+-t-t- Dishub -- 1.869588258681021
+-t-t- OPD -- 1.8583500743614778
+-t-t- Lalu Lintas -- 1.8509541516873271
+-t-t- ASN -- 1.6989540054426007
+-t-t- Pemkab -- 1.1306127857574644
+-t-t- KIR -- 1.0526199308108766
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Undang-undang Aparatur Sipil Negara -- 1.0
+-f-f- Organisasi Perangkat -- 1.0
+-f-f- Bupati Pelalawan HM Harris -- 1.0
+-f-f- Organisasi Perangkat Daerah -- 1.0
+-f-f- Bupati Pelalawan HM -- 1.0
+-f-f- Polisi Pamong -- 1.0
+-f-f- Tim Sapu Bersih Pungutan Liar -- 1.0
+-f-f- Tim Sapu Bersih Pungutan -- 1.0
+-f-f- Kabupaten Pelalawan -- 1.0
+-f-f- Diterangkannya -- 1.0
+-f-f- Keselamatan Lalu Lintas Dinas -- 1.0
+-f-f- Tim Sapu -- 1.0
+-f-f- Kasi Rekayasa -- 1.0
+-f-f- Sapu Bersih Pungutan -- 1.0
+-f-f- Sapu Bersih -- 1.0
+-f-f- Bersih Pungutan -- 1.0
+-f-f- Satuan Polisi -- 1.0
+-f-f- Pelalawan HM -- 1.0
+-f-f- Undang-undang Aparatur Sipil -- 1.0
+-f-f- Undang-undang Aparatur -- 1.0
+-f-f- Menurut Harris -- 1.0
+-f-f- Sapu Bersih Pungutan Liar -- 1.0
+-f-f- Pelalawan HM Harris -- 1.0
+-f-f- Satuan Polisi Pamong Praja -- 1.0
+-f-f- Lalu Lintas Dinas Perhubungan -- 1.0
+-f-f- Lintas Dinas Perhubungan -- 1.0
+-f-f- HM Harris -- 1.0
+-f-f- Perangkat Daerah -- 1.0
+-f-f- Satuan Polisi Pamong -- 1.0
+-f-f- Tim Sapu Bersih -- 1.0
+-f-f- Pungutan Liar -- 1.0
+-f-f- Keselamatan Lalu -- 1.0
+-f-f- Bersih Pungutan Liar -- 1.0
+-f-f- Keselamatan Lalu Lintas -- 1.0
+-f-f- Polisi Pamong Praja -- 1.0
+-f-f- Lintas Dinas -- 1.0
+-f-f- Lalu Lintas Dinas -- 1.0
+-f-f- Pamong Praja -- 1.0
+-f-f- Keselamatan Lalu Lintas Dinas Perhubungan -- 1.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/12a7067bb0795bb1fc52d7ab393f3e78.jpeg" data:w="728" data:h="450" />   
+<p><strong><a href="http://www.riauonline.co.id" rel="nofollow">RIAU ONLINE</a>, PEKANBARU</strong>&nbsp;- Pelantikan Walikota dan Wakil Walikota Pekanbaru serta Bupati Kampar terpilih dipenuhi para tamu. Ruangan di dalam Gedung Daerah Provinsi Riau penuh sesak oleh Satuan Kerja Perangkat Daerah (SKPD) Pekanbaru maupun Kampar, bahkan hingga ke luar gedung, Senin, 22 Mei 2017.</p> 
+<p>Pantauan&nbsp;<strong>RIAUONLINE.CO.ID</strong>, seluruh kursi yang berada di luar ruangan yang telah disediakan panitia pelantikan telah terisi penuh oleh para Aparatur Sipil Negara (ASN) yang tak bisa masuk kerana penuh sesak atau pun tak mendapatkan undangan.</p> 
+<p>Mengisi posisi di bawah tenda, mereka duduk tertib mengisi kursi-kursi yang berada di sayap kanan dan kiri Gedung Daerah Provinsi Riau. Tak kurang dari 120 kursi telah disediakan panitia di atas taman gedung tersebut.</p> 
+<p><strong>Baca Juga:&nbsp;<a href="http://www.riauonline.co.id/riau/read/2017/05/22/hari-ini-gubernur-riau-lantik-wako-pekanbaru-dan-bupati-kampar" rel="nofollow">Hari Ini, Gubernur Riau Lantik Wako Pekanbaru dan Bupati Kampar</a></strong></p> 
+<p>Mereka mengenakan jas lengkap dengan dasi dan sepatu pentofel. Serta untuk wanita,memakai jas blazer yang telah dilengkapi tanda pengenal dan pin khusus milik Pegawai Negeri Sipil (PNS) yang bentuk dan ukurannya seragam di seruruh Indonesia.</p>  
+<p>Hingga pelantikan berakhir, beberapa dari mereka dengan tertib beranjak pergi dari kursi dan bergegas meninggalkan lokasi menuju ke dalam ruangan untuk menyalami Walikota dan Wakil Walikota Pekanbaru serta Bupati Kampar yang telah dilantik.</p> 
+<p>Azis Zaenal dan Catur Sugeng merupakan Bupati terpilih dari Kabupaten Kampar yang mendapatkan suara terbanyak dalam pleno dalam KPUD Kampar, Kamis, 23 Februari 2017. Sementara Firdaus dan Ayat Cahyadi merupakan Walikota Pekanbaru terpilih untuk mengisi periode 2017-2022.</p> 
+<p><strong>Sukai/Like&nbsp;<a href="https://web.facebook.com/RiauOnlin?ref=aymt_homepage_panel" rel="nofollow">Fan Page Facebook RIAUONLINE</a><a href="http://www.riauonline.co.id/cms/index.php/%20https:/www.facebook.com/RiauOnlin?fref=nf" rel="nofollow">&nbsp;</a>dan Follow&nbsp;<a href="https://twitter.com/red_riauonline" rel="nofollow">Twitter @red_riauonline</a></strong></p>
+
+
+-*-12312182
+-*-http://www.riauonline.co.id/riau/kota-pekanbaru/read/2017/05/22/lokasi-pelantikan-walikota-pekanbaru-penuh-sesak-hingga-ke-luar-ruangan
+
+--------------------
+
+
+-t-t- Gedung Daerah Provinsi Riau -- 10.140238704760385
+-t-t- Wakil Walikota Pekanbaru -- 7.932235380962487
+-t-t- Bupati Kampar -- 7.716408528912282
+-t-t- Aparatur Sipil Negara -- 3.6650845445292024
+-t-t- RIAU ONLINE -- 2.636395419261206
+-t-t- Kabupaten Kampar -- 2.5144231867279903
+-t-t- Gubernur Riau -- 2.0881042236763876
+-t-t- Fan Page -- 1.6310299184118602
+-t-t- SKPD -- 1.2366865239234586
+-t-t- ASN -- 1.149635690329042
+-t-t- PNS -- 0.9728580720539259
+-t-t- Indonesia -- 0.9585893641736188
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Catur Sugeng -- 1.0
+-f-f- Lantik Wako -- 1.0
+-f-f- Pegawai Negeri -- 1.0
+-f-f- Pelantikan Walikota -- 1.0
+-f-f- Fan Page Facebook RIAUONLINE -- 1.0
+-f-f- Pantauan -- 1.0
+-f-f- Kerja Perangkat -- 1.0
+-f-f- Gubernur Riau Lantik Wako Pekanbaru -- 1.0
+-f-f- Baca Juga -- 1.0
+-f-f- PEKANBARU -- 1.0
+-f-f- Page Facebook RIAUONLINE -- 1.0
+-f-f- KPUD Kampar -- 1.0
+-f-f- Wako Pekanbaru -- 1.0
+-f-f- Satuan Kerja Perangkat -- 1.0
+-f-f- Hari Ini -- 1.0
+-f-f- Riau Lantik -- 1.0
+-f-f- Ayat Cahyadi -- 1.0
+-f-f- Fan Page Facebook -- 1.0
+-f-f- Riau Lantik Wako -- 1.0
+-f-f- Kerja Perangkat Daerah -- 1.0
+-f-f- Negeri Sipil -- 1.0
+-f-f- Satuan Kerja -- 1.0
+-f-f- Riau Lantik Wako Pekanbaru -- 1.0
+-f-f- Perangkat Daerah -- 1.0
+-f-f- Satuan Kerja Perangkat Daerah -- 1.0
+-f-f- Pegawai Negeri Sipil -- 1.0
+-f-f- Azis Zaenal -- 1.0
+-f-f- Sementara Firdaus -- 1.0
+-f-f- Gubernur Riau Lantik Wako -- 1.0
+-f-f- Facebook RIAUONLINE -- 1.0
+-f-f- Lantik Wako Pekanbaru -- 1.0
+-f-f- Gubernur Riau Lantik -- 1.0
+-f-f- Page Facebook -- 1.0
+-f-f- Like Fan Page Facebook RIAUONLINE -- 0.0
+-f-f- Baca Juga: Hari -- 0.0
+-f-f- Like Fan Page Facebook -- 0.0
+-f-f- Like Fan Page -- 0.0
+-f-f- Follow Twitter -- 0.0
+-f-f- Juga: Hari -- 0.0
+-f-f- Juga: Hari Ini -- 0.0
+-f-f- Baca Juga : Hari Ini -- 0.0
+-f-f- Like Fan -- 0.0
+-f-f- Baca Juga: Hari Ini -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/738e0775528174fbec5524722fe27566.jpeg" data:w="700" data:h="393" />   
+<p><strong>Laporan Wartawan Tribunpekanbaru.com: Johannes Wowor Tanjung</strong></p> 
+<p><strong>TRIBUNPEKANBARU.COM, PANGKALAN KERINCI-</strong> Pembangunan perumahan oleh developer sedang gencar di Kabupaten <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a>, khususnya Kecamatan Pangkalan Kerinci dan Pangkalan Kuras. Pengembang perumahan menjamur dalam duta tahun terakhir.</p> 
+<p>Dinas Penanaman Modal dan Pelayanan Satu Pintu (DPMPTS) <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a> mengingatkan seluruh developer segera mengurus <a href="http://pekanbaru.tribunnews.com/tag/izin-mendirikan-bangunan-imb" rel="nofollow">Izin Mendirikan Bangunan (IMB)</a>.</p> 
+<p>Pengurusan IMB dilakukan sebelum pembangunan dimulai oleh pengembang di lapangan. Jika IMB sudah dikantongi, developer diperbolehkan mendirikan bangunan.</p> 
+<p>"Kita ingatkan lagi, pengembang segera urus IMB ke kita. Ajukan dulu persyaratannya, setelah lengkap baru kita keluarkan izinnya," ungkap Kepala DPMPTSP <a href="http://pekanbaru.tribunnews.com/tag/pelalawan" rel="nofollow">Pelalawan</a>, Hambali Sudjatma, Senin (21/5/2017).</p> 
+<p>Dikatakannya, pengembang tidak lagi diperkenankan membangunan rumah sebelum IMB keluar, seperti selama ini terjadi.</p> 
+<p>Selain itu IMB, kewajiban developer juga harus membangun Fasilitas Umum (Fasum) dan Fasilitas Khusus (Fasus). Karena hal itu tertuang dalam IMB sebagai bentuk tanggungjawab pengembang kepada konsumen.</p> 
+<p>"Jangan ada lagi pembangunan tanpa IMB. Ini sudah jadi konsen kita sejak dulu. Sekaligus meningkatkan Pendapatan Asli Daerah (PAD) kita," tandasnya. (*)</p> 
+<p><strong>SUBSCRIBE Youtube: Tribun Pekanbaru,</strong></p> 
+<p><strong>LIKE Halaman Facebook: Tribun Pekanbaru,</strong></p> 
+<p><strong>FOLLOW Twitter @tribunpekanbaru.</strong></p>
+
+
+-*-12312078
+-*-http://pekanbaru.tribunnews.com/2017/05/22/wajib-bangun-fasum-dinas-penanaman-modal-dan-pelayanan-satu-pintu-ingatkan-developer-urus-imb
+
+--------------------
+
+
+-t-t- IMB -- 8.069443389816426
+-t-t- Pelalawan -- 3.411861454473676
+-t-t- Tribun Pekanbaru -- 3.2900451788838256
+-t-t- Pangkalan Kerinci -- 2.4563486179473895
+-t-t- Pangkalan Kuras -- 2.4373407393385325
+-t-t- DPMPTS -- 2.17630838532628
+-t-t- PAD -- 0.8438130258556845
+-t-t- Youtube -- 0.8316848105544987
+-t-t- Facebook -- 0.8188630161482108
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Asli Daerah -- 1.0
+-f-f- FOLLOW Twitter -- 1.0
+-f-f- Kepala DPMPTSP Pelalawan -- 1.0
+-f-f- SUBSCRIBE Youtube -- 1.0
+-f-f- Kepala DPMPTSP -- 1.0
+-f-f- Fasilitas Khusus -- 1.0
+-f-f- Dinas Penanaman -- 1.0
+-f-f- Dinas Penanaman Modal -- 1.0
+-f-f- Fasum -- 1.0
+-f-f- Kabupaten Pelalawan -- 1.0
+-f-f- Youtube: Tribun Pekanbaru -- 1.0
+-f-f- PANGKALAN KERINCI- Pembangunan -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Fasus -- 1.0
+-f-f- Johannes Wowor -- 1.0
+-f-f- Hambali Sudjatma -- 1.0
+-f-f- Facebook: Tribun -- 1.0
+-f-f- Youtube: Tribun -- 1.0
+-f-f- Pengurusan IMB -- 1.0
+-f-f- Pendapatan Asli Daerah -- 1.0
+-f-f- Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- LIKE Halaman -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun -- 1.0
+-f-f- SUBSCRIBE Youtube: Tribun -- 1.0
+-f-f- Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Halaman Facebook: Tribun -- 1.0
+-f-f- Johannes Wowor Tanjung -- 1.0
+-f-f- Kecamatan Pangkalan Kerinci -- 1.0
+-f-f- Pendapatan Asli -- 1.0
+-f-f- PANGKALAN KERINCI -- 1.0
+-f-f- Izin Mendirikan -- 1.0
+-f-f- KERINCI- Pembangunan -- 1.0
+-f-f- Penanaman Modal -- 1.0
+-f-f- Izin Mendirikan Bangunan -- 1.0
+-f-f- Wowor Tanjung -- 1.0
+-f-f- Pelayanan Satu Pintu -- 1.0
+-f-f- Fasilitas Umum -- 1.0
+-f-f- LIKE Halaman Facebook -- 1.0
+-f-f- SUBSCRIBE Youtube: Tribun Pekanbaru -- 1.0
+-f-f- Jika IMB -- 1.0
+-f-f- Kecamatan Pangkalan -- 1.0
+-f-f- Mendirikan Bangunan -- 1.0
+-f-f- Satu Pintu -- 1.0
+-f-f- DPMPTSP Pelalawan -- 1.0
+-f-f- Halaman Facebook -- 1.0
+-f-f- Pelayanan Satu -- 1.0
+-f-f- SUBSCRIBE Youtube : Tribun Pekanbaru -- 0.0
+-f-f- LIKE Halaman Facebook : Tribun Pekanbaru -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/b089926420226abc4a5359b77c300076.jpeg" data:w="728" data:h="450" />   
+<p><strong><a href="http://www.riauonline.co.id" rel="nofollow">RIAU ONLINE</a>, PEKANBARU</strong>&nbsp;- Pemerintah Provinsi Riau terus melakukan evaluasi terhadap koperasi di Provinsi Riau. Sebanyak 1.239 dari 5.342 koperasi di Provinsi Riau tercatat dibekukan.</p> 
+<p>Ribuan koperasi tersebut dibekukan karena sudah tidak aktif dalam kegiatan pokok perkoperasian. Dengan dilakukannya evaluasi, Pemprov Riau berharap, koperasi yang belum maksimal melaksanakan tugasnya dapat berbenah.</p> 
+<p>Kepala Dinas Perdagangan, Koperasi dan UKM Provinsi Riau, Dahrius Husein menuturkan masalah koperasi tersebut perlu mendapat perhatian ekstra.</p> 
+<p><strong>Baca Juga:&nbsp;<a href="http://www.riauonline.co.id/bisnis/read/2016/07/27/layanan-simpan-pinjam-diminta-bentuk-koperasi" rel="nofollow">Layanan Simpan Pinjam Diminta Bentuk Koperasi</a></strong></p> 
+<p>Evaluasi dilakukan karena koperasi tersebut terindikasi tidak memiliki aktiifitas. "Mulai dari tidak melakukan Rapat Anggota Tahunan (RAT) serta tidak adanya kepengurusan jelas dan tidak ada bidang usaha jelas," katanya.</p>  
+<p>Dahrius menegaskan, koperasi yang tidak melaksanakan ketentuan sudah ditetapkan, maka masuk dalam catatan pembekuan koperasi. Untuk itu, Kementerian Koperasi dan UMKM memberi waktu penangguhan selama 6 bulan kepada koperasi.</p> 
+<p>"Momen tersebut hendaknya jadi bahan untuk berbenah diri," katanya, dilansir dari&nbsp;<em><strong>Riau.go.id</strong></em></p> 
+<p><strong><strong>Sukai/Like&nbsp;<a href="https://web.facebook.com/RiauOnlin?ref=aymt_homepage_panel" rel="nofollow">Fan Page Facebook RIAUONLINE</a><a href="http://www.riauonline.co.id/cms/index.php/%20https:/www.facebook.com/RiauOnlin?fref=nf" rel="nofollow">&nbsp;</a>dan Follow&nbsp;<a href="https://twitter.com/red_riauonline" rel="nofollow">Twitter @red_riauonline</a></strong></strong></p> 
+<p><strong>&nbsp;</strong></p>
+
+
+-*-12311648
+-*-http://www.riauonline.co.id/riau/kota-pekanbaru/read/2017/05/22/astaga-1.239-koperasi-di-riau-tercatat-dibekukan.-ada-apa
+
+--------------------
+
+
+-t-t- Provinsi Riau -- 9.819687552091168
+-t-t- Koperasi -- 3.0315429840601626
+-t-t- RIAU ONLINE -- 2.6358445138139395
+-t-t- Pemprov Riau -- 2.325659440730964
+-t-t- Dahrius -- 2.036053746603818
+-t-t- Fan Page -- 1.6460913999645106
+-t-t- PEKANBARU -- 1.311086848635007
+-t-t- RAT -- 0.9767314358048795
+-t-t- UMKM -- 0.882723246777072
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Pinjam Diminta Bentuk Koperasi -- 1.0
+-f-f- Layanan Simpan Pinjam Diminta -- 1.0
+-f-f- Simpan Pinjam -- 1.0
+-f-f- Fan Page Facebook RIAUONLINE -- 1.0
+-f-f- Pemerintah Provinsi -- 1.0
+-f-f- Baca Juga -- 1.0
+-f-f- Pinjam Diminta -- 1.0
+-f-f- Bentuk Koperasi -- 1.0
+-f-f- Dahrius Husein -- 1.0
+-f-f- Pinjam Diminta Bentuk -- 1.0
+-f-f- Rapat Anggota -- 1.0
+-f-f- Kepala Dinas Perdagangan -- 1.0
+-f-f- Sebanyak 1.239 -- 1.0
+-f-f- Page Facebook RIAUONLINE -- 1.0
+-f-f- Diminta Bentuk -- 1.0
+-f-f- Kepala Dinas -- 1.0
+-f-f- Simpan Pinjam Diminta Bentuk Koperasi -- 1.0
+-f-f- Layanan Simpan Pinjam Diminta Bentuk Koperasi -- 1.0
+-f-f- Layanan Simpan Pinjam -- 1.0
+-f-f- Kementerian Koperasi -- 1.0
+-f-f- Anggota Tahunan -- 1.0
+-f-f- Dinas Perdagangan -- 1.0
+-f-f- Fan Page Facebook -- 1.0
+-f-f- UKM Provinsi -- 1.0
+-f-f- Rapat Anggota Tahunan -- 1.0
+-f-f- Diminta Bentuk Koperasi -- 1.0
+-f-f- Pemerintah Provinsi Riau -- 1.0
+-f-f- Layanan Simpan Pinjam Diminta Bentuk -- 1.0
+-f-f- Simpan Pinjam Diminta Bentuk -- 1.0
+-f-f- Simpan Pinjam Diminta -- 1.0
+-f-f- Layanan Simpan -- 1.0
+-f-f- Facebook RIAUONLINE -- 1.0
+-f-f- UKM Provinsi Riau -- 1.0
+-f-f- Page Facebook -- 1.0
+-f-f- Baca Juga: Layanan Simpan Pinjam -- 0.0
+-f-f- Juga: Layanan Simpan Pinjam Diminta Bentuk -- 0.0
+-f-f- Juga: Layanan -- 0.0
+-f-f- Juga: Layanan Simpan Pinjam -- 0.0
+-f-f- Like Fan Page Facebook RIAUONLINE -- 0.0
+-f-f- Juga: Layanan Simpan -- 0.0
+-f-f- Like Fan Page Facebook -- 0.0
+-f-f- Baca Juga : Layanan Simpan Pinjam Diminta Bentuk Koperasi -- 0.0
+-f-f- Baca Juga: Layanan Simpan -- 0.0
+-f-f- Like Fan Page -- 0.0
+-f-f- Baca Juga: Layanan Simpan Pinjam Diminta Bentuk -- 0.0
+-f-f- Follow Twitter -- 0.0
+-f-f- Juga: Layanan Simpan Pinjam Diminta Bentuk Koperasi -- 0.0
+-f-f- Baca Juga: Layanan Simpan Pinjam Diminta -- 0.0
+-f-f- Baca Juga: Layanan Simpan Pinjam Diminta Bentuk Koperasi -- 0.0
+-f-f- Juga: Layanan Simpan Pinjam Diminta -- 0.0
+-f-f- Baca Juga: Layanan -- 0.0
+-f-f- Like Fan -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
+-*-<img src="[BASEURL]/44515a4d5f38ce76580d3d262b8f8c29.jpeg" data:w="700" data:h="393" />   
+<p><strong>Laporan Wartawan Tribun Pekanbaru, Nasuha Nasution</strong></p> 
+<p><strong>TRIBUNPEKANBARU.COM, PEKANBARU</strong> - <a href="http://pekanbaru.tribunnews.com/tag/gubernur-riau" rel="nofollow">Gubernur Riau</a> Arsyadjuliandi Rachman resmi melantik dua <a href="http://pekanbaru.tribunnews.com/tag/kepala-daerah" rel="nofollow">Kepala Daerah</a> Kampar dan Pekanbaru di Gedung Daerah Senin ( 22/5/2017).</p> 
+<p>Prosesi pengucapan sumpah kedua pasangan <a href="http://pekanbaru.tribunnews.com/tag/kepala-daerah" rel="nofollow">Kepala Daerah</a> ini sendiri berlangsung lancar tanpa ada kesalahan apapun.</p> 
+<p>Begitu juga saat prosesi penandatanganan fakta integritas dan pembacaan yang langsung dibacakan perwakilan Bupati kampar Azis Zainal.</p> 
+<p>Menurut agendanya, usai dilantik kedua pasangan kepala daerah ini akan langsung gelar sumpah jabatan dan pidato kebangsaan di daerah masing-masing. (*)</p> 
+<p><strong>SUBSCRIBE Youtube: Tribun Pekanbaru,</strong></p> 
+<p><strong>LIKE Halaman Facebook: Tribun Pekanbaru,</strong></p> 
+<p><strong>FOLLOW Twitter @tribunpekanbaru.</strong></p>
+
+
+-*-12311563
+-*-http://pekanbaru.tribunnews.com/2017/05/22/gubernur-riau-resmi-lantik-dua-kepala-daerah
+
+--------------------
+
+
+-t-t- Tribun Pekanbaru -- 6.495276928348178
+-t-t- Kepala Daerah -- 4.610300291380274
+-t-t- Gubernur Riau -- 2.4851224441462767
+-t-t- Arsyadjuliandi Rachman -- 2.4621577804596035
+-t-t- Bupati -- 0.980627457485999
+-t-t- Youtube -- 0.8605364938031412
+-t-t- Facebook -- 0.8357907693950747
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- PEKANBARU -- 2.0
+-f-f- Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Halaman Facebook: Tribun -- 1.0
+-f-f- FOLLOW Twitter -- 1.0
+-f-f- SUBSCRIBE Youtube -- 1.0
+-f-f- Nasuha Nasution -- 1.0
+-f-f- Daerah Kampar -- 1.0
+-f-f- Youtube: Tribun Pekanbaru -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Gedung Daerah -- 1.0
+-f-f- Kepala Daerah Kampar -- 1.0
+-f-f- Gubernur Riau Arsyadjuliandi -- 1.0
+-f-f- LIKE Halaman Facebook -- 1.0
+-f-f- Facebook: Tribun -- 1.0
+-f-f- Youtube: Tribun -- 1.0
+-f-f- SUBSCRIBE Youtube: Tribun Pekanbaru -- 1.0
+-f-f- Halaman Facebook: Tribun Pekanbaru -- 1.0
+-f-f- Riau Arsyadjuliandi Rachman -- 1.0
+-f-f- Gedung Daerah Senin -- 1.0
+-f-f- Daerah Senin -- 1.0
+-f-f- LIKE Halaman -- 1.0
+-f-f- LIKE Halaman Facebook: Tribun -- 1.0
+-f-f- Halaman Facebook -- 1.0
+-f-f- Gubernur Riau Arsyadjuliandi Rachman -- 1.0
+-f-f- Azis Zainal -- 1.0
+-f-f- SUBSCRIBE Youtube: Tribun -- 1.0
+-f-f- Riau Arsyadjuliandi -- 1.0
+-f-f- SUBSCRIBE Youtube : Tribun Pekanbaru -- 0.0
+-f-f- LIKE Halaman Facebook : Tribun Pekanbaru -- 0.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-<img src="[BASEURL]/2821e287a24b9b27c953fa881cfc8c10.jpeg" data:w="2560" data:h="1440" />   
+<p>RIAUBOOK.COM - Pemerintah Provinsi (Pemprov) Riau menyiapkan dua tenda besar untuk para tamu undangan pelantikan Wali Kota Pekanbaru dan Bupati Kampar di Gedung Daerah Jalan Diponegoro.</p> 
+<p>Dua tenda itu terletak di sisi kanan dan kiri dari Balai Serindit Gedung Daerah Provinsi Riau. Dua tenda tersebut dilengkapi dengan masing-masing 4 layar TV yang menayangkan siaran langsung kegiatan pelantikan.</p> 
+<p>Dua tenda ini disediakan untuk mengakomodir tamu undangan yang jumlahnya mencapai ribuan orang.</p> 
+<p>Ini karena kapasitas ruangan untuk pelantikan tidak cukup untuk mengakomodir seluruh tamu undangan yang hadir.</p> 
+<p>Ribuan tamu yang hadiri terdiri dari keluarga kedua Kepala Daerah yang dilantik, undangan Forkopimda Provinsi Riau, Forkopimda Kota Pekanbaru dan Kabupaten Kampar, pejabat di lingkungan Pemko Pekanbaru dan Pemkab Kampar serta masyarakat kedua daerah tersebut. (RB/habir)</p>
+
+
+-*-12311349
+-*-http://www.riaubook.com/berita/32346/dua-tenda-disiapkan-untuk-tamu-undangan-pelantikan-wali-kota-pekanbaru-dan-bupati-kampar
+
+--------------------
+
+
+-t-t- Gedung Daerah -- 4.701049291528847
+-t-t- Provinsi Riau -- 4.4372368026568
+-t-t- Wali Kota Pekanbaru -- 3.9885884190945426
+-t-t- Kepala Daerah -- 1.80949198541096
+-t-t- Kabupaten Kampar -- 1.71681946005401
+-t-t- Pemko Pekanbaru -- 1.6788382951623326
+-*- -- time: 0.001
+
+--------------------
+
+
+-f-f- Balai Serindit -- 1.0
+-f-f- TV -- 1.0
+-f-f- Gedung Daerah Provinsi Riau -- 1.0
+-f-f- Balai Serindit Gedung Daerah Provinsi -- 1.0
+-f-f- Serindit Gedung -- 1.0
+-f-f- Gedung Daerah Provinsi -- 1.0
+-f-f- Gedung Daerah Jalan Diponegoro -- 1.0
+-f-f- Balai Serindit Gedung Daerah Provinsi Riau -- 1.0
+-f-f- Serindit Gedung Daerah Provinsi -- 1.0
+-f-f- Balai Serindit Gedung Daerah -- 1.0
+-f-f- Pemerintah Provinsi -- 1.0
+-f-f- Pemkab Kampar -- 1.0
+-f-f- Pemprov -- 1.0
+-f-f- Forkopimda Provinsi Riau -- 1.0
+-f-f- Serindit Gedung Daerah -- 1.0
+-f-f- Forkopimda Kota Pekanbaru -- 1.0
+-f-f- Daerah Jalan Diponegoro -- 1.0
+-f-f- RB -- 1.0
+-f-f- Jalan Diponegoro -- 1.0
+-f-f- Gedung Daerah Jalan -- 1.0
+-f-f- Daerah Jalan -- 1.0
+-f-f- Balai Serindit Gedung -- 1.0
+-f-f- Bupati Kampar -- 1.0
+-f-f- Forkopimda Provinsi -- 1.0
+-f-f- Forkopimda Kota -- 1.0
+-f-f- Daerah Provinsi -- 1.0
+-f-f- Serindit Gedung Daerah Provinsi Riau -- 1.0
+-f-f- Daerah Provinsi Riau -- 1.0
+-*- -- time: 0.001
+
+--------------------
+
+
+-*-PEKANBARU, SIAGANEWS.CO – Mengoptimalkan pengamanan pelantikan dan pengambilan sumpah janji kepala dan wakil kepala daerah Kota Pekanbaru dan Kabupaten Kampar, Polresta Pekanbaru menerjunkan personel tangguh.&nbsp;Kendaraan taktis serta pemasangan metal detector menjadi jaminan keamanan bagi tetamu yang menghadiri acara pelantikan di ruang Serindit Gedung Daerah di Jalan Diponegoro, Pekanbaru, Senin (22/5/2017).   Sebanyak 624 personel juga disiagakan dalam upaya pengamanan pelantikan.   “Harapan kami (polri) tentu acara dapat berjalan dengan baik,” terang Wakapolresta Pekanbaru, AKBP Edy Sumardi Priadinata usai memimpin pelaksanaan apel pagi.&nbsp;Kepada personel yang diberikan tugas pengamanan, Edy berpesan agar senantiasa bersyukur dan berbagi atas amanah yang diberikan.   “Suatu kebanggaan diberikan amanah untuk menjalankan aktifitas pengamanan dalam rangkaian kegiatan pelantikan. Jalankan secara profesionalitas dan sebaik-baiknya,” pungkas Edy.   Pelaksaan pengambilan sumpah yang dipimpin langsung Gubenur Riau, Arsyadjuliandi Rachman akan dilaksanakan di ruang Serindit Gedung Daerah, Jalan Dipongeoro, Pekanbaru.   Kepala daerah dan wakil kepala daerah yang dilantik adalah, Walikota dan Wakil Walikota Kotamadya Pekanbaru Firdaus MT, dan Ayat Cahyadi.&nbsp;Kemudian Bupati dan Wakil Bupati Kampar, Aziz Zaenal, dan Catur Sugeng. (*)  
+<span>Tags:</span> 
+<span><a href="https://www.siaganews.co/tag/pelantikan-kepala-daerah/" rel="nofollow">pelantikan kepala daerah</a>, <a href="https://www.siaganews.co/tag/pilkada/" rel="nofollow">pilkada</a></span>   <img src="https://www.siaganews.co/wp-content/uploads/2016/11/output_bSnVsR.gif" data:w="" data:h="" />   
+<span>Related Posts</span>
+
+
+-*-12311074
+-*-https://www.siaganews.co/optimalkan-pengamanan-pelantikan-kepala-daerah-polresta-pekanbaru-kerahkan-624-personil/
+
+--------------------
+
+
+-t-t- Serindit Gedung Daerah -- 6.541228536744498
+-t-t- AKBP Edy Sumardi -- 3.6422920103610323
+-t-t- Kota Pekanbaru -- 3.3306933802265566
+-t-t- Polresta Pekanbaru -- 3.297188737876391
+-t-t- Kabupaten Kampar -- 2.50603807830066
+-t-t- Arsyadjuliandi Rachman -- 1.8288258510361335
+-t-t- Walikota -- 1.7183433788982427
+-t-t- Firdaus MT -- 1.6945984765473217
+-t-t- Wakil Bupati -- 1.664262765618376
+-t-t- Harapan -- 1.1069845374805265
+-t-t- Tags -- 0.815465508709038
+-*- -- time: 0.002
+
+--------------------
+
+
+-f-f- Catur Sugeng -- 1.0
+-f-f- Related Posts -- 1.0
+-f-f- Pekanbaru Firdaus -- 1.0
+-f-f- Kotamadya Pekanbaru Firdaus MT -- 1.0
+-f-f- Edy Sumardi Priadinata -- 1.0
+-f-f- Walikota Kotamadya Pekanbaru Firdaus MT -- 1.0
+-f-f- Wakil Walikota -- 1.0
+-f-f- Wakil Walikota Kotamadya -- 1.0
+-f-f- Walikota Kotamadya -- 1.0
+-f-f- Kotamadya Pekanbaru -- 1.0
+-f-f- Wakil Bupati Kampar -- 1.0
+-f-f- Aziz Zaenal -- 1.0
+-f-f- Pelaksaan -- 1.0
+-f-f- Pekanbaru Firdaus MT -- 1.0
+-f-f- Wakil Walikota Kotamadya Pekanbaru Firdaus MT -- 1.0
+-f-f- Wakil Walikota Kotamadya Pekanbaru Firdaus -- 1.0
+-f-f- Gubenur Riau -- 1.0
+-f-f- Sumardi Priadinata -- 1.0
+-f-f- Ayat Cahyadi -- 1.0
+-f-f- Mengoptimalkan -- 1.0
+-f-f- Sebanyak 624 -- 1.0
+-f-f- Kemudian Bupati -- 1.0
+-f-f- AKBP Edy Sumardi Priadinata -- 1.0
+-f-f- Walikota Kotamadya Pekanbaru Firdaus -- 1.0
+-f-f- Wakapolresta Pekanbaru -- 1.0
+-f-f- Kotamadya Pekanbaru Firdaus -- 1.0
+-f-f- Walikota Kotamadya Pekanbaru -- 1.0
+-f-f- Wakil Walikota Kotamadya Pekanbaru -- 1.0
+-f-f- Jalan Dipongeoro -- 1.0
+-f-f- Jalan Diponegoro -- 1.0
+-f-f- Bupati Kampar -- 1.0
+-f-f- Tags  -- 0.0
+-*- -- time: 0.002
+
+--------------------
+
+
